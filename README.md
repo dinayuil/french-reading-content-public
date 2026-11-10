@@ -24,6 +24,6 @@ App 先拉 `manifest.json`，再按月拉索引，点开文章才拉全文。
 
 推送 `main` 时 GitHub Actions 运行 `node scripts/check.mjs`，通过后把仓库根目录的文件发布到 GitHub Pages：
 
-<https://dinayuil.github.io/french-reading-content-public/>
+<https://blog.yosorano.cc/french-reading-content-public/>
 
 任何缺字段、许可不在白名单、题目证据不是原文句子、中文翻译与正文不对齐的文章都会让校验失败，不会发布。
