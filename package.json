@@ -1,0 +1,9 @@
+{
+  "name": "french-reading-content-public",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "test": "node --test scripts/lib/validate.test.mjs"
+  }
+}

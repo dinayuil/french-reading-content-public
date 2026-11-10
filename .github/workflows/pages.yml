@@ -27,6 +27,9 @@ jobs:
         with:
           node-version: 22.x
 
+      - name: Run validator tests
+        run: node --test scripts/lib/validate.test.mjs
+
       - name: Check content contract
         run: node scripts/check.mjs
 
