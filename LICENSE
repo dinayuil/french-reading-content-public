@@ -1,0 +1,12 @@
+The adapted article texts in this repository are licensed under the
+Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+
+Full license text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by-sa/4.0/
+
+Each article JSON file carries its own source and adaptation metadata. The
+original source works remain subject to their own licenses, as recorded in
+each article's `source` field. No endorsement by the original authors or
+publishers is implied.
+
+The repository tooling under `scripts/` is not part of the licensed content.

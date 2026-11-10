@@ -1,0 +1,242 @@
+{
+  "id": "2026-11-09-tour-eiffel",
+  "title": "La tour Eiffel",
+  "level": "B1",
+  "theme": "culture",
+  "date": "2026-11-09",
+  "summary": "L'histoire de la tour Eiffel, de sa construction à son rôle de symbole de Paris.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "La tour Eiffel est un grand monument de fer situé à Paris, au bord de la Seine.",
+        "Elle se trouve dans le 7e arrondissement, à l'extrémité nord-ouest du parc du Champ-de-Mars.",
+        "Son adresse officielle est le 5, avenue Anatole-France."
+      ]
+    },
+    {
+      "sentences": [
+        "La tour a été construite en deux ans par Gustave Eiffel et ses collaborateurs.",
+        "Elle a été réalisée pour l'Exposition universelle de Paris de 1889.",
+        "À l'origine, on l'appelait « tour de 300 mètres »."
+      ]
+    },
+    {
+      "sentences": [
+        "La tour mesure aujourd'hui 330 mètres de hauteur, avec ses antennes.",
+        "À sa construction, elle mesurait 312 mètres.",
+        "Pendant quarante ans, elle est restée le monument le plus haut du monde."
+      ]
+    },
+    {
+      "sentences": [
+        "Chaque année, des millions de touristes viennent la visiter.",
+        "Depuis son ouverture au public, elle a accueilli plus de 300 millions de visiteurs.",
+        "Elle est devenue le symbole de la capitale française."
+      ]
+    },
+    {
+      "sentences": [
+        "Aujourd'hui, la tour sert aussi d'émetteur pour la radio et la télévision.",
+        "Les rives de la Seine, où se trouve la tour, sont inscrites au patrimoine mondial de l'UNESCO depuis 1991.",
+        "La nuit, ses lumières attirent de nombreux promeneurs au bord de la Seine."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "situé"
+    },
+    {
+      "term": "au bord de"
+    },
+    {
+      "term": "l'Exposition universelle"
+    },
+    {
+      "term": "À l'origine"
+    },
+    {
+      "term": "mesure"
+    },
+    {
+      "term": "hauteur"
+    },
+    {
+      "term": "Pendant"
+    },
+    {
+      "term": "accueilli"
+    },
+    {
+      "term": "symbole"
+    },
+    {
+      "term": "télévision"
+    },
+    {
+      "term": "patrimoine mondial"
+    },
+    {
+      "term": "promeneurs"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Où se trouve la tour Eiffel ?",
+      "options": [
+        "À Lyon, près du Rhône",
+        "Au bord de la Seine, à Paris",
+        "Sur la côte atlantique",
+        "Dans le sud de la France"
+      ],
+      "answerIndex": 1,
+      "evidence": "La tour Eiffel est un grand monument de fer situé à Paris, au bord de la Seine."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi la tour a-t-elle été construite ?",
+      "options": [
+        "Pour un festival de musique",
+        "Pour protéger la ville",
+        "Pour l'Exposition universelle de 1889",
+        "Pour un concours de sport"
+      ],
+      "answerIndex": 2,
+      "evidence": "Elle a été réalisée pour l'Exposition universelle de Paris de 1889."
+    },
+    {
+      "id": "q3",
+      "prompt": "Combien de temps a duré la construction de la tour ?",
+      "options": [
+        "Deux ans",
+        "Quatre ans",
+        "Six mois",
+        "Dix ans"
+      ],
+      "answerIndex": 0,
+      "evidence": "La tour a été construite en deux ans par Gustave Eiffel et ses collaborateurs."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quelle est la hauteur actuelle de la tour avec ses antennes ?",
+      "options": [
+        "312 mètres",
+        "300 mètres",
+        "279 mètres",
+        "330 mètres"
+      ],
+      "answerIndex": 3,
+      "evidence": "La tour mesure aujourd'hui 330 mètres de hauteur, avec ses antennes."
+    },
+    {
+      "id": "q5",
+      "prompt": "Combien de visiteurs la tour a-t-elle accueillis depuis son ouverture ?",
+      "options": [
+        "Plus de 30 millions",
+        "Plus de 300 millions",
+        "Environ 5 millions",
+        "Environ 300 000"
+      ],
+      "answerIndex": 1,
+      "evidence": "Depuis son ouverture au public, elle a accueilli plus de 300 millions de visiteurs."
+    },
+    {
+      "id": "q6",
+      "prompt": "À quoi sert la tour aujourd'hui, en plus d'être un site touristique ?",
+      "options": [
+        "Elle sert d'hôpital",
+        "Elle sert d'école",
+        "Elle sert d'émetteur pour la radio et la télévision",
+        "Elle sert de musée de la mode"
+      ],
+      "answerIndex": 2,
+      "evidence": "Aujourd'hui, la tour sert aussi d'émetteur pour la radio et la télévision."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "埃菲尔铁塔",
+      "summary": "了解埃菲尔铁塔的建造故事、它的高度变化，以及它如何成为巴黎的象征。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "埃菲尔铁塔是一座位于巴黎、塞纳河畔的大型铁制纪念碑。",
+            "它坐落在第七区，战神广场公园的西北端。",
+            "它的官方地址是阿纳托尔·法朗士大道5号。"
+          ]
+        },
+        {
+          "sentences": [
+            "这座塔由古斯塔夫·埃菲尔及其合作者用了两年时间建成。",
+            "它是为1889年巴黎世界博览会而建造的。",
+            "最初，人们称它为“300米塔”。"
+          ]
+        },
+        {
+          "sentences": [
+            "如今，加上天线，这座塔高330米。",
+            "建成时，它高312米。",
+            "在四十年间，它一直是世界上最高的建筑物。"
+          ]
+        },
+        {
+          "sentences": [
+            "每年，数百万游客前来参观。",
+            "自向公众开放以来，它已接待了超过3亿名游客。",
+            "它已成为法国首都的象征。"
+          ]
+        },
+        {
+          "sentences": [
+            "如今，这座塔还用作广播和电视的发射塔。",
+            "埃菲尔铁塔所在的塞纳河畔自1991年起被列入联合国教科文组织世界遗产。",
+            "夜晚，它的灯光吸引许多行人在塞纳河畔散步。"
+          ]
+        }
+      ],
+      "glossary": {
+        "situé": "位于，坐落在",
+        "au bord de": "在……岸边",
+        "l'Exposition universelle": "世界博览会",
+        "À l'origine": "起初，最初",
+        "mesure": "测量；（此处指）高度为",
+        "hauteur": "高度",
+        "Pendant": "在……期间",
+        "accueilli": "接待，迎接",
+        "symbole": "象征",
+        "télévision": "电视",
+        "patrimoine mondial": "世界遗产",
+        "promeneurs": "散步者，行人"
+      },
+      "questions": {
+        "q1": "文章开头说明铁塔位于巴黎、塞纳河畔。",
+        "q2": "第二段指出铁塔是为1889年巴黎世界博览会而建。",
+        "q3": "第二段说古斯塔夫·埃菲尔及其合作者用两年时间建成了铁塔。",
+        "q4": "第三段说明如今加上天线，铁塔高330米。",
+        "q5": "第四段提到，自向公众开放以来，铁塔已接待超过3亿名游客。",
+        "q6": "最后一段指出，铁塔还用作广播和电视的发射塔。"
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Tour Eiffel",
+    "authors": ["Contributeurs de Wikipédia"],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=241075004",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-09",
+    "revisionId": "241075004"
+  },
+  "adaptation": {
+    "model": "rédaction interne (échantillon)",
+    "date": "2026-11-09",
+    "changes": "Version simplifiée au niveau B1 : phrases raccourcies, vocabulaire courant, suppression des références et des détails techniques.",
+    "reviewer": "révision éditoriale"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

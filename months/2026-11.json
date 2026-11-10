@@ -1,0 +1,14 @@
+{
+  "month": "2026-11",
+  "articles": [
+    {
+      "id": "2026-11-09-tour-eiffel",
+      "title": "La tour Eiffel",
+      "level": "B1",
+      "theme": "culture",
+      "date": "2026-11-09",
+      "summary": "L'histoire de la tour Eiffel, de sa construction à son rôle de symbole de Paris.",
+      "path": "articles/2026-11-09-tour-eiffel.json"
+    }
+  ]
+}
