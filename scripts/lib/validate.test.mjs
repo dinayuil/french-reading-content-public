@@ -77,6 +77,6 @@ test('repository passes', async () => {
   const { errors, articleCount, monthCount } =
     await validateRepository(repoRoot);
   assert.deepEqual(errors, []);
-  assert.equal(articleCount, 1);
-  assert.equal(monthCount, 1);
+  assert.ok(articleCount >= 1);
+  assert.ok(monthCount >= 1);
 });

@@ -2,6 +2,33 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "2026-11-11-madagascar-s-engage-pour-la-biodiversite-a-travers-la-protec",
+      "title": "À la COP17, Madagascar met en avant sa biodiversité et ses communautés",
+      "level": "B2",
+      "theme": "environnement",
+      "date": "2026-11-11",
+      "summary": "Lors de la COP17 sur la diversité biologique, Madagascar a présenté son réseau de 155 aires protégées, son plan national et ses priorités de financement, tout en insistant sur l’association des communautés locales, des femmes et des jeunes à la conservation.",
+      "path": "articles/2026-11-11-madagascar-s-engage-pour-la-biodiversite-a-travers-la-protec.json"
+    },
+    {
+      "id": "2026-11-11-calypso-navire",
+      "title": "La Calypso, un navire célèbre",
+      "level": "B1",
+      "theme": "histoire",
+      "date": "2026-11-11",
+      "summary": "La Calypso, ancien navire de guerre devenu bateau d’exploration de Cousteau, a connu une histoire mouvementée.",
+      "path": "articles/2026-11-11-calypso-navire.json"
+    },
+    {
+      "id": "2026-11-11-balto-film",
+      "title": "Balto : de la légende à l’écran",
+      "level": "B2",
+      "theme": "culture",
+      "date": "2026-11-11",
+      "summary": "Balto, dessin animé de Simon Wells sorti en 1995, adapte librement la course au sérum de Nome et constitue le dernier film d’Amblimation.",
+      "path": "articles/2026-11-11-balto-film.json"
+    },
+    {
       "id": "2026-11-09-tour-eiffel",
       "title": "La tour Eiffel",
       "level": "B1",

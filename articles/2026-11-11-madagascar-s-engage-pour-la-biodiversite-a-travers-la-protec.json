@@ -1,0 +1,252 @@
+{
+  "id": "2026-11-11-madagascar-s-engage-pour-la-biodiversite-a-travers-la-protec",
+  "title": "À la COP17, Madagascar met en avant sa biodiversité et ses communautés",
+  "level": "B2",
+  "theme": "environnement",
+  "date": "2026-11-11",
+  "summary": "Lors de la COP17 sur la diversité biologique, Madagascar a présenté son réseau de 155 aires protégées, son plan national et ses priorités de financement, tout en insistant sur l’association des communautés locales, des femmes et des jeunes à la conservation.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Du 19 au 30 octobre 2026, à Erevan, en Arménie, la 17e Conférence des Parties sur la diversité biologique a réuni des acteurs venus défendre leurs engagements.",
+        "Madagascar y disposait d’un pavillon pour présenter ses actions en faveur d’écosystèmes terrestres et marins remarquables et réaffirmer son soutien au Cadre mondial de la biodiversité de Kunming-Montréal.",
+        "Cet espace a favorisé des échanges, des partenariats et de nouvelles collaborations avec des acteurs nationaux et internationaux."
+      ]
+    },
+    {
+      "sentences": [
+        "Global Voices a interrogé Tojotsara Ratefason, représentante du gouvernement malgache et responsable d’une direction consacrée aux aires protégées et aux écosystèmes (DAPRNRE) au ministère de l’Environnement et du Développement Durable.",
+        "L’entretien a traité du cadre de Kunming-Montréal, de l’objectif 30×30, des financements et du rôle des communautés, des femmes et des jeunes."
+      ]
+    },
+    {
+      "sentences": [
+        "Madagascar peut selon elle atteindre l’objectif 30×30, puisqu’un réseau de 155 aires protégées terrestres et marines fournit déjà une base solide.",
+        "Le plan national et la stratégie pour la biodiversité (SPANB) traduisent les engagements internationaux en priorités nationales, le pays étant partie à la convention sur la diversité biologique.",
+        "Néanmoins, préserver des espèces, des habitats et des écosystèmes uniques importe davantage que le seul nombre de surfaces protégées, afin de transmettre ce patrimoine aux générations futures."
+      ]
+    },
+    {
+      "sentences": [
+        "Cette ambition suppose que les communautés locales soient associées aux décisions, dans la mesure où elles vivent au contact direct des ressources naturelles.",
+        "La conservation ne peut donc pas dépendre du seul gouvernement ; elle doit être portée par les institutions, les gestionnaires et les populations, selon une responsabilité partagée.",
+        "Pour que les habitants mesurent la valeur de la biodiversité et en retirent des bénéfices, le ministère promeut des emplois verts et des activités économiques durables."
+      ]
+    },
+    {
+      "sentences": [
+        "Madagascar compte parmi les 17 pays mégadivers, ce qui renforce son poids international et lui permet d’obtenir des soutiens, notamment du Fonds pour l’environnement mondial (GEF).",
+        "Pourtant, il ne suffit pas de mobiliser des fonds : il faut que ces soutiens atteignent réellement les communautés proches des aires protégées.",
+        "Les financements doivent ainsi protéger la nature tout en favorisant des revenus compatibles avec la préservation des ressources, afin que la conservation devienne une opportunité durable."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "mégadivers"
+    },
+    {
+      "term": "réaffirmer"
+    },
+    {
+      "term": "pavillon"
+    },
+    {
+      "term": "SPANB"
+    },
+    {
+      "term": "gestionnaires"
+    },
+    {
+      "term": "mobiliser"
+    },
+    {
+      "term": "compatibles"
+    },
+    {
+      "term": "créditée"
+    },
+    {
+      "term": "patrimoine"
+    },
+    {
+      "term": "DAPRNRE"
+    },
+    {
+      "term": "GEF"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Pourquoi Madagascar disposait-il d’un pavillon à la COP17 selon l’article ?",
+      "options": [
+        "Pour présenter ses actions en faveur d’écosystèmes terrestres et marins remarquables et réaffirmer son soutien au Cadre mondial de la biodiversité de Kunming-Montréal.",
+        "Pour organiser la signature d’un protocole sur le climat.",
+        "Pour vendre des produits touristiques aux participants internationaux.",
+        "Pour annoncer son retrait de la convention sur la diversité biologique."
+      ],
+      "answerIndex": 0,
+      "evidence": "Madagascar y disposait d’un pavillon pour présenter ses actions en faveur d’écosystèmes terrestres et marins remarquables et réaffirmer son soutien au Cadre mondial de la biodiversité de Kunming-Montréal."
+    },
+    {
+      "id": "q2",
+      "prompt": "Que dit l’article au sujet de Tojotsara Ratefason ?",
+      "options": [
+        "Elle est journaliste pour Global Voices.",
+        "Elle dirige le Fonds pour l’environnement mondial.",
+        "Elle est représentante du gouvernement malgache et responsable d’une direction consacrée aux aires protégées et aux écosystèmes.",
+        "Elle a rédigé l’article sur la COP17."
+      ],
+      "answerIndex": 2,
+      "evidence": "Global Voices a interrogé Tojotsara Ratefason, représentante du gouvernement malgache et responsable d’une direction consacrée aux aires protégées et aux écosystèmes (DAPRNRE) au ministère de l’Environnement et du Développement Durable."
+    },
+    {
+      "id": "q3",
+      "prompt": "Selon l’article, qu’est-ce qui importe davantage que le seul nombre de surfaces protégées ?",
+      "options": [
+        "Augmenter uniquement la superficie des aires protégées.",
+        "Préserver des espèces, des habitats et des écosystèmes uniques afin de transmettre ce patrimoine aux générations futures.",
+        "Réduire le rôle des communautés locales dans les décisions.",
+        "Obtenir le plus grand nombre possible de financements internationaux."
+      ],
+      "answerIndex": 1,
+      "evidence": "Néanmoins, préserver des espèces, des habitats et des écosystèmes uniques importe davantage que le seul nombre de surfaces protégées, afin de transmettre ce patrimoine aux générations futures."
+    },
+    {
+      "id": "q4",
+      "prompt": "Pourquoi les communautés locales doivent-elles être associées aux décisions ?",
+      "options": [
+        "Parce qu’elles financent entièrement les aires protégées.",
+        "Parce qu’elles dirigent le ministère de l’Environnement.",
+        "Parce qu’elles ont rédigé la SPANB.",
+        "Parce qu’elles vivent au contact direct des ressources naturelles."
+      ],
+      "answerIndex": 3,
+      "evidence": "Cette ambition suppose que les communautés locales soient associées aux décisions, dans la mesure où elles vivent au contact direct des ressources naturelles."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que promeut le ministère pour que les habitants mesurent la valeur de la biodiversité et en retirent des bénéfices ?",
+      "options": [
+        "Des emplois verts et des activités économiques durables.",
+        "Des emplois dans le secteur pétrolier uniquement.",
+        "La suppression des aires protégées.",
+        "Des activités économiques sans lien avec la biodiversité."
+      ],
+      "answerIndex": 0,
+      "evidence": "Pour que les habitants mesurent la valeur de la biodiversité et en retirent des bénéfices, le ministère promeut des emplois verts et des activités économiques durables."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quel effet le fait que Madagascar compte parmi les 17 pays mégadivers a-t-il selon l’article ?",
+      "options": [
+        "Cela l’oblige à quitter la convention sur la diversité biologique.",
+        "Cela signifie qu’elle n’a plus besoin de financements.",
+        "Cela renforce son poids international et lui permet d’obtenir des soutiens, notamment du GEF.",
+        "Cela prouve que toutes ses aires protégées sont déjà suffisantes."
+      ],
+      "answerIndex": 2,
+      "evidence": "Madagascar compte parmi les 17 pays mégadivers, ce qui renforce son poids international et lui permet d’obtenir des soutiens, notamment du Fonds pour l’environnement mondial (GEF)."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quelle condition l’article ajoute-t-il à la mobilisation de fonds ?",
+      "options": [
+        "Il suffit de mobiliser des fonds sans condition.",
+        "Il faut que ces soutiens atteignent réellement les communautés proches des aires protégées.",
+        "Les fonds doivent être utilisés uniquement pour les villes.",
+        "Les financements doivent remplacer la responsabilité des communautés."
+      ],
+      "answerIndex": 1,
+      "evidence": "Pourtant, il ne suffit pas de mobiliser des fonds : il faut que ces soutiens atteignent réellement les communautés proches des aires protégées."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "在COP17上，马达加斯加突出其生物多样性与社区",
+      "summary": "在生物多样性COP17期间，马达加斯加介绍了其155个保护区的网络、国家计划及其融资优先事项，同时强调让地方社区、妇女和青年参与保护。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "2026年10月19日至30日，在亚美尼亚埃里温，第17届生物多样性缔约方大会汇集了前来捍卫其承诺的各方行动者。",
+            "马达加斯加在那里设有一个展馆，以展示其针对卓越的陆地和海洋生态系统的行动，并重申其对昆明-蒙特利尔全球生物多样性框架的支持。",
+            "这一空间促进了交流、伙伴关系以及与国家和国际行动者的新合作。"
+          ]
+        },
+        {
+          "sentences": [
+            "Global Voices采访了Tojotsara Ratefason，她是马达加斯加政府代表，也是环境与可持续发展部下属负责保护区与生态系统的方向（DAPRNRE）负责人。",
+            "采访涉及昆明-蒙特利尔框架、30×30目标、融资以及社区、妇女和青年的作用。"
+          ]
+        },
+        {
+          "sentences": [
+            "据她所说，马达加斯加可以实现30×30目标，因为由155个陆地和海洋保护区组成的网络已经提供了坚实基础。",
+            "国家生物多样性战略与行动计划（SPANB）将国际承诺转化为国家优先事项，该国是《生物多样性公约》缔约方。",
+            "然而，保护独特的物种、栖息地和生态系统比单纯的保护区面积数量更重要，以便将这一遗产传给后代。"
+          ]
+        },
+        {
+          "sentences": [
+            "这一雄心意味着地方社区必须参与决策，因为它们直接接触自然资源。",
+            "因此，保护不能只依赖政府；它必须由机构、管理者和民众共同承担，体现共同责任。",
+            "为了让居民认识到生物多样性的价值并从中受益，该部推广绿色就业和可持续经济活动。"
+          ]
+        },
+        {
+          "sentences": [
+            "马达加斯加是17个生物多样性特丰富国家之一，这增强了其国际影响力，并使其能够获得支持，尤其是全球环境基金（GEF）的支持。",
+            "然而，仅调动资金还不够：这些支持必须真正到达保护区附近的社区。",
+            "因此，融资必须在保护自然的同时促进与资源保护相容的收入，使保护成为可持续的机会。"
+          ]
+        }
+      ],
+      "glossary": {
+        "mégadivers": "生物多样性特丰富国家；指拥有全球极高生物多样性且物种特有性高的国家。",
+        "réaffirmer": "再次确认、重申。",
+        "pavillon": "展馆、展亭；会议中用于展示和接待的空间。",
+        "SPANB": "国家生物多样性战略与行动计划（Stratégie et Plan d’Action National pour la Biodiversité）。",
+        "gestionnaires": "管理者、管理人员；负责保护区或生态系统日常管理的人。",
+        "mobiliser": "调动、筹集；此处指动员资金或支持。",
+        "compatibles": "相容的、兼容的；指与资源保护不冲突。",
+        "créditée": "署名、注明来源；指照片标注作者。",
+        "patrimoine": "遗产；此处指自然遗产。",
+        "DAPRNRE": "马达加斯加环境与可持续发展部下属负责保护区与生态系统的方向/司局。",
+        "GEF": "全球环境基金（Global Environment Facility）。"
+      },
+      "questions": {
+        "q1": "问题：根据文章，为什么马达加斯加在COP17设有展馆？答案：为了展示其针对卓越陆地和海洋生态系统的行动，并重申对昆明-蒙特利尔全球生物多样性框架的支持。",
+        "q2": "问题：文章如何介绍Tojotsara Ratefason？答案：她是马达加斯加政府代表，并负责环境与可持续发展部下属保护区与生态系统方向。",
+        "q3": "问题：根据文章，什么比单纯的保护区面积数量更重要？答案：保护独特物种、栖息地和生态系统，以便将遗产传给后代。",
+        "q4": "问题：为什么地方社区必须参与决策？答案：因为它们直接接触自然资源。",
+        "q5": "问题：为了让居民认识生物多样性价值并从中受益，该部推广什么？答案：绿色就业和可持续经济活动。",
+        "q6": "问题：马达加斯加属于17个生物多样性特丰富国家之一有何影响？答案：增强其国际影响力，并使其获得支持，尤其是GEF支持。",
+        "q7": "问题：文章对调动资金增加了什么条件？答案：这些支持必须真正到达保护区附近的社区。"
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Madagascar s’engage pour la biodiversité à travers la protection des aires marines",
+    "authors": [
+      "Mamisoa Raveloaritiana"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/09/304239/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-11",
+    "publishedAt": "2026-11-09",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-11",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

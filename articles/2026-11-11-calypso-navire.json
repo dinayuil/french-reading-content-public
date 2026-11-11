@@ -1,0 +1,282 @@
+{
+  "id": "2026-11-11-calypso-navire",
+  "title": "La Calypso, un navire célèbre",
+  "level": "B1",
+  "theme": "histoire",
+  "date": "2026-11-11",
+  "summary": "La Calypso, ancien navire de guerre devenu bateau d’exploration de Cousteau, a connu une histoire mouvementée.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "La Calypso est un bateau utilisé pour explorer les océans.",
+        "Le commandant Cousteau l’a employé entre 1951 et 1996.",
+        "Ce nom renvoie à Calypso, la nymphe aimée d’Ulysse."
+      ]
+    },
+    {
+      "sentences": [
+        "Au départ, ce bateau était un navire de guerre anglais.",
+        "Il avait été construit pendant la Seconde Guerre mondiale pour lutter contre les mines en mer."
+      ]
+    },
+    {
+      "sentences": [
+        "Après le conflit, il a été retiré du service.",
+        "Thomas Loel Guinness l’a acheté, puis il l’a loué à Cousteau pour un franc symbolique chaque année.",
+        "Dès 1950, la Calypso a donc commencé à explorer le domaine de l’océanographie."
+      ]
+    },
+    {
+      "sentences": [
+        "Le navire avait des équipements très modernes, dont une soucoupe pour plonger et deux sous-marins de petite taille.",
+        "Il a été le premier bateau océanographique indépendant, et il est resté longtemps le seul.",
+        "Albert Falco en a été le capitaine pendant une longue période."
+      ]
+    },
+    {
+      "sentences": [
+        "En 1996, le navire a coulé dans le port de Singapour.",
+        "Cela s’est produit un an avant la mort de Cousteau.",
+        "Renflouée, elle a ensuite été ramenée en France pour être réparée."
+      ]
+    },
+    {
+      "sentences": [
+        "Aujourd’hui, la réparation est arrêtée à cause de nombreux désaccords et de problèmes d’argent.",
+        "En 2010, l’Équipe Cousteau a demandé au ministre de la Culture de classer le navire « patrimoine national ».",
+        "Ce classement devait aider à financer les réparations."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "nymphe"
+    },
+    {
+      "term": "symbolique"
+    },
+    {
+      "term": "océanographie"
+    },
+    {
+      "term": "soucoupe"
+    },
+    {
+      "term": "sous-marins"
+    },
+    {
+      "term": "océanographique"
+    },
+    {
+      "term": "indépendant"
+    },
+    {
+      "term": "Renflouée"
+    },
+    {
+      "term": "patrimoine"
+    },
+    {
+      "term": "désaccords"
+    },
+    {
+      "term": "classement"
+    },
+    {
+      "term": "financer"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "À quoi sert la Calypso ?",
+      "options": [
+        "À transporter des marchandises.",
+        "À explorer les océans.",
+        "À lutter contre les mines en mer.",
+        "À devenir un navire de guerre."
+      ],
+      "answerIndex": 1,
+      "evidence": "La Calypso est un bateau utilisé pour explorer les océans."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quel était le rôle initial de ce bateau ?",
+      "options": [
+        "C’était un bateau de pêche français.",
+        "C’était un navire océanographique indépendant.",
+        "C’était un navire de guerre anglais.",
+        "C’était un bateau de transport de passagers."
+      ],
+      "answerIndex": 2,
+      "evidence": "Au départ, ce bateau était un navire de guerre anglais."
+    },
+    {
+      "id": "q3",
+      "prompt": "Pourquoi le navire a-t-il été construit pendant la Seconde Guerre mondiale ?",
+      "options": [
+        "Pour lutter contre les mines en mer.",
+        "Pour transporter des passagers.",
+        "Pour explorer l’océanographie.",
+        "Pour devenir patrimoine national."
+      ],
+      "answerIndex": 0,
+      "evidence": "Il avait été construit pendant la Seconde Guerre mondiale pour lutter contre les mines en mer."
+    },
+    {
+      "id": "q4",
+      "prompt": "Qui a acheté le navire après le conflit ?",
+      "options": [
+        "Le commandant Cousteau.",
+        "Albert Falco.",
+        "Le ministre de la Culture.",
+        "Thomas Loel Guinness."
+      ],
+      "answerIndex": 3,
+      "evidence": "Thomas Loel Guinness l’a acheté, puis il l’a loué à Cousteau pour un franc symbolique chaque année."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quel équipement moderne le navire avait-il ?",
+      "options": [
+        "Un hélicoptère et un grand sous-marin.",
+        "Une soucoupe pour plonger et deux sous-marins de petite taille.",
+        "Des machines pour lutter contre les mines.",
+        "Un équipement pour transporter des passagers."
+      ],
+      "answerIndex": 1,
+      "evidence": "Le navire avait des équipements très modernes, dont une soucoupe pour plonger et deux sous-marins de petite taille."
+    },
+    {
+      "id": "q6",
+      "prompt": "Que s’est-il passé en 1996 ?",
+      "options": [
+        "Le navire a été construit.",
+        "Cousteau est mort.",
+        "Le navire a coulé dans le port de Singapour.",
+        "Le navire a été classé patrimoine national."
+      ],
+      "answerIndex": 2,
+      "evidence": "En 1996, le navire a coulé dans le port de Singapour."
+    },
+    {
+      "id": "q7",
+      "prompt": "Pourquoi la réparation du navire est-elle arrêtée aujourd’hui ?",
+      "options": [
+        "À cause de nombreux désaccords et de problèmes d’argent.",
+        "Parce que le navire est en guerre.",
+        "Parce que Cousteau a vendu le navire.",
+        "Parce que le navire est déjà réparé."
+      ],
+      "answerIndex": 0,
+      "evidence": "Aujourd’hui, la réparation est arrêtée à cause de nombreux désaccords et de problèmes d’argent."
+    },
+    {
+      "id": "q8",
+      "prompt": "Pourquoi l’Équipe Cousteau a-t-elle demandé le classement du navire en 2010 ?",
+      "options": [
+        "Pour le vendre à l’étranger.",
+        "Pour remplacer Albert Falco.",
+        "Pour l’utiliser comme navire de guerre.",
+        "Pour aider à financer les réparations."
+      ],
+      "answerIndex": 3,
+      "evidence": "Ce classement devait aider à financer les réparations."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "卡里普索号，一艘著名的船",
+      "summary": "卡里普索号原是军舰，后来成为库斯托的探索船，经历了曲折的历史。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "卡里普索号是一艘用于探索海洋的船。",
+            "库斯托指挥官在1951年至1996年间使用过它。",
+            "这个名字指代卡里普索，即尤利西斯所爱的宁芙。"
+          ]
+        },
+        {
+          "sentences": [
+            "起初，这艘船是一艘英国军舰。",
+            "它是在第二次世界大战期间为在海上对抗水雷而建造的。"
+          ]
+        },
+        {
+          "sentences": [
+            "冲突结束后，它退出了服役。",
+            "托马斯·洛尔·吉尼斯买下了它，然后每年以象征性的一法郎把它租给库斯托。",
+            "因此，从1950年起，卡里普索号开始探索海洋学领域。"
+          ]
+        },
+        {
+          "sentences": [
+            "这艘船配备了非常现代化的设备，其中包括一个用于下潜的潜水碟和两艘小型潜艇。",
+            "它是第一艘独立的海洋探测船，并在很长一段时间内是唯一的一艘。",
+            "阿尔贝·法尔科曾长期担任它的船长。"
+          ]
+        },
+        {
+          "sentences": [
+            "1996年，这艘船在新加坡港沉没。",
+            "这件事发生在库斯托去世前一年。",
+            "它被打捞上来后，随后被运回法国进行修理。"
+          ]
+        },
+        {
+          "sentences": [
+            "如今，由于许多分歧和资金问题，维修已经停止。",
+            "2010年，库斯托团队请求文化部长将这艘船列为“国家遗产”。",
+            "这一列入名录本应有助于资助维修。"
+          ]
+        }
+      ],
+      "glossary": {
+        "nymphe": "希腊神话中的仙女，常与自然水体相关。",
+        "symbolique": "象征性的，表示金额很小或仅具形式意义。",
+        "océanographie": "研究海洋的科学，即海洋学。",
+        "soucoupe": "这里指用于潜水的圆盘状潜水器，常称潜水碟。",
+        "sous-marins": "潜艇，能在水下航行的船只。",
+        "océanographique": "与海洋学或海洋探测有关的。",
+        "indépendant": "不隶属于其他组织、独立运作的。",
+        "Renflouée": "被打捞起来的（阴性形式），指沉船被重新浮起。",
+        "patrimoine": "遗产，这里指具有国家历史与文化价值的财产。",
+        "désaccords": "意见分歧、不一致。",
+        "classement": "列入名录、定级或分类。",
+        "financer": "提供资金、资助。"
+      },
+      "questions": {
+        "q1": "卡里普索号是一艘用于探索海洋的船。",
+        "q2": "起初，这艘船是一艘英国军舰。",
+        "q3": "它是在第二次世界大战期间为在海上对抗水雷而建造的。",
+        "q4": "托马斯·洛尔·吉尼斯买下了它，然后每年以象征性的一法郎把它租给库斯托。",
+        "q5": "这艘船配备了非常现代化的设备，其中包括一个用于下潜的潜水碟和两艘小型潜艇。",
+        "q6": "1996年，这艘船在新加坡港沉没。",
+        "q7": "如今，由于许多分歧和资金问题，维修已经停止。",
+        "q8": "这一列入名录本应有助于资助维修。"
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Calypso (navire)",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2045558&title=Calypso%20(navire)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-11",
+    "revisionId": "2045558"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-11",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}
