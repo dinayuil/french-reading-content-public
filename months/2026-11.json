@@ -29,6 +29,15 @@
       "path": "articles/2026-11-11-balto-film.json"
     },
     {
+      "id": "2026-11-11-ainulindale",
+      "title": "La Grande Musique de Tolkien : genèse et héritage de l’Ainulindalë",
+      "level": "B2",
+      "theme": "culture",
+      "date": "2026-11-11",
+      "summary": "Récit inaugural du Silmarillion, l’Ainulindalë raconte la création musicale du monde par Ilúvatar et les Ainur ; son histoire éditoriale et ses interprétations témoignent de l’évolution de la pensée de Tolkien.",
+      "path": "articles/2026-11-11-ainulindale.json"
+    },
+    {
       "id": "2026-11-09-tour-eiffel",
       "title": "La tour Eiffel",
       "level": "B1",

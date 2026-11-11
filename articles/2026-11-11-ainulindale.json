@@ -1,0 +1,261 @@
+{
+  "id": "2026-11-11-ainulindale",
+  "title": "La Grande Musique de Tolkien : genèse et héritage de l’Ainulindalë",
+  "level": "B2",
+  "theme": "culture",
+  "date": "2026-11-11",
+  "summary": "Récit inaugural du Silmarillion, l’Ainulindalë raconte la création musicale du monde par Ilúvatar et les Ainur ; son histoire éditoriale et ses interprétations témoignent de l’évolution de la pensée de Tolkien.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Premier texte du Silmarillion de J. R. R. Tolkien, l’Ainulindalë désigne aussi, dans la fiction, la Grande Musique par laquelle le monde prend forme.",
+        "Son titre quenya signifie Musique des Ainur, composé à partir d’éléments bénis et chantés.",
+        "Le récit met en scène Ilúvatar et les Ainur, qui façonnent Eä avant l’arrivée des Elfes et des Hommes, appelés Enfants d’Ilúvatar."
+      ]
+    },
+    {
+      "sentences": [
+        "Créés par la pensée d’Ilúvatar, les Ainur chantent d’abord seuls ou en groupes, puis reçoivent un thème commun à harmoniser.",
+        "Melkor, le plus doué, y ajoute des pensées personnelles et provoque une discordance ; Ilúvatar réagit par trois nouveaux thèmes, levé tour à tour, jusqu’à un accord final qui arrête la musique.",
+        "Les Ainur voient ensuite une vision du monde issue de cette musique, puis Ilúvatar la rend réelle par la Flamme Impérissable et le mot Eä.",
+        "Certains restent auprès de lui, d’autres descendent comme Valar et Maiar ; Melkor détruit leurs travaux et Manwë lui déclare la guerre."
+      ]
+    },
+    {
+      "sentences": [
+        "Une première version, La Musique des Ainur, est rédigée entre novembre 1918 et le printemps 1920, puis remaniée jusqu’au début des années 1950.",
+        "Le texte paraît seulement en 1977, quatre ans après la mort de Tolkien, grâce à son fils Christopher.",
+        "La version initiale, narrée par l’elfe Rúmil, appartient aux Contes perdus et diffère du texte publié : Melkor s’y nomme Melko et Eä n’y est pas mentionné.",
+        "Selon une lettre du 16 juillet 1964 à Christopher Bretherton, Tolkien travaillait alors au dictionnaire de l’université d’Oxford."
+      ]
+    },
+    {
+      "sentences": [
+        "Les réécritures éloignent progressivement le récit des modèles nordiques et accentuent sa dimension catholique, ainsi que le concept de subcréation.",
+        "En 1946, une version perdue sauf une demi-page imagine Arda ronde, avec Soleil et Lune liés à une destruction de Melkor.",
+        "L’idée du Monde rond est ensuite écartée, peut-être après l’avis d’une lectrice préférant le Monde plat.",
+        "En 1948, Pengoloð devient narrateur, Rúmil rédacteur, et la vision s’éteint avant le Quatrième Âge."
+      ]
+    },
+    {
+      "sentences": [
+        "Les critiques du Silmarillion saluent l’ensemble ; Joseph Pearce juge l’Ainulindalë centrale et Brian Rosebury vante sa prose biblique.",
+        "Les jésuites James V. Schall et Robert Murray expriment aussi leur admiration, tandis que Daniel Grotta doute que Christopher Tolkien n’ait pas rédigé l’essentiel.",
+        "Des illustrateurs comme Jef Murray et Ted Nasmith ont illustré le récit, et Craig Marnock en a traduit un fragment en quenya en juillet 1991.",
+        "Adam C. J. Klein et Frank Felice l’ont adapté en musique, un groupe français de folk metal nommé Ainulindalë existe depuis octobre 2002, et C. S. Lewis crée Narnia par le chant d’Aslan en 1949."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Ainulindalë"
+    },
+    {
+      "term": "quenya"
+    },
+    {
+      "term": "Ainur"
+    },
+    {
+      "term": "Eä"
+    },
+    {
+      "term": "Ilúvatar"
+    },
+    {
+      "term": "discordance"
+    },
+    {
+      "term": "Impérissable"
+    },
+    {
+      "term": "subcréation"
+    },
+    {
+      "term": "jésuites"
+    },
+    {
+      "term": "Quatrième Âge"
+    },
+    {
+      "term": "folk metal"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Que signifie le titre quenya « Ainulindalë » ?",
+      "options": [
+        "Musique des Ainur",
+        "Flamme Impérissable",
+        "Guerre des Valar",
+        "Chant des Elfes"
+      ],
+      "answerIndex": 0,
+      "evidence": "Son titre quenya signifie Musique des Ainur, composé à partir d’éléments bénis et chantés."
+    },
+    {
+      "id": "q2",
+      "prompt": "Par quoi les Ainur sont-ils créés ?",
+      "options": [
+        "Par Melkor",
+        "Par Manwë",
+        "Par la pensée d’Ilúvatar",
+        "Par les Elfes"
+      ],
+      "answerIndex": 2,
+      "evidence": "Créés par la pensée d’Ilúvatar, les Ainur chantent d’abord seuls ou en groupes, puis reçoivent un thème commun à harmoniser."
+    },
+    {
+      "id": "q3",
+      "prompt": "Comment Ilúvatar réagit-il à la discordance provoquée par Melkor ?",
+      "options": [
+        "Il chante seul un nouveau thème",
+        "Il réagit par trois nouveaux thèmes, levé tour à tour, jusqu’à un accord final qui arrête la musique",
+        "Il détruit immédiatement les Ainur",
+        "Il confie la musique à Manwë"
+      ],
+      "answerIndex": 1,
+      "evidence": "Melkor, le plus doué, y ajoute des pensées personnelles et provoque une discordance ; Ilúvatar réagit par trois nouveaux thèmes, levé tour à tour, jusqu’à un accord final qui arrête la musique."
+    },
+    {
+      "id": "q4",
+      "prompt": "En quelle année le texte de l’Ainulindalë paraît-il ?",
+      "options": [
+        "Entre novembre 1918 et le printemps 1920",
+        "En 1948",
+        "En 1964",
+        "En 1977"
+      ],
+      "answerIndex": 3,
+      "evidence": "Le texte paraît seulement en 1977, quatre ans après la mort de Tolkien, grâce à son fils Christopher."
+    },
+    {
+      "id": "q5",
+      "prompt": "Qui devient narrateur en 1948 ?",
+      "options": [
+        "Rúmil",
+        "Christopher Tolkien",
+        "Pengoloð",
+        "Melko"
+      ],
+      "answerIndex": 2,
+      "evidence": "En 1948, Pengoloð devient narrateur, Rúmil rédacteur, et la vision s’éteint avant le Quatrième Âge."
+    },
+    {
+      "id": "q6",
+      "prompt": "Que soutient Daniel Grotta à propos du Silmarillion ?",
+      "options": [
+        "Il doute que Christopher Tolkien n’ait pas rédigé l’essentiel",
+        "Il juge l’Ainulindalë centrale",
+        "Il vante sa prose biblique",
+        "Il exprime son admiration avec Robert Murray"
+      ],
+      "answerIndex": 0,
+      "evidence": "Les jésuites James V. Schall et Robert Murray expriment aussi leur admiration, tandis que Daniel Grotta doute que Christopher Tolkien n’ait pas rédigé l’essentiel."
+    },
+    {
+      "id": "q7",
+      "prompt": "Qui a adapté l’Ainulindalë en musique ?",
+      "options": [
+        "Jef Murray et Ted Nasmith",
+        "Craig Marnock",
+        "Adam C. J. Klein et Frank Felice",
+        "C. S. Lewis"
+      ],
+      "answerIndex": 2,
+      "evidence": "Adam C. J. Klein et Frank Felice l’ont adapté en musique, un groupe français de folk metal nommé Ainulindalë existe depuis octobre 2002, et C. S. Lewis crée Narnia par le chant d’Aslan en 1949."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "托尔金的伟大音乐：《爱努林达列》的起源与遗产",
+      "summary": "作为《精灵宝钻》的开篇叙事，《爱努林达列》讲述伊露维塔与爱努以音乐创造世界；它的编辑史与阐释见证了托尔金思想的发展。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "作为 J. R. R. 托尔金《精灵宝钻》的首篇文本，《爱努林达列》在虚构中也指世界借以成形的“伟大音乐”。",
+            "其昆雅语标题意为“爱努的音乐”，由蒙福且歌唱的元素构成。",
+            "叙事呈现伊露维塔与爱努，他们在精灵与人类——即“伊露维塔的子女”——到来之前塑造了埃阿。"
+          ]
+        },
+        {
+          "sentences": [
+            "爱努由伊露维塔的思想创造，起初独自或成群歌唱，随后得到一个共同主题去和谐化。",
+            "最有天赋的米尔寇在其中加入个人思想并引发不和谐；伊露维塔以三个新主题回应，逐一升起，直到一个终止音乐的最终和弦。",
+            "随后爱努看见由这音乐产生的世界幻象，伊露维塔又借不灭之火与“埃阿”一词使其成为真实。",
+            "有些留在祂身边，另一些作为维拉和迈雅降下；米尔寇毁坏他们的劳作，曼威向他宣战。"
+          ]
+        },
+        {
+          "sentences": [
+            "首个版本《爱努的音乐》写于1918年11月至1920年春之间，随后修改至1950年代初。",
+            "该文本直到1977年才出版，即托尔金去世四年后，由其子克里斯托弗促成。",
+            "最初版本由精灵鲁米尔叙述，属于《失落的传说》，与出版文本不同：其中米尔寇名为梅尔科，且未提及埃阿。",
+            "根据1964年7月16日致克里斯托弗·布雷瑟顿的一封信，托尔金当时正在为牛津大学词典工作。"
+          ]
+        },
+        {
+          "sentences": [
+            "改写逐渐使叙事远离北欧范型，并强化其天主教维度以及次创造概念。",
+            "1946年，一个除半页外已佚失的版本设想阿尔达为圆形，太阳和月亮与米尔寇的一次毁灭相关联。",
+            "圆形世界的想法随后被舍弃，也许是在一位偏好平面世界的读者提出意见之后。",
+            "1948年，彭戈洛兹成为叙述者，鲁米尔成为编纂者，而幻象在第四纪元之前熄灭。"
+          ]
+        },
+        {
+          "sentences": [
+            "《精灵宝钻》的批评者总体上予以肯定；约瑟夫·皮尔斯认为《爱努林达列》是核心，布赖恩·罗斯伯里则称赞其圣经式散文。",
+            "耶稣会士詹姆斯·V. 沙尔和罗伯特·默里也表达了赞赏，而丹尼尔·格罗塔对克里斯托弗·托尔金没有撰写主要部分的说法表示怀疑。",
+            "杰夫·默里和特德·纳斯米斯等插画家为叙事绘制插图，克雷格·马诺克于1991年7月将其一个片段译成昆雅语。",
+            "亚当·C. J. 克莱因和弗兰克·费利斯将其改编为音乐，一个名为 Ainulindalë 的法国民谣金属乐队自2002年10月起存在，而 C. S. 刘易斯于1949年通过阿斯兰的歌唱创造纳尼亚。"
+          ]
+        }
+      ],
+      "glossary": {
+        "Ainulindalë": "《爱努林达列》，昆雅语标题，意为“爱努的音乐”，是《精灵宝钻》的开篇创世叙事。",
+        "quenya": "昆雅语，托尔金中土世界中的精灵语言之一。",
+        "Ainur": "爱努，伊露维塔的思想所创造的圣灵，参与创世音乐。",
+        "Eä": "埃阿，伊露维塔以不灭之火使世界成为真实的“存在”之名。",
+        "Ilúvatar": "伊露维塔，托尔金神话中的至高造物主。",
+        "discordance": "不和谐，指米尔寇在创世音乐中加入个人思想所造成的冲突音响。",
+        "Impérissable": "不灭的，尤指“不灭之火”，伊露维塔用以使世界真实存在。",
+        "subcréation": "次创造，指受造者以创造者身份进行艺术创造的神学/文学概念。",
+        "jésuites": "耶稣会士，天主教耶稣会的成员。",
+        "Quatrième Âge": "第四纪元，中土世界时间线中在第三纪元之后的时代。",
+        "folk metal": "民谣金属，融合民谣音乐元素的金属乐子类型。"
+      },
+      "questions": {
+        "q1": "其昆雅语标题意为“爱努的音乐”，由蒙福且歌唱的元素构成。",
+        "q2": "爱努由伊露维塔的思想创造，起初独自或成群歌唱，随后得到一个共同主题去和谐化。",
+        "q3": "最有天赋的米尔寇在其中加入个人思想并引发不和谐；伊露维塔以三个新主题回应，逐一升起，直到一个终止音乐的最终和弦。",
+        "q4": "该文本直到1977年才出版，即托尔金去世四年后，由其子克里斯托弗促成。",
+        "q5": "1948年，彭戈洛兹成为叙述者，鲁米尔成为编纂者，而幻象在第四纪元之前熄灭。",
+        "q6": "耶稣会士詹姆斯·V. 沙尔和罗伯特·默里也表达了赞赏，而丹尼尔·格罗塔对克里斯托弗·托尔金没有撰写主要部分的说法表示怀疑。",
+        "q7": "亚当·C. J. 克莱因和弗兰克·费利斯将其改编为音乐，一个名为 Ainulindalë 的法国民谣金属乐队自2002年10月起存在，而 C. S. 刘易斯于1949年通过阿斯兰的歌唱创造纳尼亚。"
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Ainulindalë",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=240446258",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-11",
+    "revisionId": "240446258"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-11",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}
