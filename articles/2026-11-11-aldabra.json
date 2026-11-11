@@ -1,0 +1,275 @@
+{
+  "id": "2026-11-11-aldabra",
+  "title": "Aldabra, un atoll exceptionnel à préserver",
+  "level": "B2",
+  "theme": "environnement",
+  "date": "2026-11-11",
+  "summary": "Situé dans l’ouest de l’océan Indien, Aldabra est un atoll surélevé des Seychelles classé pour son patrimoine naturel. Il abrite des espèces endémiques, de grandes populations de tortues et d’oiseaux marins, mais reste exposé à diverses menaces.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Aldabra est un atoll situé à l’ouest de l’océan Indien, dans les îles Extérieures des Seychelles.",
+        "Ce site, inscrit au patrimoine mondial de l’Unesco en 1982, forme une réserve naturelle stricte et bénéficie aussi du statut de site Ramsar depuis 2010.",
+        "Il est considéré comme le plus grand atoll surélevé du monde."
+      ]
+    },
+    {
+      "sentences": [
+        "Ses terres émergées couvrent environ 155 km², tandis que l’ensemble de l’atoll, lagon compris, atteint près de 350 km².",
+        "L’atoll s’étend sur 34 km d’est en ouest et 14,5 km du nord au sud au maximum.",
+        "Il réunit 46 îles et îlots, dont quatre principales délimitent un lagon de 182 km²."
+      ]
+    },
+    {
+      "sentences": [
+        "L’isolement d’Aldabra a favorisé un endémisme remarquable, notamment chez le râle de Cuvier, dernier oiseau incapable de voler des îles de l’ouest de l’océan Indien.",
+        "L’atoll accueille la plus grande population mondiale de tortues géantes des Seychelles, avec environ 150 000 individus.",
+        "Ses plages constituent le principal site de ponte de la tortue verte dans l’océan Indien et abritent d’importantes colonies de phaétons à brins rouges et de frégates."
+      ]
+    },
+    {
+      "sentences": [
+        "Le nom Aldabra viendrait de l’arabe al-Khadra, qui évoque « la Verte », sans doute en référence au lagon.",
+        "Les Portugais mentionnent l’atoll sur des cartes dès 1517, puis la France en prend possession en 1742 avant que le Royaume-Uni ne l’intègre à son empire en 1814.",
+        "En 1965, Aldabra est rattaché au territoire britannique de l’océan Indien dans le cadre d’un projet de base militaire, finalement abandonné au profit de Diego Garcia.",
+        "Les Seychelles récupèrent l’atoll lors de leur indépendance en 1976."
+      ]
+    },
+    {
+      "sentences": [
+        "La réserve spéciale d’Aldabra est créée le 21 septembre 1981, puis gérée par la Seychelles Islands Foundation, fondée en 1979.",
+        "Jacques-Yves Cousteau avait filmé les eaux de l’atoll en 1955 pour Le Monde du silence, présenté comme une île déserte.",
+        "Aujourd’hui, les principales menaces viennent des espèces invasives, de l’élévation du niveau de la mer et de la pollution plastique.",
+        "Une étude estime à 550 tonnes les déchets plastiques présents, dont 83 % proviennent d’engins de pêche, pour un coût partiel de dépollution de 4,68 millions de dollars."
+      ]
+    },
+    {
+      "sentences": [
+        "Aucune population permanente ne s’est installée durablement, même si l’atoll comptait 12 habitants depuis 2016.",
+        "Les visites restent très encadrées : environ 900 touristes viennent chaque année et doivent obtenir une autorisation.",
+        "Des gardes accompagnent les visiteurs afin de protéger les écosystèmes, tandis que les scientifiques travaillent dans une station de recherche."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "atoll"
+    },
+    {
+      "term": "surélevé"
+    },
+    {
+      "term": "endémisme"
+    },
+    {
+      "term": "râle de Cuvier"
+    },
+    {
+      "term": "phaétons à brins rouges"
+    },
+    {
+      "term": "frégates"
+    },
+    {
+      "term": "lagon"
+    },
+    {
+      "term": "dépollution"
+    },
+    {
+      "term": "encadrées"
+    },
+    {
+      "term": "invasives"
+    },
+    {
+      "term": "Ramsar"
+    },
+    {
+      "term": "Seychelles Islands Foundation"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quels statuts de protection internationaux Aldabra possède-t-il ?",
+      "options": [
+        "Il a été inscrit au patrimoine mondial en 2010 et est site Ramsar depuis 1982.",
+        "Il est à la fois réserve naturelle stricte et site Ramsar depuis 2010.",
+        "Il est uniquement une réserve naturelle, sans autre statut international.",
+        "Il a perdu son statut de patrimoine mondial en 1982."
+      ],
+      "answerIndex": 1,
+      "evidence": "Ce site, inscrit au patrimoine mondial de l’Unesco en 1982, forme une réserve naturelle stricte et bénéficie aussi du statut de site Ramsar depuis 2010."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quelle surface les terres émergées d’Aldabra couvrent-elles ?",
+      "options": [
+        "Environ 350 km²",
+        "Environ 182 km²",
+        "Environ 155 km²",
+        "Environ 34 km²"
+      ],
+      "answerIndex": 2,
+      "evidence": "Ses terres émergées couvrent environ 155 km², tandis que l’ensemble de l’atoll, lagon compris, atteint près de 350 km²."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel oiseau est présenté comme le dernier oiseau incapable de voler des îles de l’ouest de l’océan Indien ?",
+      "options": [
+        "Le râle de Cuvier",
+        "La tortue verte",
+        "Le phaéton à brins rouges",
+        "La frégate"
+      ],
+      "answerIndex": 0,
+      "evidence": "L’isolement d’Aldabra a favorisé un endémisme remarquable, notamment chez le râle de Cuvier, dernier oiseau incapable de voler des îles de l’ouest de l’océan Indien."
+    },
+    {
+      "id": "q4",
+      "prompt": "Combien de tortues géantes des Seychelles l’atoll accueille-t-il environ ?",
+      "options": [
+        "Environ 12 individus",
+        "Environ 900 individus",
+        "Environ 550 individus",
+        "Environ 150 000 individus"
+      ],
+      "answerIndex": 3,
+      "evidence": "L’atoll accueille la plus grande population mondiale de tortues géantes des Seychelles, avec environ 150 000 individus."
+    },
+    {
+      "id": "q5",
+      "prompt": "D’où viendrait le nom Aldabra ?",
+      "options": [
+        "Du portugais, avec le sens de « l’île déserte »",
+        "Du français, avec le sens de « la Verte »",
+        "De l’arabe al-Khadra, qui évoque « la Verte »",
+        "Du britannique, avec le sens de « l’atoll surélevé »"
+      ],
+      "answerIndex": 2,
+      "evidence": "Le nom Aldabra viendrait de l’arabe al-Khadra, qui évoque « la Verte », sans doute en référence au lagon."
+    },
+    {
+      "id": "q6",
+      "prompt": "Que prévoyait le rattachement d’Aldabra au territoire britannique de l’océan Indien en 1965 ?",
+      "options": [
+        "Une réserve naturelle stricte gérée par l’Unesco",
+        "Un projet de base militaire, finalement abandonné au profit de Diego Garcia",
+        "Une station de recherche scientifique financée par la France",
+        "Un site Ramsar destiné aux touristes"
+      ],
+      "answerIndex": 1,
+      "evidence": "En 1965, Aldabra est rattaché au territoire britannique de l’océan Indien dans le cadre d’un projet de base militaire, finalement abandonné au profit de Diego Garcia."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quelle part des déchets plastiques présents à Aldabra provient d’engins de pêche ?",
+      "options": [
+        "83 %",
+        "12 %",
+        "50 %",
+        "4,68 %"
+      ],
+      "answerIndex": 0,
+      "evidence": "Une étude estime à 550 tonnes les déchets plastiques présents, dont 83 % proviennent d’engins de pêche, pour un coût partiel de dépollution de 4,68 millions de dollars."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "阿尔达布拉：一座需要保护的非凡环礁",
+      "summary": "阿尔达布拉位于印度洋西部，是塞舌尔的一座抬升环礁，因其自然遗产而受到保护。这里栖居着特有物种、大量海龟和海鸟，但仍面临多种威胁。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "阿尔达布拉是位于印度洋西部、塞舌尔外岛的一座环礁。",
+            "该遗址于1982年列入联合国教科文组织世界遗产，构成严格的自然保护区，并自2010年起享有拉姆萨尔湿地地位。",
+            "它被认为是世界上最大的抬升环礁。"
+          ]
+        },
+        {
+          "sentences": [
+            "其露出海面的陆地面积约155平方公里，而整个环礁（包括潟湖）接近350平方公里。",
+            "该环礁东西最大跨度34公里，南北最大跨度14.5公里。",
+            "它由46座岛屿和小岛组成，其中四座主要岛屿围成一个182平方公里的潟湖。"
+          ]
+        },
+        {
+          "sentences": [
+            "阿尔达布拉的与世隔绝促成了显著的特有现象，尤其是库维氏秧鸡——印度洋西部岛屿上最后一种不会飞的鸟。",
+            "该环礁拥有世界上最大的塞舌尔巨龟种群，约15万只。",
+            "其海滩是印度洋绿海龟的主要产卵地，并栖息着重要的红尾鹲和军舰鸟群落。"
+          ]
+        },
+        {
+          "sentences": [
+            "阿尔达布拉之名可能来自阿拉伯语 al-Khadra，意为“绿色的”，大概是指潟湖。",
+            "葡萄牙人早在1517年的地图上就提到了该环礁，随后法国于1742年将其占为己有，之后英国于1814年将其纳入帝国。",
+            "1965年，阿尔达布拉被并入英属印度洋领地，作为军事基地计划的一部分，该计划最终被放弃，转而选择迪戈加西亚。",
+            "塞舌尔在1976年独立时收回了该环礁。"
+          ]
+        },
+        {
+          "sentences": [
+            "阿尔达布拉特别保护区于1981年9月21日设立，随后由成立于1979年的塞舌尔群岛基金会管理。",
+            "雅克-伊夫·库斯托曾于1955年为《寂静的世界》拍摄该环礁水域，片中将其呈现为一座荒岛。",
+            "如今，主要威胁来自入侵物种、海平面上升和塑料污染。",
+            "一项研究估计当地塑料垃圾达550吨，其中83%来自渔具，部分清理成本为468万美元。"
+          ]
+        },
+        {
+          "sentences": [
+            "尽管自2016年以来该环礁有12名居民，但从未有永久人口长期定居。",
+            "到访受到严格管理：每年约有900名游客前来，且必须获得许可。",
+            "护卫人员陪同访客以保护生态系统，科学家则在研究站工作。"
+          ]
+        }
+      ],
+      "glossary": {
+        "atoll": "环礁，指由珊瑚礁形成的环形岛礁，中间围有潟湖。",
+        "surélevé": "抬升的；指因地质抬升而高于一般环礁、部分露出海面的环礁。",
+        "endémisme": "特有现象；指某些物种仅自然分布于特定地区的现象。",
+        "râle de Cuvier": "库维氏秧鸡，一种不会飞的鸟类，为阿尔达布拉的特有物种。",
+        "phaétons à brins rouges": "红尾鹲，一种海鸟。",
+        "frégates": "军舰鸟，一种大型海鸟。",
+        "lagon": "潟湖，指环礁内部被礁体围起的水域。",
+        "dépollution": "污染治理、清污，指清除或减少环境中污染物的行动。",
+        "encadrées": "受到严格管理的、有组织的；此处指参观活动受许可和陪同限制。",
+        "invasives": "入侵性的；指外来入侵物种。",
+        "Ramsar": "拉姆萨尔；指《湿地公约》及其湿地名录。",
+        "Seychelles Islands Foundation": "塞舌尔群岛基金会，负责管理阿尔达布拉特别保护区的机构。"
+      },
+      "questions": {
+        "q1": "阿尔达布拉拥有哪些国际保护地位？",
+        "q2": "阿尔达布拉露出海面的陆地面积是多少？",
+        "q3": "哪种鸟被介绍为印度洋西部岛屿上最后一种不会飞的鸟？",
+        "q4": "该环礁大约栖息着多少只塞舌尔巨龟？",
+        "q5": "阿尔达布拉之名可能来自哪里？",
+        "q6": "1965年将阿尔达布拉并入英属印度洋领地时计划做什么？",
+        "q7": "阿尔达布拉现有塑料垃圾中来自渔具的比例是多少？"
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Aldabra",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=241124683",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-11",
+    "revisionId": "241124683"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-11",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

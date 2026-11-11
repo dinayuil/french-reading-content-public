@@ -29,6 +29,15 @@
       "path": "articles/2026-11-11-balto-film.json"
     },
     {
+      "id": "2026-11-11-aldabra",
+      "title": "Aldabra, un atoll exceptionnel à préserver",
+      "level": "B2",
+      "theme": "environnement",
+      "date": "2026-11-11",
+      "summary": "Situé dans l’ouest de l’océan Indien, Aldabra est un atoll surélevé des Seychelles classé pour son patrimoine naturel. Il abrite des espèces endémiques, de grandes populations de tortues et d’oiseaux marins, mais reste exposé à diverses menaces.",
+      "path": "articles/2026-11-11-aldabra.json"
+    },
+    {
       "id": "2026-11-11-ainulindale",
       "title": "La Grande Musique de Tolkien : genèse et héritage de l’Ainulindalë",
       "level": "B2",
