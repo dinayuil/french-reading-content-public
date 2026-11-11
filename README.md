@@ -20,11 +20,11 @@ App 先拉 `manifest.json`，再按月拉索引，点开文章才拉全文。
 - 改编文由语言模型简化改写、另一个模型审校；不是原文，也不代表原作者或来源方背书。
 - 本仓库不包含原文；原文只保存在私有仓库。
 
-## 校验与发布
+## 校验
 
-推送 `main` 时 GitHub Actions 先跑 `node --test scripts/lib/validate.test.mjs`，再跑 `node scripts/check.mjs`；通过后把仓库根目录的文件发布到 GitHub Pages：
+本仓库只存数据并做校验，**不部署、不启用 Pages**。只有 app 仓库有 Pages。
 
-<https://blog.yosorano.cc/french-reading-content-public/>
+推送 `main` 或开 PR 时，GitHub Actions 先跑 `node --test scripts/lib/validate.test.mjs`，再跑 `node scripts/check.mjs`。校验失败会在 Actions 里标红；app 只应读取通过校验的 `main`。
 
 本地校验：
 
@@ -33,4 +33,13 @@ npm test
 npm run check
 ```
 
-任何缺字段、许可不在白名单、题目证据不是原文句子、中文翻译与正文不对齐的文章都会让校验失败，不会发布。
+App 运行时从 raw 读取：
+
+```text
+https://raw.githubusercontent.com/dinayuil/french-reading-content-public/main/
+  manifest.json
+  months/<YYYY-MM>.json
+  articles/<id>.json
+```
+
+内容更新推送到 `main` 后，app 下一次请求就能拿到，不需要重新发布 app。
