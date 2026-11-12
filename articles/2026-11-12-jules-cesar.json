@@ -1,0 +1,263 @@
+{
+  "id": "2026-11-12-jules-cesar",
+  "title": "Jules César, de sa naissance à son héritage",
+  "level": "B1",
+  "theme": "histoire",
+  "date": "2026-11-12",
+  "summary": "Portrait bref de Jules César : carrière, conquêtes, guerre civile, assassinat et héritage.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Jules César naquit à Rome le 12 juillet 100 avant J.-C.",
+        "Il fut général, homme politique et écrivain romain.",
+        "Il mourut assassiné à Rome le 15 mars 44 avant J.-C., à 56 ans."
+      ]
+    },
+    {
+      "sentences": [
+        "Sa famille disait descendre d’Iule, fils d’Énée et de Vénus; il était patricien par son père.",
+        "Par sa mère, proche de Marius, et par Cornélia, il se rapprochait des plébéiens.",
+        "Jeune, il vécut dans la Subure et attira l’attention de Sylla."
+      ]
+    },
+    {
+      "sentences": [
+        "En 75 avant J.-C., des pirates siciliens le capturèrent; il porta sa rançon à 50 talents d’or, soit 1,35 tonne.",
+        "En 78, après la mort de Sylla, il revint à Rome et débuta sa carrière; il fut questeur en Espagne en 68.",
+        "Il fut édile en 65, grand pontife en 63, puis forma avec Pompée et Crassus le premier triumvirat secret."
+      ]
+    },
+    {
+      "sentences": [
+        "De 58 à 50, il fut proconsul en Gaule cisalpine et en Narbonnaise; il conquit la Gaule et passa en Bretagne.",
+        "Le triumvirat fut renouvelé à Lucques en 56, puis s’effondra après la mort de Crassus à Carrhes.",
+        "En 49, César franchit le Rubicon et déclencha la guerre civile; il battit Pompée à Pharsale en 48."
+      ]
+    },
+    {
+      "sentences": [
+        "Pompée fut tué en Égypte; César donna le trône à Cléopâtre, puis vainquit Pharnace en trois jours en 47.",
+        "Il gagna à Thapsus en 46, puis à Munda en Espagne, et reçut la dictature pour dix ans en 45.",
+        "Il pardonna à ses ennemis, embellit Rome, donna des terres et réforma le calendrier."
+      ]
+    },
+    {
+      "sentences": [
+        "Des sénateurs le tuèrent le 15 mars 44, avec 23 coups de poignard; Brutus donna le dernier.",
+        "Après sa mort, Octave, son petit-neveu et héritier, devint premier empereur en 31 avant J.-C.",
+        "César fut divinisé; son nom donna juillet, et le titre « César » inspira « Kaiser » et « tsar »."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "patricien"
+    },
+    {
+      "term": "plébéiens"
+    },
+    {
+      "term": "triumvirat"
+    },
+    {
+      "term": "proconsul"
+    },
+    {
+      "term": "Narbonnaise"
+    },
+    {
+      "term": "Rubicon"
+    },
+    {
+      "term": "dictature"
+    },
+    {
+      "term": "divinisé"
+    },
+    {
+      "term": "héritier"
+    },
+    {
+      "term": "rançon"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quand Jules César est-il né ?",
+      "options": [
+        "Le 12 juillet 100 avant J.-C.",
+        "Le 15 mars 44 avant J.-C.",
+        "Le 12 juillet 44 avant J.-C.",
+        "Le 15 mars 100 avant J.-C."
+      ],
+      "answerIndex": 0,
+      "evidence": "Jules César naquit à Rome le 12 juillet 100 avant J.-C."
+    },
+    {
+      "id": "q2",
+      "prompt": "Qu’a fait César en 49 avant J.-C. ?",
+      "options": [
+        "Il a franchi le Rubicon et déclenché la guerre civile.",
+        "Il a conquis la Gaule.",
+        "Il a formé le premier triumvirat.",
+        "Il a reçu la dictature pour dix ans."
+      ],
+      "answerIndex": 0,
+      "evidence": "En 49, César franchit le Rubicon et déclencha la guerre civile; il battit Pompée à Pharsale en 48."
+    },
+    {
+      "id": "q3",
+      "prompt": "Qui a donné le dernier coup de poignard à César ?",
+      "options": [
+        "Pompée",
+        "Octave",
+        "Brutus",
+        "Crassus"
+      ],
+      "answerIndex": 2,
+      "evidence": "Des sénateurs le tuèrent le 15 mars 44, avec 23 coups de poignard; Brutus donna le dernier."
+    },
+    {
+      "id": "q4",
+      "prompt": "À combien César a-t-il porté sa rançon ?",
+      "options": [
+        "À 23 talents d’or",
+        "À 50 talents d’or",
+        "À 1,35 tonne de bronze",
+        "À 100 talents d’or"
+      ],
+      "answerIndex": 1,
+      "evidence": "En 75 avant J.-C., des pirates siciliens le capturèrent; il porta sa rançon à 50 talents d’or, soit 1,35 tonne."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que fit Octave après la mort de César ?",
+      "options": [
+        "Il fut proconsul en Gaule.",
+        "Il devint roi d’Égypte.",
+        "Il réforma le calendrier.",
+        "Il devint premier empereur en 31 avant J.-C."
+      ],
+      "answerIndex": 3,
+      "evidence": "Après sa mort, Octave, son petit-neveu et héritier, devint premier empereur en 31 avant J.-C."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quels titres le mot « César » a-t-il inspirés ?",
+      "options": [
+        "« Kaiser » et « tsar »",
+        "« Rubicon » et « triumvirat »",
+        "« juillet » et « août »",
+        "« questeur » et « édile »"
+      ],
+      "answerIndex": 0,
+      "evidence": "César fut divinisé; son nom donna juillet, et le titre « César » inspira « Kaiser » et « tsar »."
+    },
+    {
+      "id": "q7",
+      "prompt": "En quelle année César a-t-il reçu la dictature pour dix ans ?",
+      "options": [
+        "En 45 avant J.-C.",
+        "En 46 avant J.-C.",
+        "En 47 avant J.-C.",
+        "En 49 avant J.-C."
+      ],
+      "answerIndex": 0,
+      "evidence": "Il gagna à Thapsus en 46, puis à Munda en Espagne, et reçut la dictature pour dix ans en 45."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "尤利乌斯·凯撒：从出生到遗产",
+      "summary": "尤利乌斯·凯撒简传：仕途、征服、内战、遇刺与遗产。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "尤利乌斯·凯撒于公元前100年7月12日出生在罗马。",
+            "他是罗马的将军、政治家和作家。",
+            "他于公元前44年3月15日在罗马遇刺身亡，享年56岁。"
+          ]
+        },
+        {
+          "sentences": [
+            "他的家族自称是埃涅阿斯与维纳斯之子尤卢斯的后裔；从父系来看，他是贵族。",
+            "通过其母系——与马略关系密切——以及通过科尔内利娅，他与平民阶层更为接近。",
+            "年轻时，他住在苏布拉区，并引起了苏拉的注意。"
+          ]
+        },
+        {
+          "sentences": [
+            "公元前75年，西西里海盗俘虏了他；他把自己的赎金提高到50塔兰特黄金，即1.35吨。",
+            "公元前78年，苏拉死后，他回到罗马并开始仕途；公元前68年，他在西班牙担任财务官。",
+            "公元前65年他任市政官，公元前63年任大祭司，随后与庞培和克拉苏组成秘密的前三头同盟。"
+          ]
+        },
+        {
+          "sentences": [
+            "从公元前58年到前50年，他担任山南高卢和纳博讷高卢的总督；他征服了高卢并渡海到不列颠。",
+            "三头同盟于公元前56年在卢卡续约，随后在克拉苏死于卡莱后瓦解。",
+            "公元前49年，凯撒渡过卢比孔河并引发内战；公元前48年，他在法萨卢斯击败庞培。"
+          ]
+        },
+        {
+          "sentences": [
+            "庞培在埃及被杀；凯撒把王位给了克利奥帕特拉，随后于公元前47年三天内击败法尔纳凯斯。",
+            "公元前46年他在塔普苏斯获胜，随后在西班牙的蒙达获胜，并于公元前45年获得为期十年的独裁官职位。",
+            "他宽恕敌人，美化罗马，分配土地并改革历法。"
+          ]
+        },
+        {
+          "sentences": [
+            "公元前44年3月15日，一些元老杀死了他，共刺了23刀；布鲁图斯刺下最后一刀。",
+            "他死后，他的侄孙兼继承人屋大维于公元前31年成为第一位皇帝。",
+            "凯撒被神化；他的名字产生了“七月”，而“凯撒”这一称号启发了“Kaiser”和“沙皇”。"
+          ]
+        }
+      ],
+      "glossary": {
+        "patricien": "古罗马贵族阶层成员。",
+        "plébéiens": "古罗马平民阶层。",
+        "triumvirat": "三头同盟，即三人共同执政的政治联盟。",
+        "proconsul": "前执政官出任的行省总督。",
+        "Narbonnaise": "纳博讷高卢，罗马在高卢南部设立的行省。",
+        "Rubicon": "卢比孔河，意大利北部河流；凯撒渡河象征内战开始。",
+        "dictature": "独裁官职位或独裁统治。",
+        "divinisé": "被神化，被奉为神明。",
+        "héritier": "继承人。",
+        "rançon": "赎金。"
+      },
+      "questions": {
+        "q1": "尤利乌斯·凯撒出生于公元前100年7月12日。",
+        "q2": "公元前49年，凯撒渡过卢比孔河并引发内战；公元前48年，他在法萨卢斯击败庞培。",
+        "q3": "公元前44年3月15日，一些元老杀死了他，共刺了23刀；布鲁图斯刺下最后一刀。",
+        "q4": "公元前75年，西西里海盗俘虏了他；他把自己的赎金提高到50塔兰特黄金，即1.35吨。",
+        "q5": "他死后，他的侄孙兼继承人屋大维于公元前31年成为第一位皇帝。",
+        "q6": "凯撒被神化；他的名字产生了“七月”，而“凯撒”这一称号启发了“Kaiser”和“沙皇”。",
+        "q7": "公元前46年他在塔普苏斯获胜，随后在西班牙的蒙达获胜，并于公元前45年获得为期十年的独裁官职位。"
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Jules César",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2504592&title=Jules%20C%C3%A9sar",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-12",
+    "revisionId": "2504592"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-12",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

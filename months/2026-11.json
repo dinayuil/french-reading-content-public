@@ -2,6 +2,33 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "2026-11-12-manifester-comme-pilier-de-la-democratie",
+      "title": "La protestation, au-delà du vote",
+      "level": "B2",
+      "theme": "société",
+      "date": "2026-11-12",
+      "summary": "À partir d’une réflexion sur la démocratie et la contestation, ce texte analyse des exemples au Japon, en Inde, en Russie, en Afrique, en Géorgie, en Roumanie, au Bangladesh et au Népal. Version anglaise de Malka Older, espagnole de Valeria Malavolta, française de Guillaume Cottin ; illustration Canva Pro.",
+      "path": "articles/2026-11-12-manifester-comme-pilier-de-la-democratie.json"
+    },
+    {
+      "id": "2026-11-12-jules-cesar",
+      "title": "Jules César, de sa naissance à son héritage",
+      "level": "B1",
+      "theme": "histoire",
+      "date": "2026-11-12",
+      "summary": "Portrait bref de Jules César : carrière, conquêtes, guerre civile, assassinat et héritage.",
+      "path": "articles/2026-11-12-jules-cesar.json"
+    },
+    {
+      "id": "2026-11-12-cathedrale-de-la-trinite-de-saint-petersbourg",
+      "title": "La cathédrale Troitski, mémoire de Saint-Pétersbourg",
+      "level": "B1",
+      "theme": "histoire",
+      "date": "2026-11-12",
+      "summary": "Cet édifice orthodoxe, bâti au XIXe siècle, a traversé guerres, fermeture soviétique, incendie et restauration.",
+      "path": "articles/2026-11-12-cathedrale-de-la-trinite-de-saint-petersbourg.json"
+    },
+    {
       "id": "2026-11-11-madagascar-s-engage-pour-la-biodiversite-a-travers-la-protec",
       "title": "À la COP17, Madagascar met en avant sa biodiversité et ses communautés",
       "level": "B2",

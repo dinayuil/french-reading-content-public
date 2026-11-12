@@ -1,0 +1,283 @@
+{
+  "id": "2026-11-12-cathedrale-de-la-trinite-de-saint-petersbourg",
+  "title": "La cathédrale Troitski, mémoire de Saint-Pétersbourg",
+  "level": "B1",
+  "theme": "histoire",
+  "date": "2026-11-12",
+  "summary": "Cet édifice orthodoxe, bâti au XIXe siècle, a traversé guerres, fermeture soviétique, incendie et restauration.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "L’édifice Troitski se trouve à Saint-Pétersbourg.",
+        "On le reconnaît à ses cinq coupoles bleues.",
+        "Vassili Stassov l’a construit entre 1828 et 1835, dans un style impérial."
+      ]
+    },
+    {
+      "sentences": [
+        "Le régiment Izmaïlovski, créé en 1730 par Anna Ivanovna, avait sa propre église.",
+        "Une tente servait de lieu de culte dès 1733.",
+        "Élisabeth Ire a fait bâtir une église en bois entre 1754 et 1756.",
+        "L’inondation de 1824 l’a fortement abîmée, et Nicolas Ier a demandé une reconstruction."
+      ]
+    },
+    {
+      "sentences": [
+        "Les travaux ont commencé en mai 1828 avec de l’argent de l’État et de Nicolas Ier.",
+        "Ils ont coûté trois millions de roubles.",
+        "La consécration a eu lieu le 25 mai 1835, par Filaret Drozdov.",
+        "L’édifice dépasse 80 mètres et pouvait recevoir 3 000 personnes."
+      ]
+    },
+    {
+      "sentences": [
+        "Fermée en 1938, la cathédrale est devenue un entrepôt du ministère des Télécommunications.",
+        "Pendant la guerre, son sous-sol a servi d’abri.",
+        "L’Église orthodoxe l’a récupérée en 1990, année de son classement UNESCO.",
+        "Un incendie a frappé le bâtiment le 25 août 2006, pendant des travaux.",
+        "Le dôme principal s’est effondré, mais trois coupoles sur quatre ont été sauvées."
+      ]
+    },
+    {
+      "sentences": [
+        "La reconstruction a commencé en 2007.",
+        "La cathédrale a rouvert en 2010, et les réparations ont été achevées le 11 janvier 2017.",
+        "La ville a donné 30 puis 58 millions de roubles; le pape Benoît XVI a ajouté 10 000 euros.",
+        "Le grand dôme seul a coûté 128 millions de roubles."
+      ]
+    },
+    {
+      "sentences": [
+        "La Colonne de la Gloire, faite de 108 canons turcs, a été dressée en 1886.",
+        "Staline l’a fait détruire en 1929; elle a été reconstruite en 2003-2004.",
+        "Le 15 février 1835, le mariage de Fiodor Dostoïevski et Anna Snitkina y a été célébré.",
+        "En 1894, on y a organisé les funérailles d’Anton Rubinstein."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "coupoles"
+    },
+    {
+      "term": "impérial"
+    },
+    {
+      "term": "régiment"
+    },
+    {
+      "term": "consécration"
+    },
+    {
+      "term": "entrepôt"
+    },
+    {
+      "term": "sous-sol"
+    },
+    {
+      "term": "classement"
+    },
+    {
+      "term": "effondré"
+    },
+    {
+      "term": "reconstruction"
+    },
+    {
+      "term": "dressée"
+    },
+    {
+      "term": "funérailles"
+    },
+    {
+      "term": "abîmée"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Qui a construit la cathédrale Troitski ?",
+      "options": [
+        "Nicolas Ier",
+        "Élisabeth Ire",
+        "Vassili Stassov",
+        "Filaret Drozdov"
+      ],
+      "answerIndex": 2,
+      "evidence": "Vassili Stassov l’a construit entre 1828 et 1835, dans un style impérial."
+    },
+    {
+      "id": "q2",
+      "prompt": "Combien de personnes la cathédrale pouvait-elle recevoir ?",
+      "options": [
+        "3 000 personnes",
+        "300 personnes",
+        "30 000 personnes",
+        "80 personnes"
+      ],
+      "answerIndex": 0,
+      "evidence": "L’édifice dépasse 80 mètres et pouvait recevoir 3 000 personnes."
+    },
+    {
+      "id": "q3",
+      "prompt": "Que devient la cathédrale après sa fermeture en 1938 ?",
+      "options": [
+        "Une école",
+        "Un entrepôt du ministère des Télécommunications",
+        "Un musée",
+        "Une église en bois"
+      ],
+      "answerIndex": 1,
+      "evidence": "Fermée en 1938, la cathédrale est devenue un entrepôt du ministère des Télécommunications."
+    },
+    {
+      "id": "q4",
+      "prompt": "Que s’est-il passé le 25 août 2006 ?",
+      "options": [
+        "La consécration de la cathédrale",
+        "La réouverture de la cathédrale",
+        "Le mariage de Fiodor Dostoïevski et Anna Snitkina",
+        "Un incendie a frappé le bâtiment"
+      ],
+      "answerIndex": 3,
+      "evidence": "Un incendie a frappé le bâtiment le 25 août 2006, pendant des travaux."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quand les réparations ont-elles été achevées ?",
+      "options": [
+        "En 2007",
+        "En 2010",
+        "Le 11 janvier 2017",
+        "En 2006"
+      ],
+      "answerIndex": 2,
+      "evidence": "La cathédrale a rouvert en 2010, et les réparations ont été achevées le 11 janvier 2017."
+    },
+    {
+      "id": "q6",
+      "prompt": "Qui a ajouté 10 000 euros pour la reconstruction ?",
+      "options": [
+        "Le pape Benoît XVI",
+        "Staline",
+        "Nicolas Ier",
+        "Anna Ivanovna"
+      ],
+      "answerIndex": 0,
+      "evidence": "La ville a donné 30 puis 58 millions de roubles; le pape Benoît XVI a ajouté 10 000 euros."
+    },
+    {
+      "id": "q7",
+      "prompt": "Qu’est-ce que la Colonne de la Gloire ?",
+      "options": [
+        "Une église en bois",
+        "Une colonne faite de 108 canons turcs",
+        "Un dôme bleu",
+        "Un entrepôt du ministère"
+      ],
+      "answerIndex": 1,
+      "evidence": "La Colonne de la Gloire, faite de 108 canons turcs, a été dressée en 1886."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "特罗伊茨基大教堂，圣彼得堡的记忆",
+      "summary": "这座东正教建筑建于19世纪，历经战争、苏联时期的关闭、火灾与修复。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "特罗伊茨基大教堂位于圣彼得堡。",
+            "它以其五个蓝色穹顶而闻名。",
+            "瓦西里·斯塔索夫于1828年至1835年间以帝国风格建造了它。"
+          ]
+        },
+        {
+          "sentences": [
+            "伊兹梅洛夫斯基团由安娜·伊万诺夫娜于1730年创建，拥有自己的教堂。",
+            "从1733年起，一座帐篷被用作礼拜场所。",
+            "伊丽莎白一世于1754年至1756年间让人建造了一座木制教堂。",
+            "1824年的洪水严重损坏了它，尼古拉一世要求重建。"
+          ]
+        },
+        {
+          "sentences": [
+            "工程于1828年5月动工，资金来自国家和尼古拉一世。",
+            "耗资三百万卢布。",
+            "祝圣仪式于1835年5月25日由菲拉雷特·德罗兹多夫主持。",
+            "该建筑高逾80米，可容纳3000人。"
+          ]
+        },
+        {
+          "sentences": [
+            "1938年关闭后，大教堂成为电信部的仓库。",
+            "战争期间，其地下室被用作避难所。",
+            "俄罗斯东正教会于1990年收回它，同年它被列入联合国教科文组织名录。",
+            "2006年8月25日，施工期间一场火灾袭击了该建筑。",
+            "主穹顶坍塌，但四个穹顶中的三个得以保全。"
+          ]
+        },
+        {
+          "sentences": [
+            "重建于2007年开始。",
+            "大教堂于2010年重新开放，修复工程于2017年1月11日完成。",
+            "市政府先后拨款3000万和5800万卢布；教皇本笃十六世追加了1万欧元。",
+            "仅大穹顶一项就耗资1.28亿卢布。"
+          ]
+        },
+        {
+          "sentences": [
+            "光荣柱由108门土耳其火炮制成，于1886年竖立。",
+            "斯大林于1929年下令将其拆除；它于2003至2004年间重建。",
+            "1835年2月15日，费奥多尔·陀思妥耶夫斯基与安娜·斯尼特金娜的婚礼在此举行。",
+            "1894年，安东·鲁宾斯坦的葬礼在此举办。"
+          ]
+        }
+      ],
+      "glossary": {
+        "coupoles": "穹顶，尤其是教堂顶部的圆顶结构。",
+        "impérial": "帝国式的，指与帝国风格或帝国时期相关的建筑风格。",
+        "régiment": "团，军队中的编制单位。",
+        "consécration": "祝圣，宗教仪式中使建筑物神圣化。",
+        "entrepôt": "仓库，用于储存物资的场所。",
+        "sous-sol": "地下室，建筑物地面以下的楼层。",
+        "classement": "列入名录或评级，此处指列入联合国教科文组织世界遗产名录。",
+        "effondré": "坍塌的，指建筑物结构倒塌。",
+        "reconstruction": "重建，指在损毁后重新建造。",
+        "dressée": "竖立的，指柱子或纪念碑被立起。",
+        "funérailles": "葬礼，安葬死者的仪式。",
+        "abîmée": "损坏的，指受到严重破坏。"
+      },
+      "questions": {
+        "q1": "问题：谁建造了特罗伊茨基大教堂？选项：尼古拉一世；伊丽莎白一世；瓦西里·斯塔索夫；菲拉雷特·德罗兹多夫。答案：瓦西里·斯塔索夫。依据：瓦西里·斯塔索夫于1828年至1835年间以帝国风格建造了它。",
+        "q2": "问题：大教堂可容纳多少人？选项：3000人；300人；30000人；80人。答案：3000人。依据：该建筑高逾80米，可容纳3000人。",
+        "q3": "问题：1938年关闭后，大教堂变成了什么？选项：一所学校；电信部的仓库；一座博物馆；一座木制教堂。答案：电信部的仓库。依据：1938年关闭后，大教堂成为电信部的仓库。",
+        "q4": "问题：2006年8月25日发生了什么？选项：大教堂的祝圣；大教堂重新开放；费奥多尔·陀思妥耶夫斯基与安娜·斯尼特金娜的婚礼；一场火灾袭击了该建筑。答案：一场火灾袭击了该建筑。依据：2006年8月25日，施工期间一场火灾袭击了该建筑。",
+        "q5": "问题：修复工程何时完成？选项：2007年；2010年；2017年1月11日；2006年。答案：2017年1月11日。依据：大教堂于2010年重新开放，修复工程于2017年1月11日完成。",
+        "q6": "问题：谁为重建追加了1万欧元？选项：教皇本笃十六世；斯大林；尼古拉一世；安娜·伊万诺夫娜。答案：教皇本笃十六世。依据：市政府先后拨款3000万和5800万卢布；教皇本笃十六世追加了1万欧元。",
+        "q7": "问题：光荣柱是什么？选项：一座木制教堂；由108门土耳其火炮制成的柱子；一个蓝色穹顶；部里的仓库。答案：由108门土耳其火炮制成的柱子。依据：光荣柱由108门土耳其火炮制成，于1886年竖立。"
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Cathédrale de la Trinité de Saint-Pétersbourg",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2572729&title=Cath%C3%A9drale%20de%20la%20Trinit%C3%A9%20de%20Saint-P%C3%A9tersbourg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-12",
+    "revisionId": "2572729"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-12",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

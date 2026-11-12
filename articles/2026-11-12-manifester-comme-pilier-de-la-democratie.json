@@ -1,0 +1,268 @@
+{
+  "id": "2026-11-12-manifester-comme-pilier-de-la-democratie",
+  "title": "La protestation, au-delà du vote",
+  "level": "B2",
+  "theme": "société",
+  "date": "2026-11-12",
+  "summary": "À partir d’une réflexion sur la démocratie et la contestation, ce texte analyse des exemples au Japon, en Inde, en Russie, en Afrique, en Géorgie, en Roumanie, au Bangladesh et au Népal. Version anglaise de Malka Older, espagnole de Valeria Malavolta, française de Guillaume Cottin ; illustration Canva Pro.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "La démocratie est souvent présentée comme un système ordonné de représentation et de délibération, dont la linéarité rappelle l’architecture classique de bâtiments officiels.",
+        "Les votes désignent des députés, les débats conduisent à des lois et la participation est comparée à des colonnes menant à un fronton.",
+        "Pourtant, des salles confortables et des discours ne suffisent pas à définir ce régime."
+      ]
+    },
+    {
+      "sentences": [
+        "Le gouvernement du peuple devrait être central ; or, dans la plupart des systèmes dits démocratiques, les citoyens se limitent presque à voter.",
+        "Ce vote est souvent restreint, difficile et limité, ce qui sert peu la responsabilité ou l’expression de préférences précises.",
+        "La manifestation réduit alors en partie l’écart entre la promesse démocratique et les structures formelles."
+      ]
+    },
+    {
+      "sentences": [
+        "Elle permet d’exprimer des réactions générales ou des propositions ciblées, et d’influencer le gouvernement entre deux élections.",
+        "Elle favorise aussi des coalitions, la solidarité et une conscience collective des responsabilités démocratiques.",
+        "Voter demeure un acte unique, standardisé et souvent solitaire, alors que protester offre des dizaines, voire des centaines, de combinaisons créatives."
+      ]
+    },
+    {
+      "sentences": [
+        "Cet épisode révèle l’ingéniosité de ceux qui utilisent la contestation pour inspirer, exprimer colère ou détermination, ou faire pression sur les gouvernants.",
+        "Un article collaboratif sur la musique contestataire en donne des exemples variés, dont l’emploi de chansons comme défense.",
+        "Au Japon, des jeunes s’initient à l’activisme en distribuant des affiches ; en Inde, le « Parti des cafards » a mobilisé la jeunesse par des mèmes et l’humour en ligne."
+      ]
+    },
+    {
+      "sentences": [
+        "En Russie, la répression sévère pousse l’art de rue à évoluer, et beaucoup d’exilés diffusent allusions et jeux de mots dans des vidéos.",
+        "L’efficacité des protestations en ligne et dans la rue fait question ; le numérique a ouvert de nouvelles contestations, mais aussi de nouvelles répressions.",
+        "Ranking Digital Rights a contribué à un article sur la complicité de télécoms dans des coupures d’Internet en Afrique ; AlgorithmWatch décrit un logiciel russe de surveillance utilisé contre des manifestants en Géorgie.",
+        "Une étude de Funky Citizens en Roumanie montre que le virtuel peut détourner, affaiblir ou récupérer l’énergie contestataire."
+      ]
+    },
+    {
+      "sentences": [
+        "Il faut interroger l’impact durable des manifestations actuelles et leurs conséquences, bonnes comme mauvaises.",
+        "Au Bangladesh, celles d’il y a deux ans ont changé le gouvernement ; un article demande si les responsabilités démocratiques y sont désormais assumées autrement.",
+        "Un texte marquant du Népal suit les participants aux manifestations de la Génération Z de 2025 et étudie les séquelles des blessures et traumatismes.",
+        "Cet épisode mensuel souligne les points communs entre pays et les exceptions qui inspirent d’autres idées ; il constitue lui-même une protestation, affirmant que celle-ci reste légitime et importante pour toute démocratie."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "linéarité"
+    },
+    {
+      "term": "délibération"
+    },
+    {
+      "term": "fronton"
+    },
+    {
+      "term": "standardisé"
+    },
+    {
+      "term": "ingéniosité"
+    },
+    {
+      "term": "contestataire"
+    },
+    {
+      "term": "répression"
+    },
+    {
+      "term": "allusions"
+    },
+    {
+      "term": "séquelles"
+    },
+    {
+      "term": "légitime"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon l’article, à quoi les citoyens se limitent-ils presque dans la plupart des systèmes dits démocratiques ?",
+      "options": [
+        "À voter",
+        "À manifester",
+        "À débattre des lois",
+        "À financer les partis"
+      ],
+      "answerIndex": 0,
+      "evidence": "Le gouvernement du peuple devrait être central ; or, dans la plupart des systèmes dits démocratiques, les citoyens se limitent presque à voter."
+    },
+    {
+      "id": "q2",
+      "prompt": "Que permet la manifestation entre deux élections ?",
+      "options": [
+        "Remplacer les députés",
+        "Influencer le gouvernement",
+        "Organiser les élections",
+        "Supprimer les débats"
+      ],
+      "answerIndex": 1,
+      "evidence": "Elle permet d’exprimer des réactions générales ou des propositions ciblées, et d’influencer le gouvernement entre deux élections."
+    },
+    {
+      "id": "q3",
+      "prompt": "Comment l’article décrit-il l’acte de voter ?",
+      "options": [
+        "Une action collective créative",
+        "Un moyen de pression permanent",
+        "Un acte unique, standardisé et souvent solitaire",
+        "Une forme de délibération parlementaire"
+      ],
+      "answerIndex": 2,
+      "evidence": "Voter demeure un acte unique, standardisé et souvent solitaire, alors que protester offre des dizaines, voire des centaines, de combinaisons créatives."
+    },
+    {
+      "id": "q4",
+      "prompt": "Au Japon, comment des jeunes s’initient-ils à l’activisme ?",
+      "options": [
+        "En créant le Parti des cafards",
+        "En diffusant des vidéos depuis l’exil",
+        "En utilisant un logiciel de surveillance",
+        "En distribuant des affiches"
+      ],
+      "answerIndex": 3,
+      "evidence": "Au Japon, des jeunes s’initient à l’activisme en distribuant des affiches ; en Inde, le « Parti des cafards » a mobilisé la jeunesse par des mèmes et l’humour en ligne."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que montre une étude de Funky Citizens en Roumanie ?",
+      "options": [
+        "Le virtuel peut détourner, affaiblir ou récupérer l’énergie contestataire",
+        "Le numérique empêche toute répression",
+        "Les manifestations en ligne sont toujours efficaces",
+        "La rue remplace totalement le vote"
+      ],
+      "answerIndex": 0,
+      "evidence": "Une étude de Funky Citizens en Roumanie montre que le virtuel peut détourner, affaiblir ou récupérer l’énergie contestataire."
+    },
+    {
+      "id": "q6",
+      "prompt": "Au Bangladesh, qu’ont changé les manifestations d’il y a deux ans ?",
+      "options": [
+        "Le système électoral",
+        "Le gouvernement",
+        "La loi sur Internet",
+        "Les partis politiques"
+      ],
+      "answerIndex": 1,
+      "evidence": "Au Bangladesh, celles d’il y a deux ans ont changé le gouvernement ; un article demande si les responsabilités démocratiques y sont désormais assumées autrement."
+    },
+    {
+      "id": "q7",
+      "prompt": "Que suit un texte marquant du Népal ?",
+      "options": [
+        "Les télécoms africains",
+        "Le Parti des cafards indien",
+        "Les participants aux manifestations de la Génération Z de 2025",
+        "Les exilés russes"
+      ],
+      "answerIndex": 2,
+      "evidence": "Un texte marquant du Népal suit les participants aux manifestations de la Génération Z de 2025 et étudie les séquelles des blessures et traumatismes."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "抗议，超越投票",
+      "summary": "本文从对民主与抗争的思考出发，分析日本、印度、俄罗斯、非洲、格鲁吉亚、罗马尼亚、孟加拉国和尼泊尔的例子。英文版由 Malka Older 翻译，西班牙文版由 Valeria Malavolta 翻译，法文版由 Guillaume Cottin 翻译；插图来自 Canva Pro。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "民主常被呈现为一个有序的代表与审议体系，其线性特征令人想起官方建筑的古典建筑风格。",
+            "投票选出议员，辩论促成法律，参与则被比作通向三角楣的立柱。",
+            "然而，舒适的厅堂和演说并不足以定义这一政体。"
+          ]
+        },
+        {
+          "sentences": [
+            "人民的政府本应是核心；然而，在大多数所谓民主制度中，公民几乎仅限于投票。",
+            "这种投票往往受到限制、困难重重且范围有限，几乎无助于责任担当或精确偏好的表达。",
+            "于是，示威部分缩小了民主承诺与形式结构之间的差距。"
+          ]
+        },
+        {
+          "sentences": [
+            "它使人能够表达总体反应或有针对性的提议，并在两次选举之间影响政府。",
+            "它还有助于形成联盟、团结以及对民主责任的集体意识。",
+            "投票仍是一种单一、标准化且往往孤独的行为，而抗议则提供数十种乃至数百种富有创造性的组合。"
+          ]
+        },
+        {
+          "sentences": [
+            "这一集揭示了那些利用抗争来启发他人、表达愤怒或决心，或向执政者施压之人的巧思。",
+            "一篇关于抗议音乐的协作文章给出了多种例子，其中包括把歌曲用作辩护。",
+            "在日本，年轻人通过分发海报开始接触行动主义；在印度，“蟑螂党”通过模因和网络幽默动员青年。"
+          ]
+        },
+        {
+          "sentences": [
+            "在俄罗斯，严厉的镇压促使街头艺术演变，许多流亡者在视频中传播影射和文字游戏。",
+            "线上和街头抗议的有效性受到质疑；数字技术开辟了新的抗争，但也带来了新的镇压。",
+            "Ranking Digital Rights 为一篇关于电信公司在非洲断网中充当共谋的文章作出了贡献；AlgorithmWatch 描述了格鲁吉亚用于对付示威者的俄罗斯监控软件。",
+            "Funky Citizens 在罗马尼亚的一项研究表明，虚拟空间可能转移、削弱或收编抗争能量。"
+          ]
+        },
+        {
+          "sentences": [
+            "必须审视当前示威的持久影响及其后果，无论好坏。",
+            "在孟加拉国，两年前的示威改变了政府；一篇文章追问那里的民主责任如今是否以另一种方式承担。",
+            "尼泊尔一篇引人注目的文章追踪2025年Z世代示威的参与者，并研究伤病与创伤的后遗症。",
+            "这一月度节目强调各国之间的共同点以及激发其他想法的例外；它本身也构成一种抗议，申明抗议对任何民主而言仍然正当且重要。"
+          ]
+        }
+      ],
+      "glossary": {
+        "linéarité": "线性特征；此处指民主被想象为从投票到辩论再到法律的顺序化、直线式过程。",
+        "délibération": "审议；指通过讨论、辩论形成决定的过程。",
+        "fronton": "三角楣；古典建筑正面上方的三角形山花，常由立柱支撑。",
+        "standardisé": "标准化的；指统一规格、缺乏个体差异。",
+        "ingéniosité": "巧思、创造力；指想出巧妙办法的能力。",
+        "contestataire": "抗争性的、抗议的；此处指以音乐表达反对或挑战。",
+        "répression": "镇压；指当局用强力压制抗议或异见。",
+        "allusions": "影射、暗指；指不直接明说而让人意会的表达。",
+        "séquelles": "后遗症；指伤病或创伤留下的长期影响。",
+        "légitime": "正当的、合乎正当性的；指在民主中具有合理依据。"
+      },
+      "questions": {
+        "q1": "根据文章，在大多数所谓民主制度中，公民几乎仅限于什么？选项：A. 投票；B. 示威；C. 辩论法律；D. 资助政党。答案：A。依据：人民的政府本应是核心；然而，在大多数所谓民主制度中，公民几乎仅限于投票。",
+        "q2": "示威在两次选举之间允许什么？选项：A. 取代议员；B. 影响政府；C. 组织选举；D. 取消辩论。答案：B。依据：它使人能够表达总体反应或有针对性的提议，并在两次选举之间影响政府。",
+        "q3": "文章如何描述投票行为？选项：A. 一种集体创造性行动；B. 一种持续施压手段；C. 一种单一、标准化且往往孤独的行为；D. 一种议会审议形式。答案：C。依据：投票仍是一种单一、标准化且往往孤独的行为，而抗议则提供数十种乃至数百种富有创造性的组合。",
+        "q4": "在日本，年轻人如何开始接触行动主义？选项：A. 创建蟑螂党；B. 从流亡中传播视频；C. 使用监控软件；D. 分发海报。答案：D。依据：在日本，年轻人通过分发海报开始接触行动主义；在印度，“蟑螂党”通过模因和网络幽默动员青年。",
+        "q5": "Funky Citizens 在罗马尼亚的一项研究显示了什么？选项：A. 虚拟空间可能转移、削弱或收编抗争能量；B. 数字技术阻止一切镇压；C. 线上示威总是有效；D. 街头完全取代投票。答案：A。依据：Funky Citizens 在罗马尼亚的一项研究表明，虚拟空间可能转移、削弱或收编抗争能量。",
+        "q6": "在孟加拉国，两年前的示威改变了什么？选项：A. 选举制度；B. 政府；C. 互联网法；D. 政党。答案：B。依据：在孟加拉国，两年前的示威改变了政府；一篇文章追问那里的民主责任如今是否以另一种方式承担。",
+        "q7": "尼泊尔一篇引人注目的文章追踪什么？选项：A. 非洲电信公司；B. 印度蟑螂党；C. 2025年Z世代示威的参与者；D. 俄罗斯流亡者。答案：C。依据：尼泊尔一篇引人注目的文章追踪2025年Z世代示威的参与者，并研究伤病与创伤的后遗症。"
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Manifester comme pilier de la démocratie",
+    "authors": [
+      "Guillaume Cottin"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/09/304302/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-12",
+    "publishedAt": "2026-11-09",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-12",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}
