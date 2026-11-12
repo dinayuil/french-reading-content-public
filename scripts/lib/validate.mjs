@@ -6,8 +6,21 @@ const ALLOWED_LICENSE =
   /(^|[^a-z])(pd|public domain|cc0|cc by(-sa)?)([^a-z]|$)/i;
 const FORBIDDEN_LICENSE =
   /(^|[^a-z])(nc|nd|nc-nd|all rights reserved|proprietary|unknown)([^a-z]|$)/i;
-const MONTH_RE = /^\d{4}-(0[1-9]|1[0-2])$/;
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
+
+function isCalendarDate(value) {
+  if (typeof value !== 'string' || !DATE_RE.test(value)) {
+    return false;
+  }
+  const [year, month, day] = value.split('-').map(Number);
+  const date = new Date(0);
+  date.setUTCFullYear(year, month - 1, day);
+  return (
+    date.getUTCFullYear() === year &&
+    date.getUTCMonth() === month - 1 &&
+    date.getUTCDate() === day
+  );
+}
 
 const isRecord = (value) =>
   typeof value === 'object' && value !== null && !Array.isArray(value);
@@ -47,8 +60,8 @@ function validateSource(article, fail) {
     fail,
     'source.retrievedAt',
   );
-  if (retrievedAt && !DATE_RE.test(retrievedAt)) {
-    fail('source.retrievedAt must be YYYY-MM-DD');
+  if (retrievedAt && !isCalendarDate(retrievedAt)) {
+    fail('source.retrievedAt must be a valid YYYY-MM-DD date');
   }
 
   if (
@@ -72,9 +85,9 @@ function validateSource(article, fail) {
   if (source.publishedAt !== undefined) {
     if (
       typeof source.publishedAt !== 'string' ||
-      !DATE_RE.test(source.publishedAt)
+      !isCalendarDate(source.publishedAt)
     ) {
-      fail('source.publishedAt must be YYYY-MM-DD');
+      fail('source.publishedAt must be a valid YYYY-MM-DD date');
     }
   }
 
@@ -96,8 +109,8 @@ function validateAdaptation(article, fail) {
 
   requireString(adaptation, 'model', fail, 'adaptation.model');
   const date = requireString(adaptation, 'date', fail, 'adaptation.date');
-  if (date && !DATE_RE.test(date)) {
-    fail('adaptation.date must be YYYY-MM-DD');
+  if (date && !isCalendarDate(date)) {
+    fail('adaptation.date must be a valid YYYY-MM-DD date');
   }
   requireString(adaptation, 'changes', fail, 'adaptation.changes');
   requireString(adaptation, 'reviewer', fail, 'adaptation.reviewer');
@@ -211,8 +224,8 @@ export function validateArticle(article, file = 'article') {
   requireString(article, 'theme', fail, 'theme');
   requireString(article, 'summary', fail, 'summary');
   const date = requireString(article, 'date', fail, 'date');
-  if (date && !DATE_RE.test(date)) {
-    fail('date must be YYYY-MM-DD');
+  if (date && !isCalendarDate(date)) {
+    fail('date must be a valid YYYY-MM-DD date');
   }
   if (!LEVELS.has(article.level)) {
     fail(`level must be one of ${[...LEVELS].join(', ')}`);
@@ -368,8 +381,8 @@ async function listJsonFiles(directory) {
 }
 
 /**
- * Validate a content repository (manifest -> month indexes -> articles).
- * Returns the collected errors and the number of article/month files seen.
+ * Validate a content repository (manifest -> day indexes -> articles).
+ * Returns the collected errors and the number of article/day files seen.
  */
 export async function validateRepository(root = process.cwd()) {
   const absoluteRoot = path.resolve(root);
@@ -380,138 +393,184 @@ export async function validateRepository(root = process.cwd()) {
 
   const manifestFile = path.join(absoluteRoot, 'manifest.json');
   const manifest = await readJson(manifestFile, fail);
-  const months =
-    isRecord(manifest) && Array.isArray(manifest.months) ? manifest.months : [];
+  const days =
+    isRecord(manifest) && Array.isArray(manifest.days) ? manifest.days : [];
 
   if (
     !isRecord(manifest) ||
-    !Array.isArray(manifest.months) ||
-    manifest.months.length === 0 ||
-    manifest.months.some(
-      (month) => !isNonEmptyString(month) || !MONTH_RE.test(month),
-    )
+    !Array.isArray(manifest.days) ||
+    manifest.days.some((day) => !isCalendarDate(day))
   ) {
-    fail(manifestFile, 'months must be a non-empty array of YYYY-MM strings');
-  } else if (new Set(months).size !== months.length) {
-    fail(manifestFile, 'months must be unique');
+    fail(manifestFile, 'days must be an array of valid YYYY-MM-DD dates');
+  } else if (manifest.months !== undefined) {
+    fail(manifestFile, 'manifest must use days instead of months');
+  } else if (new Set(days).size !== days.length) {
+    fail(manifestFile, 'days must be unique');
   }
 
   const referencedArticles = new Set();
-  for (const month of months) {
-    if (!isNonEmptyString(month) || !MONTH_RE.test(month)) {
+  const referencedIds = new Map();
+  const seenDays = new Set();
+  const articlesRoot = path.join(absoluteRoot, 'articles');
+
+  for (const day of days) {
+    if (!isCalendarDate(day) || seenDays.has(day)) {
       continue;
     }
-    const monthFile = path.join(absoluteRoot, 'months', `${month}.json`);
-    const index = await readJson(monthFile, fail);
+    seenDays.add(day);
+
+    const dayFile = path.join(absoluteRoot, 'days', `${day}.json`);
+    const index = await readJson(dayFile, fail);
     if (!isRecord(index)) {
+      if (index !== undefined) {
+        fail(dayFile, 'day index must be an object');
+      }
       continue;
     }
-    if (index.month !== month) {
-      fail(monthFile, `month must be "${month}"`);
+    if (index.date !== day) {
+      fail(dayFile, `date must be "${day}"`);
     }
     if (!Array.isArray(index.articles)) {
-      fail(monthFile, 'articles must be an array');
+      fail(dayFile, 'articles must be an array');
       continue;
     }
 
+    const dayIds = new Set();
     for (const [entryIndex, entry] of index.articles.entries()) {
       if (!isRecord(entry)) {
-        fail(monthFile, `articles[${entryIndex}] must be an object`);
+        fail(dayFile, `articles[${entryIndex}] must be an object`);
         continue;
       }
 
       const id = requireString(
         entry,
         'id',
-        (message) => fail(monthFile, message),
+        (message) => fail(dayFile, message),
         `articles[${entryIndex}].id`,
       );
       requireString(
         entry,
         'title',
-        (message) => fail(monthFile, message),
+        (message) => fail(dayFile, message),
         `articles[${entryIndex}].title`,
       );
       requireString(
         entry,
         'theme',
-        (message) => fail(monthFile, message),
+        (message) => fail(dayFile, message),
         `articles[${entryIndex}].theme`,
       );
       requireString(
         entry,
         'summary',
-        (message) => fail(monthFile, message),
+        (message) => fail(dayFile, message),
         `articles[${entryIndex}].summary`,
       );
       const entryDate = requireString(
         entry,
         'date',
-        (message) => fail(monthFile, message),
+        (message) => fail(dayFile, message),
         `articles[${entryIndex}].date`,
       );
-      if (entryDate && !DATE_RE.test(entryDate)) {
-        fail(monthFile, `articles[${entryIndex}].date must be YYYY-MM-DD`);
+      if (entryDate && !isCalendarDate(entryDate)) {
+        fail(
+          dayFile,
+          `articles[${entryIndex}].date must be a valid YYYY-MM-DD date`,
+        );
+      } else if (entryDate && entryDate !== day) {
+        fail(
+          dayFile,
+          `articles[${entryIndex}].date must match the day index ("${day}")`,
+        );
       }
       if (!LEVELS.has(entry.level)) {
-        fail(monthFile, `articles[${entryIndex}].level must be A2, B1 or B2`);
+        fail(dayFile, `articles[${entryIndex}].level must be A2, B1 or B2`);
       }
 
       const articlePath = requireString(
         entry,
         'path',
-        (message) => fail(monthFile, message),
+        (message) => fail(dayFile, message),
         `articles[${entryIndex}].path`,
       );
       if (id && articlePath !== `articles/${id}.json`) {
         fail(
-          monthFile,
+          dayFile,
           `articles[${entryIndex}].path must be "articles/${id}.json"`,
         );
       }
-      if (!articlePath) {
+      if (!id || articlePath !== `articles/${id}.json`) {
         continue;
       }
 
+      if (dayIds.has(id)) {
+        fail(dayFile, `articles[${entryIndex}] duplicates id "${id}"`);
+      }
+      dayIds.add(id);
+      if (referencedIds.has(id) && referencedIds.get(id) !== day) {
+        fail(
+          dayFile,
+          `articles[${entryIndex}].id "${id}" is referenced by more than one day index`,
+        );
+      }
+      referencedIds.set(id, day);
+
       const articleFile = path.normalize(path.join(absoluteRoot, articlePath));
+      if (!articleFile.startsWith(`${articlesRoot}${path.sep}`)) {
+        fail(dayFile, `articles[${entryIndex}].path must stay inside articles/`);
+        continue;
+      }
       referencedArticles.add(articleFile);
       const article = await readJson(articleFile, fail);
       if (!isRecord(article)) {
         continue;
       }
-      if (id && article.id !== id) {
-        fail(articleFile, `id must match the month index ("${id}")`);
+      if (article.id !== id) {
+        fail(articleFile, `id must match the day index ("${id}")`);
+      }
+      if (article.date !== entry.date) {
+        fail(articleFile, `date must match the day index ("${day}")`);
+      }
+      for (const field of ['title', 'level', 'theme', 'summary']) {
+        if (article[field] !== entry[field]) {
+          fail(articleFile, `${field} must match the day index`);
+        }
       }
       errors.push(...validateArticle(article, rel(articleFile)));
     }
   }
 
-  const articleFiles = await listJsonFiles(
-    path.join(absoluteRoot, 'articles'),
-  );
+  const articleFiles = await listJsonFiles(articlesRoot);
   for (const articleFile of articleFiles) {
     if (!referencedArticles.has(articleFile)) {
-      fail(articleFile, 'article is not referenced by any month index');
+      fail(articleFile, 'article is not referenced by any day index');
     }
   }
 
-  const monthFiles = await listJsonFiles(path.join(absoluteRoot, 'months'));
-  const listedMonths = new Set(
-    months
-      .filter((month) => isNonEmptyString(month) && MONTH_RE.test(month))
-      .map((month) =>
-        path.normalize(path.join(absoluteRoot, 'months', `${month}.json`)),
+  const dayFiles = await listJsonFiles(path.join(absoluteRoot, 'days'));
+  const listedDays = new Set(
+    days
+      .filter((day) => isCalendarDate(day))
+      .map((day) =>
+        path.normalize(path.join(absoluteRoot, 'days', `${day}.json`)),
       ),
   );
-  for (const monthFile of monthFiles) {
-    if (!listedMonths.has(monthFile)) {
-      fail(monthFile, 'month index is not listed in manifest.json');
+  for (const dayFile of dayFiles) {
+    if (!listedDays.has(dayFile)) {
+      fail(dayFile, 'day index is not listed in manifest.json');
     }
+  }
+
+  const legacyMonthFiles = await listJsonFiles(
+    path.join(absoluteRoot, 'months'),
+  );
+  for (const monthFile of legacyMonthFiles) {
+    fail(monthFile, 'month index is no longer supported; use days/');
   }
 
   return {
     errors,
     articleCount: articleFiles.length,
-    monthCount: monthFiles.length,
+    dayCount: dayFiles.length,
   };
 }

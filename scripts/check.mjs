@@ -4,7 +4,7 @@
 // the pipeline also imports before writing.
 import { validateRepository } from './lib/validate.mjs';
 
-const { errors, articleCount, monthCount } = await validateRepository(
+const { errors, articleCount, dayCount } = await validateRepository(
   process.cwd(),
 );
 
@@ -17,5 +17,5 @@ if (errors.length > 0) {
 }
 
 console.log(
-  `Content check OK: ${articleCount} article(s) across ${monthCount} month(s).`,
+  `Content check OK: ${articleCount} article(s) across ${dayCount} day(s).`,
 );

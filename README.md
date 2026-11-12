@@ -5,13 +5,13 @@
 ## 结构
 
 ```text
-manifest.json                     ← 月份列表
-months/<YYYY-MM>.json             ← 当月文章元数据
+manifest.json                     ← 日期列表
+days/<YYYY-MM-DD>.json            ← 当日文章元数据
 articles/<YYYY-MM-DD-slug>.json   ← 每篇一个文件，含正文、题目、中文翻译、来源与许可
 scripts/check.mjs                 ← 发布前结构校验
 ```
 
-App 先拉 `manifest.json`，再按月拉索引，点开文章才拉全文。
+App 先拉 `manifest.json`，再按日拉索引，点开文章才拉全文。日索引的 `date` 必须与文件名、条目 `date` 和文章元数据一致；每篇文章恰好被一个日索引引用。
 
 ## 许可
 
@@ -38,7 +38,7 @@ App 运行时从 raw 读取：
 ```text
 https://raw.githubusercontent.com/dinayuil/french-reading-content-public/main/
   manifest.json
-  months/<YYYY-MM>.json
+  days/<YYYY-MM-DD>.json
   articles/<id>.json
 ```
 
