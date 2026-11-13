@@ -1,0 +1,273 @@
+{
+  "id": "2026-11-13-australie",
+  "title": "L’Australie : un pays-continent",
+  "level": "B1",
+  "theme": "géographie",
+  "date": "2026-11-13",
+  "summary": "Présentation simplifiée de l’Australie : géographie, politique, histoire, population et économie.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "L’Australie est un État fédéral situé en Océanie.",
+        "Sa capitale est Canberra, sa langue officielle est l’anglais et sa monnaie est le dollar australien."
+      ]
+    },
+    {
+      "sentences": [
+        "Le pays est aussi considéré comme un continent, car des cratons datant de 2,5 milliards d’années y ont été découverts.",
+        "Il s’est séparé du Gondwana il y a environ 200 millions d’années.",
+        "Avec 7 692 000 km2, il est le sixième pays du monde et presque aussi grand que l’Europe.",
+        "Il comprend la Tasmanie et une partie de la Nouvelle-Guinée."
+      ]
+    },
+    {
+      "sentences": [
+        "Les côtes sont les zones les plus habitables, car l’intérieur est surtout désertique.",
+        "On y trouve le Grand Désert de Victoria, le Grand Désert de Sable et le désert de Tanami.",
+        "La Cordillère australienne traverse l’est ; le mont Kosciuszko atteint 2 228 m et le Murray, long de 2 530 km, y prend sa source.",
+        "Uluru, aussi appelé Ayers Rock, est un grand bloc de grès modelé par l’érosion."
+      ]
+    },
+    {
+      "sentences": [
+        "Le pays compte six États et trois territoires, avec Canberra pour capitale politique et Sydney pour plus grande ville.",
+        "Charles III est roi, mais le Premier ministre Anthony Albanese, en fonction depuis 2022, dirige le gouvernement.",
+        "Le Parlement comprend un Sénat et une Chambre des représentants.",
+        "La voie ferrée la plus droite du monde mesure 478 km entre Port Augusta et Kalgoorlie."
+      ]
+    },
+    {
+      "sentences": [
+        "Vers 40 000 av. J.-C., des Aborigènes venus d’Asie du Sud-Est s’installent dans la région.",
+        "En 1788, la First Fleet britannique fonde Sydney avec des soldats et des bagnards.",
+        "De 1788 à 1868, environ 160 000 condamnés sont envoyés du Royaume-Uni.",
+        "En 1851, l’or crée l’État de Victoria, et la fédération naît en 1901 ; les Aborigènes obtiennent la citoyenneté en 1967."
+      ]
+    },
+    {
+      "sentences": [
+        "Le pays compte environ 25 millions d’habitants, surtout dans les villes côtières.",
+        "Son économie repose sur l’agriculture, les mines et les services.",
+        "Grâce à son isolement, il abrite des espèces uniques comme le koala, le kangourou, l’émeu et l’ornithorynque."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "État fédéral"
+    },
+    {
+      "term": "cratons"
+    },
+    {
+      "term": "Gondwana"
+    },
+    {
+      "term": "désertique"
+    },
+    {
+      "term": "Cordillère australienne"
+    },
+    {
+      "term": "grès"
+    },
+    {
+      "term": "érosion"
+    },
+    {
+      "term": "bagnards"
+    },
+    {
+      "term": "condamnés"
+    },
+    {
+      "term": "isolement"
+    },
+    {
+      "term": "ornithorynque"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quelle est la capitale de l’Australie ?",
+      "options": [
+        "Sydney",
+        "Canberra",
+        "Melbourne",
+        "Port Augusta"
+      ],
+      "answerIndex": 1,
+      "evidence": "Sa capitale est Canberra, sa langue officielle est l’anglais et sa monnaie est le dollar australien."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi le pays est-il aussi considéré comme un continent ?",
+      "options": [
+        "Parce qu’il est presque aussi grand que l’Europe",
+        "Parce qu’il comprend la Tasmanie",
+        "Parce que des cratons datant de 2,5 milliards d’années y ont été découverts",
+        "Parce qu’il s’est séparé du Gondwana"
+      ],
+      "answerIndex": 2,
+      "evidence": "Le pays est aussi considéré comme un continent, car des cratons datant de 2,5 milliards d’années y ont été découverts."
+    },
+    {
+      "id": "q3",
+      "prompt": "Où se trouvent les zones les plus habitables ?",
+      "options": [
+        "Sur les côtes",
+        "Dans l’intérieur désertique",
+        "Dans la Cordillère australienne",
+        "Près d’Uluru"
+      ],
+      "answerIndex": 0,
+      "evidence": "Les côtes sont les zones les plus habitables, car l’intérieur est surtout désertique."
+    },
+    {
+      "id": "q4",
+      "prompt": "Que mesure la voie ferrée la plus droite du monde ?",
+      "options": [
+        "2 228 m",
+        "2 530 km",
+        "7 692 000 km2",
+        "478 km"
+      ],
+      "answerIndex": 3,
+      "evidence": "La voie ferrée la plus droite du monde mesure 478 km entre Port Augusta et Kalgoorlie."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quand la fédération australienne naît-elle ?",
+      "options": [
+        "En 1788",
+        "En 1851",
+        "En 1901",
+        "En 1967"
+      ],
+      "answerIndex": 2,
+      "evidence": "En 1851, l’or crée l’État de Victoria, et la fédération naît en 1901 ; les Aborigènes obtiennent la citoyenneté en 1967."
+    },
+    {
+      "id": "q6",
+      "prompt": "Qui dirige le gouvernement australien ?",
+      "options": [
+        "Charles III",
+        "Anthony Albanese",
+        "Le Sénat",
+        "La Chambre des représentants"
+      ],
+      "answerIndex": 1,
+      "evidence": "Charles III est roi, mais le Premier ministre Anthony Albanese, en fonction depuis 2022, dirige le gouvernement."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quel animal unique est cité dans l’article ?",
+      "options": [
+        "Le koala",
+        "Le panda",
+        "Le tigre",
+        "Le loup"
+      ],
+      "answerIndex": 0,
+      "evidence": "Grâce à son isolement, il abrite des espèces uniques comme le koala, le kangourou, l’émeu et l’ornithorynque."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "澳大利亚：一个国家兼大陆",
+      "summary": "对澳大利亚的简化介绍：地理、政治、历史、人口和经济。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "澳大利亚是位于大洋洲的一个联邦制国家。",
+            "其首都是堪培拉，官方语言是英语，货币是澳大利亚元。"
+          ]
+        },
+        {
+          "sentences": [
+            "该国也被视为一个大陆，因为在那里发现了距今25亿年的克拉通。",
+            "它在大约2亿年前与冈瓦纳古陆分离。",
+            "其面积为7,692,000平方公里，是世界第六大国，几乎与欧洲一样大。",
+            "它包括塔斯马尼亚和新几内亚的一部分。"
+          ]
+        },
+        {
+          "sentences": [
+            "海岸是最适宜居住的地区，因为内陆主要是沙漠。",
+            "那里有维多利亚大沙漠、大沙沙漠和塔纳米沙漠。",
+            "澳大利亚山脉横贯东部；科修斯科山高2,228米，长2,530公里的墨累河发源于此。",
+            "乌鲁鲁，又称艾尔斯岩，是一块受侵蚀作用塑造的大型砂岩。"
+          ]
+        },
+        {
+          "sentences": [
+            "该国由六个州和三个领地组成，政治首都是堪培拉，最大城市是悉尼。",
+            "查尔斯三世是国王，但自2022年起任职的总理安东尼·阿尔巴尼斯领导政府。",
+            "议会包括参议院和众议院。",
+            "世界上最直的铁路位于奥古斯塔港和卡尔古利之间，长478公里。"
+          ]
+        },
+        {
+          "sentences": [
+            "约公元前40,000年，来自东南亚的澳大利亚原住民在该地区定居。",
+            "1788年，英国第一舰队带着士兵和流放犯建立了悉尼。",
+            "从1788年到1868年，约有16万名罪犯被从英国送往那里。",
+            "1851年，黄金催生了维多利亚州，1901年澳大利亚联邦成立；原住民于1967年获得公民身份。"
+          ]
+        },
+        {
+          "sentences": [
+            "该国约有2500万居民，主要居住在沿海城市。",
+            "其经济依赖农业、矿业和服务业。",
+            "由于与世隔绝，它拥有考拉、袋鼠、鸸鹋和鸭嘴兽等独特物种。"
+          ]
+        }
+      ],
+      "glossary": {
+        "État fédéral": "由多个州或领地组成、中央与地方分权的国家结构。",
+        "cratons": "大陆地壳中古老而稳定的部分。",
+        "Gondwana": "古代南半球超级大陆，包括今南美洲、非洲、印度、澳大利亚和南极洲等。",
+        "désertique": "具有沙漠特征、干旱少雨的。",
+        "Cordillère australienne": "澳大利亚东部的一条重要山脉或高地体系。",
+        "grès": "由砂粒胶结而成的沉积岩。",
+        "érosion": "风、水等自然力量对岩石和地表的磨损与破坏。",
+        "bagnards": "被流放到殖民地服苦役的犯人。",
+        "condamnés": "被法庭判刑的人。",
+        "isolement": "与其他地区隔绝、孤立的状态。",
+        "ornithorynque": "一种澳大利亚特有的卵生哺乳动物，嘴像鸭嘴。"
+      },
+      "questions": {
+        "q1": "其首都是堪培拉，官方语言是英语，货币是澳大利亚元。",
+        "q2": "该国也被视为一个大陆，因为在那里发现了距今25亿年的克拉通。",
+        "q3": "海岸是最适宜居住的地区，因为内陆主要是沙漠。",
+        "q4": "世界上最直的铁路位于奥古斯塔港和卡尔古利之间，长478公里。",
+        "q5": "1851年，黄金催生了维多利亚州，1901年澳大利亚联邦成立；原住民于1967年获得公民身份。",
+        "q6": "查尔斯三世是国王，但自2022年起任职的总理安东尼·阿尔巴尼斯领导政府。",
+        "q7": "由于与世隔绝，它拥有考拉、袋鼠、鸸鹋和鸭嘴兽等独特物种。"
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Australie",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2692615&title=Australie",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-13",
+    "revisionId": "2692615"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-13",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "id": "2026-11-13-balan-ain",
+  "title": "Balan, une commune entre Rhône, camp militaire et industrie",
+  "level": "B2",
+  "theme": "géographie",
+  "date": "2026-11-13",
+  "summary": "Portrait géographique et historique de Balan, dans l’Ain, marqué par le Rhône, le camp de La Valbonne et une usine chimique.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Balan se trouve dans l’Ain, au sein d’Auvergne-Rhône-Alpes, et relève de l’aire urbaine lyonnaise ainsi que de la Côtière.",
+        "Le territoire, baigné par le Rhône au sud du coteau, s’étend sur 1 804 hectares entre 178 et 233 mètres d’altitude.",
+        "Quatre-vingt-quatre hectares se situent sur la rive gauche du fleuve et ne sont accessibles que par Villette-d’Anthon, en Isère.",
+        "Le hameau de La Valbonne est partagé avec Béligneux."
+      ]
+    },
+    {
+      "sentences": [
+        "En 1872, l’installation du camp militaire de La Valbonne a profondément modifié la vie sociale locale.",
+        "Son entrée principale, sa chapelle et la plupart des casernes occupent 423 hectares sur la commune.",
+        "Une usine de polyéthylène et de chlorure de vinyle s’est implantée en 1965 ; d’abord liée à Elf Aquitaine, elle dépend aujourd’hui d’Arkema et de Kem One.",
+        "Depuis 2012, les difficultés économiques de ce groupe ont conduit à une demande de redressement judiciaire, avec un risque de réduction des effectifs ou de fermeture.",
+        "Les habitants étaient appelés Balanais et Balandrins avant les années 1930."
+      ]
+    },
+    {
+      "sentences": [
+        "Le Rhône forme la limite sud avec l’Isère ; depuis 1306, sept modifications importantes de son lit ont été recensées près de Balan.",
+        "Au Moyen Âge, la localité semble avoir accueilli le port fluvial rattaché à la seigneurie de Montluel, et des registres paroissiaux de 1716 mentionnent divers métiers liés au fleuve.",
+        "Les alluvions ont créé quatre lônes, et le secteur Jons-Anthon est classé Natura 2000 ; la Lône de la Chaume, longue de 6,6 km, traverse aussi le territoire.",
+        "Le climat est classé Cfb pour 1988-2017, tandis que Météo-France situe la commune entre influences semi-continentale et montagnarde.",
+        "Pour 1991-2020, la station de Colombier-Saugnieu, à 14 km, indique 12,8 °C en moyenne et 862,5 mm de précipitations annuelles."
+      ]
+    },
+    {
+      "sentences": [
+        "L’autoroute A42, avec l’échangeur numéro 6, et la RD 1084 traversent le secteur.",
+        "La ligne ferroviaire Lyon-Perrache–Genève possède l’arrêt de La Valbonne, implanté à Béligneux près de la limite communale ; la gare actuelle résulte de travaux livrés en 1958 après un incendie en 1955.",
+        "Le projet de contournement ferroviaire lyonnais concernerait Balan, comme douze autres communes de la Côtière.",
+        "La municipalité, par la voix du maire Bernard Gloriod, s’est associée en novembre 2012 à une requête demandant l’annulation des enquêtes préalables à la déclaration d’utilité publique."
+      ]
+    },
+    {
+      "sentences": [
+        "En 2025, l’Insee classe Balan comme bourg rural ; la commune appartient à l’unité urbaine de Béligneux et à la couronne de l’aire d’attraction lyonnaise, qui compte 397 communes.",
+        "En 2018, les territoires agricoles représentaient 43,2 % de l’occupation des sols, contre 45,2 % en 1990.",
+        "En 2009, la commune comptait 589 logements, dont 95,6 % de résidences principales et 85,3 % de maisons individuelles.",
+        "La part des propriétaires occupants atteignait 74,7 %, tandis que celle des logements sociaux loués vides tombait de 8,1 % à 0,5 %."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Côtière"
+    },
+    {
+      "term": "hameau"
+    },
+    {
+      "term": "alluvions"
+    },
+    {
+      "term": "lônes"
+    },
+    {
+      "term": "seigneurie"
+    },
+    {
+      "term": "paroissiaux"
+    },
+    {
+      "term": "semi-continentale"
+    },
+    {
+      "term": "redressement judiciaire"
+    },
+    {
+      "term": "déclaration d’utilité publique"
+    },
+    {
+      "term": "occupation des sols"
+    },
+    {
+      "term": "résidences principales"
+    },
+    {
+      "term": "propriétaires occupants"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Dans quelle région Balan se trouve-t-elle ?",
+      "options": [
+        "Bretagne",
+        "Auvergne-Rhône-Alpes",
+        "Nouvelle-Aquitaine",
+        "Île-de-France"
+      ],
+      "answerIndex": 1,
+      "evidence": "Balan se trouve dans l’Ain, au sein d’Auvergne-Rhône-Alpes, et relève de l’aire urbaine lyonnaise ainsi que de la Côtière."
+    },
+    {
+      "id": "q2",
+      "prompt": "Comment accède-t-on aux quatre-vingt-quatre hectares situés sur la rive gauche du fleuve ?",
+      "options": [
+        "par Béligneux",
+        "par Lyon",
+        "par Balan seulement",
+        "par Villette-d’Anthon, en Isère"
+      ],
+      "answerIndex": 3,
+      "evidence": "Quatre-vingt-quatre hectares se situent sur la rive gauche du fleuve et ne sont accessibles que par Villette-d’Anthon, en Isère."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel événement a profondément modifié la vie sociale locale en 1872 ?",
+      "options": [
+        "L’installation du camp militaire de La Valbonne",
+        "L’implantation d’une usine de polyéthylène",
+        "La construction de l’autoroute A42",
+        "La livraison de la gare actuelle"
+      ],
+      "answerIndex": 0,
+      "evidence": "En 1872, l’installation du camp militaire de La Valbonne a profondément modifié la vie sociale locale."
+    },
+    {
+      "id": "q4",
+      "prompt": "En quelle année l’usine de polyéthylène et de chlorure de vinyle s’est-elle implantée ?",
+      "options": [
+        "1872",
+        "1958",
+        "1965",
+        "2012"
+      ],
+      "answerIndex": 2,
+      "evidence": "Une usine de polyéthylène et de chlorure de vinyle s’est implantée en 1965 ; d’abord liée à Elf Aquitaine, elle dépend aujourd’hui d’Arkema et de Kem One."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quel risque entraînent les difficultés économiques du groupe depuis 2012 ?",
+      "options": [
+        "une hausse des effectifs",
+        "une réduction des effectifs ou une fermeture",
+        "la construction d’un nouveau camp",
+        "l’annulation du classement Natura 2000"
+      ],
+      "answerIndex": 1,
+      "evidence": "Depuis 2012, les difficultés économiques de ce groupe ont conduit à une demande de redressement judiciaire, avec un risque de réduction des effectifs ou de fermeture."
+    },
+    {
+      "id": "q6",
+      "prompt": "Où se trouve l’arrêt de La Valbonne de la ligne Lyon-Perrache–Genève ?",
+      "options": [
+        "à Balan, dans l’Ain",
+        "à Villette-d’Anthon, en Isère",
+        "à Lyon-Perrache",
+        "à Béligneux, près de la limite communale"
+      ],
+      "answerIndex": 3,
+      "evidence": "La ligne ferroviaire Lyon-Perrache–Genève possède l’arrêt de La Valbonne, implanté à Béligneux près de la limite communale ; la gare actuelle résulte de travaux livrés en 1958 après un incendie en 1955."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quelle part de l’occupation des sols les territoires agricoles représentaient-ils en 2018 ?",
+      "options": [
+        "43,2 %",
+        "45,2 %",
+        "74,7 %",
+        "95,6 %"
+      ],
+      "answerIndex": 0,
+      "evidence": "En 2018, les territoires agricoles représentaient 43,2 % de l’occupation des sols, contre 45,2 % en 1990."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "巴朗：介于罗讷河、军事营地与工业之间的市镇",
+      "summary": "对安省巴朗的地理与历史描绘，该地以罗讷河、拉瓦尔博讷军营和一家化工厂为特征。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "巴朗位于安省，属于奥弗涅-罗讷-阿尔卑斯大区，并隶属于里昂城市区和科蒂耶尔。",
+            "该市镇领地位于坡地以南、受罗讷河流经，面积达1804公顷，海拔在178至233米之间。",
+            "其中84公顷位于河流左岸，只能经由伊泽尔省的维莱特-当东进入。",
+            "拉瓦尔博讷小村与贝利涅共享。"
+          ]
+        },
+        {
+          "sentences": [
+            "1872年，拉瓦尔博讷军营的设立深刻改变了当地的社会生活。",
+            "其主入口、小教堂和大多数营房占据该市镇423公顷土地。",
+            "一家聚乙烯和氯乙烯工厂于1965年落户；它最初与埃尔夫阿基坦（Elf Aquitaine）有关，如今隶属于阿科玛（Arkema）和Kem One。",
+            "自2012年起，该集团的经济困难导致其申请司法重整，并面临裁员或关闭的风险。",
+            "1930年代之前，居民被称为巴朗人（Balanais）和巴朗德兰人（Balandrins）。"
+          ]
+        },
+        {
+          "sentences": [
+            "罗讷河与伊泽尔省构成南界；自1306年以来，巴朗附近已记录到七次重大的河道变迁。",
+            "中世纪时，该地似乎曾设有隶属于蒙吕埃尔领主的河港，1716年的堂区登记簿提到了多种与河流相关的职业。",
+            "冲积物形成了四条洛讷，容斯-安东区域被列为Natura 2000保护区；长6.6公里的绍姆洛讷也流经该领地。",
+            "1988—2017年的气候被归类为Cfb，而法国气象局将该市镇置于半大陆性和山地影响之间。",
+            "对于1991—2020年，距此14公里的科隆比耶-索涅站显示平均气温为12.8°C，年降水量为862.5毫米。"
+          ]
+        },
+        {
+          "sentences": [
+            "A42高速公路及其第6号互通立交，以及RD 1084省道穿过该地区。",
+            "里昂佩拉什—日内瓦铁路线设有拉瓦尔博讷站，该站位于贝利涅、靠近市镇边界；现在的车站是1955年火灾后于1958年交付的工程成果。",
+            "里昂铁路绕行项目将涉及巴朗，以及科蒂耶尔的其他十二个市镇。",
+            "2012年11月，市政府通过市长贝尔纳·格洛里奥德表态，加入了一项请求，要求取消公共利益声明前的预先调查。"
+          ]
+        },
+        {
+          "sentences": [
+            "2025年，法国国家统计与经济研究所（Insee）将巴朗归类为乡村集镇；该市镇属于贝利涅城市单位以及里昂吸引力区的边缘圈，后者包括397个市镇。",
+            "2018年，农业用地占土地利用的43.2%，而1990年为45.2%。",
+            "2009年，该市镇有589套住房，其中95.6%为主要住所，85.3%为独栋住宅。",
+            "自住业主比例为74.7%，而空置的社会租赁住房比例从8.1%降至0.5%。"
+          ]
+        }
+      ],
+      "glossary": {
+        "Côtière": "科蒂耶尔：安省南部沿罗讷河谷坡地延伸的地理区域，包含多个市镇。",
+        "hameau": "小村：比村庄更小、通常隶属于一个市镇的聚居点。",
+        "alluvions": "冲积物：河流搬运并沉积的泥沙、砾石等物质。",
+        "lônes": "洛讷：罗讷河故道或支汊形成的河湾、汊道水体，常与河流相连。",
+        "seigneurie": "领主领地：中世纪封建制度下由领主行使司法和征收权的领地。",
+        "paroissiaux": "堂区的：与天主教堂区登记和行政管理有关的。",
+        "semi-continentale": "半大陆性的：气候受大陆影响明显、温差较大而海洋影响较弱。",
+        "redressement judiciaire": "司法重整：法国企业无力偿债时，经法院启动的挽救和债务处理程序。",
+        "déclaration d’utilité publique": "公共利益声明：法国行政程序，正式认定某一工程具有公共用途，从而允许征地等。",
+        "occupation des sols": "土地利用：一定区域内土地被农业、林地、建成区等用途覆盖的方式。",
+        "résidences principales": "主要住所：家庭通常长期居住的住房，区别于第二住所或空置住房。",
+        "propriétaires occupants": "自住业主：拥有并居住在自己住房中的家庭。"
+      },
+      "questions": {
+        "q1": "问题：巴朗位于哪个大区？答案：奥弗涅-罗讷-阿尔卑斯大区。",
+        "q2": "问题：如何进入河流左岸的84公顷土地？答案：只能经由伊泽尔省的维莱特-当东。",
+        "q3": "问题：1872年什么事件深刻改变了当地社会生活？答案：拉瓦尔博讷军营的设立。",
+        "q4": "问题：聚乙烯和氯乙烯工厂哪一年落户？答案：1965年。",
+        "q5": "问题：该集团自2012年以来的经济困难带来什么风险？答案：裁员或关闭。",
+        "q6": "问题：里昂佩拉什—日内瓦铁路线的拉瓦尔博讷站在哪里？答案：在贝利涅，靠近市镇边界。",
+        "q7": "问题：2018年农业用地占土地利用的多大比例？答案：43.2%。"
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Balan (Ain)",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=240944343",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-13",
+    "revisionId": "240944343"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-13",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

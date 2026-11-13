@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-13",
+  "articles": [
+    {
+      "id": "2026-11-13-les-contes-du-chat-perche",
+      "title": "Les Contes du chat perché : une ferme pas comme les autres",
+      "level": "B1",
+      "theme": "culture",
+      "date": "2026-11-13",
+      "summary": "Présentation simple des contes de Marcel Aymé, de leurs personnages et de quelques épisodes marquants.",
+      "path": "articles/2026-11-13-les-contes-du-chat-perche.json"
+    },
+    {
+      "id": "2026-11-13-balan-ain",
+      "title": "Balan, une commune entre Rhône, camp militaire et industrie",
+      "level": "B2",
+      "theme": "géographie",
+      "date": "2026-11-13",
+      "summary": "Portrait géographique et historique de Balan, dans l’Ain, marqué par le Rhône, le camp de La Valbonne et une usine chimique.",
+      "path": "articles/2026-11-13-balan-ain.json"
+    },
+    {
+      "id": "2026-11-13-australie",
+      "title": "L’Australie : un pays-continent",
+      "level": "B1",
+      "theme": "géographie",
+      "date": "2026-11-13",
+      "summary": "Présentation simplifiée de l’Australie : géographie, politique, histoire, population et économie.",
+      "path": "articles/2026-11-13-australie.json"
+    }
+  ]
+}
