@@ -1,0 +1,281 @@
+{
+  "id": "2026-11-13-les-contes-du-chat-perche",
+  "title": "Les Contes du chat perché : une ferme pas comme les autres",
+  "level": "B1",
+  "theme": "culture",
+  "date": "2026-11-13",
+  "summary": "Présentation simple des contes de Marcel Aymé, de leurs personnages et de quelques épisodes marquants.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Marcel Aymé a écrit Les Contes du chat perché entre 1934 et 1946.",
+        "Les recueils bleu et rouge sont parus en 1963.",
+        "Ils ont été regroupés en 1969."
+      ]
+    },
+    {
+      "sentences": [
+        "L’histoire se passe dans une petite ferme.",
+        "Deux adultes y vivent avec leurs filles Delphine et Marinette, ainsi que des animaux.",
+        "Delphine est l’aînée et Marinette est blonde.",
+        "Les deux sœurs sont très proches et ne se disputent pas.",
+        "Les animaux parlent, mais ils restent soumis aux humains.",
+        "Ils craignent d’être tués, mangés ou vendus.",
+        "Les parents sont aimants, mais parfois sévères et durs avec les bêtes.",
+        "Les fillettes les défendent souvent."
+      ]
+    },
+    {
+      "sentences": [
+        "Certains animaux reviennent souvent : le chat Alphonse, le canard intelligent et calme, et le cochon peureux, naïf et égoïste.",
+        "D’autres, comme les bœufs ou le chien, changent selon les contes.",
+        "Ces récits diffèrent de ceux de Perrault ou des frères Grimm.",
+        "Les personnages restent les mêmes, et la morale n’est pas toujours dite clairement.",
+        "Le titre fait penser au jeu du chat perché.",
+        "Pourtant, Alphonse joue un rôle central surtout dans La patte du chat."
+      ]
+    },
+    {
+      "sentences": [
+        "Dans plusieurs contes, les filles vivent des aventures avec les bêtes.",
+        "Elles vont chez tante Mélina après avoir cassé un vase.",
+        "Alphonse doit faire pleuvoir, mais la pluie dure trop longtemps.",
+        "Une vache nommée Cornette disparaît, et les animaux aident à cacher l’affaire.",
+        "Un chien aveugle rejoint la ferme, puis le chat reprend son mal.",
+        "L’oncle Alfred offre de la peinture, et un canard, un chien et un cochon font le travail des fillettes.",
+        "Plus tard, des animaux peints changent d’apparence.",
+        "Un bœuf éduqué devient trop intelligent pour les champs."
+      ]
+    },
+    {
+      "sentences": [
+        "D’autres histoires parlent d’un loup, d’un cerf, d’un jars, d’un mouton et d’un soldat.",
+        "Les fillettes jouent à l’arche de Noé, rencontrent une panthère et aident des animaux perdus.",
+        "Elles deviennent parfois cheval ou âne.",
+        "À la fin, tout revient souvent dans l’ordre, mais pas toujours."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "recueils"
+    },
+    {
+      "term": "regroupés"
+    },
+    {
+      "term": "soumis"
+    },
+    {
+      "term": "sévères"
+    },
+    {
+      "term": "naïf"
+    },
+    {
+      "term": "égoïste"
+    },
+    {
+      "term": "morale"
+    },
+    {
+      "term": "central"
+    },
+    {
+      "term": "aveugle"
+    },
+    {
+      "term": "éduqué"
+    },
+    {
+      "term": "jars"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quand Marcel Aymé a-t-il écrit Les Contes du chat perché ?",
+      "options": [
+        "En 1963",
+        "Entre 1934 et 1946",
+        "En 1969",
+        "Après 1969"
+      ],
+      "answerIndex": 1,
+      "evidence": "Marcel Aymé a écrit Les Contes du chat perché entre 1934 et 1946."
+    },
+    {
+      "id": "q2",
+      "prompt": "Où se passe l’histoire ?",
+      "options": [
+        "Dans une grande ville",
+        "Dans une école",
+        "Dans un château",
+        "Dans une petite ferme"
+      ],
+      "answerIndex": 3,
+      "evidence": "L’histoire se passe dans une petite ferme."
+    },
+    {
+      "id": "q3",
+      "prompt": "Comment sont les deux sœurs ?",
+      "options": [
+        "Elles sont très proches et ne se disputent pas.",
+        "Elles se disputent souvent.",
+        "Elles ne se parlent jamais.",
+        "Elles vivent loin l’une de l’autre."
+      ],
+      "answerIndex": 0,
+      "evidence": "Les deux sœurs sont très proches et ne se disputent pas."
+    },
+    {
+      "id": "q4",
+      "prompt": "Que craignent les animaux ?",
+      "options": [
+        "D’être aimés par les parents",
+        "De devenir humains",
+        "D’être tués, mangés ou vendus",
+        "De parler avec les fillettes"
+      ],
+      "answerIndex": 2,
+      "evidence": "Ils craignent d’être tués, mangés ou vendus."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quel animal est décrit comme peureux, naïf et égoïste ?",
+      "options": [
+        "Le chat Alphonse",
+        "Le cochon",
+        "Le canard",
+        "Le chien"
+      ],
+      "answerIndex": 1,
+      "evidence": "Certains animaux reviennent souvent : le chat Alphonse, le canard intelligent et calme, et le cochon peureux, naïf et égoïste."
+    },
+    {
+      "id": "q6",
+      "prompt": "Pourquoi ces récits diffèrent-ils de ceux de Perrault ou des frères Grimm ?",
+      "options": [
+        "Parce que les personnages changent à chaque conte.",
+        "Parce que la morale est toujours clairement dite.",
+        "Parce que les animaux ne parlent jamais.",
+        "Parce que les personnages restent les mêmes et la morale n’est pas toujours dite clairement."
+      ],
+      "answerIndex": 3,
+      "evidence": "Les personnages restent les mêmes, et la morale n’est pas toujours dite clairement."
+    },
+    {
+      "id": "q7",
+      "prompt": "Que doit faire Alphonse dans un conte ?",
+      "options": [
+        "Faire pleuvoir",
+        "Cacher une vache",
+        "Peindre des animaux",
+        "Devenir cheval"
+      ],
+      "answerIndex": 0,
+      "evidence": "Alphonse doit faire pleuvoir, mais la pluie dure trop longtemps."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "《猫上树的故事：一座与众不同的农场》",
+      "summary": "简单介绍马塞尔·艾梅的故事、其中的人物以及一些重要片段。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "马塞尔·艾梅于1934年至1946年间写了《猫上树的故事》。",
+            "蓝色和红色两本故事集于1963年出版。",
+            "它们于1969年被合编在一起。"
+          ]
+        },
+        {
+          "sentences": [
+            "故事发生在一座小农场里。",
+            "两个成年人和他们的女儿德尔菲娜、玛丽内特以及一些动物住在那里。",
+            "德尔菲娜是姐姐，玛丽内特是金发。",
+            "两姐妹非常亲密，不吵架。",
+            "动物们会说话，但仍然服从人类。",
+            "它们害怕被杀、被吃或被卖掉。",
+            "父母很慈爱，但有时对牲口严厉而苛刻。",
+            "小女孩们常常护着它们。"
+          ]
+        },
+        {
+          "sentences": [
+            "有些动物经常出现：猫阿尔封斯、聪明而安静的鸭子，以及胆小、天真又自私的猪。",
+            "其他动物，比如牛或狗，则随故事不同而变化。",
+            "这些故事与佩罗或格林兄弟的故事不同。",
+            "人物保持不变，寓意也不总是明确说出。",
+            "标题让人想到“猫上树”游戏。",
+            "不过，阿尔封斯尤其在《猫的爪子》中扮演核心角色。"
+          ]
+        },
+        {
+          "sentences": [
+            "在好几个故事中，女孩们和动物一起经历冒险。",
+            "她们打碎一个花瓶后去梅利娜姑妈家。",
+            "阿尔封斯必须让天下雨，但雨下得太久了。",
+            "一头名叫科尔内特的奶牛消失了，动物们帮忙掩盖这件事。",
+            "一只失明的狗来到农场，随后猫又犯了自己的病。",
+            "阿尔弗雷德舅舅送来油漆，一只鸭子、一只狗和一头猪替小女孩们干活。",
+            "后来，被画上的动物改变了外表。",
+            "一头受过教育的牛变得太聪明，不适合下地干活。"
+          ]
+        },
+        {
+          "sentences": [
+            "其他故事讲到一只狼、一只鹿、一只公鹅、一只羊和一名士兵。",
+            "小女孩们玩诺亚方舟的游戏，遇到一只黑豹，并帮助迷路的动物。",
+            "她们有时变成马或驴。",
+            "最后，一切常常恢复秩序，但并非总是如此。"
+          ]
+        }
+      ],
+      "glossary": {
+        "recueils": "故事集；文集",
+        "regroupés": "被合并；被汇集在一起",
+        "soumis": "服从的；受支配的",
+        "sévères": "严厉的；苛刻的",
+        "naïf": "天真的；幼稚的",
+        "égoïste": "自私的",
+        "morale": "寓意；道德教训",
+        "central": "核心的；中心的",
+        "aveugle": "失明的",
+        "éduqué": "受过教育的；有教养的",
+        "jars": "公鹅"
+      },
+      "questions": {
+        "q1": "马塞尔·艾梅于1934年至1946年间写了《猫上树的故事》。",
+        "q2": "故事发生在一座小农场里。",
+        "q3": "两姐妹非常亲密，不吵架。",
+        "q4": "它们害怕被杀、被吃或被卖掉。",
+        "q5": "有些动物经常出现：猫阿尔封斯、聪明而安静的鸭子，以及胆小、天真又自私的猪。",
+        "q6": "人物保持不变，寓意也不总是明确说出。",
+        "q7": "阿尔封斯必须让天下雨，但雨下得太久了。"
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Les Contes du chat perché",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2558179&title=Les%20Contes%20du%20chat%20perch%C3%A9",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-13",
+    "revisionId": "2558179"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-13",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}
