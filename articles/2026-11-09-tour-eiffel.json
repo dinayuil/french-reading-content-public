@@ -222,7 +222,9 @@
   "source": {
     "site": "Wikipédia en français",
     "title": "Tour Eiffel",
-    "authors": ["Contributeurs de Wikipédia"],
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
     "url": "https://fr.wikipedia.org/w/index.php?oldid=241075004",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
@@ -238,5 +240,20 @@
   "license": {
     "name": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-09-tour-eiffel-23366ce1d7cb.jpg",
+    "alt": "La tour Eiffel vue depuis le Champ-de-Mars, à Paris.",
+    "author": "Benh LIEU SONG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons.jpg?oldid=1053590912",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Image redimensionnée à 500 × 925 px.",
+    "width": 500,
+    "height": 925,
+    "byteLength": 92189,
+    "sha256": "23366ce1d7cbbee60f75085ef06a4fc3899410f43bc075d5c1f13a77f13690b4",
+    "fileRevisionId": "1053590912",
+    "retrievedAt": "2026-11-14"
   }
 }

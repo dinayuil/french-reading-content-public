@@ -278,5 +278,20 @@
   "license": {
     "name": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-11-calypso-navire-5183b4ac036b.jpg",
+    "alt": "Le navire Calypso du commandant Cousteau, à La Rochelle.",
+    "author": "© Peter Potrowl",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Calypso.1-April-1999.jpg?oldid=1289872486",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Aucune modification.",
+    "width": 800,
+    "height": 570,
+    "byteLength": 146726,
+    "sha256": "5183b4ac036b92bba036e6a546a91ad7297c9ca2ee49e63b37036c1051ce94c7",
+    "fileRevisionId": "1289872486",
+    "retrievedAt": "2026-11-14"
   }
 }

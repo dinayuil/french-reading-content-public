@@ -1,5 +1,8 @@
 import { readdir, readFile } from 'node:fs/promises';
 import path from 'node:path';
+import { validateArticleImage, validateImageAsset } from './image.mjs';
+
+export { validateArticleImage, validateImageAsset } from './image.mjs';
 
 const LEVELS = new Set(['A2', 'B1', 'B2']);
 const ALLOWED_LICENSE =
@@ -70,6 +73,15 @@ function validateSource(article, fail) {
     source.authors.some((author) => !isNonEmptyString(author))
   ) {
     fail('source.authors must be a non-empty array of strings');
+  }
+
+  if (
+    source.translators !== undefined &&
+    (!Array.isArray(source.translators) ||
+      source.translators.length === 0 ||
+      source.translators.some((translator) => !isNonEmptyString(translator)))
+  ) {
+    fail('source.translators must be a non-empty array of strings');
   }
 
   const license = requireString(source, 'license', fail, 'source.license');
@@ -151,6 +163,43 @@ function validateTranslationMap(value, expected, fail, label) {
   }
 }
 
+function validateQuestionTexts(value, expected, fail, label) {
+  if (!isRecord(value)) {
+    fail(`${label} must be an object`);
+    return;
+  }
+
+  const actualKeys = Object.keys(value).sort();
+  const expectedKeys = [...expected].sort();
+  if (
+    actualKeys.length !== expectedKeys.length ||
+    actualKeys.some((key, index) => key !== expectedKeys[index])
+  ) {
+    fail(`${label} keys must match the article`);
+    return;
+  }
+
+  for (const key of actualKeys) {
+    const entry = value[key];
+    if (!isRecord(entry)) {
+      fail(`${label}["${key}"] must be an object`);
+      continue;
+    }
+    if (!isNonEmptyString(entry.prompt)) {
+      fail(`${label}["${key}"].prompt must be a non-empty string`);
+    }
+    const options = entry.options;
+    if (
+      !Array.isArray(options) ||
+      options.length !== 4 ||
+      options.some((option) => !isNonEmptyString(option)) ||
+      new Set(options).size !== 4
+    ) {
+      fail(`${label}["${key}"].options must be 4 unique non-empty strings`);
+    }
+  }
+}
+
 function validateTranslation(
   article,
   fail,
@@ -204,6 +253,15 @@ function validateTranslation(
     fail,
     'translations.zh.questions',
   );
+
+  if (translation.questionTexts !== undefined) {
+    validateQuestionTexts(
+      translation.questionTexts,
+      questionIds,
+      fail,
+      'translations.zh.questionTexts',
+    );
+  }
 }
 
 /**
@@ -334,6 +392,15 @@ export function validateArticle(article, file = 'article') {
           `questions[${questionIndex}].evidence must be an exact sentence from the article`,
         );
       }
+
+      if (
+        question.explanation !== undefined &&
+        !isNonEmptyString(question.explanation)
+      ) {
+        fail(
+          `questions[${questionIndex}].explanation must be a non-empty string`,
+        );
+      }
     });
   }
 
@@ -348,6 +415,9 @@ export function validateArticle(article, file = 'article') {
   );
   validateSource(article, fail);
   validateAdaptation(article, fail);
+  if (article.image !== undefined) {
+    validateArticleImage(article.image).forEach(fail);
+  }
   validateLicense(article, fail);
 
   return errors;
@@ -537,6 +607,17 @@ export async function validateRepository(root = process.cwd()) {
         }
       }
       errors.push(...validateArticle(article, rel(articleFile)));
+      if (
+        isRecord(article.image) &&
+        validateArticleImage(article.image).length === 0
+      ) {
+        for (const message of await validateImageAsset(
+          absoluteRoot,
+          article.image,
+        )) {
+          fail(articleFile, message);
+        }
+      }
     }
   }
 

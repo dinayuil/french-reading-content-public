@@ -4,7 +4,7 @@
   "level": "B2",
   "theme": "société",
   "date": "2026-11-12",
-  "summary": "À partir d’une réflexion sur la démocratie et la contestation, ce texte analyse des exemples au Japon, en Inde, en Russie, en Afrique, en Géorgie, en Roumanie, au Bangladesh et au Népal. Version anglaise de Malka Older, espagnole de Valeria Malavolta, française de Guillaume Cottin ; illustration Canva Pro.",
+  "summary": "À partir d’une réflexion sur la démocratie et la contestation, ce texte analyse des exemples au Japon, en Inde, en Russie, en Afrique, en Géorgie, en Roumanie, au Bangladesh et au Népal.",
   "paragraphs": [
     {
       "sentences": [
@@ -172,7 +172,7 @@
   "translations": {
     "zh": {
       "title": "抗议，超越投票",
-      "summary": "本文从对民主与抗争的思考出发，分析日本、印度、俄罗斯、非洲、格鲁吉亚、罗马尼亚、孟加拉国和尼泊尔的例子。英文版由 Malka Older 翻译，西班牙文版由 Valeria Malavolta 翻译，法文版由 Guillaume Cottin 翻译；插图来自 Canva Pro。",
+      "summary": "本文从对民主与抗争的思考出发，分析日本、印度、俄罗斯、非洲、格鲁吉亚、罗马尼亚、孟加拉国和尼泊尔的例子。",
       "paragraphs": [
         {
           "sentences": [
@@ -245,9 +245,8 @@
   "source": {
     "site": "Global Voices en Français",
     "title": "Manifester comme pilier de la démocratie",
-    "authors": [
-      "Guillaume Cottin"
-    ],
+    "authors": ["Malka Older"],
+    "translators": ["Guillaume Cottin"],
     "url": "https://fr.globalvoices.org/2026/11/09/304302/",
     "license": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",

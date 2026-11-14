@@ -1,6 +1,14 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { mkdir, mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
+import { createHash } from 'node:crypto';
+import {
+  mkdir,
+  mkdtemp,
+  readFile,
+  rm,
+  symlink,
+  writeFile,
+} from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -12,6 +20,9 @@ const articleFile = new URL(
   import.meta.url,
 );
 const article = JSON.parse(await readFile(articleFile, 'utf8'));
+// Generic temporary repositories use a text-only fixture; image scenarios
+// attach their own metadata and bytes explicitly.
+delete article.image;
 
 const clone = () => structuredClone(article);
 const messages = (errors) => errors.join('\n');
@@ -44,6 +55,226 @@ test('rejects a misaligned Chinese translation', () => {
   );
 });
 
+function withQuestionLanguages(value = clone()) {
+  value.questions.forEach((question, index) => {
+    question.explanation = `Explication en français numéro ${index + 1}.`;
+  });
+  value.translations.zh.questionTexts = Object.fromEntries(
+    value.questions.map((question, index) => [
+      question.id,
+      {
+        prompt: `问题题干 ${index + 1}`,
+        options: question.options.map(
+          (_option, optionIndex) => `选项 ${index + 1}-${optionIndex + 1}`,
+        ),
+      },
+    ]),
+  );
+  return value;
+}
+
+const PNG_2X3 = Buffer.from(
+  'iVBORw0KGgoAAAANSUhEUgAAAAIAAAADCAYAAAC56t6BAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAMSURBVBhXY8AFGBgAABsAAQcaKa0AAAAASUVORK5CYII=',
+  'base64',
+);
+const JPEG_2X3 = Buffer.from(
+  '/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAADAAIDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD5/ooooA//2Q==',
+  'base64',
+);
+
+const sha256 = (bytes) => createHash('sha256').update(bytes).digest('hex');
+
+function imageAsset(bytes, extension, overrides = {}) {
+  const hash = sha256(bytes);
+  return {
+    path: `images/2026-11-12-test-image-${hash.slice(0, 12)}.${extension}`,
+    alt: 'Une illustration de test',
+    author: 'Auteur Exemple',
+    sourceUrl:
+      'https://commons.wikimedia.org/wiki/File:Example.jpg?oldid=12345',
+    license: 'CC BY-SA 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/',
+    changes: 'Redimensionnée à 2 × 3 pixels.',
+    width: 2,
+    height: 3,
+    byteLength: bytes.length,
+    sha256: hash,
+    fileRevisionId: '12345',
+    retrievedAt: '2026-11-12',
+    ...overrides,
+  };
+}
+
+function withImage(image, value = clone()) {
+  value.image = image;
+  return value;
+}
+
+test('accepts optional French explanations and Chinese question translations', () => {
+  assert.deepEqual(validateArticle(withQuestionLanguages(), 'article'), []);
+});
+
+test('accepts legacy articles without the new language fields', () => {
+  assert.deepEqual(validateArticle(clone(), 'article'), []);
+});
+
+test('accepts each optional language field on its own', () => {
+  const explanationsOnly = clone();
+  explanationsOnly.questions.forEach((question, index) => {
+    question.explanation = `Explication ${index + 1}.`;
+  });
+  assert.deepEqual(validateArticle(explanationsOnly, 'article'), []);
+
+  const translationsOnly = withQuestionLanguages();
+  translationsOnly.questions.forEach((question) => {
+    delete question.explanation;
+  });
+  assert.deepEqual(validateArticle(translationsOnly, 'article'), []);
+});
+
+test('rejects a present but empty French explanation', () => {
+  const value = withQuestionLanguages();
+  value.questions[0].explanation = '';
+  value.questions[1].explanation = '   ';
+  value.questions[2].explanation = null;
+  const output = messages(validateArticle(value));
+  assert.match(
+    output,
+    /questions\[0\]\.explanation must be a non-empty string/,
+  );
+  assert.match(
+    output,
+    /questions\[1\]\.explanation must be a non-empty string/,
+  );
+  assert.match(
+    output,
+    /questions\[2\]\.explanation must be a non-empty string/,
+  );
+});
+
+test('rejects questionTexts that is not an object', () => {
+  for (const wrong of [null, [], '中文题干', 42]) {
+    const value = withQuestionLanguages();
+    value.translations.zh.questionTexts = wrong;
+    assert.match(
+      messages(validateArticle(value)),
+      /translations\.zh\.questionTexts must be an object/,
+      `wrong value: ${JSON.stringify(wrong)}`,
+    );
+  }
+});
+
+test('rejects questionTexts keys that do not match the questions', () => {
+  const missing = withQuestionLanguages();
+  delete missing.translations.zh.questionTexts.q6;
+  assert.match(
+    messages(validateArticle(missing)),
+    /translations\.zh\.questionTexts keys must match the article/,
+  );
+
+  const extra = withQuestionLanguages();
+  extra.translations.zh.questionTexts.q99 = {
+    prompt: '多余的问题',
+    options: ['甲', '乙', '丙', '丁'],
+  };
+  assert.match(
+    messages(validateArticle(extra)),
+    /translations\.zh\.questionTexts keys must match the article/,
+  );
+});
+
+test('rejects a questionTexts entry that is not an object', () => {
+  const value = withQuestionLanguages();
+  value.translations.zh.questionTexts.q1 = null;
+  assert.match(
+    messages(validateArticle(value)),
+    /translations\.zh\.questionTexts\["q1"\] must be an object/,
+  );
+});
+
+test('rejects malformed Chinese question prompts and options', () => {
+  const cases = [
+    [
+      'missing prompt',
+      (entry) => {
+        delete entry.prompt;
+      },
+      /\.prompt must be a non-empty string/,
+    ],
+    [
+      'empty prompt',
+      (entry) => {
+        entry.prompt = '  ';
+      },
+      /\.prompt must be a non-empty string/,
+    ],
+    [
+      'non-string prompt',
+      (entry) => {
+        entry.prompt = 1;
+      },
+      /\.prompt must be a non-empty string/,
+    ],
+    [
+      'options not an array',
+      (entry) => {
+        entry.options = '四个选项';
+      },
+      /\.options must be 4 unique non-empty strings/,
+    ],
+    [
+      'too few options',
+      (entry) => {
+        entry.options.pop();
+      },
+      /\.options must be 4 unique non-empty strings/,
+    ],
+    [
+      'too many options',
+      (entry) => {
+        entry.options.push('第五个选项');
+      },
+      /\.options must be 4 unique non-empty strings/,
+    ],
+    [
+      'duplicate options',
+      (entry) => {
+        entry.options[1] = entry.options[0];
+      },
+      /\.options must be 4 unique non-empty strings/,
+    ],
+    [
+      'empty option',
+      (entry) => {
+        entry.options[3] = ' ';
+      },
+      /\.options must be 4 unique non-empty strings/,
+    ],
+    [
+      'non-string option',
+      (entry) => {
+        entry.options[2] = 3;
+      },
+      /\.options must be 4 unique non-empty strings/,
+    ],
+  ];
+
+  for (const [label, mutate, pattern] of cases) {
+    const value = withQuestionLanguages();
+    mutate(value.translations.zh.questionTexts.q1);
+    assert.match(messages(validateArticle(value)), pattern, label);
+  }
+});
+
+test('keeps the legacy Chinese explanation map as strings', () => {
+  const value = withQuestionLanguages();
+  value.translations.zh.questions.q1 = { text: '不是字符串' };
+  assert.match(
+    messages(validateArticle(value)),
+    /translations\.zh\.questions\["q1"\] must be a non-empty string/,
+  );
+});
+
 test('rejects duplicate options', () => {
   const value = clone();
   value.questions[0].options[1] = value.questions[0].options[0];
@@ -73,6 +304,300 @@ test('rejects malformed optional source fields', () => {
   const output = messages(validateArticle(value));
   assert.match(output, /source\.publishedAt/);
   assert.match(output, /source\.attributionPosition/);
+});
+
+test('accepts optional French translator names', () => {
+  const value = clone();
+  value.source.translators = ['Guillaume Cottin'];
+  assert.deepEqual(validateArticle(value, 'article'), []);
+});
+
+test('rejects malformed optional translator lists without throwing', () => {
+  const cases = [
+    ['null', null],
+    ['empty array', []],
+    ['string', 'Guillaume Cottin'],
+    ['object', { name: 'Guillaume Cottin' }],
+    ['blank string', ['   ']],
+    ['null item', [null]],
+    ['number item', [42]],
+    ['nested array item', [['Guillaume Cottin']]],
+    ['object item', [{ name: 'Guillaume Cottin' }]],
+  ];
+
+  for (const [label, translators] of cases) {
+    const value = clone();
+    value.source.translators = translators;
+    assert.match(
+      messages(validateArticle(value)),
+      /source\.translators must be a non-empty array of strings/,
+      label,
+    );
+  }
+});
+
+test('accepts optional valid image metadata', () => {
+  const cases = [
+    ['PNG', PNG_2X3, 'png'],
+    ['JPEG', JPEG_2X3, 'jpg'],
+    [
+      'CC0',
+      PNG_2X3,
+      'png',
+      {
+        license: 'CC0 1.0',
+        licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/',
+      },
+    ],
+  ];
+
+  for (const [label, bytes, extension, overrides] of cases) {
+    const value = withImage(imageAsset(bytes, extension, overrides));
+    assert.deepEqual(validateArticle(value, 'article'), [], label);
+  }
+});
+
+test('rejects a present but null image', () => {
+  const value = withImage(null);
+  assert.match(messages(validateArticle(value)), /image must be an object/);
+});
+
+test('rejects incomplete image metadata', () => {
+  const fields = [
+    ['path', /image\.path/],
+    ['alt', /image\.alt/],
+    ['author', /image\.author/],
+    ['sourceUrl', /image\.sourceUrl/],
+    ['license', /image\.license/],
+    ['licenseUrl', /image\.licenseUrl/],
+    ['changes', /image\.changes/],
+    ['width', /image\.width/],
+    ['height', /image\.height/],
+    ['byteLength', /image\.byteLength/],
+    ['sha256', /image\.sha256/],
+    ['fileRevisionId', /image\.fileRevisionId/],
+    ['retrievedAt', /image\.retrievedAt/],
+  ];
+
+  for (const [field, pattern] of fields) {
+    const image = imageAsset(PNG_2X3, 'png');
+    delete image[field];
+    assert.match(messages(validateArticle(withImage(image))), pattern, field);
+  }
+});
+
+test('rejects unsafe or malformed image paths', () => {
+  const valid = imageAsset(PNG_2X3, 'png');
+  const suffix = valid.sha256.slice(0, 12);
+  const cases = [
+    ['parent traversal', `images/../${suffix}.png`],
+    ['absolute path', `/images/2026-11-12-test-image-${suffix}.png`],
+    ['Windows separator', `images\\2026-11-12-test-image-${suffix}.png`],
+    ['query string', `images/2026-11-12-test-image-${suffix}.png?x=1`],
+    ['fragment', `images/2026-11-12-test-image-${suffix}.png#x`],
+    ['protocol', `https://images/2026-11-12-test-image-${suffix}.png`],
+    ['wrong extension', `images/2026-11-12-test-image-${suffix}.jpeg`],
+    ['uppercase name', `images/2026-11-12-TEST-IMAGE-${suffix}.png`],
+    ['uppercase hash', `images/2026-11-12-test-image-${suffix.toUpperCase()}.png`],
+  ];
+
+  for (const [label, imagePath] of cases) {
+    const image = { ...valid, path: imagePath };
+    assert.match(
+      messages(validateArticle(withImage(image))),
+      /image\.path/,
+      label,
+    );
+  }
+});
+
+test('rejects an image filename hash that does not match sha256', () => {
+  const image = imageAsset(PNG_2X3, 'png');
+  const other = image.sha256.startsWith('0123456789ab')
+    ? 'abcdefabcdef'
+    : '0123456789ab';
+  image.path = image.path.replace(image.sha256.slice(0, 12), other);
+  assert.match(
+    messages(validateArticle(withImage(image))),
+    /image\.path suffix must match/,
+  );
+});
+
+test('rejects malformed Commons image source URLs', () => {
+  const cases = [
+    ['http', 'http://commons.wikimedia.org/wiki/File:Example.jpg'],
+    ['other host', 'https://example.com/wiki/File:Example.jpg'],
+    ['lookalike host', 'https://commons.wikimedia.org.example/wiki/File:Example.jpg'],
+    ['not a file page', 'https://commons.wikimedia.org/wiki/Category:Example'],
+    ['empty file title', 'https://commons.wikimedia.org/wiki/File:'],
+    ['nonnumeric oldid', 'https://commons.wikimedia.org/wiki/File:Example.jpg?oldid=abc'],
+    ['zero oldid', 'https://commons.wikimedia.org/wiki/File:Example.jpg?oldid=0'],
+    ['extra query', 'https://commons.wikimedia.org/wiki/File:Example.jpg?oldid=12&x=1'],
+    ['fragment', 'https://commons.wikimedia.org/wiki/File:Example.jpg#section'],
+    ['non-default port', 'https://commons.wikimedia.org:8443/wiki/File:Example.jpg'],
+  ];
+
+  for (const [label, sourceUrl] of cases) {
+    const image = { ...imageAsset(PNG_2X3, 'png'), sourceUrl };
+    assert.match(
+      messages(validateArticle(withImage(image))),
+      /image\.sourceUrl/,
+      label,
+    );
+  }
+});
+
+test('rejects unsupported or mismatched image licenses', () => {
+  const cases = [
+    [
+      'noncommercial license',
+      {
+        license: 'CC BY-NC 4.0',
+        licenseUrl: 'https://creativecommons.org/licenses/by-nc/4.0/',
+      },
+      /image\.license/,
+    ],
+    [
+      'wrong canonical URL',
+      {
+        license: 'CC BY-SA 4.0',
+        licenseUrl: 'https://creativecommons.org/licenses/by/4.0/',
+      },
+      /image\.licenseUrl.*canonical/,
+    ],
+    [
+      'wrong version URL',
+      {
+        license: 'CC BY-SA 4.0',
+        licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/',
+      },
+      /image\.licenseUrl.*canonical/,
+    ],
+    [
+      'http license URL',
+      {
+        license: 'CC BY 4.0',
+        licenseUrl: 'http://creativecommons.org/licenses/by/4.0/',
+      },
+      /image\.licenseUrl.*canonical/,
+    ],
+    [
+      'missing trailing slash',
+      {
+        license: 'CC BY 3.0',
+        licenseUrl: 'https://creativecommons.org/licenses/by/3.0',
+      },
+      /image\.licenseUrl.*canonical/,
+    ],
+  ];
+
+  for (const [label, overrides, pattern] of cases) {
+    const image = imageAsset(PNG_2X3, 'png', overrides);
+    assert.match(
+      messages(validateArticle(withImage(image))),
+      pattern,
+      label,
+    );
+  }
+});
+
+test('rejects invalid image alt text and attribution text', () => {
+  const altCases = [
+    ['blank', '   '],
+    ['null', null],
+    ['number', 42],
+    ['HTML', '<b>Une illustration</b>'],
+  ];
+  for (const [label, alt] of altCases) {
+    const image = imageAsset(PNG_2X3, 'png', { alt });
+    assert.match(
+      messages(validateArticle(withImage(image))),
+      /image\.alt/,
+      label,
+    );
+  }
+
+  const authorCases = [
+    ['blank', '   '],
+    ['null', null],
+    ['HTML', '<b>Auteur</b>'],
+    ['over 120 characters', 'a'.repeat(121)],
+  ];
+  for (const [label, author] of authorCases) {
+    const image = imageAsset(PNG_2X3, 'png', { author });
+    assert.match(
+      messages(validateArticle(withImage(image))),
+      /image\.author/,
+      label,
+    );
+  }
+
+  const changesCases = [
+    ['blank', '   '],
+    ['null', null],
+    ['number', 1],
+  ];
+  for (const [label, changes] of changesCases) {
+    const image = imageAsset(PNG_2X3, 'png', { changes });
+    assert.match(
+      messages(validateArticle(withImage(image))),
+      /image\.changes/,
+      label,
+    );
+  }
+});
+
+test('rejects invalid image dimensions and byte sizes', () => {
+  const cases = [
+    ['zero width', { width: 0 }, /image\.width/],
+    ['negative height', { height: -1 }, /image\.height/],
+    ['fractional width', { width: 1.5 }, /image\.width/],
+    ['string height', { height: '3' }, /image\.height/],
+    ['oversized width', { width: 1601 }, /image\.width/],
+    ['oversized height', { height: 1601 }, /image\.height/],
+    ['zero byteLength', { byteLength: 0 }, /image\.byteLength/],
+    ['fractional byteLength', { byteLength: 1.5 }, /image\.byteLength/],
+    ['string byteLength', { byteLength: '119' }, /image\.byteLength/],
+    [
+      'over 1 MiB',
+      { byteLength: 1024 * 1024 + 1 },
+      /image\.byteLength/,
+    ],
+  ];
+
+  for (const [label, overrides, pattern] of cases) {
+    const image = imageAsset(PNG_2X3, 'png', overrides);
+    assert.match(
+      messages(validateArticle(withImage(image))),
+      pattern,
+      label,
+    );
+  }
+});
+
+test('rejects an invalid image hash, date, or file revision', () => {
+  const cases = [
+    [
+      'uppercase sha256',
+      { sha256: sha256(PNG_2X3).toUpperCase() },
+      /image\.sha256/,
+    ],
+    ['short sha256', { sha256: 'abc' }, /image\.sha256/],
+    ['impossible date', { retrievedAt: '2026-02-30' }, /image\.retrievedAt/],
+    ['slashed date', { retrievedAt: '12/11/2026' }, /image\.retrievedAt/],
+    ['zero revision', { fileRevisionId: '0' }, /image\.fileRevisionId/],
+    ['leading-zero revision', { fileRevisionId: '0123' }, /image\.fileRevisionId/],
+    ['numeric revision', { fileRevisionId: 123 }, /image\.fileRevisionId/],
+  ];
+
+  for (const [label, overrides, pattern] of cases) {
+    const image = imageAsset(PNG_2X3, 'png', overrides);
+    assert.match(
+      messages(validateArticle(withImage(image))),
+      pattern,
+      label,
+    );
+  }
 });
 
 test('rejects an impossible article date', () => {
@@ -115,6 +640,20 @@ async function writeJson(file, value) {
   await writeFile(file, `${JSON.stringify(value, null, 2)}\n`);
 }
 
+async function writeImage(root, imagePath, bytes) {
+  const file = path.join(root, imagePath);
+  await mkdir(path.dirname(file), { recursive: true });
+  await writeFile(file, bytes);
+}
+
+async function linkDirectory(target, link) {
+  await symlink(
+    target,
+    link,
+    process.platform === 'win32' ? 'junction' : 'dir',
+  );
+}
+
 async function createRepo(
   t,
   { days, dayFiles = {}, articles = {}, manifest, extraFiles = {} },
@@ -154,6 +693,201 @@ test('accepts a valid day index', async (t) => {
 
 test('accepts a leap-day index', async (t) => {
   const root = await createRepo(t, fixture(articleOn('2024-02-29')));
+  assert.deepEqual((await validateRepository(root)).errors, []);
+});
+
+test('repository accepts valid referenced PNG and JPEG assets', async (t) => {
+  const cases = [
+    ['PNG', PNG_2X3, 'png'],
+    ['JPEG', JPEG_2X3, 'jpg'],
+  ];
+
+  for (const [label, bytes, extension] of cases) {
+    const value = articleOn('2026-11-11');
+    value.image = imageAsset(bytes, extension);
+    const root = await createRepo(t, fixture(value));
+    await writeImage(root, value.image.path, bytes);
+    assert.deepEqual(
+      (await validateRepository(root)).errors,
+      [],
+      label,
+    );
+  }
+});
+
+test('repository rejects a missing referenced image', async (t) => {
+  const value = articleOn('2026-11-11');
+  value.image = imageAsset(PNG_2X3, 'png');
+  const root = await createRepo(t, fixture(value));
+  assert.match(
+    messages((await validateRepository(root)).errors),
+    /image file "images\/.*\.png" is missing/,
+  );
+});
+
+test('repository reports a missing referenced image inside an existing images directory', async (t) => {
+  const value = articleOn('2026-11-11');
+  value.image = imageAsset(PNG_2X3, 'png');
+  const root = await createRepo(t, fixture(value));
+  await mkdir(path.join(root, 'images'), { recursive: true });
+  assert.match(
+    messages((await validateRepository(root)).errors),
+    /image file "images\/.*\.png" is missing/,
+  );
+});
+
+test('repository rejects an image whose hash does not match metadata', async (t) => {
+  const value = articleOn('2026-11-11');
+  value.image = imageAsset(PNG_2X3, 'png');
+  const corrupted = Buffer.from(PNG_2X3);
+  corrupted[corrupted.length - 1] ^= 0xff;
+  const root = await createRepo(t, fixture(value));
+  await writeImage(root, value.image.path, corrupted);
+  assert.match(
+    messages((await validateRepository(root)).errors),
+    /image\.sha256 does not match the stored image file/,
+  );
+});
+
+test('repository rejects an image whose byteLength does not match the file', async (t) => {
+  const value = articleOn('2026-11-11');
+  value.image = imageAsset(PNG_2X3, 'png', {
+    byteLength: PNG_2X3.length - 1,
+  });
+  const root = await createRepo(t, fixture(value));
+  await writeImage(root, value.image.path, PNG_2X3);
+  assert.match(
+    messages((await validateRepository(root)).errors),
+    /image\.byteLength must match the stored image file size/,
+  );
+});
+
+test('repository rejects an image file larger than 1 MiB', async (t) => {
+  const value = articleOn('2026-11-11');
+  value.image = imageAsset(PNG_2X3, 'png', {
+    byteLength: 1024 * 1024,
+  });
+  const root = await createRepo(t, fixture(value));
+  await writeImage(root, value.image.path, Buffer.alloc(1024 * 1024 + 1));
+  assert.match(
+    messages((await validateRepository(root)).errors),
+    /must be at most 1 MiB/,
+  );
+});
+
+test('repository rejects a corrupt referenced image', async (t) => {
+  const truncated = PNG_2X3.subarray(0, 16);
+  const value = articleOn('2026-11-11');
+  value.image = imageAsset(truncated, 'png', { width: 2, height: 3 });
+  const root = await createRepo(t, fixture(value));
+  await writeImage(root, value.image.path, truncated);
+  assert.match(
+    messages((await validateRepository(root)).errors),
+    /must be a valid PNG image/,
+  );
+});
+
+test('repository rejects an asset whose signature does not match its extension', async (t) => {
+  const value = articleOn('2026-11-11');
+  value.image = imageAsset(JPEG_2X3, 'png', { width: 2, height: 3 });
+  const root = await createRepo(t, fixture(value));
+  await writeImage(root, value.image.path, JPEG_2X3);
+  assert.match(
+    messages((await validateRepository(root)).errors),
+    /must be a valid PNG image/,
+  );
+});
+
+test('repository rejects dimensions that do not match the stored image', async (t) => {
+  const value = articleOn('2026-11-11');
+  value.image = imageAsset(PNG_2X3, 'png', { width: 3, height: 2 });
+  const root = await createRepo(t, fixture(value));
+  await writeImage(root, value.image.path, PNG_2X3);
+  assert.match(
+    messages((await validateRepository(root)).errors),
+    /image\.width and image\.height must match the stored image/,
+  );
+});
+
+test('repository rejects a referenced image path that is not a regular file', async (t) => {
+  const value = articleOn('2026-11-11');
+  value.image = imageAsset(PNG_2X3, 'png');
+  const root = await createRepo(t, fixture(value));
+  await mkdir(path.join(root, value.image.path), { recursive: true });
+  assert.match(
+    messages((await validateRepository(root)).errors),
+    /must be a regular file/,
+  );
+});
+
+test('repository rejects a symlinked referenced image', async (t) => {
+  const value = articleOn('2026-11-11');
+  value.image = imageAsset(PNG_2X3, 'png');
+  const root = await createRepo(t, fixture(value));
+  const realFile = path.join(root, 'real-image.png');
+  await writeFile(realFile, PNG_2X3);
+  await mkdir(path.join(root, 'images'), { recursive: true });
+  try {
+    await symlink(realFile, path.join(root, value.image.path));
+  } catch (error) {
+    if (['EPERM', 'EACCES', 'ENOSYS'].includes(error.code)) {
+      t.skip(`symlinks unavailable: ${error.code}`);
+      return;
+    }
+    throw error;
+  }
+  assert.match(
+    messages((await validateRepository(root)).errors),
+    /must be a regular file/,
+  );
+});
+
+test('repository rejects an images directory linked outside the repository', async (t) => {
+  const value = articleOn('2026-11-11');
+  value.image = imageAsset(PNG_2X3, 'png');
+  const root = await createRepo(t, fixture(value));
+  const external = await mkdtemp(path.join(tmpdir(), 'frp-external-images-'));
+  t.after(() => rm(external, { recursive: true, force: true }));
+  await writeFile(path.join(external, path.basename(value.image.path)), PNG_2X3);
+  try {
+    await linkDirectory(external, path.join(root, 'images'));
+  } catch (error) {
+    if (['EPERM', 'EACCES', 'ENOSYS'].includes(error.code)) {
+      t.skip(`directory links unavailable: ${error.code}`);
+      return;
+    }
+    throw error;
+  }
+  assert.match(
+    messages((await validateRepository(root)).errors),
+    /images\/ directory must resolve inside the repository root/,
+  );
+});
+
+test('repository accepts a valid image when the root itself is a symlink', async (t) => {
+  const value = articleOn('2026-11-11');
+  value.image = imageAsset(PNG_2X3, 'png');
+  const root = await createRepo(t, fixture(value));
+  await writeImage(root, value.image.path, PNG_2X3);
+  const aliasParent = await mkdtemp(path.join(tmpdir(), 'frp-root-alias-'));
+  t.after(() => rm(aliasParent, { recursive: true, force: true }));
+  const alias = path.join(aliasParent, 'repo');
+  try {
+    await linkDirectory(root, alias);
+  } catch (error) {
+    if (['EPERM', 'EACCES', 'ENOSYS'].includes(error.code)) {
+      t.skip(`directory links unavailable: ${error.code}`);
+      return;
+    }
+    throw error;
+  }
+  assert.deepEqual((await validateRepository(alias)).errors, []);
+});
+
+test('repository ignores unreferenced optional image files', async (t) => {
+  const value = articleOn('2026-11-11');
+  const root = await createRepo(t, fixture(value));
+  await writeImage(root, 'images/unreferenced.png', PNG_2X3);
   assert.deepEqual((await validateRepository(root)).errors, []);
 });
 
