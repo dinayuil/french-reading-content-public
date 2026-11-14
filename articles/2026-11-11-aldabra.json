@@ -271,5 +271,20 @@
   "license": {
     "name": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-11-aldabra-24aaaad95ae6.jpg",
+    "alt": "The Aldabra Islands form the largest lagoon in the Indian Ocean. The length is 34 km and the width is 14.5 km. The islands are a UN world heritage and not inhabited.",
+    "author": "Simisa",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seychelles_outer_islands_25.08.2009_10-20-09.jpg?oldid=1065891250",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Réduite à 1280×850 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 850,
+    "byteLength": 155287,
+    "sha256": "24aaaad95ae6a8e36af32b295c0815b5239c45bed6c5302326b159302f861b56",
+    "fileRevisionId": "1065891250",
+    "retrievedAt": "2026-11-14"
   }
 }

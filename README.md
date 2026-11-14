@@ -36,7 +36,7 @@ App 先拉 `manifest.json`，再按日拉索引，点开文章才拉全文。日
 
 文章可带一个 `image` 对象，字段为 `path`、`alt`、`author`、`sourceUrl`、`license`、`licenseUrl`、`changes`、`width`、`height`、`byteLength`、`sha256`、`fileRevisionId`、`retrievedAt`。路径为 `images/<article-id>-<sha256前12位>.jpg` 或 `.png`；不接受任意外部图片地址或路径穿越。
 
-首版自动接收 Commons 中许可结构明确的 CC0 1.0 或 CC BY / CC BY-SA 2.0、2.5、3.0、4.0 照片，每图不超过 1 MiB、最长边不超过 1600px。校验既检查元数据，也检查引用文件存在、字节长度、文件签名、真实尺寸与 SHA256。无图文章继续合法，已有但错误的图片声明不得发布。
+接收 Commons 中权利结构明确的 CC0 1.0、CC BY / CC BY-SA 2.0、2.5、3.0、4.0 图片，以及文件自身有明确公有领域声明的图片。后者的 `license` 为 `Public domain`，`licenseUrl` 必须为 `https://creativecommons.org/publicdomain/mark/1.0/`；该链接表示公有领域状态，不是 CC0 重授权。每图不超过 1 MiB、最长边不超过 1600px。校验既检查元数据，也检查引用文件存在、字节长度、文件签名、真实尺寸与 SHA256。无图文章继续合法，已有但错误的图片声明不得发布。
 
 本仓库只存数据并做校验，**不部署、不启用 Pages**。只有 app 仓库有 Pages。
 

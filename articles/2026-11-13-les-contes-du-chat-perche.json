@@ -277,5 +277,20 @@
   "license": {
     "name": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-13-les-contes-du-chat-perche-1ba9bdb472de.jpg",
+    "alt": "Peafowl in Los Angeles, California",
+    "author": "Mel from Socal, USA",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peafowl.jpg?oldid=1219339013",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "changes": "Réduite à 1280×857 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 857,
+    "byteLength": 599128,
+    "sha256": "1ba9bdb472dedc4ce981d8d20964727af7a8d47fd4f4b837ffae8015442061a3",
+    "fileRevisionId": "1219339013",
+    "retrievedAt": "2026-11-14"
   }
 }

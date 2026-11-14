@@ -264,5 +264,20 @@
   "license": {
     "name": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-11-balto-film-52bd20e37271.jpg",
+    "alt": "4th of July parade, Nome - Alaska 1916",
+    "author": "Unknown author Unknown author",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:4th_of_July_Nome_1916.jpg?oldid=974293842",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Fichier original téléchargé depuis Wikimedia Commons ; aucune modification.",
+    "width": 900,
+    "height": 701,
+    "byteLength": 183633,
+    "sha256": "52bd20e3727152f5ae2ef24a18b1e65a9a5ea5ed1f466bb601d32f1efd10f989",
+    "fileRevisionId": "974293842",
+    "retrievedAt": "2026-11-14"
   }
 }

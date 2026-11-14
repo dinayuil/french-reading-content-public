@@ -349,6 +349,15 @@ test('accepts optional valid image metadata', () => {
         licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/',
       },
     ],
+    [
+      'Public domain',
+      PNG_2X3,
+      'png',
+      {
+        license: 'Public domain',
+        licenseUrl: 'https://creativecommons.org/publicdomain/mark/1.0/',
+      },
+    ],
   ];
 
   for (const [label, bytes, extension, overrides] of cases) {
@@ -486,6 +495,78 @@ test('rejects unsupported or mismatched image licenses', () => {
       {
         license: 'CC BY 3.0',
         licenseUrl: 'https://creativecommons.org/licenses/by/3.0',
+      },
+      /image\.licenseUrl.*canonical/,
+    ],
+    [
+      'arbitrary PD label',
+      {
+        license: 'PD',
+        licenseUrl: 'https://creativecommons.org/publicdomain/mark/1.0/',
+      },
+      /image\.license/,
+    ],
+    [
+      'lowercase public domain label',
+      {
+        license: 'public domain',
+        licenseUrl: 'https://creativecommons.org/publicdomain/mark/1.0/',
+      },
+      /image\.license/,
+    ],
+    [
+      'unknown license',
+      {
+        license: 'Unknown',
+        licenseUrl: 'https://creativecommons.org/publicdomain/mark/1.0/',
+      },
+      /image\.license/,
+    ],
+    [
+      'unsupported old CC version',
+      {
+        license: 'CC BY 1.0',
+        licenseUrl: 'https://creativecommons.org/licenses/by/1.0/',
+      },
+      /image\.license/,
+    ],
+    [
+      'Public domain with CC0 URL',
+      {
+        license: 'Public domain',
+        licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/',
+      },
+      /image\.licenseUrl.*canonical/,
+    ],
+    [
+      'Public domain with mismatched URL',
+      {
+        license: 'Public domain',
+        licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/',
+      },
+      /image\.licenseUrl.*canonical/,
+    ],
+    [
+      'Public domain with PDM query',
+      {
+        license: 'Public domain',
+        licenseUrl: 'https://creativecommons.org/publicdomain/mark/1.0/?x=1',
+      },
+      /image\.licenseUrl.*canonical/,
+    ],
+    [
+      'Public domain with PDM deed',
+      {
+        license: 'Public domain',
+        licenseUrl: 'https://creativecommons.org/publicdomain/mark/1.0/deed.en',
+      },
+      /image\.licenseUrl.*canonical/,
+    ],
+    [
+      'CC0 with PDM URL',
+      {
+        license: 'CC0 1.0',
+        licenseUrl: 'https://creativecommons.org/publicdomain/mark/1.0/',
       },
       /image\.licenseUrl.*canonical/,
     ],

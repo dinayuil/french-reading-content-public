@@ -18,6 +18,7 @@ const SOF_MARKERS = new Set([
 
 const IMAGE_LICENSE_URLS = new Map([
   ['CC0 1.0', 'https://creativecommons.org/publicdomain/zero/1.0/'],
+  ['Public domain', 'https://creativecommons.org/publicdomain/mark/1.0/'],
   ['CC BY 2.0', 'https://creativecommons.org/licenses/by/2.0/'],
   ['CC BY 2.5', 'https://creativecommons.org/licenses/by/2.5/'],
   ['CC BY 3.0', 'https://creativecommons.org/licenses/by/3.0/'],
@@ -215,7 +216,7 @@ export function validateArticleImage(image) {
     : undefined;
   if (!expectedLicenseUrl) {
     fail(
-      'image.license must be CC0 1.0, CC BY 2.0/2.5/3.0/4.0 or CC BY-SA 2.0/2.5/3.0/4.0',
+      'image.license must be Public domain, CC0 1.0, CC BY 2.0/2.5/3.0/4.0 or CC BY-SA 2.0/2.5/3.0/4.0',
     );
   } else if (image.licenseUrl !== expectedLicenseUrl) {
     fail(

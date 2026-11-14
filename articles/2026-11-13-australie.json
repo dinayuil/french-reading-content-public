@@ -269,5 +269,20 @@
   "license": {
     "name": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-13-australie-d69a733c69a4.jpg",
+    "alt": "Illustration de l'article « L’Australie : un pays-continent »",
+    "author": "NASA",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aus_layered_day(center).jpg?oldid=911505374",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Réduite à 1280×1258 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 1258,
+    "byteLength": 487150,
+    "sha256": "d69a733c69a4932bdddf37a6150c9f634d962f00836bb183ebe72398f601ec1e",
+    "fileRevisionId": "911505374",
+    "retrievedAt": "2026-11-14"
   }
 }

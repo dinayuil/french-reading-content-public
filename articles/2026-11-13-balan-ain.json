@@ -267,5 +267,20 @@
   "license": {
     "name": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-13-balan-ain-5ec679c758fa.jpg",
+    "alt": "La mairie de Balan (Ain) en septembre 2021.",
+    "author": "Benoît Prieur",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_mairie_de_Balan_(Ain)_en_septembre_2021_(3).jpg?oldid=843387907",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "changes": "Réduite à 960×1298 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 960,
+    "height": 1298,
+    "byteLength": 287568,
+    "sha256": "5ec679c758fa7fd75c581c49153a086ae87377d0f52a87100fa0097d4c641d82",
+    "fileRevisionId": "843387907",
+    "retrievedAt": "2026-11-14"
   }
 }

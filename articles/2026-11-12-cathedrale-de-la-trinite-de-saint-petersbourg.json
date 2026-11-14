@@ -279,5 +279,20 @@
   "license": {
     "name": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-12-cathedrale-de-la-trinite-de-saint-petersbourg-a8d033ca0a0d.jpg",
+    "alt": "Собор Троицкий (Измайловский): Измайловский проспект, 4-а, 7-а, Адмиралтейский район, Санкт-Петербург",
+    "author": "Ryabikovich8",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_(%D0%98%D0%B7%D0%BC%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9)_%D0%98%D0%B7%D0%BC%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%2C_4-%D0%B0%2C_7-%D0%B0%2C_%D0%90%D0%B4%D0%BC%D0%B8%D1%80%D0%B0%D0%BB%D1%82%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3.jpg?oldid=1287905956",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Fichier original téléchargé depuis Wikimedia Commons ; aucune modification.",
+    "width": 1280,
+    "height": 763,
+    "byteLength": 332515,
+    "sha256": "a8d033ca0a0d5ff178f469652fc054dfba30db49f4713987a559806a933f28e3",
+    "fileRevisionId": "1287905956",
+    "retrievedAt": "2026-11-14"
   }
 }

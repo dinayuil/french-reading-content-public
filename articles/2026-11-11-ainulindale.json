@@ -257,5 +257,20 @@
   "license": {
     "name": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-11-ainulindale-39dd737241f2.jpg",
+    "alt": "Joseph Pearce speaking into a microphone",
+    "author": "PeterMottola",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joseph_Pearce_speaking_into_a_microphone.jpg?oldid=1097784968",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Fichier original téléchargé depuis Wikimedia Commons ; aucune modification.",
+    "width": 382,
+    "height": 452,
+    "byteLength": 54809,
+    "sha256": "39dd737241f2e2dbde71f41ef5162abfb1263f6052be988f7a73db67c3a545a1",
+    "fileRevisionId": "1097784968",
+    "retrievedAt": "2026-11-14"
   }
 }

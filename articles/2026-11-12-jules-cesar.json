@@ -259,5 +259,20 @@
   "license": {
     "name": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-12-jules-cesar-0f8c73ccfa1f.jpg",
+    "alt": "Bust of Gaius Julius Caesar in the National Archaeological Museum of Naples . Taken by Andreas Wahra in March 1997.",
+    "author": "Andreas Wahra",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bust_of_Gaius_Iulius_Caesar_in_Naples.jpg?oldid=1270375848",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Fichier original téléchargé depuis Wikimedia Commons ; aucune modification.",
+    "width": 800,
+    "height": 1450,
+    "byteLength": 464302,
+    "sha256": "0f8c73ccfa1feca4bacce37b6dc27071d207d98f23607c06fad6b126f5b352d1",
+    "fileRevisionId": "1270375848",
+    "retrievedAt": "2026-11-14"
   }
 }
