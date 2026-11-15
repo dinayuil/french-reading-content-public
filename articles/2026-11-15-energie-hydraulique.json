@@ -1,0 +1,377 @@
+{
+  "id": "2026-11-15-energie-hydraulique",
+  "title": "La force de l’eau comme énergie",
+  "level": "B1",
+  "theme": "environnement",
+  "date": "2026-11-15",
+  "summary": "L’énergie hydraulique vient de la force de l’eau. Renouvelable, elle sert depuis l’Antiquité et produit de l’électricité depuis le XIXe siècle.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Elle utilise le débit d’un cours d’eau et une différence de hauteur.",
+        "Dans l’Antiquité, elle actionnait déjà des machines; au XIXe siècle, elle a servi à produire de l’électricité."
+      ]
+    },
+    {
+      "sentences": [
+        "Les moulins à eau ont moulu du grain dès l’Antiquité.",
+        "L’eau faisait aussi marcher des scieries, des martinets pour les métaux et des papeteries.",
+        "Une roue ou une turbine captait l’énergie, puis des courroies et des axes la transmettaient aux machines."
+      ]
+    },
+    {
+      "sentences": [
+        "Au XIXe siècle, on a découvert comment produire de l’électricité avec un mouvement mécanique.",
+        "L’eau sous pression fait tourner une turbine reliée à un générateur dans une centrale hydroélectrique.",
+        "Aristide Bergès a créé l’expression « houille blanche » en 1878, pour l’opposer au charbon, la « houille noire », qui faisait marcher les machines à vapeur."
+      ]
+    },
+    {
+      "sentences": [
+        "Au début du XXe siècle, l’électricité restait près de son lieu de production.",
+        "Avec les progrès du transport et des techniques, on a construit de grands barrages pour des zones lointaines.",
+        "En France, Serre-Ponçon a été bâti au XXe siècle, jusqu’aux années 1970 environ, et la Chine construit encore de grands barrages.",
+        "La part de l’hydraulique varie selon les pays, mais reste importante; les barrages peuvent augmenter leur puissance."
+      ]
+    },
+    {
+      "sentences": [
+        "La Chine est le premier producteur mondial, devant le Canada et le Brésil.",
+        "En France, l’hydraulique donne environ 10 % de l’électricité; c’était plus dans les années 1960, puis la consommation et d’autres centrales ont augmenté.",
+        "La puissance dépend de la chute et du débit : 5 mètres et 3 m3/s donnent 147 kW, avant 10 à 15 % de pertes."
+      ]
+    },
+    {
+      "sentences": [
+        "Une turbine ne donne pas toujours sa pleine puissance.",
+        "Une centrale de 1000 kW peut produire 350 kW en moyenne, soit 3 066 000 kWh par an ou 3 GWh.",
+        "En France, l’usine marémotrice de la Rance a été inaugurée en 1966; elle utilise les marées à l’embouchure des fleuves, mais peu de sites conviennent."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "actionnait"
+    },
+    {
+      "term": "martinets"
+    },
+    {
+      "term": "courroies"
+    },
+    {
+      "term": "houille"
+    },
+    {
+      "term": "marémotrice"
+    },
+    {
+      "term": "embouchure"
+    },
+    {
+      "term": "débit"
+    },
+    {
+      "term": "turbine"
+    },
+    {
+      "term": "générateur"
+    },
+    {
+      "term": "hydraulique"
+    },
+    {
+      "term": "consommation"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "D’après l’article, à quoi servaient déjà les moulins à eau dans l’Antiquité ?",
+      "options": [
+        "À moudre du grain.",
+        "À produire de l’électricité pour des zones lointaines.",
+        "À transporter le charbon vers les machines à vapeur.",
+        "À augmenter la puissance des barrages."
+      ],
+      "answerIndex": 0,
+      "evidence": "Les moulins à eau ont moulu du grain dès l’Antiquité.",
+      "explanation": "Le texte situe l’usage des moulins à eau pour le grain dès l’Antiquité. L’électricité et les grands barrages sont présentés plus loin dans l’article, à des époques différentes."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi Aristide Bergès a-t-il créé l’expression « houille blanche » ?",
+      "options": [
+        "Pour désigner l’électricité produite par les marées.",
+        "Pour l’opposer au charbon qui faisait marcher les machines à vapeur.",
+        "Pour remplacer le mot « turbine » dans les centrales.",
+        "Pour expliquer la perte de puissance dans les barrages."
+      ],
+      "answerIndex": 1,
+      "evidence": "Aristide Bergès a créé l’expression « houille blanche » en 1878, pour l’opposer au charbon, la « houille noire », qui faisait marcher les machines à vapeur.",
+      "explanation": "L’expression est présentée comme une opposition entre l’énergie de l’eau et le charbon utilisé par les machines à vapeur. Les autres options renvoient à d’autres passages de l’article."
+    },
+    {
+      "id": "q3",
+      "prompt": "Pourquoi a-t-on construit de grands barrages pour des zones lointaines ?",
+      "options": [
+        "Parce que les moulins à eau ne moudaient plus le grain.",
+        "Parce que les progrès du transport et des techniques le permettaient.",
+        "Parce que la Chine avait arrêté de construire des barrages.",
+        "Parce que l’électricité devait rester près de son lieu de production."
+      ],
+      "answerIndex": 1,
+      "evidence": "Avec les progrès du transport et des techniques, on a construit de grands barrages pour des zones lointaines.",
+      "explanation": "Le texte relie directement la construction de grands barrages pour des zones éloignées aux progrès du transport et des techniques. L’option sur l’électricité près de son lieu de production décrit au contraire la situation du début du XXe siècle."
+    },
+    {
+      "id": "q4",
+      "prompt": "Que dit l’article sur le barrage de Serre-Ponçon ?",
+      "options": [
+        "Il a été inauguré en 1966 pour utiliser les marées.",
+        "Il a été construit en France au XXe siècle, jusqu’aux années 1970 environ.",
+        "Il est encore en construction en Chine.",
+        "Il fournit environ 10 % de l’électricité en France."
+      ],
+      "answerIndex": 1,
+      "evidence": "En France, Serre-Ponçon a été bâti au XXe siècle, jusqu’aux années 1970 environ, et la Chine construit encore de grands barrages.",
+      "explanation": "Le texte donne Serre-Ponçon comme exemple de barrage français construit au XXe siècle, jusque vers les années 1970. Les autres options mélangent des informations sur la Rance, la Chine ou la part de l’hydraulique."
+    },
+    {
+      "id": "q5",
+      "prompt": "Selon l’article, que peuvent donner une chute de 5 mètres et un débit de 3 m3/s avant les pertes ?",
+      "options": [
+        "3 GWh par an.",
+        "350 kW en moyenne.",
+        "147 kW.",
+        "1000 kW."
+      ],
+      "answerIndex": 2,
+      "evidence": "La puissance dépend de la chute et du débit : 5 mètres et 3 m3/s donnent 147 kW, avant 10 à 15 % de pertes.",
+      "explanation": "Le texte indique directement 147 kW pour ces valeurs, avant de parler des pertes. Les autres chiffres correspondent à d’autres exemples de puissance ou de production annuelle."
+    },
+    {
+      "id": "q6",
+      "prompt": "Pourquoi la part de l’hydraulique dans l’électricité française est-elle plus faible qu’auparavant ?",
+      "options": [
+        "Parce que la consommation et d’autres centrales ont augmenté.",
+        "Parce que les barrages français ne peuvent plus augmenter leur puissance.",
+        "Parce que la France a arrêté d’utiliser l’énergie des marées.",
+        "Parce que la Chine est devenue le premier producteur mondial."
+      ],
+      "answerIndex": 0,
+      "evidence": "En France, l’hydraulique donne environ 10 % de l’électricité; c’était plus dans les années 1960, puis la consommation et d’autres centrales ont augmenté.",
+      "explanation": "L’article explique la baisse relative de la part hydraulique par la hausse de la consommation et le développement d’autres centrales. Les autres options ne sont pas présentées comme la cause de cette évolution."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quel est le sujet principal de l’article ?",
+      "options": [
+        "L’histoire et le fonctionnement de l’énergie produite par l’eau.",
+        "La construction du barrage de Serre-Ponçon en France.",
+        "Le remplacement du charbon par les machines à vapeur.",
+        "Les avantages des moulins à eau dans l’Antiquité."
+      ],
+      "answerIndex": 0,
+      "evidence": "Elle utilise le débit d’un cours d’eau et une différence de hauteur.",
+      "explanation": "Le texte présente le principe de l’énergie hydraulique, puis son histoire et des exemples de production. Les autres options ne concernent qu’un détail ou un aspect secondaire de l’article."
+    },
+    {
+      "id": "q8",
+      "prompt": "Qu’apprend-on sur l’usine marémotrice de la Rance ?",
+      "options": [
+        "Elle a été inaugurée en 1966 et utilise les marées à l’embouchure des fleuves.",
+        "Elle est le premier producteur mondial d’électricité hydraulique.",
+        "Elle produit 3 GWh par an avec une turbine de 1000 kW.",
+        "Elle a été construite jusqu’aux années 1970 environ."
+      ],
+      "answerIndex": 0,
+      "evidence": "En France, l’usine marémotrice de la Rance a été inaugurée en 1966; elle utilise les marées à l’embouchure des fleuves, mais peu de sites conviennent.",
+      "explanation": "Le texte donne la date d’inauguration de la Rance et explique qu’elle fonctionne grâce aux marées à l’embouchure des fleuves. Les autres options reprennent des informations qui concernent d’autres exemples ou pays."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "水作为能源的力量",
+      "summary": "水力能源来自水的力量。它可再生，自古代起就得到使用，并从19世纪起用于发电。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "它利用河流的流量和落差。",
+            "在古代，它已经驱动机器；到19世纪，它被用来发电。"
+          ]
+        },
+        {
+          "sentences": [
+            "水磨坊从古代起就磨谷物。",
+            "水还驱动锯木厂、金属锻锤坊和造纸厂。",
+            "水轮或涡轮机捕获能量，然后由皮带和轴将其传递给机器。"
+          ]
+        },
+        {
+          "sentences": [
+            "19世纪，人们发现了如何用机械运动发电。",
+            "在水电站中，加压的水使与发电机相连的涡轮机转动。",
+            "阿里斯蒂德·贝尔热斯于1878年创造了“白煤”一词，用来与驱动蒸汽机的煤炭即“黑煤”相对。"
+          ]
+        },
+        {
+          "sentences": [
+            "20世纪初，电力仍留在其生产地附近。",
+            "随着运输和技术的进步，人们为偏远地区建造了大型水坝。",
+            "在法国，塞尔蓬松水坝于20世纪建造，直到约20世纪70年代；中国仍在建造大型水坝。",
+            "水力发电的占比因国家而异，但仍然重要；水坝可以提高其功率。"
+          ]
+        },
+        {
+          "sentences": [
+            "中国是世界第一大生产国，领先于加拿大和巴西。",
+            "在法国，水力发电约占电力的10%；20世纪60年代时这一比例更高，随后用电量和其它电站增加了。",
+            "功率取决于落差和流量：5米和3立方米/秒在损失10%至15%之前可产生147千瓦。"
+          ]
+        },
+        {
+          "sentences": [
+            "涡轮机并不总是输出其满功率。",
+            "一座1000千瓦的电站平均可生产350千瓦，即每年3 066 000千瓦时或3吉瓦时。",
+            "在法国，朗斯潮汐电站于1966年落成；它利用河口处的潮汐，但适合的地点很少。"
+          ]
+        }
+      ],
+      "glossary": {
+        "actionnait": "驱动、带动（机器）；文中指水力使机器运转。",
+        "martinets": "水力锻锤，用于锻造金属的锤击装置。",
+        "courroies": "皮带，用于把动力从轮轴传到机器。",
+        "houille": "煤；文中“houille blanche”指白煤，即水力，“houille noire”指黑煤。",
+        "marémotrice": "潮汐的；usine marémotrice 指利用潮汐发电的电站。",
+        "embouchure": "河口，河流注入海洋或湖泊的地方。",
+        "débit": "流量，单位时间内通过某断面的水量。",
+        "turbine": "涡轮机/水轮机，被水流带动旋转以产生机械能。",
+        "générateur": "发电机，把机械能转化为电能。",
+        "hydraulique": "水力的；énergie hydraulique 指水力能源。",
+        "consommation": "消费、消耗；文中指用电量。"
+      },
+      "questions": {
+        "q1": "文章第二段第一句明确说水磨坊从古代起就磨谷物，因此正确选项是“磨谷物”。为偏远地区发电涉及后文的大型水坝和电力输送；运送煤炭给蒸汽机不是水磨坊的用途；提高水坝功率也属于后文水坝的内容，均与古代水磨坊不符。",
+        "q2": "原文第三段说贝尔热斯在1878年创造“白煤”，是为了与驱动蒸汽机的煤炭即“黑煤”相对；证据直接支持第二项“为了与驱动蒸汽机的煤炭相对”。潮汐发电是后文朗斯电站的内容；用“白煤”取代“涡轮机”没有依据；功率损失是后文计算中的内容，与此词创制无关。",
+        "q3": "原文第四段第二句把为偏远地区建造大型水坝与运输和技术的进步直接联系起来，因此正确选项是“因为运输和技术的进步使之成为可能”。水磨坊不再磨谷物并非原因；中国仍在建坝，与“已停止”相反；电力留在生产地附近描述的是20世纪初的情况，而不是建坝原因。",
+        "q4": "原文第四段第三句明确指出，塞尔蓬松水坝在法国于20世纪建造，直到约1970年代，所以正确选项是第二项“它于20世纪在法国建造，直到约1970年代”。1966年落成并利用潮汐的是朗斯潮汐电站；仍在中国建造的是大型水坝的总体情况，不是塞尔蓬松；约10%是法国水力发电占比，不是该水坝的单独贡献。",
+        "q5": "原文第五段第三句直接给出：落差5米、流量3立方米/秒在10%至15%损失之前产生147千瓦，因此正确选项是“147千瓦”。每年3吉瓦时和平均350千瓦来自第六段另一座1000千瓦电站的例子；1000千瓦是那座电站的标称功率，不是这组落差和流量的结果。",
+        "q6": "原文第五段第二句说，法国水力发电约占10%，20世纪60年代时更高，随后用电量和其它电站增加了；这直接支持第一项“因为用电量和其它电站增加了”。文章说水坝可以提高功率，与第二项相反；法国仍有朗斯潮汐电站，未说停止利用潮汐；中国是第一大生产国是真的，但并未被说成法国占比下降的原因。",
+        "q7": "文章从水力利用河流流量和落差讲起，随后介绍古代水磨坊、19世纪发电、大型水坝和产量等，整体是在讲水能的历史和运作方式，所以正确选项是第一项“水能的历史和运作方式”。塞尔蓬松水坝只是法国的一个例子；蒸汽机与煤炭的关系只是“白煤”一词背景中的细节；古代水磨坊只是文章开头的一部分，不能概括全文。",
+        "q8": "原文第六段第三句指出，朗斯潮汐电站于1966年落成，利用河口处的潮汐，但适合的地点很少，因此正确选项是第一项“它于1966年落成，并利用河口处的潮汐”。世界第一大水力发电生产国是中国，不是这座电站；1000千瓦和3吉瓦时是前一句另一座电站的示例；建造到约1970年代的是塞尔蓬松水坝，不是朗斯电站。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "根据文章，古代水磨坊已经用来做什么？",
+          "options": [
+            "磨谷物。",
+            "为偏远地区发电。",
+            "把煤运送到蒸汽机。",
+            "提高水坝的功率。"
+          ]
+        },
+        "q2": {
+          "prompt": "阿里斯蒂德·贝尔热斯为什么创造“白煤”一词？",
+          "options": [
+            "为了指称潮汐产生的电力。",
+            "为了与驱动蒸汽机的煤炭相对。",
+            "为了在电站中取代“涡轮机”一词。",
+            "为了解释水坝中的功率损失。"
+          ]
+        },
+        "q3": {
+          "prompt": "为什么人们为偏远地区建造大型水坝？",
+          "options": [
+            "因为水磨坊不再磨谷物。",
+            "因为运输和技术的进步使之成为可能。",
+            "因为中国已停止建造水坝。",
+            "因为电力必须留在其生产地附近。"
+          ]
+        },
+        "q4": {
+          "prompt": "文章关于塞尔蓬松水坝说了什么？",
+          "options": [
+            "它于1966年落成，用于利用潮汐。",
+            "它于20世纪在法国建造，直到约1970年代。",
+            "它仍在中国建造。",
+            "它提供法国约10%的电力。"
+          ]
+        },
+        "q5": {
+          "prompt": "根据文章，5米落差和3立方米/秒的流量在损失之前可产生什么？",
+          "options": [
+            "每年3吉瓦时。",
+            "平均350千瓦。",
+            "147千瓦。",
+            "1000千瓦。"
+          ]
+        },
+        "q6": {
+          "prompt": "为什么水力发电在法国电力中的占比比以前低？",
+          "options": [
+            "因为用电量和其它电站增加了。",
+            "因为法国水坝不能再提高功率。",
+            "因为法国已停止利用潮汐能。",
+            "因为中国成为世界第一大生产国。"
+          ]
+        },
+        "q7": {
+          "prompt": "文章的主要主题是什么？",
+          "options": [
+            "水能的历史和运作方式。",
+            "法国塞尔蓬松水坝的建造。",
+            "蒸汽机取代煤炭。",
+            "古代水磨坊的优点。"
+          ]
+        },
+        "q8": {
+          "prompt": "关于朗斯潮汐电站，我们了解到什么？",
+          "options": [
+            "它于1966年落成，并利用河口处的潮汐。",
+            "它是世界第一大水力发电生产国。",
+            "它用1000千瓦的涡轮机每年生产3吉瓦时。",
+            "它建造到约1970年代。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Énergie hydraulique",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2569270&title=%C3%89nergie%20hydraulique",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-15",
+    "revisionId": "2569270"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-15",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-15-energie-hydraulique-747dc50ad21d.jpg",
+    "alt": "Former Menier chocolate factory in Noisiel , Seine-et-Marne, France: the watermill designed by Jules Saulnier (1872) on the Marne river.",
+    "author": "Photo: Myrabella / Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chocolaterie_Menier_moulin_Saulnier_1.jpg?oldid=1151146430",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Réduite à 1280×894 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 894,
+    "byteLength": 403766,
+    "sha256": "747dc50ad21d40668906548a4682f14202ead90f1704594975acfba6cf5bc9c3",
+    "fileRevisionId": "1151146430",
+    "retrievedAt": "2026-11-15"
+  }
+}

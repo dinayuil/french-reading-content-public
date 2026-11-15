@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-15",
+  "articles": [
+    {
+      "id": "2026-11-15-hong-kong-la-police-lance-une-plateforme-dediee-a-la-securit",
+      "title": "Une plateforme d’IA pour l’éducation à la sécurité nationale à Hong Kong",
+      "level": "B2",
+      "theme": "politique",
+      "date": "2026-11-15",
+      "summary": "La police de Hong Kong a présenté une plateforme pédagogique utilisant l’intelligence artificielle, destinée aux jeunes élèves, dans un contexte de renforcement de l’enseignement de la sécurité nationale depuis 2020.",
+      "path": "articles/2026-11-15-hong-kong-la-police-lance-une-plateforme-dediee-a-la-securit.json"
+    },
+    {
+      "id": "2026-11-15-energie-hydraulique",
+      "title": "La force de l’eau comme énergie",
+      "level": "B1",
+      "theme": "environnement",
+      "date": "2026-11-15",
+      "summary": "L’énergie hydraulique vient de la force de l’eau. Renouvelable, elle sert depuis l’Antiquité et produit de l’électricité depuis le XIXe siècle.",
+      "path": "articles/2026-11-15-energie-hydraulique.json"
+    },
+    {
+      "id": "2026-11-15-anges-musiciens-national-gallery",
+      "title": "Les Anges musiciens du retable milanais de l’Immaculée Conception",
+      "level": "B2",
+      "theme": "culture",
+      "date": "2026-11-15",
+      "summary": "Réalisés vers la fin du XVe siècle, deux panneaux d’anges musiciens devaient encadrer La Vierge aux rochers de Léonard de Vinci au sein du retable de l’Immaculée Conception. Destinés à une chapelle de l’église Saint-François-Majeur, à Milan, ils furent séparés de leur ensemble à la fin du XVIIIe siècle. La Vierge aux rochers ayant été vendue en 1781, les anges passèrent ensuite sous séquestre en 1802 et furent cédés à Giacomo Melzi; en 1898, Giovanni Melzi d’Eril les vendit à la National Gallery. Les deux tableaux, peints entre 1495 et 1499, partagent un support de peuplier et une huile de noix; leurs formats atteignent environ 117,2 × 60,8 cm et 118,8 × 61 cm. L’Ange en vert, qui joue d’une lira da braccio, a longtemps été donné à Giovanni Ambrogio de Predis, mais des recherches récentes l’attribuent plutôt à Francesco Napoletano. En revanche, l’Ange en rouge, jouant du luth, reste généralement associé à Ambrogio de Predis, sous l’influence manifeste de Léonard. Chacun des panneaux montre un seul ange en pied dans une niche en trompe-l’œil aux gris dégradés, avec des ailes légèrement ouvertes et une robe à col différent. Leur disposition corporelle se ressemble, tandis que l’instrument, la posture et la tête les distinguent nettement. Il est admis que les titres modernes décrivent mal l’ange vert, puisque l’instrument représenté serait une lira da braccio et non une vièle. La commande émane de la confrérie milanaise de l’Immaculée Conception, qui signe un contrat notarié le 25 avril 1483 avec Léonard et les frères de Predis; la livraison est prévue pour le 8 décembre 1483. En 1482, Giacomo del Maino avait fourni la structure du retable, dont Ambrogio devait peindre les volets latéraux sous la supervision probable du maître florentin. Dès lors, l’attribution, la datation et la place exacte des anges demeurent discutées, car les documents contemporains parlent surtout du panneau central. Des analyses ont révélé que les fonds gris actuels recouvrent un paysage verdoyant pour l’un et une niche rougeâtre pour l’autre; ces repeints visaient sans doute à harmoniser l’ensemble. Les dimensions ont aussi changé, et l’état des surfaces reste moyen, avec des craquelures et des problèmes d’adhérence. Si la création commune entre 1495 et 1499 paraît probable, une minorité d’auteurs propose 1506-1508, hypothèse qui contredirait la mort de Napoletano en 1501.",
+      "path": "articles/2026-11-15-anges-musiciens-national-gallery.json"
+    }
+  ]
+}

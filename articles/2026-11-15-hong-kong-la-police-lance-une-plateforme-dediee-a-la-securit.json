@@ -1,0 +1,310 @@
+{
+  "id": "2026-11-15-hong-kong-la-police-lance-une-plateforme-dediee-a-la-securit",
+  "title": "Une plateforme d’IA pour l’éducation à la sécurité nationale à Hong Kong",
+  "level": "B2",
+  "theme": "politique",
+  "date": "2026-11-15",
+  "summary": "La police de Hong Kong a présenté une plateforme pédagogique utilisant l’intelligence artificielle, destinée aux jeunes élèves, dans un contexte de renforcement de l’enseignement de la sécurité nationale depuis 2020.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Le 6 octobre 2026, la police de Hong Kong a présenté une plateforme pédagogique conçue avec de l’intelligence artificielle et destinée aux élèves du primaire.",
+        "La cérémonie s’est tenue à l’école Precious Blood d’Ap Lei Chau, en présence d’environ 700 enfants.",
+        "Ce lancement officiel a été annoncé par la police sur Facebook."
+      ]
+    },
+    {
+      "sentences": [
+        "Baptisé NSmarties AI, l’outil interactif a été développé avec l’entreprise locale Qianfan Technology.",
+        "Il doit permettre aux jeunes utilisateurs de composer des récits personnalisés autour de la conception globale de la sécurité nationale défendue par Xi Jinping.",
+        "Ce cadre chinois englobe notamment les questions politiques, économiques, écologiques et technologiques.",
+        "Des responsables, dont le commissaire Joe Chow Yat-ming et le chef de la sécurité Chris Tang, y expliquent aussi les lois locales et donnent des informations pratiques."
+      ]
+    },
+    {
+      "sentences": [
+        "Lors de la cérémonie, plusieurs invités ont accompagné les élèves, parmi lesquels le commissaire adjoint chargé de la sécurité nationale, Kelvin Kong Hok-lai.",
+        "Sœur Au Yee-man, qui préside la Société du Précieux Sang, était également présente.",
+        "La police a estimé que cet événement constituait une avancée majeure pour introduire ce sujet dans les établissements scolaires au moyen de solutions technologiques nouvelles."
+      ]
+    },
+    {
+      "sentences": [
+        "La plateforme avait déjà été montrée en avril, à l’occasion de la Journée de l’éducation à la sécurité nationale, sans être alors entièrement ouverte au public.",
+        "Depuis 2020, Hong Kong a renforcé ce type d’enseignement en parallèle d’une vague répressive.",
+        "Au mois de juin 2020, les autorités centrales ont inscrit cette législation relative à la sécurité nationale dans le texte constitutionnel local, après les protestations pro-démocratiques et les troubles de 2019."
+      ]
+    },
+    {
+      "sentences": [
+        "Cette législation punit la subversion, la sécession, la collusion avec des puissances étrangères et les actes terroristes, avec des définitions très larges incluant la perturbation des transports ou d’autres infrastructures.",
+        "Elle a accordé à la police des pouvoirs étendus et entraîné des centaines d’arrestations fondées sur de nouveaux précédents juridiques.",
+        "Des dizaines d’organisations de la société civile ont disparu, tandis que les autorités affirment avoir rétabli la stabilité et la paix.",
+        "Elles rejettent les critiques émises par des partenaires commerciaux, l’ONU et des ONG."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "pédagogique"
+    },
+    {
+      "term": "Baptisé"
+    },
+    {
+      "term": "récits personnalisés"
+    },
+    {
+      "term": "conception globale"
+    },
+    {
+      "term": "englobe"
+    },
+    {
+      "term": "interactif"
+    },
+    {
+      "term": "subversion"
+    },
+    {
+      "term": "sécession"
+    },
+    {
+      "term": "collusion"
+    },
+    {
+      "term": "précédents juridiques"
+    },
+    {
+      "term": "rétabli"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "À quoi la plateforme NSmarties AI doit-elle servir, selon l’article ?",
+      "options": [
+        "À permettre aux élèves de suivre des cours de programmation avec Qianfan Technology.",
+        "À aider les enfants à écrire des histoires personnelles liées au cadre officiel de sécurité nationale.",
+        "À organiser des visites de responsables policiers dans les écoles primaires.",
+        "À préparer les élèves à un examen sur les lois locales de Hong Kong."
+      ],
+      "answerIndex": 1,
+      "evidence": "Il doit permettre aux jeunes utilisateurs de composer des récits personnalisés autour de la conception globale de la sécurité nationale défendue par Xi Jinping.",
+      "explanation": "L’article présente l’outil comme un moyen de faire créer des récits par les jeunes autour du cadre officiel ; les autres options ajoutent des fonctions absentes."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quand la plateforme avait-elle déjà été présentée avant son lancement officiel ?",
+      "options": [
+        "Lors des troubles de 2019, devant des organisations de la société civile.",
+        "En juin 2020, au moment de l’inscription de la loi dans le texte local.",
+        "En avril, lors de la Journée de l’éducation à la sécurité nationale.",
+        "Le 6 octobre 2026, pendant la cérémonie à l’école Precious Blood."
+      ],
+      "answerIndex": 2,
+      "evidence": "La plateforme avait déjà été montrée en avril, à l’occasion de la Journée de l’éducation à la sécurité nationale, sans être alors entièrement ouverte au public.",
+      "explanation": "Le texte indique une présentation antérieure en avril, mais précise qu’elle n’était pas encore totalement publique ; les autres dates concernent d’autres événements."
+    },
+    {
+      "id": "q3",
+      "prompt": "Pourquoi les autorités centrales ont-elles intégré la législation sur la sécurité nationale au texte constitutionnel local ?",
+      "options": [
+        "Après les protestations pro-démocratiques et les troubles de 2019.",
+        "Pour répondre aux critiques de l’ONU et des ONG.",
+        "Afin de permettre à Qianfan Technology de développer NSmarties AI.",
+        "Pour ouvrir la plateforme au public dès la Journée de l’éducation."
+      ],
+      "answerIndex": 0,
+      "evidence": "Au mois de juin 2020, les autorités centrales ont inscrit cette législation relative à la sécurité nationale dans le texte constitutionnel local, après les protestations pro-démocratiques et les troubles de 2019.",
+      "explanation": "La phrase relie l’inscription de juin 2020 aux événements de 2019 ; les autres motifs ne sont pas donnés pour cette décision."
+    },
+    {
+      "id": "q4",
+      "prompt": "Que dit l’article sur les définitions prévues par cette législation ?",
+      "options": [
+        "Elles sont limitées aux actes terroristes et à la collusion avec des puissances étrangères.",
+        "Elles sont très larges et peuvent viser des atteintes aux transports ou à d’autres infrastructures.",
+        "Elles sont précises et excluent toute perturbation des services publics.",
+        "Elles concernent uniquement la subversion et la sécession politiques."
+      ],
+      "answerIndex": 1,
+      "evidence": "Cette législation punit la subversion, la sécession, la collusion avec des puissances étrangères et les actes terroristes, avec des définitions très larges incluant la perturbation des transports ou d’autres infrastructures.",
+      "explanation": "Le texte souligne l’ampleur des définitions et cite la perturbation des transports ou d’autres infrastructures ; les options restrictives contredisent cette ampleur."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quel rôle joue le passage sur avril et juin 2020 dans l’ensemble de l’article ?",
+      "options": [
+        "Il replace le lancement de la plateforme dans une politique plus large menée depuis 2020.",
+        "Il décrit les étapes techniques du développement de NSmarties AI.",
+        "Il énumère les invités présents à la cérémonie d’octobre 2026.",
+        "Il explique pourquoi Qianfan Technology a refusé de collaborer avec la police."
+      ],
+      "answerIndex": 0,
+      "evidence": "Depuis 2020, Hong Kong a renforcé ce type d’enseignement en parallèle d’une vague répressive.",
+      "explanation": "Ce retour en arrière élargit le contexte : il montre que l’outil s’inscrit dans un renforcement antérieur de cet enseignement, non dans une simple nouveauté isolée."
+    },
+    {
+      "id": "q6",
+      "prompt": "Comment les autorités réagissent-elles aux critiques mentionnées à la fin de l’article ?",
+      "options": [
+        "Elles acceptent les reproches de l’ONU et promettent de modifier la loi.",
+        "Elles reconnaissent que les arrestations ont été injustifiées.",
+        "Elles rejettent les critiques de partenaires commerciaux, de l’ONU et d’ONG.",
+        "Elles demandent aux écoles de retirer la plateforme du public."
+      ],
+      "answerIndex": 2,
+      "evidence": "Elles rejettent les critiques émises par des partenaires commerciaux, l’ONU et des ONG.",
+      "explanation": "La fin du texte indique un refus des critiques extérieures ; les autres réactions ne sont pas attribuées aux autorités."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "香港国家安全教育的人工智能平台",
+      "summary": "香港警方展示了一个使用人工智能的教学平台，面向年幼学生；背景是自2020年以来国家安全教育不断加强。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "2026年10月6日，香港警方展示了一个用人工智能设计、面向小学生的教学平台。",
+            "典礼在鸭脷洲宝血学校举行，约有700名儿童在场。",
+            "警方在Facebook上宣布了这次正式发布。"
+          ]
+        },
+        {
+          "sentences": [
+            "这个互动工具名为NSmarties AI，由本地企业千帆科技开发。",
+            "它应让年轻用户围绕习近平所主张的国家安全总体观编写个性化故事。",
+            "这一中国框架尤其涵盖政治、经济、生态和技术议题。",
+            "包括警务处处长周一鸣和保安局局长邓炳强在内的官员还在其中解释本地法律并提供实用信息。"
+          ]
+        },
+        {
+          "sentences": [
+            "典礼上，多名嘉宾陪同学生，其中包括负责国家安全的副警务处处长江学礼。",
+            "宝血会主席区绮雯修女也在场。",
+            "警方认为，这次活动是借助新技术方案把这一主题引入学校的一项重大进展。"
+          ]
+        },
+        {
+          "sentences": [
+            "该平台此前已在4月国家安全教育日之际展示过，但当时尚未完全向公众开放。",
+            "自2020年以来，香港在镇压浪潮的同时加强了这类教育。",
+            "2020年6月，中央当局在2019年亲民主抗议和骚乱之后，把这项国家安全立法写入本地宪制文本。"
+          ]
+        },
+        {
+          "sentences": [
+            "这项立法惩处颠覆、分裂、与外国势力勾结和恐怖行为，定义非常宽泛，包括扰乱交通或其他基础设施。",
+            "它赋予警方广泛权力，并导致数百人依据新的法律先例被捕。",
+            "数十个民间社会组织消失，而当局声称已恢复稳定与和平。",
+            "它们拒绝商业伙伴、联合国和非政府组织提出的批评。"
+          ]
+        }
+      ],
+      "glossary": {
+        "pédagogique": "与教学、教育有关的；此处指用于学校教育的平台。",
+        "Baptisé": "命名为、取名为；文中指该互动工具被命名为NSmarties AI。",
+        "récits personnalisés": "个性化故事、个性化叙述；文中指用户可围绕官方国家安全观编写的故事。",
+        "conception globale": "总体构想、总体观；文中指习近平所主张的国家安全总体框架。",
+        "englobe": "包含、涵盖；文中指该框架把政治、经济、生态和技术等议题纳入其中。",
+        "interactif": "互动的；指用户可与平台进行交流或操作，而非单向观看。",
+        "subversion": "颠覆；文中指法律所惩处的一类危害国家政权的行为。",
+        "sécession": "分裂、脱离；文中指法律所惩处的一类分裂国家行为。",
+        "collusion": "勾结；文中指与外国势力串通合作。",
+        "précédents juridiques": "法律先例；文中指依据新的司法先例进行逮捕。",
+        "rétabli": "恢复；文中指当局声称已恢复稳定与和平。"
+      },
+      "questions": {
+        "q1": "证据句说明工具要让年轻用户围绕习近平所主张的国家安全总体观编写个性化故事，因此正确项是第二项“帮助儿童编写与官方国家安全框架相关的个人故事”。第一项把平台说成编程课程，文中只说与千帆科技共同开发；第三项说组织警察进校参观，文中是典礼有嘉宾陪同学生；第四项说准备地方法律考试，文中虽提官员讲解法律和实用信息，但未提考试。",
+        "q2": "证据句明确指出平台此前在4月国家安全教育日展示过，且当时尚未完全向公众开放，所以正确项是第三项“在4月，国家安全教育日之际”。第一项把时间拉到2019年骚乱并说面向民间组织；第二项是2020年6月把法律写入本地文本；第四项是2026年10月6日正式发布典礼，均不是此前展示的时间。",
+        "q3": "证据句把2020年6月把国家安全立法写入本地宪制文本与2019年亲民主抗议和骚乱之后相连，因此正确项是第一项“在2019年亲民主抗议和骚乱之后”。第二项说回应联合国和非政府组织批评，文中批评出现在后文且当局拒绝；第三项说为了让千帆科技开发平台，文中无此因果；第四项说为了让平台在教育日向公众开放，也不是该立法的原因。",
+        "q4": "证据句说该立法惩处颠覆、分裂、勾结外国势力和恐怖行为，并强调定义非常宽泛，包括扰乱交通或其他基础设施，因此正确项是第二项“它们非常宽泛，可针对破坏交通或其他基础设施的行为”。第一项把范围限缩为恐怖行为和勾结外国势力；第三项说精确且排除干扰公共服务；第四项说只涉及政治颠覆和分裂，都与“非常宽泛”和所举例子不符。",
+        "q5": "证据句“自2020年以来，香港在镇压浪潮的同时加强了这类教育”表明，关于4月和2020年6月的回溯是把平台发布放进自2020年以来更广泛的国家安全教育政策背景中，因此正确项是第一项“它将平台发布置于自2020年以来实施的更广泛政策之中”。第二项说技术开发步骤，文中没有；第三项说列举2026年10月典礼嘉宾，那是前一段内容；第四项说千帆科技拒绝合作，文中没有。",
+        "q6": "证据句直接说当局拒绝商业伙伴、联合国和非政府组织提出的批评，因此正确项是第三项“它们拒绝商业伙伴、联合国和非政府组织的批评”。第一项说接受联合国指责并承诺修法，第二项说承认逮捕不合理，第四项说要求学校撤下平台，文中都没有；相反，文中说当局声称已恢复稳定与和平。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "根据文章，NSmarties AI平台应当用于什么？",
+          "options": [
+            "让学生通过千帆科技学习编程课程。",
+            "帮助儿童编写与官方国家安全框架相关的个人故事。",
+            "组织警察官员到小学参观访问。",
+            "让学生准备香港地方法律考试。"
+          ]
+        },
+        "q2": {
+          "prompt": "在正式发布之前，该平台已经何时展示过？",
+          "options": [
+            "在2019年骚乱期间，面向民间社会组织。",
+            "在2020年6月，将法律写入本地宪制文本之时。",
+            "在4月，国家安全教育日之际。",
+            "在2026年10月6日，宝血学校典礼期间。"
+          ]
+        },
+        "q3": {
+          "prompt": "中央当局为什么把国家安全立法纳入本地宪制文本？",
+          "options": [
+            "在2019年亲民主抗议和骚乱之后。",
+            "为了回应联合国和非政府组织的批评。",
+            "为了让千帆科技开发NSmarties AI。",
+            "为了让平台从教育日当天起向公众开放。"
+          ]
+        },
+        "q4": {
+          "prompt": "文章如何说明这项立法所规定的定义？",
+          "options": [
+            "它们仅限于恐怖行为和与外国势力勾结。",
+            "它们非常宽泛，可针对破坏交通或其他基础设施的行为。",
+            "它们很精确，排除对公共服务的任何干扰。",
+            "它们只涉及政治颠覆和分裂。"
+          ]
+        },
+        "q5": {
+          "prompt": "关于4月和2020年6月的段落，在整篇文章中起什么作用？",
+          "options": [
+            "它将平台发布置于自2020年以来实施的更广泛政策之中。",
+            "它描述了NSmarties AI开发的技术步骤。",
+            "它列举了2026年10月典礼的出席嘉宾。",
+            "它解释了千帆科技为何拒绝与警方合作。"
+          ]
+        },
+        "q6": {
+          "prompt": "当局如何回应文章结尾提到的批评？",
+          "options": [
+            "它们接受联合国指责，并承诺修改法律。",
+            "它们承认逮捕不合理。",
+            "它们拒绝商业伙伴、联合国和非政府组织的批评。",
+            "它们要求学校将平台从公众中撤下。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Hong Kong : la police lance une plateforme dédiée à la sécurité nationale basée sur l'intelligence artificielle et destinée aux élèves",
+    "authors": [
+      "Hong Kong Free Press"
+    ],
+    "translators": [
+      "Guillaume Cottin"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/09/304214/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-15",
+    "publishedAt": "2026-11-09",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-15",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}
