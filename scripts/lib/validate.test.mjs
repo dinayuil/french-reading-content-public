@@ -31,6 +31,112 @@ test('valid article passes', () => {
   assert.deepEqual(validateArticle(clone(), 'article'), []);
 });
 
+const frenchSummary = (words) =>
+  Array.from({ length: words }, () => 'mot').join(' ');
+
+test('accepts a 60-word French summary and rejects 61 words', () => {
+  const accepted = clone();
+  accepted.summary = frenchSummary(60);
+  assert.deepEqual(validateArticle(accepted, 'article'), []);
+
+  const rejected = clone();
+  rejected.summary = frenchSummary(61);
+  assert.match(
+    messages(validateArticle(rejected)),
+    /summary must be at most 60 words/,
+  );
+});
+
+test('accepts a 200-code-point Chinese summary and rejects 201', () => {
+  const accepted = clone();
+  accepted.translations.zh.summary = '中'.repeat(200);
+  assert.deepEqual(validateArticle(accepted, 'article'), []);
+
+  const rejected = clone();
+  rejected.translations.zh.summary = '中'.repeat(201);
+  assert.match(
+    messages(validateArticle(rejected)),
+    /translations\.zh\.summary must be at most 200 characters/,
+  );
+
+  const emoji = clone();
+  emoji.translations.zh.summary = '😀'.repeat(200);
+  assert.deepEqual(validateArticle(emoji, 'article'), []);
+});
+
+test('rejects a summary copied from the article body after whitespace normalization', () => {
+  const value = clone();
+  value.paragraphs = [
+    { sentences: ['Bonjour le monde.', 'Ceci est un test.'] },
+  ];
+  value.summary = '  Bonjour   le monde.\n\nCeci est un test.  ';
+  value.translations.zh.paragraphs = [
+    { sentences: ['你好世界。', '这是一个测试。'] },
+  ];
+  value.questions.forEach((question) => {
+    question.evidence = 'Bonjour le monde.';
+  });
+
+  const errors = validateArticle(value);
+  assert.equal(errors.length, 1, messages(errors));
+  assert.match(messages(errors), /summary must not copy the full article/);
+  assert.doesNotMatch(messages(errors), /summary must be at most/);
+});
+
+test('does not throw on malformed paragraph and summary shapes', () => {
+  const cases = [
+    [
+      'missing paragraphs',
+      (value) => {
+        delete value.paragraphs;
+      },
+    ],
+    [
+      'null paragraph',
+      (value) => {
+        value.paragraphs = [null];
+      },
+    ],
+    [
+      'string sentences',
+      (value) => {
+        value.paragraphs = [{ sentences: 'Bonjour le monde.' }];
+      },
+    ],
+    [
+      'non-string sentence',
+      (value) => {
+        value.paragraphs = [{ sentences: [null, 42] }];
+      },
+    ],
+    [
+      'non-string summary',
+      (value) => {
+        value.summary = 42;
+      },
+    ],
+    [
+      'non-string Chinese summary',
+      (value) => {
+        value.translations.zh.summary = null;
+      },
+    ],
+    [
+      'malformed Chinese paragraphs',
+      (value) => {
+        value.paragraphs = [{ sentences: ['Bonjour le monde.'] }];
+        value.translations.zh.paragraphs = [null];
+      },
+    ],
+  ];
+
+  for (const [label, mutate] of cases) {
+    const value = clone();
+    mutate(value);
+    assert.doesNotThrow(() => validateArticle(value), label);
+  }
+});
+
 test('rejects a non-redistributable source license', () => {
   const value = clone();
   value.source.license = 'CC BY-ND 4.0';

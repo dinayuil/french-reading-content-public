@@ -10,6 +10,27 @@ const ALLOWED_LICENSE =
 const FORBIDDEN_LICENSE =
   /(^|[^a-z])(nc|nd|nc-nd|all rights reserved|proprietary|unknown)([^a-z]|$)/i;
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
+const MAX_SUMMARY_WORDS = 60;
+const MAX_ZH_SUMMARY_CHARACTERS = 200;
+const FRENCH_WORD_RE =
+  /[A-Za-zÀ-ÖØ-öø-ÿ0-9]+(?:['’\-][A-Za-zÀ-ÖØ-öø-ÿ0-9]+)*/g;
+
+const normalizeWhitespace = (value) => value.replace(/\s+/g, ' ').trim();
+
+function countFrenchWords(value) {
+  return value.match(FRENCH_WORD_RE)?.length ?? 0;
+}
+
+function articleBodyText(paragraphs) {
+  return paragraphs
+    .map((paragraph) =>
+      isRecord(paragraph) && Array.isArray(paragraph.sentences)
+        ? paragraph.sentences.filter(isNonEmptyString).join(' ')
+        : '',
+    )
+    .filter(Boolean)
+    .join(' ');
+}
 
 function isCalendarDate(value) {
   if (typeof value !== 'string' || !DATE_RE.test(value)) {
@@ -216,7 +237,20 @@ function validateTranslation(
   }
 
   requireString(translation, 'title', fail, 'translations.zh.title');
-  requireString(translation, 'summary', fail, 'translations.zh.summary');
+  const summary = requireString(
+    translation,
+    'summary',
+    fail,
+    'translations.zh.summary',
+  );
+  if (summary) {
+    const characterCount = [...summary].length;
+    if (characterCount > MAX_ZH_SUMMARY_CHARACTERS) {
+      fail(
+        `translations.zh.summary must be at most ${MAX_ZH_SUMMARY_CHARACTERS} characters (got ${characterCount})`,
+      );
+    }
+  }
 
   if (
     !Array.isArray(translation.paragraphs) ||
@@ -280,7 +314,22 @@ export function validateArticle(article, file = 'article') {
   requireString(article, 'id', fail, 'id');
   requireString(article, 'title', fail, 'title');
   requireString(article, 'theme', fail, 'theme');
-  requireString(article, 'summary', fail, 'summary');
+  const paragraphs = Array.isArray(article.paragraphs) ? article.paragraphs : [];
+  const summary = requireString(article, 'summary', fail, 'summary');
+  if (summary) {
+    const wordCount = countFrenchWords(summary);
+    if (wordCount > MAX_SUMMARY_WORDS) {
+      fail(
+        `summary must be at most ${MAX_SUMMARY_WORDS} words (got ${wordCount})`,
+      );
+    }
+    const body = normalizeWhitespace(articleBodyText(paragraphs));
+    if (body && normalizeWhitespace(summary) === body) {
+      fail(
+        'summary must not copy the full article; write a concise main-idea summary',
+      );
+    }
+  }
   const date = requireString(article, 'date', fail, 'date');
   if (date && !isCalendarDate(date)) {
     fail('date must be a valid YYYY-MM-DD date');
@@ -289,7 +338,6 @@ export function validateArticle(article, file = 'article') {
     fail(`level must be one of ${[...LEVELS].join(', ')}`);
   }
 
-  const paragraphs = Array.isArray(article.paragraphs) ? article.paragraphs : [];
   const sentences = new Set();
   if (paragraphs.length === 0) {
     fail('paragraphs must be a non-empty array');
