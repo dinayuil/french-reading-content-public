@@ -1,0 +1,362 @@
+{
+  "id": "2026-11-17-chute-de-robespierre",
+  "title": "La chute de Robespierre et la fin de la Terreur",
+  "level": "B1",
+  "theme": "histoire",
+  "date": "2026-11-17",
+  "summary": "En juillet 1794, Robespierre est arrêté puis exécuté. Sa chute met fin à la Terreur et ouvre une nouvelle phase de la Révolution.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Au printemps 1794, Robespierre et ses amis dirigent la France pendant la Terreur.",
+        "Ce régime a commencé en septembre 1793.",
+        "Il a fait arrêter beaucoup de personnes suspectes et 16 594 ont été guillotinées."
+      ]
+    },
+    {
+      "sentences": [
+        "Le 26 juillet 1794, Robespierre parle longtemps à la Convention.",
+        "Il se plaint de ses ennemis sans donner tous les noms.",
+        "Cambon lui répond avec colère.",
+        "Le soir, le club des Jacobins applaudit Robespierre et menace ses adversaires."
+      ]
+    },
+    {
+      "sentences": [
+        "Robespierre s'isole et ne va plus souvent au Comité de salut public.",
+        "Ses opposants préparent donc son arrestation.",
+        "Le 27 juillet 1794, la Convention vote contre lui.",
+        "Robespierre, Couthon et Saint-Just sont arrêtés."
+      ]
+    },
+    {
+      "sentences": [
+        "Robespierre est blessé à la mâchoire à l'Hôtel de ville.",
+        "Augustin Robespierre et Couthon sont aussi blessés.",
+        "Hanriot est arrêté et blessé.",
+        "Le Bas se suicide avant l'exécution."
+      ]
+    },
+    {
+      "sentences": [
+        "Le 28 juillet 1794, Robespierre est exécuté sans vrai procès.",
+        "Vingt et un de ses partisans meurent avec lui, dont Augustin Robespierre et Saint-Just.",
+        "Le corps de Le Bas rejoint le convoi, mais il n'est pas guillotiné ce jour-là.",
+        "Les corps sont mis dans une fosse commune."
+      ]
+    },
+    {
+      "sentences": [
+        "Deux jours après, 71 autres personnes sont guillotinées.",
+        "Les Thermidoriens libèrent des suspects et préparent le Directoire.",
+        "La Terreur se termine."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Terreur"
+    },
+    {
+      "term": "guillotinées"
+    },
+    {
+      "term": "Convention"
+    },
+    {
+      "term": "Jacobins"
+    },
+    {
+      "term": "Comité de salut public"
+    },
+    {
+      "term": "arrestation"
+    },
+    {
+      "term": "mâchoire"
+    },
+    {
+      "term": "Hôtel de ville"
+    },
+    {
+      "term": "convoi"
+    },
+    {
+      "term": "Thermidoriens"
+    },
+    {
+      "term": "Directoire"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Que fait Robespierre le 26 juillet 1794 selon le texte ?",
+      "options": [
+        "Il annonce la fin de la Terreur devant la Convention.",
+        "Il dénonce ses ennemis sans tous les identifier.",
+        "Il demande au club des Jacobins d'arrêter Cambon.",
+        "Il propose de libérer les suspects détenus."
+      ],
+      "answerIndex": 1,
+      "evidence": "Il se plaint de ses ennemis sans donner tous les noms.",
+      "explanation": "Le texte indique que Robespierre critique ses ennemis sans fournir tous leurs noms, ce qui correspond à une dénonciation sans identification complète. Les autres actions ne lui sont pas attribuées ce jour-là."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quelle conséquence l'isolement de Robespierre a-t-il d'après le texte ?",
+      "options": [
+        "Il est applaudi par le club des Jacobins.",
+        "Il est blessé à la mâchoire à l'Hôtel de ville.",
+        "Ses opposants préparent son arrestation.",
+        "Cambon lui répond avec colère."
+      ],
+      "answerIndex": 2,
+      "evidence": "Ses opposants préparent donc son arrestation.",
+      "explanation": "Le texte relie directement l'isolement de Robespierre à la préparation de son arrestation par ses opposants. Les autres faits se produisent avant ou après, sans être présentés comme cette conséquence."
+    },
+    {
+      "id": "q3",
+      "prompt": "Que se passe-t-il le 27 juillet 1794 ?",
+      "options": [
+        "Robespierre est exécuté sans vrai procès.",
+        "71 autres personnes sont guillotinées.",
+        "Le club des Jacobins applaudit Robespierre et menace ses adversaires.",
+        "La Convention vote contre Robespierre, qui est arrêté avec Couthon et Saint-Just."
+      ],
+      "answerIndex": 3,
+      "evidence": "Le 27 juillet 1794, la Convention vote contre lui.",
+      "explanation": "La date correspond au vote de la Convention contre Robespierre ; la phrase suivante précise l'arrestation de Robespierre avec Couthon et Saint-Just. Les autres événements ont lieu à d'autres moments."
+    },
+    {
+      "id": "q4",
+      "prompt": "Qu'indique le texte sur Le Bas le 28 juillet 1794 ?",
+      "options": [
+        "Il fait partie des 21 partisans guillotinés avec Robespierre.",
+        "Il est blessé à la mâchoire puis exécuté sans procès.",
+        "Son corps rejoint le convoi, mais il n'est pas guillotiné ce jour-là.",
+        "Il est libéré par les Thermidoriens après la chute de Robespierre."
+      ],
+      "answerIndex": 2,
+      "evidence": "Le corps de Le Bas rejoint le convoi, mais il n'est pas guillotiné ce jour-là.",
+      "explanation": "Le texte précise que Le Bas s'est suicidé avant l'exécution ; le 28 juillet, seul son corps est dans le convoi, sans être guillotiné ce jour-là. Il ne fait donc pas partie des 21 partisans exécutés."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quels partisans le texte cite-t-il parmi les 21 morts avec Robespierre ?",
+      "options": [
+        "Cambon et Couthon",
+        "Augustin Robespierre et Saint-Just",
+        "Le Bas et Hanriot",
+        "Couthon et Hanriot"
+      ],
+      "answerIndex": 1,
+      "evidence": "Vingt et un de ses partisans meurent avec lui, dont Augustin Robespierre et Saint-Just.",
+      "explanation": "La phrase sur les 21 victimes nomme Augustin Robespierre et Saint-Just. Le Bas est mort avant l'exécution, et les autres noms proposés ne sont pas cités dans ce groupe."
+    },
+    {
+      "id": "q6",
+      "prompt": "Que font les Thermidoriens après la chute de Robespierre ?",
+      "options": [
+        "Ils libèrent des suspects et préparent le Directoire.",
+        "Ils rétablissent la Terreur et arrêtent les suspects.",
+        "Ils organisent un vrai procès pour Robespierre.",
+        "Ils font guillotiner 16 594 personnes."
+      ],
+      "answerIndex": 0,
+      "evidence": "Les Thermidoriens libèrent des suspects et préparent le Directoire.",
+      "explanation": "Après l'exécution de Robespierre, le texte attribue aux Thermidoriens la libération de suspects et la préparation du Directoire. Ces mesures accompagnent la fin de la Terreur."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quel est le sujet principal de l'article ?",
+      "options": [
+        "La vie quotidienne à Paris au printemps 1794.",
+        "Le rôle de Cambon au club des Jacobins.",
+        "La chute de Robespierre et la fin de la Terreur.",
+        "La création du Directoire par les Jacobins."
+      ],
+      "answerIndex": 2,
+      "evidence": "La Terreur se termine.",
+      "explanation": "L'article suit la chute de Robespierre, son exécution et les mesures qui mettent fin à la Terreur. Les autres options portent sur des détails ou des éléments qui ne sont pas développés."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "罗伯斯庇尔的倒台与恐怖统治的终结",
+      "summary": "1794年7月，罗伯斯庇尔被捕并处决；他的倒台结束了恐怖统治，并开启革命的新阶段。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "1794年春天，罗伯斯庇尔和他的朋友们在恐怖统治期间领导法国。",
+            "这一政权始于1793年9月。",
+            "它下令逮捕了许多可疑者，其中16 594人被送上断头台。"
+          ]
+        },
+        {
+          "sentences": [
+            "1794年7月26日，罗伯斯庇尔在国民公会发表了长时间讲话。",
+            "他抱怨自己的敌人，却没有给出所有名字。",
+            "康邦愤怒地回应他。",
+            "当晚，雅各宾俱乐部为罗伯斯庇尔鼓掌，并威胁他的对手。"
+          ]
+        },
+        {
+          "sentences": [
+            "罗伯斯庇尔把自己孤立起来，不再经常去救国委员会。",
+            "因此，他的反对者准备逮捕他。",
+            "1794年7月27日，国民公会投票反对他。",
+            "罗伯斯庇尔、库东和圣茹斯特被捕。"
+          ]
+        },
+        {
+          "sentences": [
+            "罗伯斯庇尔在市政厅下颌受伤。",
+            "奥古斯丁·罗伯斯庇尔和库东也受伤了。",
+            "昂里奥被捕并受伤。",
+            "勒巴在处决前自杀。"
+          ]
+        },
+        {
+          "sentences": [
+            "1794年7月28日，罗伯斯庇尔未经真正审判就被处决。",
+            "他的二十一名支持者与他一起死去，其中包括奥古斯丁·罗伯斯庇尔和圣茹斯特。",
+            "勒巴的尸体加入押送队伍，但当天他没有被送上断头台。",
+            "尸体被放入一个公共墓坑。"
+          ]
+        },
+        {
+          "sentences": [
+            "两天后，另有71人被送上断头台。",
+            "热月党人释放了一些嫌疑人，并筹备督政府。",
+            "恐怖统治结束。"
+          ]
+        }
+      ],
+      "glossary": {
+        "Terreur": "1793年至1794年革命政府实施的恐怖统治，以大规模逮捕和处决可疑者为主要特征。",
+        "guillotinées": "被送上断头台处决；文中指16594名被处决者。",
+        "Convention": "国民公会，法国大革命时期的最高立法机构。",
+        "Jacobins": "雅各宾俱乐部及其成员，革命时期激进的政治团体。",
+        "Comité de salut public": "救国委员会，恐怖统治时期掌握行政和治安权力的革命机构。",
+        "arrestation": "逮捕；文中指罗伯斯庇尔等人在1794年7月27日被捕。",
+        "mâchoire": "下颌；文中指罗伯斯庇尔在市政厅所受的伤。",
+        "Hôtel de ville": "市政厅；文中指罗伯斯庇尔等人最后被围困的地方。",
+        "convoi": "押送队伍或送葬队伍；文中指运送被处决者尸体的队伍。",
+        "Thermidoriens": "热月党人，参与推翻罗伯斯庇尔的政治集团。",
+        "Directoire": "督政府，法国大革命后期建立的政权形式。"
+      },
+      "questions": {
+        "q1": "文中说“他抱怨自己的敌人，却没有给出所有名字”，这说明他谴责敌人但没有全部指明，对应第二项。第一项文中未说他在公会宣布结束恐怖统治；第三项没有他向雅各宾俱乐部要求逮捕康邦；第四项也没有他提议释放嫌疑人。",
+        "q2": "文中“因此他的反对者准备逮捕他”直接把孤立与反对者准备逮捕联系起来；所以第三项正确。第一项和第四项发生在7月26日前后，不是孤立带来的后果；第二项是后来在市政厅发生的事，也不是这一因果句的结论。",
+        "q3": "文中该日期写“国民公会投票反对他”，紧接着说罗伯斯庇尔、库东和圣茹斯特被捕，因此第四项概括了当天事件。第一项处决发生在7月28日；第二项71人处决在两天后；第三项是7月26日晚上的事。",
+        "q4": "文中明确说勒巴在处决前已自杀，7月28日只是“他的尸体加入押送队伍，但当天没有被送上断头台”，所以第三项正确。第一项错误，因为21名被处决者不包括勒巴；第二项把勒巴说成下颌受伤后被处决，与自杀和尸体加入队伍不符；第四项文中没有说热月党人释放勒巴。",
+        "q5": "文中在说明21名支持者与他一起死去时，明确举出奥古斯丁·罗伯斯庇尔和圣茹斯特，所以第二项正确。勒巴在处决前自杀，昂里奥被捕受伤，康邦也不是这一群体中被点名的死者；其他组合都不符合原文。",
+        "q6": "文中直接说热月党人释放嫌疑人并筹备督政府，所以第一项正确。第二项与恐怖统治结束相反；第三项与罗伯斯庇尔未经真正审判就被处决不符；第四项是恐怖统治时期的总数，不是热月党人倒台后的行动。",
+        "q7": "全文按时间叙述罗伯斯庇尔被捕、受伤、被处决，以及热月党人释放嫌疑人、筹备督政府，最后说“恐怖统治结束”，所以第三项概括主题。第一项只是背景细节；第二项只涉及康邦的一次回应；第四项不准确，文中说热月党人筹备督政府，并非雅各宾派创建。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "根据文本，罗伯斯庇尔在1794年7月26日做了什么？",
+          "options": [
+            "他在国民公会面前宣布恐怖统治结束。",
+            "他谴责自己的敌人，但没有全部指明。",
+            "他要求雅各宾俱乐部逮捕康邦。",
+            "他提议释放被拘留的嫌疑人。"
+          ]
+        },
+        "q2": {
+          "prompt": "根据文本，罗伯斯庇尔的孤立带来了什么后果？",
+          "options": [
+            "他受到雅各宾俱乐部的鼓掌欢迎。",
+            "他在市政厅下颌受伤。",
+            "他的反对者准备逮捕他。",
+            "康邦愤怒地回应他。"
+          ]
+        },
+        "q3": {
+          "prompt": "1794年7月27日发生了什么？",
+          "options": [
+            "罗伯斯庇尔未经真正审判就被处决。",
+            "另有71人被送上断头台。",
+            "雅各宾俱乐部为罗伯斯庇尔鼓掌并威胁他的对手。",
+            "国民公会投票反对罗伯斯庇尔，他同库东和圣茹斯特一起被捕。"
+          ]
+        },
+        "q4": {
+          "prompt": "关于1794年7月28日的勒巴，文本说明了什么？",
+          "options": [
+            "他是与罗伯斯庇尔一起被送上断头台的21名支持者之一。",
+            "他下颌受伤，然后未经审判被处决。",
+            "他的尸体加入押送队伍，但当天他没有被送上断头台。",
+            "罗伯斯庇尔倒台后，他被热月党人释放。"
+          ]
+        },
+        "q5": {
+          "prompt": "文本在随罗伯斯庇尔死去的21人中提到了哪些支持者？",
+          "options": [
+            "康邦和库东",
+            "奥古斯丁·罗伯斯庇尔和圣茹斯特",
+            "勒巴和昂里奥",
+            "库东和昂里奥"
+          ]
+        },
+        "q6": {
+          "prompt": "罗伯斯庇尔倒台后，热月党人做了什么？",
+          "options": [
+            "他们释放嫌疑人并筹备督政府。",
+            "他们恢复恐怖统治并逮捕嫌疑人。",
+            "他们为罗伯斯庇尔组织一场真正的审判。",
+            "他们让人把16594人送上断头台。"
+          ]
+        },
+        "q7": {
+          "prompt": "这篇文章的主题是什么？",
+          "options": [
+            "1794年春天巴黎的日常生活。",
+            "康邦在雅各宾俱乐部中的作用。",
+            "罗伯斯庇尔的倒台与恐怖统治的终结。",
+            "雅各宾派创建督政府。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Chute de Robespierre",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2161265&title=Chute%20de%20Robespierre",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-17",
+    "revisionId": "2161265"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-17",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-17-chute-de-robespierre-0c3076bc9210.jpg",
+    "alt": "Portrait of Maximilien Robespierre (1758-1794)",
+    "author": "Unidentified painter",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robespierre.jpg?oldid=1184499495",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "changes": "Réduite à 1280×1583 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 1583,
+    "byteLength": 537697,
+    "sha256": "0c3076bc9210a86af5734f67788e0aa958963ecac2aedf21258727ef65fac2b1",
+    "fileRevisionId": "1184499495",
+    "retrievedAt": "2026-11-17"
+  }
+}

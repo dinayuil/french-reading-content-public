@@ -1,0 +1,338 @@
+{
+  "id": "2026-11-17-beze-riviere",
+  "title": "La Bèze, rivière de Côte-d'Or entre patrimoine et environnement",
+  "level": "B2",
+  "theme": "géographie",
+  "date": "2026-11-17",
+  "summary": "La Bèze, courte rivière de Côte-d'Or issue d'une résurgence remarquable, traverse un bassin rural marqué par un riche passé humain et par des pressions agricoles sur l'eau.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Prenant naissance dans le village de Bèze, en Côte-d'Or, cette rivière de 31,2 km rejoint la Saône à Vonges après avoir traversé douze communes.",
+        "Son origine est une exsurgence de la grotte de la Crétanne, alimentée par un vaste réseau souterrain lié en partie aux pertes de la Tille et de la Venelle.",
+        "Autour de cette source aménagée, le bassin couvre 250 km2 avec l'Albane et abrite quatre zones naturelles d'intérêt écologique.",
+        "Les paysages associent forêts, grandes cultures, prairies et étangs, dans un ensemble rural où l'agriculture domine."
+      ]
+    },
+    {
+      "sentences": [
+        "L'occupation humaine est ancienne, depuis le Paléolithique, et le sanctuaire de Mirebeau-sur-Bèze fut un lieu important à l'époque gallo-romaine.",
+        "La VIIIe Légion Augusta y établit ensuite un camp militaire, avant que l'abbaye Saint-Pierre de Bèze ne structure le pèlerinage de saint Prudent au Moyen Âge.",
+        "À l'époque moderne, la Poudrerie nationale de Vonges aménage l'embouchure pour ses besoins industriels et laisse un patrimoine bâti lié à l'eau."
+      ]
+    },
+    {
+      "sentences": [
+        "La source, l'une des principales exsurgences de France métropolitaine, jaillit à 208 m d'altitude et forme aussitôt une rivière large de dix mètres.",
+        "Le réseau souterrain, long de 2 800 m pour un dénivelé de 26 m, comporte quatre siphons et fut exploré dès 1950 par le Spéléo-Club de Dijon.",
+        "La grotte, ouverte au tourisme en avril 1971, se visite en barque sur environ 300 m, à 12 °C, et attire de nombreux curieux.",
+        "La fréquentation a atteint 20 193 entrées en 2011, après 19 341 en 2010, 18 224 en 2009, 16 255 en 2008 et 14 390 en 2007."
+      ]
+    },
+    {
+      "sentences": [
+        "La faune rappelle celle de la Saône, avec une place notable de la truite, mais les ouvrages hydrauliques cloisonnent le cours et perturbent plusieurs espèces.",
+        "La qualité de l'eau est jugée médiocre à cause des nitrates issus des activités agricoles et d'élevage, même si des bandes enherbées ont été mises en place en 2009.",
+        "Le bassin ne présente pas de risque naturel majeur, les crues touchant surtout des espaces agricoles et quelques zones de confluence."
+      ]
+    },
+    {
+      "sentences": [
+        "Attesté dès 658 comme fontem Besuam, puis comme Besua au VIIe siècle et en 1105, le nom devient Bese en 1256; une racine celtique le rattacherait à l'idée de rivière à sa source.",
+        "La géologie calcaire explique aussi la présence d'un karst et d'un lac souterrain."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "exsurgence"
+    },
+    {
+      "term": "pertes"
+    },
+    {
+      "term": "dénivelé"
+    },
+    {
+      "term": "siphons"
+    },
+    {
+      "term": "cloisonnent"
+    },
+    {
+      "term": "nitrates"
+    },
+    {
+      "term": "bandes enherbées"
+    },
+    {
+      "term": "karst"
+    },
+    {
+      "term": "confluence"
+    },
+    {
+      "term": "embouchure"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "D'après l'article, comment la Bèze prend-elle sa source ?",
+      "options": [
+        "Elle jaillit de la grotte de la Crétanne, grâce à un réseau souterrain relié en partie à des pertes de rivières.",
+        "Elle naît dans la Saône à Vonges, après avoir traversé douze communes.",
+        "Elle provient d'un lac souterrain situé sous la Tille et la Venelle.",
+        "Elle est alimentée par les bandes enherbées mises en place en 2009."
+      ],
+      "answerIndex": 0,
+      "evidence": "Son origine est une exsurgence de la grotte de la Crétanne, alimentée par un vaste réseau souterrain lié en partie aux pertes de la Tille et de la Venelle.",
+      "explanation": "Le texte situe la source à la grotte de la Crétanne et précise que le réseau souterrain est en partie lié aux pertes de la Tille et de la Venelle. Les autres options inversent le sens de l'écoulement ou attribuent la source à un élément mentionné ailleurs."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi la qualité de l'eau est-elle considérée comme médiocre ?",
+      "options": [
+        "Parce que les crues atteignent des zones de confluence.",
+        "À cause des nitrates venant des activités agricoles et d'élevage.",
+        "Parce que les ouvrages hydrauliques cloisonnent le cours.",
+        "En raison de l'absence de zones naturelles d'intérêt écologique."
+      ],
+      "answerIndex": 1,
+      "evidence": "La qualité de l'eau est jugée médiocre à cause des nitrates issus des activités agricoles et d'élevage, même si des bandes enherbées ont été mises en place en 2009.",
+      "explanation": "L'article attribue explicitement la qualité médiocre de l'eau aux nitrates d'origine agricole et d'élevage. Les crues et les ouvrages hydrauliques sont évoqués pour d'autres effets."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel rôle joue le passage sur les paysages du bassin ?",
+      "options": [
+        "Il explique pourquoi la rivière rejoint la Saône à Vonges.",
+        "Il décrit la diversité des milieux et la place dominante de l'agriculture.",
+        "Il montre que les forêts empêchent toute activité agricole.",
+        "Il indique que les étangs sont les seuls milieux protégés."
+      ],
+      "answerIndex": 1,
+      "evidence": "Les paysages associent forêts, grandes cultures, prairies et étangs, dans un ensemble rural où l'agriculture domine.",
+      "explanation": "Ce passage énumère plusieurs types de paysages et souligne la domination de l'agriculture dans cet ensemble rural. Il ne traite ni du cours final de la rivière ni d'une protection exclusive des étangs."
+    },
+    {
+      "id": "q4",
+      "prompt": "Que révèle l'article sur les effets des ouvrages hydrauliques ?",
+      "options": [
+        "Ils favorisent la truite en rapprochant la faune de celle de la Saône.",
+        "Ils divisent le cours d'eau et gênent plusieurs espèces.",
+        "Ils suppriment tout risque de crue dans le bassin.",
+        "Ils ont été installés pour protéger les zones naturelles."
+      ],
+      "answerIndex": 1,
+      "evidence": "La faune rappelle celle de la Saône, avec une place notable de la truite, mais les ouvrages hydrauliques cloisonnent le cours et perturbent plusieurs espèces.",
+      "explanation": "Le texte oppose la richesse faunistique à l'effet négatif des ouvrages, qui fragmentent le cours et perturbent les espèces. Ils ne sont donc pas présentés comme protecteurs ou bénéfiques à la truite."
+    },
+    {
+      "id": "q5",
+      "prompt": "Qu'apprend-on sur l'exploration du réseau souterrain ?",
+      "options": [
+        "Elle a été menée par le Spéléo-Club de Dijon à partir de 1950.",
+        "Elle a permis d'ouvrir la grotte au tourisme dès 1950.",
+        "Elle a été réalisée par la Poudrerie nationale de Vonges.",
+        "Elle a commencé en avril 1971 avec la visite en barque."
+      ],
+      "answerIndex": 0,
+      "evidence": "Le réseau souterrain, long de 2 800 m pour un dénivelé de 26 m, comporte quatre siphons et fut exploré dès 1950 par le Spéléo-Club de Dijon.",
+      "explanation": "La phrase indique que l'exploration du réseau a été effectuée par le Spéléo-Club de Dijon dès 1950. L'ouverture touristique et la visite en barque sont datées d'avril 1971."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelle conséquence l'activité de la Poudrerie nationale de Vonges a-t-elle eue sur le site ?",
+      "options": [
+        "Elle a fait déplacer l'abbaye Saint-Pierre de Bèze.",
+        "Elle a transformé le pèlerinage de saint Prudent en camp militaire.",
+        "Elle a aménagé l'embouchure et laissé un patrimoine bâti lié à l'eau.",
+        "Elle a ouvert la grotte au tourisme en avril 1971."
+      ],
+      "answerIndex": 2,
+      "evidence": "À l'époque moderne, la Poudrerie nationale de Vonges aménage l'embouchure pour ses besoins industriels et laisse un patrimoine bâti lié à l'eau.",
+      "explanation": "La Poudrerie a aménagé l'embouchure pour son industrie et a laissé un patrimoine lié à l'eau. Les autres propositions concernent des périodes ou des acteurs différents."
+    },
+    {
+      "id": "q7",
+      "prompt": "Que dit l'article sur l'évolution du nom « Bèze » ?",
+      "options": [
+        "Il est attesté pour la première fois en 1256 sous la forme Bese.",
+        "Il provient du nom de la VIIIe Légion Augusta.",
+        "Il désigne d'abord la Saône avant de nommer la rivière.",
+        "Il apparaît dès 658 sous une forme latine et serait lié à l'idée de rivière à sa source."
+      ],
+      "answerIndex": 3,
+      "evidence": "Attesté dès 658 comme fontem Besuam, puis comme Besua au VIIe siècle et en 1105, le nom devient Bese en 1256; une racine celtique le rattacherait à l'idée de rivière à sa source.",
+      "explanation": "Le nom est attesté dès 658 sous une forme latine, puis évolue jusqu'à Bese en 1256, et une origine celtique est suggérée. Les autres options confondent les dates ou attribuent le nom à un autre élément du texte."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "贝兹河：科多尔省一条介于遗产与环境之间的河流",
+      "summary": "贝兹河是科多尔省一条短河，源自一处引人注目的涌泉，流经一个兼具丰富人文历史和农业用水压力的乡村流域。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "这条长31.2公里的河流发源于科多尔省的贝兹村，在流经十二个市镇后于旺日汇入索恩河。",
+            "它的源头是克雷塔讷洞的一处涌泉，由庞大的地下网络补给，该网络部分与蒂勒河和韦内勒河的伏流相连。",
+            "在这处经过整治的泉眼周围，流域连同阿尔巴讷河覆盖250平方公里，并拥有四个具有生态价值的自然保护区。",
+            "景观融合了森林、大田作物、草地和池塘，构成一个农业占主导的乡村整体。"
+          ]
+        },
+        {
+          "sentences": [
+            "人类居住历史悠久，可追溯至旧石器时代；贝兹河畔米尔博的圣所曾是高卢-罗马时期的重要场所。",
+            "随后，第八奥古斯都军团在那里建立军营，之后贝兹圣皮埃尔修道院在中世纪组织起圣普吕当朝圣活动。",
+            "到了近代，旺日国家火药厂为工业需要整治河口，并留下与水相关的建筑遗产。"
+          ]
+        },
+        {
+          "sentences": [
+            "这处泉眼是法国本土主要涌泉之一，在海拔208米处喷涌而出，随即形成一条宽十米的河流。",
+            "地下网络长2800米，落差26米，包含四个虹吸段，自1950年起由第戎洞穴俱乐部勘探。",
+            "该洞穴于1971年4月向游客开放，可在约12摄氏度下乘船参观约300米，吸引众多好奇者。",
+            "游客量在2011年达到20193人次，此前2010年为19341人次，2009年为18224人次，2008年为16255人次，2007年为14390人次。"
+          ]
+        },
+        {
+          "sentences": [
+            "动物群与索恩河相似，鳟鱼占有显著位置，但水利工程把河道分隔开，并干扰多个物种。",
+            "水质因农业和养殖活动产生的硝酸盐而被评为较差，尽管2009年已设置草皮带。",
+            "该流域不存在重大自然灾害风险，洪水主要影响农业空间和少数汇流区。"
+          ]
+        },
+        {
+          "sentences": [
+            "该名称早在658年以fontem Besuam的形式得到证实，随后在7世纪和1105年写作Besua，1256年变为Bese；一个凯尔特词根可能把它与‘源头之河’的观念联系起来。",
+            "石灰岩地质也解释了喀斯特和地下湖的存在。"
+          ]
+        }
+      ],
+      "glossary": {
+        "exsurgence": "岩溶地下水以泉的形式出露地表并形成河流的出口。",
+        "pertes": "地表河流在石灰岩地区渗入地下、转为地下水的河段或地点。",
+        "dénivelé": "两点之间的高度差，此处指地下网络入口与出口的落差。",
+        "siphons": "洞穴中呈U形、充满水而需潜水通过的管状段。",
+        "cloisonnent": "把连续河道分割成互不相通或难以通行的多段。",
+        "nitrates": "农业肥料和畜禽排泄物带来的含氮污染物，可导致水质变差。",
+        "bandes enherbées": "沿田边或水边种植草类的缓冲带，用于截留泥沙和污染物。",
+        "karst": "石灰岩等可溶岩经溶蚀形成的地貌与地下排水系统。",
+        "confluence": "两条河流或水流交汇的地方。",
+        "embouchure": "河流注入另一条河、湖泊或海洋的入口处。"
+      },
+      "questions": {
+        "q1": "证据把源头定位在克雷塔讷洞的涌泉，并说明其地下网络部分与蒂勒河和韦内勒河的伏流有关；因此正确项把“洞中涌出”与“地下网络”连接起来。第二项把终点或流经方向说成源头；第三项错误地把地下湖当作源头，且位置关系不符；第四项把2009年的草皮带当成水源，与证据无关。",
+        "q2": "证据明确把水质差归因于农业和养殖来源的硝酸盐。第一项提到洪水与汇流区，第三项提到水利工程分隔河道，第四项说缺乏生态自然区，这些都不是文中给出的水质原因。",
+        "q3": "该段列举森林、大田作物、草地和池塘，说明景观类型多样，并以“农业占主导”概括乡村整体；因此正确项同时抓住多样性和农业主导。第一项把该段与河流终点相连，文中无此因果；第三项说森林阻止农业，与“农业占主导”相反；第四项说池塘是唯一受保护生境，文中未这样说。",
+        "q4": "证据先谈鱼类组成接近索恩河且鳟鱼重要，随后用“但是”转折指出水利工程把河道分隔并干扰多个物种；正确项对应这一转折后的负面影响。第一项把工程说成有利于鳟鱼，与“干扰”相反；第三项说消除洪水风险，第四项说为保护自然区而建，均无证据支持。",
+        "q5": "证据直接说明地下网络自1950年起由第戎洞穴俱乐部勘探。第二项把勘探与1950年开放旅游混为一谈，而旅游开放是1971年4月；第三项把勘探者误作旺日国家火药厂；第四项把1971年开始的乘船参观当作勘探开始。",
+        "q6": "证据说旺日国家火药厂为工业需要整治河口，并留下与水有关的建筑遗产；正确项完整复现这两点。第一项说它使圣皮埃尔修道院搬迁，第二项把圣普吕当朝圣变成军营，第四项把1971年洞穴旅游开放归给它，均与证据中的时期和行为不符。",
+        "q7": "证据按时间列出658年的拉丁语形式、后来的演变和1256年的Bese，并提出凯尔特词根可能与“源头之河”有关；第四项概括了最早见证和词源假说。第一项把首次见证说成1256年，第二项把它归于第八奥古斯都军团，第三项说它先指索恩河，均与证据不符。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "根据文章，贝兹河如何发源？",
+          "options": [
+            "它从克雷塔讷洞涌出，依靠一个部分与河流伏流相连的地下网络。",
+            "它在旺日的索恩河中发源，此前已穿过十二个市镇。",
+            "它来自位于蒂勒河和韦内勒河下方的一个地下湖。",
+            "它由2009年设置的草皮带供给。"
+          ]
+        },
+        "q2": {
+          "prompt": "为什么水质被认为较差？",
+          "options": [
+            "因为洪水到达汇流区。",
+            "由于农业和养殖活动产生的硝酸盐。",
+            "因为水利工程把河道分隔开。",
+            "由于缺乏具有生态价值的自然保护区。"
+          ]
+        },
+        "q3": {
+          "prompt": "关于流域景观的段落起什么作用？",
+          "options": [
+            "它解释河流为什么在旺日汇入索恩河。",
+            "它描述生境的多样性以及农业的主导地位。",
+            "它表明森林阻止了一切农业活动。",
+            "它指出池塘是唯一受保护的生境。"
+          ]
+        },
+        "q4": {
+          "prompt": "文章揭示了水利工程的哪些影响？",
+          "options": [
+            "它们使动物群接近索恩河，从而有利于鳟鱼。",
+            "它们把河道分割开，并妨碍多个物种。",
+            "它们消除了流域内一切洪水风险。",
+            "它们是为保护自然保护区而设置的。"
+          ]
+        },
+        "q5": {
+          "prompt": "关于地下网络的勘探，我们了解到什么？",
+          "options": [
+            "它由第戎洞穴俱乐部从1950年起进行。",
+            "它使洞穴从1950年起就向旅游开放。",
+            "它由旺日国家火药厂完成。",
+            "它于1971年4月随着乘船参观开始。"
+          ]
+        },
+        "q6": {
+          "prompt": "旺日国家火药厂的活动对场地产生了什么后果？",
+          "options": [
+            "它使贝兹圣皮埃尔修道院搬迁。",
+            "它把圣普吕当朝圣活动变成了军营。",
+            "它整治了河口，并留下与水相关的建筑遗产。",
+            "它于1971年4月开放了洞穴旅游。"
+          ]
+        },
+        "q7": {
+          "prompt": "文章如何说明“Bèze”这一名称的演变？",
+          "options": [
+            "它于1256年首次以Bese的形式得到证实。",
+            "它来自第八奥古斯都军团的名字。",
+            "它先指索恩河，后指这条河流。",
+            "它早在658年就以拉丁语形式出现，并可能与“源头之河”的观念有关。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Bèze (rivière)",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=241359730",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-17",
+    "revisionId": "241359730"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-17",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-17-beze-riviere-75a19a3f859c.jpg",
+    "alt": "Lavoir sur la Bèze à Bezouotte (Côte d'Or).",
+    "author": "Prosopee",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lavoir_on_B%C3%A8ze_in_Bezouotte.JPG?oldid=1180065938",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Réduite à 1280×850 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 850,
+    "byteLength": 427284,
+    "sha256": "75a19a3f859c075f7cfecf1490598fdbe61687445e84dd76a8b17578af2a82ea",
+    "fileRevisionId": "1180065938",
+    "retrievedAt": "2026-11-17"
+  }
+}

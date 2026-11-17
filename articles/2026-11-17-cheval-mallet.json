@@ -1,0 +1,346 @@
+{
+  "id": "2026-11-17-cheval-mallet",
+  "title": "Le cheval Mallet, monture légendaire et maléfique de l’Ouest",
+  "level": "B2",
+  "theme": "culture",
+  "date": "2026-11-17",
+  "summary": "Le cheval Mallet, créature nocturne des légendes de l’Ouest, attire les voyageurs fatigués avant de causer leur perte, sauf avec une protection rituelle.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Le cheval Mallet, aussi nommé Malet, traverse les récits populaires de Vendée, du Poitou et du sud de la Bretagne, surtout autour du lac de Grand-Lieu et dans le pays de Retz.",
+        "On le décrit comme un animal nocturne, blanc ou parfois noir, déjà sellé et bridé, qui s’approche des voyageurs épuisés par une longue route.",
+        "Celui qui l’enfourche ne revient généralement pas, sauf s’il possède la rançon du voyage ou une protection comme la médaille de saint Benoît."
+      ]
+    },
+    {
+      "sentences": [
+        "Cette monture passe pour un instrument du Diable, voire pour une forme de Satan, et son nom balance entre nom propre et nom commun.",
+        "Son appellation pourrait dériver de mail, ancien terme celtique pour une malle, ou de Marc’h Klet, le cheval confortable en breton.",
+        "Une autre piste relie Malet à mallier, mot du moyen français désignant un cheval qui transporte des malles."
+      ]
+    },
+    {
+      "sentences": [
+        "Les récits soulignent l’apparence séduisante de la bête et le danger de la tentation: le cavalier est emporté dans une course folle et meurt au matin.",
+        "Claude Seignolle et Édouard Brasey parlent d’yeux lumineux, tandis que six pièces marquées d’une croix, un signe de croix ou de l’eau bénite pourraient arrêter l’animal.",
+        "La médaille de saint Benoît, dite croix des sorciers, serait la protection la plus efficace."
+      ]
+    },
+    {
+      "sentences": [
+        "Le thème est attesté dans l’ancien Poitou, qui recouvrait la Vienne, la Vendée et les Deux-Sèvres, ainsi que dans la Manche avec le moine de Saire.",
+        "Un glossaire du Poitou, de la Saintonge et de l’Aunis paru en 1868 mentionne un être malfaisant qui noie son cavalier, sauf si celui-ci réagit par un geste religieux.",
+        "À Saint-Benoist-sur-Mer, Benjamin Fillon et Paul Sébillot rapportent des protections liées à la médaille et au palet de Gargantua.",
+        "Des récits de 1862 et de 1978 prolongent cette tradition, parfois avec un cavalier sauvé ou disparu."
+      ]
+    },
+    {
+      "sentences": [
+        "Henri Dontenville cite une formule adressée au cheval pour aller à Paris, et Claude Seignolle rapporte un voyage comparable depuis Saint-Philbert-du-Pont-Charrault.",
+        "La légende croise la chasse fantastique de Gallery et des théories sur Sleipnir, monture d’Odin, sur le lutin métamorphosé ou sur le kappa japonais.",
+        "La blancheur lunaire de l’animal annoncerait souvent la mort, notamment en Angleterre et en Allemagne, et le groupe Tri Yann s’en inspira en 1985 pour une chanson située à Saint-Lumine-de-Coutais."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "bridé"
+    },
+    {
+      "term": "rançon"
+    },
+    {
+      "term": "malfaisant"
+    },
+    {
+      "term": "mallier"
+    },
+    {
+      "term": "palet de Gargantua"
+    },
+    {
+      "term": "chasse fantastique"
+    },
+    {
+      "term": "lutin"
+    },
+    {
+      "term": "kappa japonais"
+    },
+    {
+      "term": "blancheur lunaire"
+    },
+    {
+      "term": "eau bénite"
+    },
+    {
+      "term": "croix des sorciers"
+    },
+    {
+      "term": "moyen français"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Comment le cheval Mallet est-il décrit lorsqu’il s’approche des voyageurs ?",
+      "options": [
+        "Comme un animal blanc qui apparaît en plein jour et fuit les voyageurs.",
+        "Comme un animal déjà sellé et bridé, qui vient vers des voyageurs fatigués par une longue route.",
+        "Comme un animal noir qui accompagne les voyageurs jusqu’au lac de Grand-Lieu.",
+        "Comme un animal sauvage qui attaque les voyageurs avant qu’ils ne le montent."
+      ],
+      "answerIndex": 1,
+      "evidence": "On le décrit comme un animal nocturne, blanc ou parfois noir, déjà sellé et bridé, qui s’approche des voyageurs épuisés par une longue route.",
+      "explanation": "Le texte précise que la bête est déjà équipée et qu’elle vient vers des voyageurs épuisés ; les autres options ajoutent des actions ou des moments non mentionnés."
+    },
+    {
+      "id": "q2",
+      "prompt": "Dans quelles conditions un voyageur peut-il échapper au cheval Mallet, selon le texte ?",
+      "options": [
+        "S’il possède la rançon du voyage ou une protection comme la médaille de saint Benoît.",
+        "S’il voyage de nuit et évite les routes autour du lac de Grand-Lieu.",
+        "S’il réussit à retirer la selle et le mors avant de monter sur l’animal.",
+        "S’il prononce une formule destinée à aller à Paris."
+      ],
+      "answerIndex": 0,
+      "evidence": "Celui qui l’enfourche ne revient généralement pas, sauf s’il possède la rançon du voyage ou une protection comme la médaille de saint Benoît.",
+      "explanation": "La survie dépend de la rançon ou d’une protection ; la formule pour aller à Paris apparaît ailleurs, sans être présentée comme un moyen d’échapper à la monture."
+    },
+    {
+      "id": "q3",
+      "prompt": "Pourquoi les récits présentent-ils le cheval Mallet comme particulièrement dangereux ?",
+      "options": [
+        "Parce qu’il noie systématiquement son cavalier dès qu’il s’approche d’un lac.",
+        "Parce qu’il se transforme en lutin et conduit le cavalier jusqu’à Paris.",
+        "Parce que son apparence séduisante cache une tentation qui emporte le cavalier dans une course folle jusqu’à la mort.",
+        "Parce qu’il empêche le cavalier de réciter un signe de croix."
+      ],
+      "answerIndex": 2,
+      "evidence": "Les récits soulignent l’apparence séduisante de la bête et le danger de la tentation: le cavalier est emporté dans une course folle et meurt au matin.",
+      "explanation": "La séduction de l’animal conduit à une tentation : le cavalier est emporté et meurt au matin. Les autres options déplacent des éléments du texte hors de cette explication."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quels moyens sont cités comme pouvant arrêter l’animal ?",
+      "options": [
+        "La rançon du voyage et la formule pour aller à Paris.",
+        "Six pièces marquées d’une croix, un signe de croix ou de l’eau bénite.",
+        "Le palet de Gargantua et la chasse fantastique de Gallery.",
+        "La blancheur lunaire et les yeux lumineux de la bête."
+      ],
+      "answerIndex": 1,
+      "evidence": "Claude Seignolle et Édouard Brasey parlent d’yeux lumineux, tandis que six pièces marquées d’une croix, un signe de croix ou de l’eau bénite pourraient arrêter l’animal.",
+      "explanation": "La phrase cite explicitement les pièces marquées d’une croix, le signe de croix et l’eau bénite ; les autres options mélangent des éléments voisins du récit."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que révèle le passage consacré aux origines du nom « Malet » ?",
+      "options": [
+        "Le nom vient sûrement de Marc’h Klet, le cheval confortable en breton.",
+        "Le nom est expliqué par le seul mot celtique mail, qui désigne une malle.",
+        "Plusieurs hypothèses existent, mais aucune origine n’est présentée comme certaine.",
+        "Le nom désigne toujours un cheval qui transporte des malles au Moyen Âge."
+      ],
+      "answerIndex": 2,
+      "evidence": "Son appellation pourrait dériver de mail, ancien terme celtique pour une malle, ou de Marc’h Klet, le cheval confortable en breton.",
+      "explanation": "L’emploi de « pourrait » et la coexistence de plusieurs pistes montrent que l’origine du nom n’est pas fixée ; les distracteurs transforment une hypothèse en certitude."
+    },
+    {
+      "id": "q6",
+      "prompt": "Que rapporte le glossaire du Poitou, de la Saintonge et de l’Aunis paru en 1868 ?",
+      "options": [
+        "Un être malfaisant noie son cavalier, sauf si celui-ci fait un geste religieux.",
+        "Le cheval Mallet sauve toujours les cavaliers qui portent la médaille de saint Benoît.",
+        "Un voyageur disparaît près de Saint-Benoist-sur-Mer en 1862.",
+        "Le moine de Saire y raconte une course folle jusqu’à Paris."
+      ],
+      "answerIndex": 0,
+      "evidence": "Un glossaire du Poitou, de la Saintonge et de l’Aunis paru en 1868 mentionne un être malfaisant qui noie son cavalier, sauf si celui-ci réagit par un geste religieux.",
+      "explanation": "Le glossaire de 1868 décrit un être malfaisant qui noie son cavalier sauf geste religieux ; les autres options attribuent à ce glossaire des détails venus d’autres passages."
+    },
+    {
+      "id": "q7",
+      "prompt": "Que dit le texte à propos de l’influence du cheval Mallet sur une chanson ?",
+      "options": [
+        "Henri Dontenville composa en 1868 une chanson située à Saint-Philbert-du-Pont-Charrault.",
+        "Claude Seignolle écrivit en 1978 une chanson sur le lac de Grand-Lieu.",
+        "Le groupe Tri Yann situa en 1862 une chanson à Saint-Benoist-sur-Mer.",
+        "Le groupe Tri Yann s’en inspira en 1985 pour une chanson située à Saint-Lumine-de-Coutais."
+      ],
+      "answerIndex": 3,
+      "evidence": "La blancheur lunaire de l’animal annoncerait souvent la mort, notamment en Angleterre et en Allemagne, et le groupe Tri Yann s’en inspira en 1985 pour une chanson située à Saint-Lumine-de-Coutais.",
+      "explanation": "Le texte attribue au groupe Tri Yann une inspiration en 1985 pour une chanson située à Saint-Lumine-de-Coutais ; les dates et lieux des autres options ne correspondent pas à ce passage."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "马莱马：西部传说中传奇而邪恶的坐骑",
+      "summary": "马莱马是西部传说中的夜间神驹，已备鞍辔，诱使疲惫旅人骑上后狂奔致死；唯有携带旅行赎金或圣本笃圣牌等护身物方可幸免。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "马莱马（Mallet），又名马莱（Malet），出现在旺代、普瓦图以及布列塔尼南部的民间故事中，尤其是在大略湖周边和雷茨地区。",
+            "人们把它描述为一种夜间出没的动物，呈白色，有时为黑色，已经备好鞍鞯、套上辔头，会靠近因长途跋涉而筋疲力尽的旅人。",
+            "骑上它的人通常不会回来，除非他拥有旅行赎金，或拥有圣本笃圣牌之类的护身物。"
+          ]
+        },
+        {
+          "sentences": [
+            "这匹坐骑被认为是魔鬼的工具，甚至是撒旦的一种化身，而它的名称在专有名词与普通名词之间摇摆。",
+            "它的称呼可能来自 mail——一个古凯尔特语中表示“箱子”的词——或来自布列塔尼语中意为“舒适的马”的 Marc’h Klet。",
+            "另一条线索把 Malet 与 mallier 联系起来，这是中古法语中表示“运送箱子的马”的词。"
+          ]
+        },
+        {
+          "sentences": [
+            "这些故事强调这头野兽诱人的外表和诱惑的危险：骑手被带入疯狂的奔驰，并在清晨死去。",
+            "克洛德·塞尼奥尔和爱德华·布拉塞伊谈到发光的眼睛，而六枚带有十字标记的钱币、一个划十字的手势或圣水可能阻止这只动物。",
+            "被称为“巫师十字”的圣本笃圣牌被认为是最有效的保护。"
+          ]
+        },
+        {
+          "sentences": [
+            "这一主题在旧普瓦图——包括维埃纳、旺代和德塞夫勒——以及芒什省与赛尔修士有关的记载中得到印证。",
+            "1868年出版的一部普瓦图、圣通日和奥尼斯词汇集提到一个作恶的存在，它会淹死自己的骑手，除非骑手以宗教手势回应。",
+            "在圣伯努瓦斯特海滨，本杰明·菲永和保罗·塞比约记载了与圣牌和卡冈都亚石饼有关的保护方式。",
+            "1862年和1978年的故事延续了这一传统，有时涉及一名获救或失踪的骑手。"
+          ]
+        },
+        {
+          "sentences": [
+            "亨利·东唐维尔引用了一句对马说的、用于前往巴黎的咒语，克洛德·塞尼奥尔则记述了一次从圣菲尔贝-迪蓬沙罗出发的类似旅程。",
+            "传说与加勒里的幻猎，以及与奥丁的坐骑斯雷普尼尔、变形的小妖精或日本河童有关的理论相交汇。",
+            "这只动物月亮般的白色常常预示死亡，尤其在英格兰和德国；特里·扬乐队于1985年受其启发，创作了一首以圣吕米讷-德库泰为背景的歌曲。"
+          ]
+        }
+      ],
+      "glossary": {
+        "bridé": "给马套上辔头或马嚼子，使马受控制。",
+        "rançon": "此处指为获释或脱身而支付的赎金、代价。",
+        "malfaisant": "作恶的、会伤害人的。",
+        "mallier": "中古法语词，指运送箱子的马。",
+        "palet de Gargantua": "卡冈都亚石饼，传说中巨人卡冈都亚留下的石块或石盘，常与地方护身传说相关。",
+        "chasse fantastique": "幻猎，欧洲民间传说中夜间由幽灵或超自然骑手率领的狂猎队伍。",
+        "lutin": "小妖精或家宅精灵，常能变形或捉弄人。",
+        "kappa japonais": "日本河童，水中的妖怪。",
+        "blancheur lunaire": "如月光般的白色，在传说中常与死亡预兆相关。",
+        "eau bénite": "圣水，宗教仪式中祝圣过的水，用于驱邪保护。",
+        "croix des sorciers": "“巫师十字”，圣本笃圣牌的别称，被认为有驱邪护身作用。",
+        "moyen français": "中古法语，约14至16世纪的法语阶段。"
+      },
+      "questions": {
+        "q1": "原文说它“已经备好鞍鞯、套上辔头，会靠近因长途跋涉而筋疲力尽的旅人”，因此正确选项是第二项：一种已备鞍辔、走向疲惫旅人的动物。第一项说它白天出现并躲避旅人，与夜间靠近旅人相反；第三项说它黑色并陪伴旅人到湖边，原文并未如此描述；第四项说它先攻击旅人，也不符合原文。",
+        "q2": "原文指出，骑上它的人通常不回来，“除非他拥有旅行赎金，或拥有圣本笃圣牌之类的护身物”，所以正确选项是第一项。第二项讲夜间出行和避开道路，原文没有把这当作脱身条件；第三项讲卸下鞍子和马嚼子，原文未提；第四项的前往巴黎咒语出现在别处，并非逃脱坐骑的方法。",
+        "q3": "原文强调“这头野兽诱人的外表和诱惑的危险：骑手被带入疯狂的奔驰，并在清晨死去”，所以正确选项是第三项：诱人外表隐藏的诱惑使骑手狂奔至死。第一项说靠近湖泊就必然淹死，过于绝对且不符该句；第二项说变成小妖精带到巴黎，是把别处元素混入；第四项说阻止骑手划十字，也不符合原文。",
+        "q4": "原文明确说“六枚带有十字标记的钱币、一个划十字的手势或圣水可能阻止这只动物”，因此正确选项是第二项。第一项把旅行赎金和前往巴黎的咒语并列，但咒语并非此处所说的阻止手段；第三项提到卡冈都亚石饼和加勒里的幻猎，属于邻近段落的其他元素；第四项把月亮般的白色和发光眼睛当作阻止手段，也不正确。",
+        "q5": "原文用“可能来自”引出 mail 和 Marc’h Klet 等不同假设，说明存在多种解释而没有任何一种被说成确定，因此正确选项是第三项。第一项把 Marc’h Klet 说成“肯定”来源，第二项说仅由 mail 解释，第四项说始终指运送箱子的马，都把假设或局部解释变成了确定结论。",
+        "q6": "原文的对应句是：“1868年出版的一部普瓦图、圣通日和奥尼斯词汇集提到一个作恶的存在，它会淹死自己的骑手，除非骑手以宗教手势回应。”因此正确选项是第一项：作恶者淹死骑手，除非骑手做出宗教手势。第二项说总会拯救佩戴圣牌的骑手，不符合这部词汇集的表述；第三项和第四项分别把1862年失踪故事、赛尔修士与巴黎旅程等别处细节归给该词汇集。",
+        "q7": "原文说“特里·扬乐队于1985年受其启发，创作了一首以圣吕米讷-德库泰为背景的歌曲”，因此正确选项是第四项。第一项把亨利·东唐维尔、1868年和圣菲尔贝-迪蓬沙罗混在一起；第二项把克洛德·塞尼奥尔、1978年和大略湖混在一起；第三项把特里·扬、1862年和圣伯努瓦斯特海滨混在一起，均与原文不符。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "当马莱马靠近旅人时，人们如何描述它？",
+          "options": [
+            "作为一种白天出现并躲避旅人的白色动物。",
+            "作为一种已经备好鞍鞯、套上辔头，并走向因长途跋涉而筋疲力尽的旅人的动物。",
+            "作为一种黑色动物，陪伴旅人直到大略湖。",
+            "作为一种野生猛兽，在旅人骑上它之前攻击旅人。"
+          ]
+        },
+        "q2": {
+          "prompt": "根据文本，旅人在什么条件下可能逃过马莱马？",
+          "options": [
+            "如果他拥有旅行赎金，或拥有圣本笃圣牌之类的护身物。",
+            "如果他在夜间旅行，并避开大略湖周边的道路。",
+            "如果他在骑上动物之前成功卸下鞍子和马嚼子。",
+            "如果他念出一句用于前往巴黎的咒语。"
+          ]
+        },
+        "q3": {
+          "prompt": "为什么故事把马莱马呈现为特别危险？",
+          "options": [
+            "因为每当靠近湖泊，它都会无一例外地淹死自己的骑手。",
+            "因为它变成小妖精，把骑手一直带到巴黎。",
+            "因为它诱人的外表隐藏着一种诱惑，使骑手被卷入疯狂奔驰直至死亡。",
+            "因为它阻止骑手划十字。"
+          ]
+        },
+        "q4": {
+          "prompt": "文中提到哪些可能阻止这只动物的方法？",
+          "options": [
+            "旅行赎金和前往巴黎的咒语。",
+            "六枚带有十字标记的钱币、一个划十字的手势或圣水。",
+            "卡冈都亚石饼和加勒里的幻猎。",
+            "这只动物月亮般的白色和发光的眼睛。"
+          ]
+        },
+        "q5": {
+          "prompt": "关于“Malet”这个名字的起源，相关段落揭示了什么？",
+          "options": [
+            "这个名字肯定来自布列塔尼语中意为“舒适的马”的 Marc’h Klet。",
+            "这个名字仅由凯尔特语中表示箱子的 mail 一词解释。",
+            "存在多种假设，但没有任何一种起源被呈现为确定无疑。",
+            "这个名字始终指中世纪运送箱子的马。"
+          ]
+        },
+        "q6": {
+          "prompt": "1868年出版的普瓦图、圣通日和奥尼斯词汇集记载了什么？",
+          "options": [
+            "一个作恶的存在会淹死自己的骑手，除非骑手做出宗教手势。",
+            "马莱马总会拯救佩戴圣本笃圣牌的骑手。",
+            "一名旅人于1862年在圣伯努瓦斯特海滨附近失踪。",
+            "赛尔修士在其中讲述了前往巴黎的疯狂奔驰。"
+          ]
+        },
+        "q7": {
+          "prompt": "关于马莱马对一首歌曲的影响，文本说了什么？",
+          "options": [
+            "亨利·东唐维尔于1868年创作了一首以圣菲尔贝-迪蓬沙罗为背景的歌曲。",
+            "克洛德·塞尼奥尔于1978年写了一首关于大略湖的歌曲。",
+            "特里·扬乐队于1862年把一首歌的背景设在圣伯努瓦斯特海滨。",
+            "特里·扬乐队于1985年受其启发，创作了一首以圣吕米讷-德库泰为背景的歌曲。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Cheval Mallet",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=239655205",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-17",
+    "revisionId": "239655205"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-17",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-17-cheval-mallet-94020ecca2fc.jpg",
+    "alt": "The \"Mallet horse\" from french folklore",
+    "author": "Tsaag Valren",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:ChevalMallet.jpg?oldid=855759461",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Fichier original téléchargé depuis Wikimedia Commons ; aucune modification.",
+    "width": 556,
+    "height": 914,
+    "byteLength": 89121,
+    "sha256": "94020ecca2fc001d6b3d17e4a6bbefae303721bb66f729749fe6a34297ab5931",
+    "fileRevisionId": "855759461",
+    "retrievedAt": "2026-11-17"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-17",
+  "articles": [
+    {
+      "id": "2026-11-17-chute-de-robespierre",
+      "title": "La chute de Robespierre et la fin de la Terreur",
+      "level": "B1",
+      "theme": "histoire",
+      "date": "2026-11-17",
+      "summary": "En juillet 1794, Robespierre est arrêté puis exécuté. Sa chute met fin à la Terreur et ouvre une nouvelle phase de la Révolution.",
+      "path": "articles/2026-11-17-chute-de-robespierre.json"
+    },
+    {
+      "id": "2026-11-17-cheval-mallet",
+      "title": "Le cheval Mallet, monture légendaire et maléfique de l’Ouest",
+      "level": "B2",
+      "theme": "culture",
+      "date": "2026-11-17",
+      "summary": "Le cheval Mallet, créature nocturne des légendes de l’Ouest, attire les voyageurs fatigués avant de causer leur perte, sauf avec une protection rituelle.",
+      "path": "articles/2026-11-17-cheval-mallet.json"
+    },
+    {
+      "id": "2026-11-17-beze-riviere",
+      "title": "La Bèze, rivière de Côte-d'Or entre patrimoine et environnement",
+      "level": "B2",
+      "theme": "géographie",
+      "date": "2026-11-17",
+      "summary": "La Bèze, courte rivière de Côte-d'Or issue d'une résurgence remarquable, traverse un bassin rural marqué par un riche passé humain et par des pressions agricoles sur l'eau.",
+      "path": "articles/2026-11-17-beze-riviere.json"
+    }
+  ]
+}
