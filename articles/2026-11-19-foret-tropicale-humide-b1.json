@@ -1,0 +1,339 @@
+{
+  "id": "2026-11-19-foret-tropicale-humide-b1",
+  "title": "La forêt tropicale humide : une richesse fragile",
+  "level": "B1",
+  "theme": "environnement",
+  "date": "2026-11-19",
+  "summary": "La forêt tropicale humide abrite une biodiversité exceptionnelle, mais son exploitation et la déforestation menacent cet équilibre.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "La forêt tropicale humide pousse dans les régions équatoriales de basse altitude.",
+        "En Asie, on l’appelle jungle ; « forêt dense » veut surtout dire que les arbres sont serrés.",
+        "Le climat équatorial donne eau et chaleur toute l’année, donc les plantes poussent sans arrêt."
+      ]
+    },
+    {
+      "sentences": [
+        "Les arbres forment trois étages, et leurs feuilles tombent de façon irrégulière.",
+        "Rares sont ceux qui dépassent 50 mètres ; une voûte serrée atteint 30 à 40 mètres, puis un niveau bas vers 15 à 20 mètres.",
+        "Les troncs sont souvent lisses, les branches en haut, et les racines superficielles ou aériennes."
+      ]
+    },
+    {
+      "sentences": [
+        "La plupart des arbres gardent leurs feuilles ; elles tombent par branches, donc la forêt reste verte.",
+        "Le feuillage dense laisse peu de lumière au sol, où le sous-bois est rare.",
+        "Des épiphytes vivent sur les branches grâce à l’humus, sans être parasites comme le gui.",
+        "Cette forêt existe aussi en région de mousson et près des cours d’eau, en forêts-galeries."
+      ]
+    },
+    {
+      "sentences": [
+        "Elle contient presque 70 % des espèces végétales connues.",
+        "Un hectare a 80 à 200 espèces, mais deux individus de la même espèce y sont rarement proches.",
+        "Cette dispersion rend l’exploitation forestière coûteuse et destructrice.",
+        "La canopée, entre 30 et 50 mètres, abrite de nombreux oiseaux, malgré chaleur, vent et air sec."
+      ]
+    },
+    {
+      "sentences": [
+        "L’étage moyen accueille oiseaux, reptiles et singes ; au sol, les insectes abondent, mais grands herbivores et carnivores sont rares.",
+        "Les forêts d’Amérique, d’Afrique et d’Asie n’ont pas d’espèces communes, sauf introduites par l’homme.",
+        "Des familles proches existent, comme les fourmis ou les Euphorbiacées, dont les hévéas donnent le caoutchouc."
+      ]
+    },
+    {
+      "sentences": [
+        "Des paysans brûlent la forêt puis changent de champ ; ils reviennent après 10 à 15 ans, donc la population reste faible en Amazonie et au Congo.",
+        "La forêt donne des bois exotiques comme l’acajou ; ces terres servent à l’élevage et aux plantations de soja, canne ou palmiers à huile.",
+        "Aujourd’hui, près de 13 millions d’hectares disparaissent chaque année en Amazonie brésilienne et en Indonésie."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "équatoriales"
+    },
+    {
+      "term": "irrégulière"
+    },
+    {
+      "term": "superficielles"
+    },
+    {
+      "term": "épiphytes"
+    },
+    {
+      "term": "humus"
+    },
+    {
+      "term": "dispersion"
+    },
+    {
+      "term": "canopée"
+    },
+    {
+      "term": "herbivores"
+    },
+    {
+      "term": "Euphorbiacées"
+    },
+    {
+      "term": "hévéas"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon l’article, pourquoi les plantes de la forêt tropicale humide poussent-elles sans arrêt ?",
+      "options": [
+        "Parce que les arbres forment trois étages.",
+        "Parce que les feuilles tombent de façon irrégulière.",
+        "Parce que le climat équatorial fournit eau et chaleur toute l’année.",
+        "Parce que le sous-bois reçoit peu de lumière."
+      ],
+      "answerIndex": 2,
+      "evidence": "Le climat équatorial donne eau et chaleur toute l’année, donc les plantes poussent sans arrêt.",
+      "explanation": "Le texte établit un lien de cause à effet entre le climat équatorial, qui apporte eau et chaleur en continu, et la croissance continue des plantes. Les trois étages ou la chute des feuilles ne sont pas présentés comme la cause de cette croissance."
+    },
+    {
+      "id": "q2",
+      "prompt": "Que peut-on comprendre sur la lumière dans le sous-bois ?",
+      "options": [
+        "Elle est abondante grâce aux troncs lisses.",
+        "Elle est rare parce que le feuillage dense laisse peu de lumière passer.",
+        "Elle est irrégulière car les feuilles tombent par branches.",
+        "Elle est suffisante car les épiphytes y vivent."
+      ],
+      "answerIndex": 1,
+      "evidence": "Le feuillage dense laisse peu de lumière au sol, où le sous-bois est rare.",
+      "explanation": "Le texte relie directement la densité du feuillage au manque de lumière au sol et à la rareté du sous-bois. Les autres options ajoutent des causes ou des conséquences que l’article ne donne pas."
+    },
+    {
+      "id": "q3",
+      "prompt": "Une plante est fixée à une branche ; elle utilise l’humus accumulé là et ne prélève pas la sève de l’arbre. À quel cas de l’article correspond-elle ?",
+      "options": [
+        "Un épiphyte : il profite de l’humus sans vivre aux dépens de l’arbre.",
+        "Un parasite comme le gui : il vit sur une branche et prend la sève de l’arbre.",
+        "Un arbre de la canopée : il est simplement fixé en hauteur.",
+        "Une racine aérienne : elle est attachée à l’arbre pour le soutenir."
+      ],
+      "answerIndex": 0,
+      "evidence": "Des épiphytes vivent sur les branches grâce à l’humus, sans être parasites comme le gui.",
+      "explanation": "L’article oppose les épiphytes au gui parasite : la plante décrite se nourrit sur la branche sans prendre à l’arbre, donc elle correspond aux épiphytes. Le gui, lui, est donné comme parasite."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quelle idée générale l’article défend-il surtout ?",
+      "options": [
+        "La forêt tropicale humide est surtout une réserve de bois exotique pour l’élevage et les plantations.",
+        "La forêt tropicale humide est identique sur les trois continents grâce aux espèces introduites par l’homme.",
+        "La forêt tropicale humide doit son vert permanent à l’absence de chute de feuilles.",
+        "La forêt tropicale humide est très diverse, mais son exploitation et sa disparition menacent cet équilibre."
+      ],
+      "answerIndex": 3,
+      "evidence": "Aujourd’hui, près de 13 millions d’hectares disparaissent chaque année en Amazonie brésilienne et en Indonésie.",
+      "explanation": "L’article décrit une biodiversité exceptionnelle, puis évoque les difficultés de l’exploitation et les pertes annuelles de forêt : la richesse est donc menacée. Les autres options réduisent la forêt à une ressource ou contredisent des détails du texte."
+    },
+    {
+      "id": "q5",
+      "prompt": "Un naturaliste affirme que la canopée est un milieu trop difficile pour les animaux. Que répond l’article ?",
+      "options": [
+        "Il a raison : aucun oiseau n’y vit à cause du vent.",
+        "Il a raison : seuls les insectes supportent la chaleur.",
+        "Il a tort sur l’absence d’oiseaux : beaucoup y vivent malgré les difficultés.",
+        "Il a tort : l’air y est humide et sans vent."
+      ],
+      "answerIndex": 2,
+      "evidence": "La canopée, entre 30 et 50 mètres, abrite de nombreux oiseaux, malgré chaleur, vent et air sec.",
+      "explanation": "L’article dit que les oiseaux sont nombreux dans la canopée tout en signalant la chaleur, le vent et l’air sec ; on en déduit que la vie y est possible malgré des conditions peu faciles. Les options qui nient leur présence ou supposent un air humide et sans vent contredisent le texte."
+    },
+    {
+      "id": "q6",
+      "prompt": "Comment les paysans décrits dans l’article utilisent-ils la forêt pour cultiver ?",
+      "options": [
+        "Ils coupent les arbres sans feu et reviennent chaque année.",
+        "Ils brûlent la forêt pour cultiver, puis attendent une dizaine d’années avant de revenir.",
+        "Ils plantent du soja après avoir brûlé la forêt et restent sur place.",
+        "Ils changent de champ parce que la population augmente en Amazonie."
+      ],
+      "answerIndex": 1,
+      "evidence": "Des paysans brûlent la forêt puis changent de champ ; ils reviennent après 10 à 15 ans, donc la population reste faible en Amazonie et au Congo.",
+      "explanation": "Le texte décrit des paysans qui brûlent la forêt, changent de champ et ne reviennent qu’après une dizaine d’années ; cela correspond à une culture sur brûlis avec une longue pause. Les options qui font revenir chaque année ou rester sur place contredisent cette description."
+    },
+    {
+      "id": "q7",
+      "prompt": "Pourquoi l’exploitation forestière est-elle coûteuse et destructrice dans cette forêt ?",
+      "options": [
+        "Parce que les arbres d’une même espèce sont rarement proches, ce qui oblige à abattre beaucoup pour trouver le bois voulu.",
+        "Parce que les arbres sont tous de la même espèce au même endroit.",
+        "Parce que le sous-bois rare rend le transport facile.",
+        "Parce que les paysans reviennent après 10 à 15 ans."
+      ],
+      "answerIndex": 0,
+      "evidence": "Un hectare a 80 à 200 espèces, mais deux individus de la même espèce y sont rarement proches.",
+      "explanation": "Comme les individus d’une même espèce sont rarement proches, l’exploitant doit chercher le bois sur une grande surface ; l’article en conclut que l’exploitation est coûteuse et destructrice. Les autres options contredisent la dispersion ou attribuent la cause à un autre phénomène."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "热带雨林：一种脆弱的财富",
+      "summary": "热带雨林拥有非凡的生物多样性，但开采与毁林正威胁这一平衡。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "热带雨林生长在低海拔的赤道地区。",
+            "在亚洲，人们称它为丛林；“密林”主要指树木生长得很密。",
+            "赤道气候全年提供水分和热量，因此植物不断生长。"
+          ]
+        },
+        {
+          "sentences": [
+            "树木形成三层，而且叶子不规则地脱落。",
+            "很少有树超过50米；紧密的树冠层达到30至40米，然后是一个约15至20米的低层。",
+            "树干通常光滑，树枝位于高处，根系为浅根系或气生根。"
+          ]
+        },
+        {
+          "sentences": [
+            "大多数树木保留叶子；叶子按枝条脱落，因此森林保持绿色。",
+            "茂密的枝叶使地面得到的光很少，那里林下植被稀少。",
+            "附生植物借助腐殖质生活在树枝上，但不像槲寄生那样寄生。",
+            "这种森林也存在于季风地区和河流附近，形成廊道林。"
+          ]
+        },
+        {
+          "sentences": [
+            "它包含已知植物物种的近70%。",
+            "一公顷有80至200个物种，但同种的两个个体在那里很少相邻。",
+            "这种分散分布使森林开采成本高且具破坏性。",
+            "林冠层位于30至50米之间，尽管有炎热、风力和干燥空气，仍栖息着许多鸟类。"
+          ]
+        },
+        {
+          "sentences": [
+            "中层栖息着鸟类、爬行动物和猴子；在地面，昆虫丰富，但大型食草动物和食肉动物稀少。",
+            "美洲、非洲和亚洲的森林没有共同的物种，除非由人类引入。",
+            "存在近缘的科，如蚂蚁或大戟科，其中橡胶树提供橡胶。"
+          ]
+        },
+        {
+          "sentences": [
+            "农民焚烧森林后更换田地；他们在10至15年后返回，因此在亚马逊和刚果人口仍然稀少。",
+            "森林提供像桃花心木这样的珍贵木材；这些土地用于畜牧业以及大豆、甘蔗或油棕种植园。",
+            "如今，在巴西亚马逊和印度尼西亚，每年近1300万公顷森林消失。"
+          ]
+        }
+      ],
+      "glossary": {
+        "équatoriales": "赤道地区的；指靠近赤道、全年高温多雨的地带。",
+        "irrégulière": "不规则的；不是同时或均匀发生。",
+        "superficielles": "浅表的；指根系主要分布在地表附近。",
+        "épiphytes": "附生植物；附着在树枝等支撑物上，利用积聚的腐殖质生长，不寄生。",
+        "humus": "腐殖质；由枯枝落叶等分解形成的有机物质。",
+        "dispersion": "分散分布；同种个体彼此相隔较远。",
+        "canopée": "林冠层；森林中上层连续树冠构成的高度层。",
+        "herbivores": "食草动物。",
+        "Euphorbiacées": "大戟科；一类植物科，包括橡胶树等。",
+        "hévéas": "橡胶树；可产天然橡胶。"
+      },
+      "questions": {
+        "q1": "文章在赤道气候与植物持续生长之间建立因果关系：全年有水有热，所以植物不停生长。树木分三层、叶子不规则脱落、林下光照少都不是文中给出的持续生长原因。",
+        "q2": "文中直接说茂密枝叶让地面光照很少，因而林下植被稀少。第一项把光滑树干当成光照充足的原因，文中无此关系；第三项说叶子按枝条脱落造成光照不规则，也不能解释林下光照少；第四项说附生植物生活在林下，与文中附生植物在树枝上不符。",
+        "q3": "题中植物从树枝上积聚的分解有机物（腐殖质）获得养分，且不吸取支撑树木的汁液；这正对应文中附生植物的特点：利用腐殖质而不寄生。第二项描述的是寄生植物（如槲寄生）吸取树液；第三项只说位于林冠的树木，不涉及附生营养方式；第四项说气生根只起支撑作用，也不符合题中利用腐殖质生长的情况。",
+        "q4": "全文先写雨林物种极丰富（已知植物近70%、每公顷80至200种），又写林下光照少、木材开采困难，最后写焚烧开垦、畜牧和种植园扩张以及每年约1300万公顷消失；这些合起来说明雨林既珍贵又受威胁。第一项只把它看成木材和农业资源，第二项说三大洲因人类引入而相同，第三项说森林常绿是因为不落叶，均与全文主旨或细节不符。",
+        "q5": "文章说林冠层虽受炎热、风力和干燥空气影响，却栖息许多鸟类；由此可反驳“几乎无动物”的判断：条件虽艰难，仍有大量鸟类活动。第一项说林冠荒芜、只有昆虫，第二项说只有风旱消失才可居住，第四项说林冠湿润无风，都与文中“热、风、干”相反。",
+        "q6": "文中农民先烧林、再换田，10至15年后才回来，这相当于用火清理地块并长期休耕后再利用。第一项说不用火且每年回来，第三项说烧后种大豆并留下不走，第四项说人口增加，均与“10至15年后返回”“人口仍稀少”不符。",
+        "q7": "因为同种个体很少相邻，开采者要在大面积森林中寻找目标树种，往往砍倒许多树才能获得所需木材，所以成本高且破坏大。第二项说同种树都集中在一处，与“很少相邻”相反；第三项说林下稀疏使运输容易，文中没有把成本高归因于此；第四项说的是农民休耕返回，不是采伐成本高的原因。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "根据文章，为什么热带雨林的植物不断生长？",
+          "options": [
+            "因为树木形成三层。",
+            "因为叶子不规则地脱落。",
+            "因为赤道气候全年提供水分和热量。",
+            "因为林下植被得到的光很少。"
+          ]
+        },
+        "q2": {
+          "prompt": "关于林下的光照，可以理解到什么？",
+          "options": [
+            "由于树干光滑，光照充足。",
+            "由于茂密枝叶让光很难透过，光照很少。",
+            "由于叶子按枝条脱落，光照不规则。",
+            "由于附生植物生活在那里，光照足够。"
+          ]
+        },
+        "q3": {
+          "prompt": "在林中观察到一株植物：它附着在树枝上，利用该处积累的分解有机物获取养分，并不从所附着的树木中吸取汁液。按文章的分类，它最符合哪一种情况？",
+          "options": [
+            "一种在支撑物表面获取分解养分、与支撑树木没有营养抽取关系的植物。",
+            "一种附着在支撑物上并吸取其汁液供自己生长的植物。",
+            "一种只因为树干和枝条在冠层中发育而属于林冠层的树木。",
+            "一种只起固定树木作用的气生根。"
+          ]
+        },
+        "q4": {
+          "prompt": "文章主要支持哪一个总体观点？",
+          "options": [
+            "热带雨林主要是供畜牧和种植园使用的异域木材储备。",
+            "由于人类引入的物种，热带雨林在三大洲完全相同。",
+            "热带雨林之所以永久翠绿，是因为叶子完全不脱落。",
+            "热带雨林非常多样，但开采和消失威胁着这一平衡。"
+          ]
+        },
+        "q5": {
+          "prompt": "一位博物学家认为，林冠层暴露在炎热、风力和干燥空气中，应该几乎没有动物。文章允许我们如何回应？",
+          "options": [
+            "林冠层确实荒芜：只有少数昆虫能在那里存活。",
+            "只有在风和干旱消失时，林冠层才适合居住。",
+            "尽管有这些限制，林冠层仍接纳大量会飞的动物。",
+            "相反，林冠层空气湿润且始终平静。"
+          ]
+        },
+        "q6": {
+          "prompt": "文章中描述的农民如何利用森林来种植？",
+          "options": [
+            "他们不用火就砍倒树木，并且每年回来。",
+            "他们烧林种植，然后等大约十年再回来。",
+            "他们烧林后种大豆，并留在原地。",
+            "他们因为亚马逊人口增加而更换田地。"
+          ]
+        },
+        "q7": {
+          "prompt": "为什么在这片森林中采伐成本高且具破坏性？",
+          "options": [
+            "因为同种树木很少相邻，所以为了找到想要的木材必须砍倒很多树。",
+            "因为同一地点的树木全都属于同一物种。",
+            "因为稀疏的林下植被使运输变得容易。",
+            "因为农民在10至15年后返回。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Forêt tropicale humide",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2051200&title=For%C3%AAt%20tropicale%20humide",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-19",
+    "revisionId": "2051200"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-19",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "id": "2026-11-19-foret-tropicale-humide",
+  "title": "Forêt tropicale humide : un écosystème riche mais menacé",
+  "level": "B2",
+  "theme": "environnement",
+  "date": "2026-11-19",
+  "summary": "Ce texte décrit les caractéristiques des forêts tropicales humides, leur grande biodiversité et les menaces que représente leur exploitation croissante.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "La forêt tropicale humide est la végétation naturelle des basses altitudes équatoriales ; en Asie, on l’appelle jungle.",
+        "L’expression « forêt dense » vaut aussi pour des forêts tempérées humides, car elle indique seulement que les arbres sont rapprochés.",
+        "Ce milieu présente trois étages d’arbres serrés, une chute irrégulière des feuilles, un aspect vert permanent, ainsi qu’une faune et une flore très riches."
+      ]
+    },
+    {
+      "sentences": [
+        "Le climat équatorial, avec beaucoup d’eau et une température élevée toute l’année, favorise cette densité et une croissance continue.",
+        "Quelques arbres dépassent 50 mètres, tandis que la voûte intermédiaire, continue et serrée, mesure 30 à 40 mètres.",
+        "L’étage bas, entre 15 et 20 mètres, comprend des arbres de quelques mètres profitant de l’ombre supérieure ; leurs troncs lisses portent des branches près du sommet et des racines superficielles, parfois aériennes."
+      ]
+    },
+    {
+      "sentences": [
+        "La plupart des arbres sont persistants, mais perdent leurs feuilles irrégulièrement ; les caduques les abandonnent branche par branche, d’où l’aspect toujours vert.",
+        "La lumière atteint difficilement le sol, l’ombre domine et le sous-bois est rare ; des épiphytes poussent sur les branches grâce à l’humus, sans être parasites comme le gui.",
+        "Cette forêt existe aussi en zone de mousson et le long des cours d’eau tropicaux, sous forme de forêts-galeries."
+      ]
+    },
+    {
+      "sentences": [
+        "Environ 70 % des espèces végétales connues vivent dans ces forêts, et beaucoup restent à découvrir.",
+        "On y compte 80 à 200 espèces par hectare, mais deux individus de même espèce sont rarement voisins, ce qui rend l’exploitation coûteuse et destructrice.",
+        "La canopée, à 30–50 mètres, abrite de nombreux oiseaux malgré chaleur, vents forts et sécheresse.",
+        "L’étage moyen accueille oiseaux, reptiles et singes ; au sol les insectes abondent, alors que les grands herbivores et carnivores sont rares."
+      ]
+    },
+    {
+      "sentences": [
+        "Les forêts d’Amérique, d’Afrique et d’Asie se ressemblent, mais partagent peu d’espèces, sauf introduites par l’homme ; des familles communes existent parfois, sans parenté étroite.",
+        "Ces familles existent aussi en zone tempérée, comme les fourmis (Formicidés) ou les Euphorbiacées, dont les hévéas à caoutchouc et les euphorbes.",
+        "Peu pénétrable, la forêt dense sert à des paysans qui pratiquent une agriculture itinérante sur brûlis, avec un cycle de 10 à 15 ans.",
+        "La densité humaine y reste faible, surtout dans les bassins de l’Amazone et du Congo."
+      ]
+    },
+    {
+      "sentences": [
+        "Elle fournit des bois exotiques pour la menuiserie et le mobilier, tel l’acajou.",
+        "Une déforestation massive frappe surtout l’Amazonie brésilienne et l’Indonésie, où près de 13 millions d’hectares disparaissent chaque année.",
+        "Ces terres deviennent des pâturages ou des plantations de soja pour le bétail, de canne à sucre et de palmiers à huile pour les agro-carburants."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "équatoriales"
+    },
+    {
+      "term": "caduques"
+    },
+    {
+      "term": "épiphytes"
+    },
+    {
+      "term": "humus"
+    },
+    {
+      "term": "forêts-galeries"
+    },
+    {
+      "term": "canopée"
+    },
+    {
+      "term": "itinérante"
+    },
+    {
+      "term": "brûlis"
+    },
+    {
+      "term": "menuiserie"
+    },
+    {
+      "term": "agro-carburants"
+    },
+    {
+      "term": "Euphorbiacées"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Que signifie précisément l’expression « forêt dense » dans le texte ?",
+      "options": [
+        "Une forêt où les arbres sont plantés à faible distance les uns des autres.",
+        "Une forêt qui se rencontre uniquement dans les régions équatoriales.",
+        "Une forêt dont les arbres perdent toutes leurs feuilles en même temps.",
+        "Une forêt caractérisée par un sol toujours humide et ombragé."
+      ],
+      "answerIndex": 0,
+      "evidence": "L’expression « forêt dense » vaut aussi pour des forêts tempérées humides, car elle indique seulement que les arbres sont rapprochés.",
+      "explanation": "Le texte précise que l’adjectif « dense » ne renvoie qu’à la proximité des arbres, pas à un climat particulier ni à une chute totale des feuilles."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi l’exploitation de la forêt tropicale humide est-elle jugée coûteuse et destructrice ?",
+      "options": [
+        "Parce que la canopée abrite trop d’oiseaux pour permettre l’abattage.",
+        "Parce que les paysans y pratiquent une agriculture sur brûlis trop rapide.",
+        "Parce que les individus d’une même espèce y sont généralement dispersés.",
+        "Parce que les essences végétales y sont trop peu nombreuses par hectare."
+      ],
+      "answerIndex": 2,
+      "evidence": "On y compte 80 à 200 espèces par hectare, mais deux individus de même espèce sont rarement voisins, ce qui rend l’exploitation coûteuse et destructrice.",
+      "explanation": "La rareté de voisins de même espèce complique l’exploitation, car il faut chercher des individus dispersés ; ce n’est pas le nombre total d’espèces qui est trop faible."
+    },
+    {
+      "id": "q3",
+      "prompt": "Comment la forêt conserve-t-elle un aspect vert permanent alors que certains arbres perdent leurs feuilles ?",
+      "options": [
+        "Les arbres persistants conservent toutes leurs feuilles et empêchent les caduques de tomber.",
+        "Les arbres qui perdent leurs feuilles le font progressivement, à des moments et sur des branches différents.",
+        "Le sous-bois rare laisse passer assez de lumière pour faire reverdir le sol.",
+        "Les épiphytes remplacent les feuilles tombées sur les branches."
+      ],
+      "answerIndex": 1,
+      "evidence": "La plupart des arbres sont persistants, mais perdent leurs feuilles irrégulièrement ; les caduques les abandonnent branche par branche, d’où l’aspect toujours vert.",
+      "explanation": "L’aspect vert permanent vient de ce que les pertes de feuilles sont étalées et progressives, et non de l’absence de chute chez tous les arbres."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel rôle le texte attribue-t-il aux épiphytes ?",
+      "options": [
+        "Ils parasitent les arbres comme le gui et affaiblissent la canopée.",
+        "Ils poussent au sol dans l’ombre et rendent le sous-bois plus dense.",
+        "Ils servent de racines aériennes aux arbres de l’étage bas.",
+        "Ils se nourrissent de matière organique sur les branches sans vivre aux dépens de l’arbre."
+      ],
+      "answerIndex": 3,
+      "evidence": "La lumière atteint difficilement le sol, l’ombre domine et le sous-bois est rare ; des épiphytes poussent sur les branches grâce à l’humus, sans être parasites comme le gui.",
+      "explanation": "Les épiphytes utilisent l’humus présent sur les branches sans être parasites ; les autres options déplacent vers eux des éléments qui concernent le gui, le sous-bois ou les racines."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que peut-on dire des espèces présentes dans les forêts tropicales des trois continents ?",
+      "options": [
+        "Elles se ressemblent beaucoup parce que l’homme les a toutes introduites.",
+        "Elles sont peu communes d’un continent à l’autre, sauf lorsque l’homme les a transportées.",
+        "Elles appartiennent toujours aux mêmes familles et ont donc une parenté étroite.",
+        "Elles sont identiques dans les zones tempérées et équatoriales."
+      ],
+      "answerIndex": 1,
+      "evidence": "Les forêts d’Amérique, d’Afrique et d’Asie se ressemblent, mais partagent peu d’espèces, sauf introduites par l’homme ; des familles communes existent parfois, sans parenté étroite.",
+      "explanation": "Le texte distingue une ressemblance générale et un faible partage d’espèces ; les familles communes n’impliquent pas une parenté étroite."
+    },
+    {
+      "id": "q6",
+      "prompt": "Comment les paysans utilisent-ils la forêt dense selon l’article ?",
+      "options": [
+        "Ils y cultivent de façon temporaire en défrichant par le feu, puis changent de parcelle.",
+        "Ils y installent des plantations permanentes de soja et de palmiers à huile.",
+        "Ils y élèvent des grands herbivores dans des pâturages aménagés.",
+        "Ils y récoltent l’acajou pour la menuiserie sans modifier le couvert."
+      ],
+      "answerIndex": 0,
+      "evidence": "Peu pénétrable, la forêt dense sert à des paysans qui pratiquent une agriculture itinérante sur brûlis, avec un cycle de 10 à 15 ans.",
+      "explanation": "L’agriculture décrite est itinérante et utilise le feu, avec un cycle de 10 à 15 ans ; les plantations et les pâturages concernent les terres déboisées, non la pratique paysanne dans la forêt."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quelle phrase résume le mieux l’organisation générale de l’article ?",
+      "options": [
+        "Il compare les forêts tropicales aux forêts tempérées pour prouver que les premières sont plus riches.",
+        "Il explique la formation du climat équatorial avant de dresser la liste des espèces animales rares.",
+        "Il présente les caractéristiques naturelles de la forêt tropicale humide, puis ses utilisations et les menaces qui la frappent.",
+        "Il décrit les techniques agricoles des paysans avant de définir les différents étages de la forêt."
+      ],
+      "answerIndex": 2,
+      "evidence": "La forêt tropicale humide est la végétation naturelle des basses altitudes équatoriales ; en Asie, on l’appelle jungle.",
+      "explanation": "Cette phrase installe le sujet ; l’article en développe ensuite les étages, la faune, les usages et la déforestation, sans se limiter à une comparaison ou à une technique."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "热带雨林：丰富但受威胁的生态系统",
+      "summary": "本文介绍热带雨林的特征、丰富的生物多样性，以及日益加剧的开发所造成的威胁。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "热带雨林是赤道低海拔地区的天然植被；在亚洲，人们称之为丛林。",
+            "“密林”这一说法也适用于湿润温带林，因为它只表示树木彼此靠得很近。",
+            "这一环境有三个紧密的乔木层、不规则的落叶、终年常绿的外观，以及非常丰富的动植物。"
+          ]
+        },
+        {
+          "sentences": [
+            "赤道气候降水丰沛、全年高温，促成了这种密度和持续的生长。",
+            "少数树木超过50米，而连续而紧密的中层林冠高30至40米。",
+            "低层在15至20米之间，包括一些数米高的树木，它们利用上层的阴影；其光滑树干在近顶部生枝，并有浅根，有时是气生根。"
+          ]
+        },
+        {
+          "sentences": [
+            "大多数树木是常绿的，但不规则地落叶；落叶树一根枝条一根枝条地脱落叶子，因此外观始终是绿的。",
+            "光线难以到达地面，阴影占主导，林下植被稀少；附生植物借助腐殖质生长在枝条上，而不像槲寄生那样寄生。",
+            "这种森林也存在于季风区和热带河流沿岸，形成廊道林。"
+          ]
+        },
+        {
+          "sentences": [
+            "已知植物物种中约70%生活在这些森林里，还有许多尚待发现。",
+            "每公顷有80至200个物种，但同种的兩株个体很少相邻，这使开发成本高且具破坏性。",
+            "30至50米高的林冠尽管有高温、强风和干旱，仍栖息着许多鸟类。",
+            "中层容纳鸟类、爬行动物和猴子；地面上昆虫丰富，而大型食草动物和食肉动物稀少。"
+          ]
+        },
+        {
+          "sentences": [
+            "美洲、非洲和亚洲的森林彼此相似，但共有的物种很少，除非是人为引入的；有时存在共同的科，却没有密切的亲缘关系。",
+            "这些科也存在于温带地区，如蚂蚁（蚁科）或大戟科，其中包括产橡胶的橡胶树和大戟属植物。",
+            "密林难以进入，供农民使用，他们实行10至15年周期的刀耕火种轮作农业。",
+            "那里的人口密度仍然很低，尤其是在亚马孙河和刚果河流域。"
+          ]
+        },
+        {
+          "sentences": [
+            "它提供用于木工和家具的热带木材，如桃花心木。",
+            "大规模毁林尤其打击巴西亚马孙和印度尼西亚，那里每年近1300万公顷消失。",
+            "这些土地变成牧场，或变成供牲畜用的豆田、供农业燃料用的甘蔗和油棕种植园。"
+          ]
+        }
+      ],
+      "glossary": {
+        "équatoriales": "赤道地区的。",
+        "caduques": "落叶的，指在特定季节或周期脱落叶子的树木。",
+        "épiphytes": "附生植物，生长在其他植物上但不从宿主吸取养分。",
+        "humus": "腐殖质，土壤中由分解的有机物形成的深色物质。",
+        "forêts-galeries": "廊道林，沿河流等延伸成带状的热带森林。",
+        "canopée": "林冠，森林中上层枝叶连续覆盖的部分。",
+        "itinérante": "轮作的、游耕的，指耕作一段时间后迁移到另一块地。",
+        "brûlis": "火烧，指刀耕火种中焚烧植被以清理土地。",
+        "menuiserie": "木工、细木工，指制作木制构件或家具的工艺。",
+        "agro-carburants": "农业燃料、生物燃料，由农作物原料制成的燃料。",
+        "Euphorbiacées": "大戟科，包含橡胶树、大戟属等植物的一科。"
+      },
+      "questions": {
+        "q1": "文中先点明热带雨林，但紧接着说明“密林”也可用于湿润温带林，关键只在树木是否靠得近。因此第一个选项“它主要说明林木彼此间距很小，而不限定气候带”最贴合；第二个把密林限定为赤道低地天然植被，第三项把它说成同时落叶，第四项归结为土壤潮湿和缺光，都不是该说法在文中的直接含义。",
+        "q2": "证据说每公顷有80至200种，但同种个体很少相邻，所以采伐时要寻找分散的目标，成本高且破坏大。第三项“同种树木的个体通常分散，难以集中采伐”正确；第一项把鸟类当作障碍，第二项把农民火烧轮作当作开发代价的原因，第四项说种类太少，均与原文相反或错位。",
+        "q3": "原文说多数树常绿，但落叶不规则；落叶树逐枝脱落，因此整体仍绿。第二项“落叶树的叶子分批、在不同时间和枝条上逐渐脱落”解释了这个机制。第一项说常绿树阻止落叶，第三项把常绿归因于林下透光，第四项说附生植物替代叶片，都不符合原文。",
+        "q4": "原文把附生植物放在枝条上，借腐殖质生长，并明确说它们不像槲寄生那样寄生。第四项“靠枝条上的有机物获取养分，却不从所附树木身上吸取营养”正确。第一项把它等同于槲寄生，第二项把它移到地面，第三项把它误作低层树的气生根。",
+        "q5": "原文说三洲森林外观相似，但共有物种少，除非人为引入；共同科不等于近缘。第二项“各洲之间共有的物种不多，除非由人类携带过去”正确。第一项把相似归因于全由人引入，第三项把共同科夸成密切亲缘，第四项混淆温带与赤道物种，均不符。",
+        "q6": "原文说农民在密林中实行10至15年周期的刀耕火种轮作。第一项“烧出一块地短期种植，随后换到另一块地”概括了这一做法。第二项和第三项说的是毁林后出现的种植园和牧场，不是农民在密林中的利用方式；第四项只采木材且不改变林冠，也不符合原文对轮作的描述。",
+        "q7": "全文的锚点是段落展开顺序而非单一细节：开头界定热带雨林并说明层次，随后谈生物多样性和垂直分布，再写农民利用、木材开发以及毁林威胁。第三项“先说明自然特点，再谈利用方式和所受威胁”正好对应这一结构。第一项只抓对比，第二项只抓气候和动物，第四项把农业技术置于层次之前，均不能概括全文。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "文中“密林”这一说法究竟强调什么？",
+          "options": [
+            "它主要说明林木彼此间距很小，而不限定气候带。",
+            "它专指赤道附近低地生长的天然植被。",
+            "它指所有树木在同一时期一起落光叶子的森林。",
+            "它指土壤终年潮湿且光照不足的森林。"
+          ]
+        },
+        "q2": {
+          "prompt": "为什么文中认为开发热带雨林代价高且破坏大？",
+          "options": [
+            "因为林冠鸟类太多，妨碍砍伐作业。",
+            "因为农民火烧轮作的速度过快。",
+            "因为同种树木的个体通常分散，难以集中采伐。",
+            "因为每公顷的植物种类数量过少。"
+          ]
+        },
+        "q3": {
+          "prompt": "有些树会落叶，雨林为何仍显得终年常绿？",
+          "options": [
+            "常绿树保住全部叶片，并阻止落叶树掉叶。",
+            "落叶树的叶子分批、在不同时间和枝条上逐渐脱落。",
+            "稀疏林下让足够阳光照到地面，使地表重新变绿。",
+            "附生植物代替了枝条上掉落的叶子。"
+          ]
+        },
+        "q4": {
+          "prompt": "文中把附生植物描述成怎样的存在？",
+          "options": [
+            "它们像槲寄生一样吸取树木养分，削弱林冠。",
+            "它们长在阴暗地面，使林下更茂密。",
+            "它们充当低层树木的气生根。",
+            "它们靠枝条上的有机物获取养分，却不从所附树木身上吸取营养。"
+          ]
+        },
+        "q5": {
+          "prompt": "关于三大洲热带林中的物种，文章给出了什么判断？",
+          "options": [
+            "它们非常相似，因为全由人类引入。",
+            "各洲之间共有的物种不多，除非由人类携带过去。",
+            "它们总属于相同科，因此亲缘关系很近。",
+            "温带和赤道地区的物种完全相同。"
+          ]
+        },
+        "q6": {
+          "prompt": "按文章所说，农民怎样利用密林？",
+          "options": [
+            "他们烧出一块地短期种植，随后换到另一块地。",
+            "他们建立永久的豆田和油棕园。",
+            "他们在整理过的牧场上饲养大型食草动物。",
+            "他们只采桃花心木做木工，不改变林冠。"
+          ]
+        },
+        "q7": {
+          "prompt": "哪一项最能概括全文的展开方式？",
+          "options": [
+            "先把热带林与温带林对比，以证明前者更丰富。",
+            "先解释赤道气候的形成，再列举稀有动物。",
+            "先说明热带雨林的自然特点，再谈其利用方式和所受威胁。",
+            "先描述农民的农业技术，再界定森林的不同层次。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Forêt tropicale humide",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2051200&title=For%C3%AAt%20tropicale%20humide",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-19",
+    "revisionId": "2051200"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-19",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

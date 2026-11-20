@@ -1,0 +1,350 @@
+{
+  "id": "2026-11-19-aix-les-bains-a2",
+  "title": "Aix-les-Bains, une ville thermale au bord du lac",
+  "level": "A2",
+  "theme": "géographie",
+  "date": "2026-11-19",
+  "summary": "Aix-les-Bains est une ville de Savoie, connue pour ses sources chaudes et son grand lac. Elle attire des touristes et propose de nombreuses activités.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Aix-les-Bains est une ville de Savoie, dans l'est de la France.",
+        "Elle est près de Chambéry et d'Annecy, entre le mont Revard et le lac du Bourget.",
+        "Ce lac est le plus vaste lac naturel formé par un glacier en France.",
+        "La ville compte plus de 30 000 habitants."
+      ]
+    },
+    {
+      "sentences": [
+        "La ville est célèbre pour ses sources d'eau chaude depuis l'Antiquité.",
+        "Les Romains ont construit des thermes, et les familles riches sont venues au XIXe siècle.",
+        "Aujourd'hui, Aix-les-Bains est toujours une station thermale importante."
+      ]
+    },
+    {
+      "sentences": [
+        "La ville possède un grand port de plaisance sur le lac.",
+        "Elle organise chaque été le festival de musique Musilac.",
+        "Des entreprises comme General Electric et Aixam sont installées à Aix-les-Bains.",
+        "Le tourisme et le thermalisme font vivre l'économie locale."
+      ]
+    },
+    {
+      "sentences": [
+        "La commune est proche du parc naturel régional des Bauges.",
+        "Le climat est montagnard, avec des hivers froids et des étés frais.",
+        "La ville protège les zones humides et les forêts autour du lac.",
+        "Elle est exposée à des risques d'inondation et de séisme."
+      ]
+    },
+    {
+      "sentences": [
+        "Les habitants pratiquent de nombreux sports, comme l'aviron et le tennis.",
+        "Le Tour de France passe parfois par la ville.",
+        "La ville a un casino, un musée et une église du XIXe siècle."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Savoie"
+    },
+    {
+      "term": "Chambéry"
+    },
+    {
+      "term": "Bourget"
+    },
+    {
+      "term": "Antiquité"
+    },
+    {
+      "term": "thermes"
+    },
+    {
+      "term": "plaisance"
+    },
+    {
+      "term": "Musilac"
+    },
+    {
+      "term": "thermalisme"
+    },
+    {
+      "term": "Bauges"
+    },
+    {
+      "term": "aviron"
+    },
+    {
+      "term": "séisme"
+    },
+    {
+      "term": "zones humides"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Où se trouve Aix-les-Bains ?",
+      "options": [
+        "En Savoie",
+        "En Bretagne",
+        "En Normandie",
+        "En Provence"
+      ],
+      "answerIndex": 0,
+      "evidence": "Aix-les-Bains est une ville de Savoie, dans l'est de la France.",
+      "explanation": "Le texte dit directement qu'Aix-les-Bains est une ville de Savoie. Les autres régions ne sont pas dans l'article."
+    },
+    {
+      "id": "q2",
+      "prompt": "Depuis quand la ville est-elle célèbre pour ses sources d'eau chaude ?",
+      "options": [
+        "Depuis le XIXe siècle",
+        "Depuis l'Antiquité",
+        "Depuis aujourd'hui",
+        "Depuis le Moyen Âge"
+      ],
+      "answerIndex": 1,
+      "evidence": "La ville est célèbre pour ses sources d'eau chaude depuis l'Antiquité.",
+      "explanation": "Le texte indique que cette célébrité date de l'Antiquité. Le XIXe siècle concerne l'arrivée des familles riches."
+    },
+    {
+      "id": "q3",
+      "prompt": "Qu'ont fait les Romains à Aix-les-Bains ?",
+      "options": [
+        "Ils ont créé le festival Musilac.",
+        "Ils ont ouvert le casino.",
+        "Ils ont construit des thermes.",
+        "Ils ont organisé le Tour de France."
+      ],
+      "answerIndex": 2,
+      "evidence": "Les Romains ont construit des thermes, et les familles riches sont venues au XIXe siècle.",
+      "explanation": "Le texte associe les Romains à la construction des thermes. Les autres actions ne sont pas attribuées aux Romains."
+    },
+    {
+      "id": "q4",
+      "prompt": "Pourquoi le tourisme et le thermalisme sont-ils importants pour la ville ?",
+      "options": [
+        "Ils font vivre l'économie locale.",
+        "Ils protègent les zones humides.",
+        "Ils organisent le festival Musilac.",
+        "Ils construisent des thermes romains."
+      ],
+      "answerIndex": 0,
+      "evidence": "Le tourisme et le thermalisme font vivre l'économie locale.",
+      "explanation": "Le texte dit que ces deux activités font vivre l'économie locale. Les autres options ne sont pas données comme rôle du tourisme et du thermalisme."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que fait la ville chaque été ?",
+      "options": [
+        "Elle organise le Tour de France.",
+        "Elle ouvre un grand port de plaisance.",
+        "Elle construit des thermes.",
+        "Elle organise le festival Musilac."
+      ],
+      "answerIndex": 3,
+      "evidence": "Elle organise chaque été le festival de musique Musilac.",
+      "explanation": "Le texte précise que la ville organise chaque été le festival Musilac. Le Tour de France passe parfois par la ville, mais il n'est pas organisé par elle."
+    },
+    {
+      "id": "q6",
+      "prompt": "À quels risques la ville est-elle exposée ?",
+      "options": [
+        "La neige et le vent",
+        "La chaleur et la sécheresse",
+        "L'inondation et le séisme",
+        "L'avalanche et l'incendie"
+      ],
+      "answerIndex": 2,
+      "evidence": "Elle est exposée à des risques d'inondation et de séisme.",
+      "explanation": "Le texte cite l'inondation et le séisme comme risques pour la ville. Les autres risques ne sont pas mentionnés dans l'article."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quel est le sujet principal de l'article ?",
+      "options": [
+        "Les sources d'eau chaude en France",
+        "La ville d'Aix-les-Bains et ses caractéristiques",
+        "Le festival Musilac et sa musique",
+        "Les entreprises General Electric et Aixam"
+      ],
+      "answerIndex": 1,
+      "evidence": "Aix-les-Bains est une ville de Savoie, dans l'est de la France.",
+      "explanation": "L'article présente la ville, son histoire, son économie, son climat et ses activités. Il parle donc d'Aix-les-Bains et de ses caractéristiques."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "艾克斯莱班：湖畔的温泉之城",
+      "summary": "艾克斯莱班是萨瓦省城市，以温泉和大湖闻名，吸引游客并提供多种活动。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "艾克斯莱班是法国东部萨瓦省的一座城市。",
+            "它靠近尚贝里和阿讷西，位于勒瓦尔山和布尔热湖之间。",
+            "这个湖是法国由冰川形成的最大天然湖。",
+            "这座城市有3万多名居民。"
+          ]
+        },
+        {
+          "sentences": [
+            "自古代起，这座城市就因温泉而闻名。",
+            "罗马人建造了浴场，富裕家庭在19世纪来到这里。",
+            "今天，艾克斯莱班仍然是一个重要的温泉疗养地。"
+          ]
+        },
+        {
+          "sentences": [
+            "这座城市在湖上有一个大型游艇码头。",
+            "它每年夏天举办米西拉克音乐节。",
+            "通用电气和Aixam等企业设在艾克斯莱班。",
+            "旅游业和温泉疗养业支撑着当地经济。"
+          ]
+        },
+        {
+          "sentences": [
+            "该市镇靠近博日地区自然公园。",
+            "气候是山地气候，冬季寒冷，夏季凉爽。",
+            "这座城市保护湖周围的湿地和森林。",
+            "它面临洪水和地震的风险。"
+          ]
+        },
+        {
+          "sentences": [
+            "居民从事许多运动，比如赛艇和网球。",
+            "环法自行车赛有时经过这座城市。",
+            "这座城市有赌场、博物馆和一座19世纪的教堂。"
+          ]
+        }
+      ],
+      "glossary": {
+        "Savoie": "萨瓦，法国东部的一个地区/省份。",
+        "Chambéry": "尚贝里，萨瓦省的一座城市。",
+        "Bourget": "布尔热湖，法国由冰川形成的最大天然湖。",
+        "Antiquité": "古代，尤指古希腊罗马时期。",
+        "thermes": "温泉浴场，尤指古罗马式浴场。",
+        "plaisance": "休闲；port de plaisance 指游艇码头/休闲港。",
+        "Musilac": "米西拉克音乐节，夏季在艾克斯莱班举办的音乐节。",
+        "thermalisme": "温泉疗养业，利用温泉进行疗养和旅游的产业。",
+        "Bauges": "博日，指博日地区自然公园。",
+        "aviron": "赛艇，划船运动。",
+        "séisme": "地震。",
+        "zones humides": "湿地。"
+      },
+      "questions": {
+        "q1": "证据句直接说明艾克斯莱班是萨瓦省的城市，所以正确选项是“在萨瓦”。其他三项（布列塔尼、诺曼底、普罗旺斯）在文章中都没有出现。",
+        "q2": "证据句说温泉闻名“自古代起”，因此正确选项是“自古代起”。19世纪对应的是富裕家庭到来，不是闻名起点；今天和中世纪也不符合原文。",
+        "q3": "证据句把罗马人与建造浴场联系起来，所以正确选项是“他们建造了浴场”。音乐节、赌场和环法赛都不是罗马人的行为，文章也没有这样写。",
+        "q4": "证据句明确说旅游业和温泉疗养业“支撑当地经济”，所以正确选项是“它们支撑当地经济”。保护湿地、组织音乐节和建造罗马浴场不是文中给这两个行业的作用。",
+        "q5": "证据句说城市每年夏天组织米西拉克音乐节，因此正确选项是“它组织米西拉克音乐节”。环法赛只是有时经过，不是由城市组织；开放游艇码头和建造浴场也不是每年夏天做的事。",
+        "q6": "证据句列出洪水和地震两种风险，所以正确选项是“洪水和地震”。雪、风、炎热、干旱、雪崩和火灾都没有在文中作为该市风险提到。",
+        "q7": "证据句先点明艾克斯莱班是萨瓦省的城市，全文随后介绍它的历史、经济、气候和活动，所以主题是“艾克斯莱班市及其特点”。温泉、音乐节和企业只是文章中的细节，不是整体主题。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "艾克斯莱班在哪里？",
+          "options": [
+            "在萨瓦",
+            "在布列塔尼",
+            "在诺曼底",
+            "在普罗旺斯"
+          ]
+        },
+        "q2": {
+          "prompt": "这座城市自何时起因温泉而闻名？",
+          "options": [
+            "自19世纪起",
+            "自古代起",
+            "自今天起",
+            "自中世纪起"
+          ]
+        },
+        "q3": {
+          "prompt": "罗马人在艾克斯莱班做了什么？",
+          "options": [
+            "他们创办了米西拉克音乐节。",
+            "他们开设了赌场。",
+            "他们建造了浴场。",
+            "他们组织了环法自行车赛。"
+          ]
+        },
+        "q4": {
+          "prompt": "为什么旅游业和温泉疗养业对这座城市重要？",
+          "options": [
+            "它们支撑当地经济。",
+            "它们保护湿地。",
+            "它们组织米西拉克音乐节。",
+            "它们建造罗马浴场。"
+          ]
+        },
+        "q5": {
+          "prompt": "这座城市每年夏天做什么？",
+          "options": [
+            "它组织环法自行车赛。",
+            "它开放一个大型游艇码头。",
+            "它建造浴场。",
+            "它组织米西拉克音乐节。"
+          ]
+        },
+        "q6": {
+          "prompt": "这座城市面临哪些风险？",
+          "options": [
+            "雪和风",
+            "炎热和干旱",
+            "洪水和地震",
+            "雪崩和火灾"
+          ]
+        },
+        "q7": {
+          "prompt": "文章的主题是什么？",
+          "options": [
+            "法国的温泉",
+            "艾克斯莱班市及其特点",
+            "米西拉克音乐节及其音乐",
+            "通用电气和Aixam等企业"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Aix-les-Bains",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=241053123",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-19",
+    "revisionId": "241053123"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-19",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-19-aix-les-bains-a2-6bbd1105ddf4.jpg",
+    "alt": "Vue sur la ville d'Aix-les-Bains (Savoie) depuis le belvédère du mont Revard.",
+    "author": "Mathis Brancquart",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aix-les-Bains_depuis_Revard_(mars_2021).jpg?oldid=979097230",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Réduite à 1280×831 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 831,
+    "byteLength": 373359,
+    "sha256": "6bbd1105ddf48efdaf8457b3b6168a30637f78d287b9b4c2c119f4fcae515ff2",
+    "fileRevisionId": "979097230",
+    "retrievedAt": "2026-11-20"
+  }
+}

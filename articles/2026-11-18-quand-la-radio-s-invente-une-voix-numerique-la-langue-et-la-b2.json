@@ -1,0 +1,343 @@
+{
+  "id": "2026-11-18-quand-la-radio-s-invente-une-voix-numerique-la-langue-et-la-b2",
+  "title": "La radio rom du Kosovo passe au podcast",
+  "level": "B2",
+  "theme": "culture",
+  "date": "2026-11-18",
+  "summary": "À Prizren, une radio communautaire rom a transformé des émissions culturelles en podcasts accessibles sur plusieurs plateformes, afin de préserver la langue romani et d’élargir son public au-delà du Kosovo.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Installée à Prizren, la station Radio Romano Avazo constitue depuis longtemps un lieu rare où le romani et la culture rom trouvent une présence médiatique régulière au Kosovo.",
+        "Pourtant, l’essor des médias numériques posait une question pressante : comment empêcher les contenus en romani de disparaître après leur diffusion ?"
+      ]
+    },
+    {
+      "sentences": [
+        "Le projet Romani Voice Digital, une plateforme de podcasts pensée pour l’inclusion civique, a permis de répondre à ce défi en donnant une seconde vie aux archives audio de la radio.",
+        "Les émissions culturelles ont été converties en podcasts disponibles sur Spotify, Apple Podcasts, YouTube et le site de la station.",
+        "Cette démarche ne se réduisait pas à une amélioration technique : elle créait un espace numérique où langue, culture, récits et voix roms pouvaient être consultés à tout moment et partout."
+      ]
+    },
+    {
+      "sentences": [
+        "Trois épisodes ont été sélectionnés et adaptés pour permettre l’écoute à la demande.",
+        "Le premier, intitulé Skolatar ani Bibloteka, présentait Urma Menekshe, professeure de romani à Prizren, fondatrice d’une petite bibliothèque rom, auteure et traductrice.",
+        "Son parcours illustrait le lien étroit entre éducation, livres et transmission linguistique, y compris dans les familles et les conversations quotidiennes."
+      ]
+    },
+    {
+      "sentences": [
+        "Le deuxième épisode, Artesta ani Politika, était consacré à Sejnur Veshall, ancien vice-ministre de la Culture, comédien, poète et acteur politique.",
+        "Il abordait les rapports entre culture et vie publique ainsi que les difficultés de la communauté rom et le besoin d’un soutien accru à sa langue et à sa culture.",
+        "Le troisième, Kulturatar ani Televizia, donnait la parole à Daut Qulangjiu, rédacteur en chef de la rédaction romani de la RTK, ancien danseur, folkloriste et comédien."
+      ]
+    },
+    {
+      "sentences": [
+        "Les podcasts ont dépassé le cadre d’entretiens classiques en laissant apparaître la dimension humaine des invités, ce qui a favorisé l’identification des auditeurs.",
+        "Les personnes interrogées ont aussi formulé des recommandations pour améliorer la situation de la communauté rom, notamment sur le plan linguistique et culturel.",
+        "Après la publication, l’intérêt a été inattendu : des Roms de Prizren et d’autres communes ont demandé comment écouter les épisodes."
+      ]
+    },
+    {
+      "sentences": [
+        "Le projet espérait dépasser 500 écoutes et gagner plus de 200 abonnés, tout en installant une rubrique durable sur le site de la radio.",
+        "Les premiers résultats font état de plusieurs dizaines de milliers de consultations et d’écoutes sur les canaux numériques.",
+        "Les contenus touchent aussi la diaspora romani en Europe et ailleurs, renforçant les liens entre Roms du Kosovo et ceux qui vivent à l’étranger.",
+        "Le défi restant concerne la pérennité : faire de cette rubrique un espace permanent pour futurs épisodes, débats culturels et productions en romani."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "essor"
+    },
+    {
+      "term": "médiatique"
+    },
+    {
+      "term": "inclusion"
+    },
+    {
+      "term": "civique"
+    },
+    {
+      "term": "archives"
+    },
+    {
+      "term": "transmission"
+    },
+    {
+      "term": "linguistique"
+    },
+    {
+      "term": "folkloriste"
+    },
+    {
+      "term": "pérennité"
+    },
+    {
+      "term": "diaspora"
+    },
+    {
+      "term": "abonnés"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Pourquoi le projet Romani Voice Digital a-t-il été mis en place ?",
+      "options": [
+        "Pour donner une seconde vie aux émissions après leur diffusion.",
+        "Pour remplacer les émissions de la radio par des podcasts.",
+        "Pour traduire les émissions culturelles en plusieurs langues.",
+        "Pour former des journalistes roms aux outils numériques."
+      ],
+      "answerIndex": 0,
+      "evidence": "Le projet Romani Voice Digital, une plateforme de podcasts pensée pour l’inclusion civique, a permis de répondre à ce défi en donnant une seconde vie aux archives audio de la radio.",
+      "explanation": "Le texte indique que la plateforme permet aux archives audio de ne pas disparaître après diffusion. Les autres options décrivent des objectifs non mentionnés, comme remplacer la radio, traduire les émissions ou former des journalistes."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quel effet la conversion des émissions en podcasts a-t-elle produit selon l’article ?",
+      "options": [
+        "Elle visait surtout à améliorer la qualité technique du son.",
+        "Elle permettait de diffuser les émissions uniquement sur le site de la station.",
+        "Elle créait un espace où les contenus roms restaient consultables en tout lieu.",
+        "Elle organisait des débats en direct avec les auditeurs."
+      ],
+      "answerIndex": 2,
+      "evidence": "Cette démarche ne se réduisait pas à une amélioration technique : elle créait un espace numérique où langue, culture, récits et voix roms pouvaient être consultés à tout moment et partout.",
+      "explanation": "Le passage insiste sur la création d’un espace numérique accessible à tout moment et partout, et non sur une simple amélioration technique. Les autres options réduisent ou déplacent cet effet."
+    },
+    {
+      "id": "q3",
+      "prompt": "Qui était Urma Menekshe, présentée dans le premier épisode ?",
+      "options": [
+        "Une ancienne vice-ministre de la Culture devenue comédienne et poète.",
+        "Une professeure de romani fondatrice d’une bibliothèque, auteure et traductrice.",
+        "Un rédacteur en chef de la rédaction romani de la RTK et ancien danseur.",
+        "Une folkloriste de la diaspora romani installée à l’étranger."
+      ],
+      "answerIndex": 1,
+      "evidence": "Le premier, intitulé Skolatar ani Bibloteka, présentait Urma Menekshe, professeure de romani à Prizren, fondatrice d’une petite bibliothèque rom, auteure et traductrice.",
+      "explanation": "Le texte décrit précisément Urma Menekshe comme professeure de romani, fondatrice d’une bibliothèque, auteure et traductrice. Les autres options correspondent à d’autres personnes ou à des fonctions absentes de ce passage."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel thème le deuxième épisode, consacré à Sejnur Veshall, abordait-il ?",
+      "options": [
+        "La place de la télévision dans la transmission du romani.",
+        "Le parcours scolaire et les livres d’Urma Menekshe.",
+        "Les activités de la diaspora romani en Europe.",
+        "Le lien entre culture et vie publique et les besoins de la communauté rom."
+      ],
+      "answerIndex": 3,
+      "evidence": "Il abordait les rapports entre culture et vie publique ainsi que les difficultés de la communauté rom et le besoin d’un soutien accru à sa langue et à sa culture.",
+      "explanation": "Le passage relie explicitement culture et vie publique, puis évoque les difficultés de la communauté rom et le soutien nécessaire à sa langue et à sa culture. Les autres options concernent d’autres épisodes ou des thèmes non attribués à cet invité."
+    },
+    {
+      "id": "q5",
+      "prompt": "En quoi l’intérêt manifesté après la publication a-t-il été inattendu ?",
+      "options": [
+        "Le public rom demandait comment écouter les épisodes au-delà de Prizren.",
+        "Les auditeurs réclamaient surtout des émissions en langue albanaise.",
+        "La station a reçu des plaintes sur la qualité des archives audio.",
+        "Les invités ont demandé à retirer leurs entretiens de la plateforme."
+      ],
+      "answerIndex": 0,
+      "evidence": "Après la publication, l’intérêt a été inattendu : des Roms de Prizren et d’autres communes ont demandé comment écouter les épisodes.",
+      "explanation": "L’inattendu vient de demandes d’écoute formulées par des Roms de Prizren et d’autres communes, donc au-delà du seul public local attendu. Les autres options ne sont pas soutenues par le texte."
+    },
+    {
+      "id": "q6",
+      "prompt": "Que révèlent les premiers résultats du projet ?",
+      "options": [
+        "Les écoutes ont à peine atteint les 500 prévues par le projet.",
+        "Les abonnés ont dépassé 200 mais les écoutes sont restées faibles.",
+        "Plusieurs dizaines de milliers de consultations et d’écoutes ont été enregistrées.",
+        "Les résultats se limitent à la diaspora romani installée en Europe."
+      ],
+      "answerIndex": 2,
+      "evidence": "Les premiers résultats font état de plusieurs dizaines de milliers de consultations et d’écoutes sur les canaux numériques.",
+      "explanation": "Le texte chiffre les premiers résultats à plusieurs dizaines de milliers de consultations et d’écoutes. Les options qui parlent de 500 écoutes, de faibles écoutes ou d’un public limité à la diaspora contredisent ce bilan."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quel défi reste à relever pour la radio selon l’article ?",
+      "options": [
+        "Trouver de nouveaux invités pour les trois épisodes déjà publiés.",
+        "Faire de la rubrique un espace permanent pour de futures productions en romani.",
+        "Obtenir l’autorisation de diffuser les archives sur Spotify et YouTube.",
+        "Convaincre les Roms de Prizren de demander comment écouter les épisodes."
+      ],
+      "answerIndex": 1,
+      "evidence": "Le défi restant concerne la pérennité : faire de cette rubrique un espace permanent pour futurs épisodes, débats culturels et productions en romani.",
+      "explanation": "Le défi est présenté comme celui de la pérennité, c’est-à-dire la transformation de la rubrique en espace permanent pour de futures productions. Les autres options renvoient à des étapes déjà réalisées ou à des problèmes non évoqués."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "科索沃罗姆电台转向播客",
+      "summary": "在普里兹伦，一家罗姆社区电台将文化节目转成可在多个平台收听的播客，以保护罗姆语并让听众超越科索沃范围。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "位于普里兹伦的Radio Romano Avazo电台长期以来是一个罕见的场所，罗姆语和罗姆文化在那里得以在科索沃媒体中定期出现。",
+            "然而，数字媒体的兴起提出了一个紧迫问题：如何防止罗姆语内容在播出后消失？"
+          ]
+        },
+        {
+          "sentences": [
+            "Romani Voice Digital项目是一个着眼于公民包容的播客平台，它通过让电台的音频档案重获新生来应对这一挑战。",
+            "文化节目被转换为播客，可在Spotify、Apple Podcasts、YouTube和电台网站上收听。",
+            "这一做法并不只是技术上的改进：它创造了一个数字空间，使罗姆语言、文化、叙事和声音可以随时随地查阅。"
+          ]
+        },
+        {
+          "sentences": [
+            "节目选取并改编了三集，以便听众按需收听。",
+            "第一集名为Skolatar ani Bibloteka，介绍了Urma Menekshe，她是普里兹伦的罗姆语教师、一家小型罗姆图书馆的创办人、作家和译者。",
+            "她的经历体现了教育、书籍与语言传承之间的紧密联系，包括在家庭和日常交谈中的传承。"
+          ]
+        },
+        {
+          "sentences": [
+            "第二集Artesta ani Politika聚焦Sejnur Veshall，他曾任文化部副部长，也是喜剧演员、诗人和政治行动者。",
+            "节目探讨了文化与公共生活之间的关系，以及罗姆社群面临的困难和对某语言与文化给予更多支持的需要。",
+            "第三集Kulturatar ani Televizia让Daut Qulangjiu发声，他是RTK罗姆语编辑部的总编辑，曾任舞蹈演员、民俗学家和喜剧演员。"
+          ]
+        },
+        {
+          "sentences": [
+            "这些播客超越了经典访谈的框架，展现出嘉宾的人性维度，从而促进了听众的认同。",
+            "受访者也提出了改善罗姆社群状况的建议，尤其是在语言和文化方面。",
+            "发布之后，关注度出乎意料：来自普里兹伦和其他市镇的罗姆人询问如何收听这些节目。"
+          ]
+        },
+        {
+          "sentences": [
+            "该项目原本希望超过500次收听并获得200多名订阅者，同时在电台网站上开设一个长期栏目。",
+            "初步结果显示，数字渠道上有数万次浏览和收听。",
+            "这些内容也触及欧洲及其他地区的罗姆侨民，加强了科索沃罗姆人与生活在国外者之间的联系。",
+            "剩下的挑战在于可持续性：使这一栏目成为未来节目、文化辩论和罗姆语制作的永久空间。"
+          ]
+        }
+      ],
+      "glossary": {
+        "essor": "兴起；指数字媒体迅速发展、壮大的趋势。",
+        "médiatique": "媒体的；与媒体呈现或传播有关的。",
+        "inclusion": "包容；让不同群体参与并享有同等机会的理念。",
+        "civique": "公民的；涉及公民参与和公共生活的。",
+        "archives": "档案；此处指电台保存的既往音频资料。",
+        "transmission": "传承；把语言、文化或知识传给后代的过程。",
+        "linguistique": "语言的；与语言及其使用有关的。",
+        "folkloriste": "民俗学家；研究民间传统、习俗和艺术的人。",
+        "pérennité": "持久性；长期延续、不中断的状态。",
+        "diaspora": "侨民群体；分散居住在原乡之外的人群。",
+        "abonnés": "订阅者；关注或订阅播客频道的人。"
+      },
+      "questions": {
+        "q1": "文中说该播客平台面对内容是播出后消失的问题，通过让音频档案重获新生来应对，因此正确选项是“为了在播出后让节目重获新生”。第二项“用播客取代电台节目”并非目的，文中是转换并再利用节目；第三项翻译多语言和第四项培训记者均未提及。",
+        "q2": "证据强调这一做法不只是技术改进，而是建立数字空间，使语言、文化、叙事和声音可随时随地查阅；所以第三项“创造了一个让罗姆内容在任何地方都可查阅的空间”正确。第一项把重点错放在音质，第二项把平台限制为电台网站，第四项直播辩论文中没有。",
+        "q3": "文中直接列出Urma Menekshe为普里兹伦罗姆语教师、小型罗姆图书馆创办人、作家和译者，因此第二项“一位罗姆语教师，创办图书馆，也是作家和译者”正确。第一项对应Sejnur Veshall，第三项对应Daut Qulangjiu，第四项把民俗学家和侨民身份混入，均不符合该段。",
+        "q4": "该段明确说节目谈文化与公共生活的关系，并提到罗姆社群的困难以及需要更多支持其语言和文化，所以第四项“文化与公共生活的联系以及罗姆社群的需要”正确。第一项涉及电视/传承但非本集主题，第二项是第一集人物，第三项侨民活动在后文提及且不属于此集。",
+        "q5": "文中说发布后，来自普里兹伦和其他市镇的罗姆人询问如何收听节目，这说明关注超出了预期的本地范围，因此第一项“罗姆公众询问如何在普里兹伦之外收听节目”正确。第二项阿尔巴尼亚语节目、第三项投诉音质、第四项撤下访谈都没有文本依据。",
+        "q6": "证据直接说初步结果显示数字渠道有数万次浏览和收听，所以第三项“记录到数万次浏览和收听”正确。第一项“勉强达到500次”和第二项“收听量仍然很低”与数万次相矛盾；第四项把影响范围限定为欧洲罗姆侨民，而文中还说其他地区。",
+        "q7": "最后一句把剩余挑战界定为可持续性，即把栏目变成未来节目、文化辩论和罗姆语制作的永久空间，因此第二项“使该栏目成为未来罗姆语制作的永久空间”正确。第一项三集已发布且不是所述挑战；第三项许可文中未提；第四项询问收听已在发布后发生，不是剩余挑战。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "为什么设立Romani Voice Digital项目？",
+          "options": [
+            "为了在播出后让节目重获新生。",
+            "为了用播客取代电台节目。",
+            "为了把文化节目翻译成多种语言。",
+            "为了培训罗姆记者使用数字工具。"
+          ]
+        },
+        "q2": {
+          "prompt": "根据文章，把节目转成播客产生了什么效果？",
+          "options": [
+            "主要旨在提高声音的技术质量。",
+            "只允许在电台网站上播出节目。",
+            "创造了一个让罗姆内容在任何地方都可查阅的空间。",
+            "组织与听众的直播辩论。"
+          ]
+        },
+        "q3": {
+          "prompt": "第一集介绍的Urma Menekshe是谁？",
+          "options": [
+            "曾任文化部副部长、后来成为喜剧演员和诗人的女性。",
+            "一位罗姆语教师，创办图书馆，也是作家和译者。",
+            "RTK罗姆语编辑部总编辑、曾任舞蹈演员的人。",
+            "一位定居国外的罗姆侨民俗学家。"
+          ]
+        },
+        "q4": {
+          "prompt": "第二集聚焦Sejnur Veshall，探讨了什么主题？",
+          "options": [
+            "电视在罗姆语传承中的地位。",
+            "Urma Menekshe的求学经历和书籍。",
+            "罗姆侨民在欧洲的活动。",
+            "文化与公共生活的联系以及罗姆社群的需要。"
+          ]
+        },
+        "q5": {
+          "prompt": "发布后表现出的关注为何出人意料？",
+          "options": [
+            "罗姆公众询问如何在普里兹伦之外收听节目。",
+            "听众主要要求阿尔巴尼亚语节目。",
+            "电台收到关于音频档案质量的投诉。",
+            "嘉宾要求把他们的访谈从平台撤下。"
+          ]
+        },
+        "q6": {
+          "prompt": "项目的初步结果揭示了什么？",
+          "options": [
+            "收听量勉强达到项目预计的500次。",
+            "订阅者超过200，但收听量仍然很低。",
+            "记录到数万次浏览和收听。",
+            "结果仅限于定居欧洲的罗姆侨民。"
+          ]
+        },
+        "q7": {
+          "prompt": "根据文章，电台仍需应对什么挑战？",
+          "options": [
+            "为已发布的三集寻找新嘉宾。",
+            "使该栏目成为未来罗姆语制作的永久空间。",
+            "获得在Spotify和YouTube上播出档案的许可。",
+            "说服普里兹伦的罗姆人询问如何收听节目。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Quand la radio s’invente une voix numérique : la langue et la culture roms arrivent sur Internet au Kosovo",
+    "authors": [
+      "Global Voices Central & Eastern Europe"
+    ],
+    "translators": [
+      "Emilie FRAPICCINI"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/18/304175/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-19",
+    "publishedAt": "2026-11-18",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-19",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

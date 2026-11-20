@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-19",
+  "articles": [
+    {
+      "id": "2026-11-19-foret-tropicale-humide",
+      "title": "Forêt tropicale humide : un écosystème riche mais menacé",
+      "level": "B2",
+      "theme": "environnement",
+      "date": "2026-11-19",
+      "summary": "Ce texte décrit les caractéristiques des forêts tropicales humides, leur grande biodiversité et les menaces que représente leur exploitation croissante.",
+      "path": "articles/2026-11-19-foret-tropicale-humide.json",
+      "variants": [
+        {
+          "id": "2026-11-19-foret-tropicale-humide-b1",
+          "title": "La forêt tropicale humide : une richesse fragile",
+          "level": "B1",
+          "theme": "environnement",
+          "date": "2026-11-19",
+          "summary": "La forêt tropicale humide abrite une biodiversité exceptionnelle, mais son exploitation et la déforestation menacent cet équilibre.",
+          "path": "articles/2026-11-19-foret-tropicale-humide-b1.json"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-aix-les-bains",
+      "title": "Aix-les-Bains, entre lac, thermes et dynamisme savoyard",
+      "level": "B2",
+      "theme": "géographie",
+      "date": "2026-11-19",
+      "summary": "Au bord du lac du Bourget, Aix-les-Bains conjugue héritage thermal, attraits touristiques, activité industrielle et défis d’urbanisme dans un cadre naturel protégé.",
+      "path": "articles/2026-11-19-aix-les-bains.json",
+      "variants": [
+        {
+          "id": "2026-11-19-aix-les-bains-b1",
+          "title": "Aix-les-Bains, une station thermale de Savoie",
+          "level": "B1",
+          "theme": "géographie",
+          "date": "2026-11-19",
+          "summary": "Aix-les-Bains est une station thermale de Savoie, connue pour ses sources chaudes et son lac. La ville a diversifié son économie et attire des visiteurs grâce à son patrimoine et à ses événements.",
+          "path": "articles/2026-11-19-aix-les-bains-b1.json"
+        },
+        {
+          "id": "2026-11-19-aix-les-bains-a2",
+          "title": "Aix-les-Bains, une ville thermale au bord du lac",
+          "level": "A2",
+          "theme": "géographie",
+          "date": "2026-11-19",
+          "summary": "Aix-les-Bains est une ville de Savoie, connue pour ses sources chaudes et son grand lac. Elle attire des touristes et propose de nombreuses activités.",
+          "path": "articles/2026-11-19-aix-les-bains-a2.json"
+        }
+      ]
+    }
+  ]
+}

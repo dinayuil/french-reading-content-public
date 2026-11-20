@@ -1,0 +1,350 @@
+{
+  "id": "2026-11-19-aix-les-bains",
+  "title": "Aix-les-Bains, entre lac, thermes et dynamisme savoyard",
+  "level": "B2",
+  "theme": "géographie",
+  "date": "2026-11-19",
+  "summary": "Au bord du lac du Bourget, Aix-les-Bains conjugue héritage thermal, attraits touristiques, activité industrielle et défis d’urbanisme dans un cadre naturel protégé.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Située en Savoie, au sein d’Auvergne-Rhône-Alpes, Aix-les-Bains est une station thermale et balnéaire de plus de 30 000 habitants.",
+        "Deuxième ville du département, elle s’étend entre les hauteurs du Revard et la rive orientale du Bourget, la plus vaste étendue d’eau douce glaciaire française.",
+        "Son port de plaisance d’eau douce compte parmi les plus importants du pays, à une dizaine de kilomètres de Chambéry."
+      ]
+    },
+    {
+      "sentences": [
+        "Née de sources chaudes, la cité remonte au Ier siècle et portait le nom latin Aquae, dans un vicus rattaché à Vienne.",
+        "Dans les années 1980, elle était la première station thermale française avec près de 60 000 curistes.",
+        "Après un âge d’or à la Belle Époque, le thermalisme a reculé : en 2016, Aix accueillait 28 100 curistes, soit une hausse de 4,9 %.",
+        "En 1986, environ 52 000 curistes fréquentaient la ville, et en 2016 elle occupait le troisième rang thermal national."
+      ]
+    },
+    {
+      "sentences": [
+        "Le tourisme demeure central : la commune est classée station de tourisme depuis 2013 et a reçu près d’un million de visiteurs en 2022.",
+        "Musilac, festival pop-rock créé en 2002, attire jusqu’à 30 000 personnes par soirée sur l’esplanade du lac.",
+        "L’économie associe General Electric, Léon Grosse, ABB Process Engineering (Cellier) et Aixam ; en 2015, Les Échos classaient le bassin Chambéry/Aix sixième sur 304.",
+        "La marque Aix-les-Bains Riviera des Alpes soutient une offre touristique diversifiée."
+      ]
+    },
+    {
+      "sentences": [
+        "Le territoire bénéficie de protections environnementales, notamment Natura 2000, plusieurs zones naturelles d’intérêt écologique et la loi littoral liée au Bourget.",
+        "Il reste exposé à sept risques naturels en 2024, dont inondations, séismes et mouvements de terrain, ainsi qu’à une pollution des sols.",
+        "Sur le plan des transports, l’A41, la gare TGV, l’aéroport Chambéry-Savoie à Voglans et environ 40 km d’aménagements cyclables desservent la ville.",
+        "En 2017, on y comptait 52 carrefours giratoires contre huit carrefours à feux."
+      ]
+    },
+    {
+      "sentences": [
+        "La population atteignait 32 406 habitants en 2023, en progression de 8,77 % depuis 2017, avec une part féminine de 53,57 %.",
+        "Le logement reste tendu : en 2018, le mètre carré valait environ 2 500 € dans l’ancien et 4 000 € dans le neuf, pour 20 % de logements sociaux.",
+        "La droite domine la municipalité depuis 1979 ; Renaud Beretti a succédé à Dominique Dord en 2018 puis a été réélu en 2020 avec plus de 54 %."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "balnéaire"
+    },
+    {
+      "term": "glaciaire"
+    },
+    {
+      "term": "vicus"
+    },
+    {
+      "term": "curistes"
+    },
+    {
+      "term": "thermalisme"
+    },
+    {
+      "term": "esplanade"
+    },
+    {
+      "term": "giratoires"
+    },
+    {
+      "term": "Natura 2000"
+    },
+    {
+      "term": "mouvements de terrain"
+    },
+    {
+      "term": "aménagements cyclables"
+    },
+    {
+      "term": "logements sociaux"
+    },
+    {
+      "term": "mètre carré"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Que précise l’article sur la situation géographique d’Aix-les-Bains ?",
+      "options": [
+        "Elle occupe la rive occidentale du Bourget et s’étend au pied du Revard.",
+        "Elle est la première ville de Savoie et se trouve au bord du lac d’Annecy.",
+        "Elle s’étend entre les hauteurs du Revard et la rive orientale du Bourget, une vaste étendue d’eau douce glaciaire.",
+        "Elle se trouve à une dizaine de kilomètres de Chambéry, sur la rive occidentale du Bourget."
+      ],
+      "answerIndex": 2,
+      "evidence": "Deuxième ville du département, elle s’étend entre les hauteurs du Revard et la rive orientale du Bourget, la plus vaste étendue d’eau douce glaciaire française.",
+      "explanation": "La phrase indique que la ville se trouve entre le Revard et la rive orientale du Bourget, et que ce lac est la plus vaste étendue d’eau douce glaciaire française. Les autres options inversent la rive ou attribuent à la ville un rang ou un lac qui ne sont pas donnés."
+    },
+    {
+      "id": "q2",
+      "prompt": "Que peut-on conclure de l’évolution du thermalisme à Aix-les-Bains ?",
+      "options": [
+        "Le nombre de curistes a nettement baissé depuis les années 1980, malgré une hausse ponctuelle en 2016.",
+        "Il a connu une croissance continue depuis la Belle Époque.",
+        "En 2016, la ville accueillait plus de curistes qu’en 1986.",
+        "Le thermalisme a cessé d’être important pour l’économie locale après 1986."
+      ],
+      "answerIndex": 0,
+      "evidence": "Après un âge d’or à la Belle Époque, le thermalisme a reculé : en 2016, Aix accueillait 28 100 curistes, soit une hausse de 4,9 %.",
+      "explanation": "Le texte signale un recul du thermalisme et donne 28 100 curistes en 2016, contre près de 60 000 dans les années 1980 et environ 52 000 en 1986. La hausse de 4,9 % concerne 2016, mais ne compense pas cette baisse."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel rôle le tourisme joue-t-il dans l’économie locale selon l’article ?",
+      "options": [
+        "Il est devenu secondaire face aux entreprises industrielles locales.",
+        "Il demeure un secteur central, soutenu par un classement officiel et une fréquentation importante.",
+        "Il repose presque uniquement sur le festival Musilac.",
+        "Il a remplacé le thermalisme comme unique activité de la ville."
+      ],
+      "answerIndex": 1,
+      "evidence": "Le tourisme demeure central : la commune est classée station de tourisme depuis 2013 et a reçu près d’un million de visiteurs en 2022.",
+      "explanation": "Le passage qualifie le tourisme de central et cite le classement en station de tourisme ainsi qu’un million de visiteurs. Les autres options réduisent à tort son rôle ou le font dépendre d’une seule activité."
+    },
+    {
+      "id": "q4",
+      "prompt": "Que révèle le nombre de carrefours giratoires à Aix-les-Bains en 2017 ?",
+      "options": [
+        "Les carrefours à feux y sont plus nombreux que les giratoires.",
+        "La ville a supprimé huit carrefours giratoires en 2017.",
+        "Les aménagements cyclables ont remplacé les carrefours giratoires.",
+        "Les carrefours giratoires y sont nettement plus nombreux que les carrefours à feux."
+      ],
+      "answerIndex": 3,
+      "evidence": "En 2017, on y comptait 52 carrefours giratoires contre huit carrefours à feux.",
+      "explanation": "Le texte compare directement 52 carrefours giratoires à huit carrefours à feux en 2017. Il ne dit pas que les feux dominent, ni que les giratoires ont été supprimés ou remplacés."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle idée l’article donne-t-il de l’environnement à Aix-les-Bains ?",
+      "options": [
+        "Les protections Natura 2000 la mettent à l’abri de tout risque naturel.",
+        "Les risques naturels se limitent aux inondations et aux séismes.",
+        "La commune est protégée sur certains plans, mais elle demeure exposée à des risques naturels et à une pollution.",
+        "La pollution des sols a été résorbée grâce à la loi littoral."
+      ],
+      "answerIndex": 2,
+      "evidence": "Il reste exposé à sept risques naturels en 2024, dont inondations, séismes et mouvements de terrain, ainsi qu’à une pollution des sols.",
+      "explanation": "Le texte mentionne des protections environnementales, puis indique que le territoire reste exposé à sept risques naturels et à une pollution des sols. Les autres options nient cette exposition ou en limitent le nombre."
+    },
+    {
+      "id": "q6",
+      "prompt": "Que dit l’article sur le logement à Aix-les-Bains ?",
+      "options": [
+        "Le marché est détendu, avec des prix bas dans l’ancien et le neuf.",
+        "Les prix du logement sont élevés et les logements sociaux représentent une part limitée.",
+        "Les logements sociaux représentent la majorité des logements.",
+        "Le prix du mètre carré neuf est inférieur à celui de l’ancien."
+      ],
+      "answerIndex": 1,
+      "evidence": "Le logement reste tendu : en 2018, le mètre carré valait environ 2 500 € dans l’ancien et 4 000 € dans le neuf, pour 20 % de logements sociaux.",
+      "explanation": "Les prix indiqués pour l’ancien et le neuf montrent un marché tendu, et 20 % de logements sociaux représente une part minoritaire. Les autres options contredisent ces chiffres ou inversent les prix."
+    },
+    {
+      "id": "q7",
+      "prompt": "Que peut-on comprendre de la vie politique municipale d’Aix-les-Bains ?",
+      "options": [
+        "La droite gouverne la ville depuis longtemps et le maire actuel a été reconduit en 2020.",
+        "Renaud Beretti a succédé à Dominique Dord en 2020 après une élection.",
+        "La gauche domine la municipalité depuis 1979.",
+        "Renaud Beretti a été réélu en 2018 avec plus de 54 %."
+      ],
+      "answerIndex": 0,
+      "evidence": "La droite domine la municipalité depuis 1979 ; Renaud Beretti a succédé à Dominique Dord en 2018 puis a été réélu en 2020 avec plus de 54 %.",
+      "explanation": "Le texte indique que la droite domine depuis 1979 et que Renaud Beretti a succédé à Dominique Dord en 2018 avant d’être réélu en 2020. Les autres options déplacent les dates ou inversent le camp politique."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "艾克斯莱班：湖泊、温泉与萨瓦活力之间",
+      "summary": "位于布尔热湖东岸的艾克斯莱班融合温泉疗养传统、旅游吸引力、工业活动和城市规划挑战，同时处于受保护的自然环境中。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "艾克斯莱班位于奥弗涅-罗讷-阿尔卑斯大区的萨瓦省，是一座拥有三万多名居民的温泉与湖滨疗养城市。",
+            "作为该省第二大城市，它坐落在勒瓦尔高地与布尔热湖东岸之间；布尔热湖是法国最大的冰川淡水湖。",
+            "其淡水游艇港是全国最重要的港口之一，距尚贝里约十公里。"
+          ]
+        },
+        {
+          "sentences": [
+            "这座城市起源于温泉，历史可追溯至公元一世纪，当时名为拉丁语 Aquae，属于附属于维也纳的一座古罗马小村镇。",
+            "20世纪80年代，它是法国第一大温泉疗养地，接待近六万名疗养者。",
+            "在“美好年代”的黄金时期之后，温泉疗养业有所衰退：2016年，艾克斯接待了28100名疗养者，同比增长4.9%。",
+            "1986年约有52000名疗养者到访该市，而2016年它位居全国温泉疗养地第三。"
+          ]
+        },
+        {
+          "sentences": [
+            "旅游业仍居核心地位：该市自2013年起被列为旅游度假地，2022年接待了近一百万游客。",
+            "2002年创办的流行摇滚音乐节 Musilac 每晚可在湖畔广场吸引多达三万人。",
+            "经济上汇聚了 General Electric、Léon Grosse、ABB Process Engineering（Cellier）和 Aixam；2015年，《Les Échos》将尚贝里/艾克斯地区列为304个地区中的第六。",
+            "“艾克斯莱班—阿尔卑斯里维埃拉”品牌支持多样化的旅游供给。"
+          ]
+        },
+        {
+          "sentences": [
+            "该地区享有环境保护措施，尤其是 Natura 2000、若干生态利益自然区以及与布尔热湖相关的海岸法。",
+            "2024年，它仍面临七类自然灾害，包括洪水、地震和地面运动，以及土壤污染。",
+            "交通方面，A41高速公路、TGV车站、位于沃格朗的尚贝里-萨瓦机场以及约40公里自行车设施服务该市。",
+            "2017年，当地有52个环岛路口，而信号灯路口有八个。"
+          ]
+        },
+        {
+          "sentences": [
+            "2023年人口达到32406人，自2017年以来增长8.77%，其中女性占53.57%。",
+            "住房市场依然紧张：2018年，旧房每平方米约2500欧元，新房约4000欧元，社会住房占20%。",
+            "右翼自1979年以来主导市政；Renaud Beretti 于2018年接替 Dominique Dord，随后在2020年以超过54%的得票率再次当选。"
+          ]
+        }
+      ],
+      "glossary": {
+        "balnéaire": "与湖滨或海滨浴场疗养旅游相关的。",
+        "glaciaire": "由冰川作用形成或与冰川有关的。",
+        "vicus": "古罗马时期的小村镇或乡村聚落。",
+        "curistes": "在温泉疗养地接受疗养的人。",
+        "thermalisme": "利用温泉进行疗养和治疗的产业与活动。",
+        "esplanade": "平坦开阔的广场，尤指滨湖或建筑前的空地。",
+        "giratoires": "采用环岛方式组织交通的路口。",
+        "Natura 2000": "欧盟为保护自然栖息地和物种而建立的自然保护区网络。",
+        "mouvements de terrain": "滑坡、崩塌等地面移动现象。",
+        "aménagements cyclables": "自行车道及相关骑行设施。",
+        "logements sociaux": "面向低收入者、租金受管制的社会住房。",
+        "mètre carré": "平方米，房地产中表示单位面积价格的计量单位。"
+      },
+      "questions": {
+        "q1": "证据句明确指出城市位于勒瓦尔高地与布尔热湖东岸之间，并称布尔热湖是法国最大的冰川淡水湖，因此第三项正确。第一项把湖岸说成西岸并只说勒瓦尔山脚；第二项误称萨瓦第一大城市和安妮西湖；第四项又把位置说成西岸，均与原文不符。",
+        "q2": "证据句说温泉疗养业在黄金期后衰退，并给出2016年28100名疗养者；前文还提到20世纪80年代近六万、1986年约五万二千，因此总体明显下降，2016年的4.9%回升只是局部。第一项准确概括这一趋势；第二项说持续增长，第三项说2016年多于1986年，第四项说温泉业不再重要，均与数据不符。",
+        "q3": "证据句用“仍居核心”定性旅游业，并以2013年旅游度假地认定和2022年近百万游客作支撑，所以第二项正确。第一项说旅游业次于工业、第三项说几乎只靠 Musilac、第四项说取代温泉成为唯一活动，都过度缩小或歪曲原文。",
+        "q4": "证据句直接比较2017年的52个环岛路口与8个信号灯路口，说明环岛明显更多，因此第四项正确。第一项把数量关系说反，第二项说取消了八个环岛，第三项说自行车设施取代环岛，原文均未支持。",
+        "q5": "证据句在列举环保保护后，紧接着说该地仍暴露于七类自然灾害和土壤污染，说明保护与风险并存，因此第三项正确。第一项说 Natura 2000 使其免于一切自然风险，第二项把风险限于洪水和地震，第四项说海岸法消除了土壤污染，均与原文冲突。",
+        "q6": "证据句说住房市场“依然紧张”，并给出旧房约2500欧元、新房约4000欧元和20%社会住房，说明价格较高且社会住房只占少数，因此第二项正确。第一项说市场宽松且价格低，第三项说社会住房占多数，第四项把新房价格说得低于旧房，均与数字相反。",
+        "q7": "证据句说右翼自1979年主导市政，Renaud Beretti 2018年接替 Dominique Dord，2020年以超过54%再次当选，因此第一项正确。第二项把接替时间说成2020年，第三项把政治阵营说成左翼，第四项把再次当选年份说成2018年，均与原文不符。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "文章对艾克斯莱班的地理位置作了什么说明？",
+          "options": [
+            "它位于布尔热湖西岸，并延伸到勒瓦尔山脚。",
+            "它是萨瓦省第一大城市，坐落在安妮西湖畔。",
+            "它位于勒瓦尔高地与布尔热湖东岸之间，布尔热湖是一片广阔的冰川淡水水域。",
+            "它距尚贝里约十公里，位于布尔热湖西岸。"
+          ]
+        },
+        "q2": {
+          "prompt": "从艾克斯莱班温泉疗养业的变化中可以得出什么结论？",
+          "options": [
+            "自20世纪80年代以来，疗养者人数明显下降，尽管2016年有一次短暂回升。",
+            "自“美好年代”以来，它持续增长。",
+            "2016年，该市接待的疗养者比1986年更多。",
+            "1986年之后，温泉疗养业对当地经济不再重要。"
+          ]
+        },
+        "q3": {
+          "prompt": "根据文章，旅游业在当地经济中扮演什么角色？",
+          "options": [
+            "面对当地工业企业，它已变得次要。",
+            "它仍是核心部门，并得到官方认定和较大客流量的支撑。",
+            "它几乎只依赖 Musilac 音乐节。",
+            "它取代温泉疗养业，成为该市唯一的活动。"
+          ]
+        },
+        "q4": {
+          "prompt": "2017年艾克斯莱班环岛路口的数量说明了什么？",
+          "options": [
+            "当地信号灯路口比环岛路口更多。",
+            "该市在2017年取消了八个环岛路口。",
+            "自行车设施取代了环岛路口。",
+            "当地环岛路口明显多于信号灯路口。"
+          ]
+        },
+        "q5": {
+          "prompt": "文章对艾克斯莱班的环境给出了什么看法？",
+          "options": [
+            "Natura 2000 保护措施使它免受一切自然风险。",
+            "自然灾害仅限于洪水和地震。",
+            "该市在某些方面受到保护，但仍面临自然灾害和污染。",
+            "得益于海岸法，土壤污染已被消除。"
+          ]
+        },
+        "q6": {
+          "prompt": "文章如何说明艾克斯莱班的住房情况？",
+          "options": [
+            "市场宽松，旧房和新房价格都低。",
+            "住房价格较高，社会住房所占比例有限。",
+            "社会住房占住房的大多数。",
+            "新房每平方米价格低于旧房。"
+          ]
+        },
+        "q7": {
+          "prompt": "关于艾克斯莱班的市政政治生活，可以理解到什么？",
+          "options": [
+            "右翼长期治理该市，现任市长于2020年获得连任。",
+            "Renaud Beretti 在2020年一次选举后接替 Dominique Dord。",
+            "左翼自1979年以来主导市政。",
+            "Renaud Beretti 于2018年以超过54%的得票率再次当选。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Aix-les-Bains",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=241053123",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-19",
+    "revisionId": "241053123"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-19",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-19-aix-les-bains-6bbd1105ddf4.jpg",
+    "alt": "Vue sur la ville d'Aix-les-Bains (Savoie) depuis le belvédère du mont Revard.",
+    "author": "Mathis Brancquart",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aix-les-Bains_depuis_Revard_(mars_2021).jpg?oldid=979097230",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Réduite à 1280×831 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 831,
+    "byteLength": 373359,
+    "sha256": "6bbd1105ddf48efdaf8457b3b6168a30637f78d287b9b4c2c119f4fcae515ff2",
+    "fileRevisionId": "979097230",
+    "retrievedAt": "2026-11-20"
+  }
+}

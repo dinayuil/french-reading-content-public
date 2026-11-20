@@ -1,0 +1,364 @@
+{
+  "id": "2026-11-19-aix-les-bains-b1",
+  "title": "Aix-les-Bains, une station thermale de Savoie",
+  "level": "B1",
+  "theme": "géographie",
+  "date": "2026-11-19",
+  "summary": "Aix-les-Bains est une station thermale de Savoie, connue pour ses sources chaudes et son lac. La ville a diversifié son économie et attire des visiteurs grâce à son patrimoine et à ses événements.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Aix-les-Bains se situe dans le sud-est de la France, en Savoie.",
+        "La commune fait partie de la région Auvergne-Rhône-Alpes.",
+        "Elle est bordée par le lac du Bourget, un grand lac naturel formé par les glaciers."
+      ]
+    },
+    {
+      "sentences": [
+        "Environ 30 000 personnes habitent la ville.",
+        "Aix est la deuxième commune la plus peuplée du département.",
+        "Elle est aussi une station thermale ancienne.",
+        "Ses sources chaudes ont favorisé son développement depuis l’Antiquité."
+      ]
+    },
+    {
+      "sentences": [
+        "La ville est proche de Chambéry, à environ dix kilomètres.",
+        "Annecy se trouve à moins de trente kilomètres.",
+        "Lyon est à environ 83 kilomètres à vol d’oiseau.",
+        "Genève est à environ 60 kilomètres."
+      ]
+    },
+    {
+      "sentences": [
+        "Aix abrite un port de plaisance réservé à l’eau douce, le plus vaste de France.",
+        "Le lac du Bourget borde la ville à l’ouest.",
+        "La commune est limitrophe de neuf autres communes.",
+        "Son altitude varie entre 224 et 524 mètres."
+      ]
+    },
+    {
+      "sentences": [
+        "Le climat local connaît des étés peu chauds et aucune période sèche marquée.",
+        "La température moyenne annuelle est d’environ 11,9 °C sur la période 1991-2020.",
+        "Les précipitations annuelles atteignent environ 1 204 mm.",
+        "La ville est exposée à plusieurs risques naturels, comme les inondations et les séismes."
+      ]
+    },
+    {
+      "sentences": [
+        "L’économie s’est diversifiée au-delà des thermes.",
+        "Le tourisme, les services et quelques industries ont un rôle important.",
+        "On trouve par exemple General Electric, Léon Grosse, ABB ou Aixam.",
+        "Le festival Musilac est aussi un événement connu."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "station thermale"
+    },
+    {
+      "term": "bordée"
+    },
+    {
+      "term": "glaciers"
+    },
+    {
+      "term": "peuplée"
+    },
+    {
+      "term": "sources chaudes"
+    },
+    {
+      "term": "plaisance"
+    },
+    {
+      "term": "limitrophe"
+    },
+    {
+      "term": "précipitations"
+    },
+    {
+      "term": "séismes"
+    },
+    {
+      "term": "diversifiée"
+    },
+    {
+      "term": "thermes"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Que dit l’article sur la situation géographique d’Aix-les-Bains ?",
+      "options": [
+        "Elle occupe le sud-est de la France, dans le département de la Savoie.",
+        "Elle se situe dans le sud-ouest de la France, en Savoie.",
+        "Elle est dans le nord-est de la France, près de l’Auvergne-Rhône-Alpes.",
+        "Elle appartient à l’Auvergne-Rhône-Alpes, mais pas à la Savoie."
+      ],
+      "answerIndex": 0,
+      "evidence": "Aix-les-Bains se situe dans le sud-est de la France, en Savoie.",
+      "explanation": "Le texte localise la ville dans le sud-est de la France et précise qu’elle est en Savoie. Les autres options déplacent la ville ou contredisent son département."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quel rang Aix-les-Bains occupe-t-elle parmi les communes du département pour sa population ?",
+      "options": [
+        "Elle est la commune la plus peuplée du département.",
+        "Elle arrive en troisième position pour la population du département.",
+        "Elle se classe juste après une autre commune pour le nombre d’habitants.",
+        "Elle est la neuvième commune la plus peuplée du département."
+      ],
+      "answerIndex": 2,
+      "evidence": "Aix est la deuxième commune la plus peuplée du département.",
+      "explanation": "Le texte indique qu’Aix est la deuxième commune la plus peuplée du département, donc juste derrière une autre. Il ne dit pas qu’elle est première, troisième ou neuvième."
+    },
+    {
+      "id": "q3",
+      "prompt": "Parmi ces villes, laquelle est la plus éloignée d’Aix-les-Bains selon les distances données ?",
+      "options": [
+        "Chambéry",
+        "Lyon",
+        "Genève",
+        "Annecy"
+      ],
+      "answerIndex": 1,
+      "evidence": "Lyon est à environ 83 kilomètres à vol d’oiseau.",
+      "explanation": "En comparant les distances données, Lyon (environ 83 km) est plus loin que Genève (60 km), Annecy (moins de 30 km) et Chambéry (environ 10 km)."
+    },
+    {
+      "id": "q4",
+      "prompt": "Où se trouve le lac du Bourget par rapport à la ville ?",
+      "options": [
+        "À l’est de la ville.",
+        "Au nord de la ville.",
+        "Au centre de la ville.",
+        "À l’ouest de la ville."
+      ],
+      "answerIndex": 3,
+      "evidence": "Le lac du Bourget borde la ville à l’ouest.",
+      "explanation": "La phrase précise que le lac borde la ville à l’ouest. Les autres directions ne sont pas données par le texte."
+    },
+    {
+      "id": "q5",
+      "prompt": "Comment peut-on décrire les étés à Aix-les-Bains d’après le texte ?",
+      "options": [
+        "Les étés sont très chauds et la sécheresse dure longtemps.",
+        "Les étés restent frais, mais une saison sèche très nette revient chaque année.",
+        "Les étés ne sont pas très chauds et la sécheresse n’est pas nettement marquée.",
+        "Les étés sont froids et les pluies sont absentes toute l’année."
+      ],
+      "answerIndex": 2,
+      "evidence": "Le climat local connaît des étés peu chauds et aucune période sèche marquée.",
+      "explanation": "Le texte parle d’étés peu chauds et de l’absence de période sèche marquée. La bonne option reprend cette idée sans ajouter de sécheresse longue ou de froid extrême."
+    },
+    {
+      "id": "q6",
+      "prompt": "Comment l’économie de la ville a-t-elle évolué selon l’article ?",
+      "options": [
+        "Les thermes ne sont plus la seule activité : le tourisme, les services et des industries comptent aussi.",
+        "L’économie reste centrée sur les thermes, sans autres activités importantes.",
+        "La ville a abandonné le thermalisme pour se consacrer à l’agriculture.",
+        "Les industries ont remplacé le tourisme et les services."
+      ],
+      "answerIndex": 0,
+      "evidence": "L’économie s’est diversifiée au-delà des thermes.",
+      "explanation": "L’économie s’est diversifiée au-delà des thermes : d’autres secteurs ont donc pris de l’importance. Les options qui limitent tout aux thermes ou qui disent que le thermalisme a disparu sont fausses."
+    },
+    {
+      "id": "q7",
+      "prompt": "À quels dangers naturels la ville est-elle exposée ?",
+      "options": [
+        "Elle est surtout menacée par les avalanches et les vents violents.",
+        "Elle doit faire face à des inondations et à des tremblements de terre.",
+        "Elle risque principalement des incendies et des tempêtes.",
+        "Elle est exposée à la sécheresse et aux cyclones."
+      ],
+      "answerIndex": 1,
+      "evidence": "La ville est exposée à plusieurs risques naturels, comme les inondations et les séismes.",
+      "explanation": "Le texte cite les inondations et les séismes comme risques naturels. Les autres options proposent des dangers qui ne sont pas mentionnés."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "艾克斯莱班，萨瓦的一处温泉疗养地",
+      "summary": "艾克斯莱班是萨瓦的温泉疗养地，以温泉和湖泊闻名。城市经济已超出温泉疗养而多元化，并凭遗产与活动吸引游客。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "艾克斯莱班位于法国东南部，在萨瓦省。",
+            "该市镇属于奥弗涅-罗讷-阿尔卑斯大区。",
+            "它濒临布尔热湖，这是一座由冰川形成的大型天然湖泊。"
+          ]
+        },
+        {
+          "sentences": [
+            "约有三万人居住在这座城市。",
+            "艾克斯是该省人口第二多的市镇。",
+            "它也是一处古老的温泉疗养地。",
+            "自古代起，它的温泉就促进了城市发展。"
+          ]
+        },
+        {
+          "sentences": [
+            "该市距离尚贝里很近，约十公里。",
+            "阿讷西不到三十公里。",
+            "里昂的直线距离约83公里。",
+            "日内瓦约60公里。"
+          ]
+        },
+        {
+          "sentences": [
+            "艾克斯拥有一座专供淡水使用的游艇港，是法国最大的。",
+            "布尔热湖在城市西侧濒临该市。",
+            "该市镇与另外九个市镇接壤。",
+            "其海拔在224米至524米之间。"
+          ]
+        },
+        {
+          "sentences": [
+            "当地气候夏季不太炎热，也没有明显的干旱期。",
+            "1991—2020年期间，年平均气温约为11.9°C。",
+            "年降水量约为1204毫米。",
+            "该市面临多种自然灾害风险，例如洪水和地震。"
+          ]
+        },
+        {
+          "sentences": [
+            "经济已超出温泉疗养而实现多元化。",
+            "旅游业、服务业和一些工业发挥着重要作用。",
+            "例如可以看到通用电气、莱昂·格罗斯、ABB或Aixam。",
+            "Musilac音乐节也是知名活动。"
+          ]
+        }
+      ],
+      "glossary": {
+        "station thermale": "以温泉疗养、温泉浴和相关服务闻名的城镇或疗养地。",
+        "bordée": "指城市边缘与湖泊等自然要素相接，可译为“濒临、沿岸”。",
+        "glaciers": "由积雪长期压实形成的巨大冰体，能塑造湖泊等地形。",
+        "peuplée": "有居民居住的；“la plus peuplée”指人口最多的。",
+        "sources chaudes": "自然涌出的温热泉水，常用于温泉疗养。",
+        "plaisance": "与休闲游艇、帆船等娱乐性航行有关；“port de plaisance”即游艇港。",
+        "limitrophe": "与另一个地区或市镇边界相接、相邻的。",
+        "précipitations": "降落到地面的雨、雪等水量，通常按年或月统计。",
+        "séismes": "地震，地壳震动造成的自然现象。",
+        "diversifiée": "变得多样化，不再只依赖单一活动或部门。",
+        "thermes": "温泉浴场或温泉疗养设施。"
+      },
+      "questions": {
+        "q1": "原文说艾克斯莱班位于法国东南部、在萨瓦省，因此第一项“它位于法国东南部，属于萨瓦省”符合。其余项把方位改成西南或东北，或声称它不属于萨瓦省，均与原文冲突。",
+        "q2": "原文说艾克斯是省内人口第二多的市镇，也就是居民人数排在一个市镇之后，所以第三项正确。第一项说人口最多、第二项说第三、第四项说第九，都与“第二”不符。",
+        "q3": "原文给出的距离是：里昂约83公里、日内瓦约60公里、阿讷西不到30公里、尚贝里约10公里。比较可知里昂最远，因此第二项正确；其他城市都比里昂近。",
+        "q4": "原文明确说布尔热湖在城市西侧与城市相邻，所以第四项“在城市西侧”正确。东、北、中都未在文中出现。",
+        "q5": "原文说夏季不太炎热，且没有明显干旱期，因此第三项“夏季不太炎热，干旱也不明显”正确。第一项夸大炎热和干旱，第二项引入明显干旱季，第四项说寒冷且无雨，均与原文不符。",
+        "q6": "原文说经济已在温泉疗养之外实现多元化，后文又提到旅游、服务业和工业，因此第一项“温泉疗养不再是唯一活动……”正确。第二项否认多元化，第三项说放弃温泉疗养，第四项说工业取代旅游和服务业，均与原文不符。",
+        "q7": "原文把洪水和地震列为该市面临的自然风险，所以第二项“洪水和地震”正确。雪崩、强风、火灾、风暴、干旱和飓风都不是文中提到的风险。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "关于艾克斯莱班的地理位置，文章说了什么？",
+          "options": [
+            "它位于法国东南部，属于萨瓦省。",
+            "它位于法国西南部，在萨瓦省。",
+            "它位于法国东北部，靠近奥弗涅-罗讷-阿尔卑斯大区。",
+            "它属于奥弗涅-罗讷-阿尔卑斯大区，但不属于萨瓦省。"
+          ]
+        },
+        "q2": {
+          "prompt": "在人口方面，艾克斯莱班在该省各市镇中处于什么位置？",
+          "options": [
+            "它是该省人口最多的市镇。",
+            "它在该省人口排名第三。",
+            "就居民人数而言，它排在另一个市镇之后。",
+            "它是该省人口第九多的市镇。"
+          ]
+        },
+        "q3": {
+          "prompt": "根据给出的距离，这些城市中哪一座离艾克斯莱班最远？",
+          "options": [
+            "尚贝里",
+            "里昂",
+            "日内瓦",
+            "阿讷西"
+          ]
+        },
+        "q4": {
+          "prompt": "布尔热湖相对于这座城市位于哪里？",
+          "options": [
+            "在城市东侧。",
+            "在城市北侧。",
+            "在城市中心。",
+            "在城市西侧。"
+          ]
+        },
+        "q5": {
+          "prompt": "根据文章，可以怎样描述艾克斯莱班的夏季？",
+          "options": [
+            "夏季非常炎热，干旱持续很久。",
+            "夏季保持凉爽，但每年都会出现非常明显的干旱季节。",
+            "夏季不太炎热，干旱也不明显。",
+            "夏季寒冷，全年都没有降雨。"
+          ]
+        },
+        "q6": {
+          "prompt": "根据文章，该市的经济是如何演变的？",
+          "options": [
+            "温泉疗养不再是唯一活动：旅游业、服务业和一些工业也占据重要地位。",
+            "经济仍以温泉疗养为中心，没有其他重要活动。",
+            "该市放弃了温泉疗养业，转而专注于农业。",
+            "工业取代了旅游业和服务业。"
+          ]
+        },
+        "q7": {
+          "prompt": "该市面临哪些自然灾害风险？",
+          "options": [
+            "它主要受到雪崩和强风的威胁。",
+            "它需要面对洪水和地震。",
+            "它主要面临火灾和风暴的风险。",
+            "它暴露于干旱和飓风之中。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Aix-les-Bains",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=241053123",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-19",
+    "revisionId": "241053123"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-19",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-19-aix-les-bains-b1-6bbd1105ddf4.jpg",
+    "alt": "Vue sur la ville d'Aix-les-Bains (Savoie) depuis le belvédère du mont Revard.",
+    "author": "Mathis Brancquart",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aix-les-Bains_depuis_Revard_(mars_2021).jpg?oldid=979097230",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Réduite à 1280×831 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 831,
+    "byteLength": 373359,
+    "sha256": "6bbd1105ddf48efdaf8457b3b6168a30637f78d287b9b4c2c119f4fcae515ff2",
+    "fileRevisionId": "979097230",
+    "retrievedAt": "2026-11-20"
+  }
+}
