@@ -883,6 +883,101 @@ test('accepts a leap-day index', async (t) => {
   assert.deepEqual((await validateRepository(root)).errors, []);
 });
 
+function variantFixture() {
+  const primary = { ...articleOn('2026-11-11'), level: 'A2' };
+  const variant = { ...primary, id: `${primary.id}-b1`, level: 'B1' };
+  const legacy = { ...primary, id: `${primary.id}-legacy` };
+  const repo = fixture(primary);
+  const entries = repo.dayFiles[primary.date].articles;
+  const variantEntry = entryFor(variant);
+  entries[0].variants = [variantEntry];
+  entries.push(entryFor(legacy));
+  Object.assign(repo.articles, { [variant.id]: variant, [legacy.id]: legacy });
+  return { repo, entries, variant, variantEntry };
+}
+
+test('accepts A2 and B1 variants alongside a legacy entry', async (t) => {
+  const { repo } = variantFixture();
+  const root = await createRepo(t, repo);
+  assert.deepEqual(await validateRepository(root), {
+    errors: [], articleCount: 3, dayCount: 1,
+  });
+});
+
+test('rejects unsafe URL path segments as primary and variant IDs', async (t) => {
+  for (const id of ['nested/path', 'nested\\path', 'article%2fother', 'article?query', 'article#hash', 'article\n', '.hidden']) {
+    const { repo, entries, variantEntry } = variantFixture();
+    for (const entry of [entries[0], variantEntry]) {
+      entry.id = id;
+      entry.path = `articles/${id}.json`;
+    }
+    const root = await createRepo(t, repo);
+    const result = messages((await validateRepository(root)).errors);
+    assert.match(result, /articles\[0\]\.id must be a safe URL path segment/);
+    assert.match(result, /variants\[0\]\.id must be a safe URL path segment/);
+  }
+});
+
+test('accepts ASCII URL-safe article IDs', () => {
+  const value = { ...articleOn('2026-11-11'), id: 'Legacy_1.2~a-b' };
+  assert.deepEqual(validateArticle(value), []);
+});
+
+test('checks source article identity for each variant', async (t) => {
+  const cases = [
+    ['exact URL', 'https://example.org/article', 'https://example.org/article', undefined, true],
+    ['same-host revision', 'https://example.org/article', 'https://example.org/revision', '42', true],
+    ['wiki page and revision', 'https://fr.wikipedia.org/wiki/Un_article', 'https://fr.wikipedia.org/w/index.php?title=Un+article&oldid=42', undefined, true],
+    ['Vikidia title fallback', 'https://fr.vikidia.org/wiki/Un_article', 'https://fr.vikidia.org/w/index.php?oldid=42', undefined, true],
+    ['Global Voices path', 'https://fr.globalvoices.org/2026/11/11/article/', 'https://fr.globalvoices.org/2026/11/11/article?ref=feed', undefined, true],
+    ['unrelated URLs', 'https://example.org/article', 'https://example.org/other', undefined, false],
+    ['cross-host revision', 'https://example.org/article', 'https://other.example/article', '42', false],
+    ['different wiki pages', 'https://fr.wikipedia.org/wiki/Un_article', 'https://fr.wikipedia.org/wiki/Autre_article', undefined, false],
+  ];
+
+  for (const [label, primaryUrl, variantUrl, revisionId, accepted] of cases) {
+    await t.test(label, async (subtest) => {
+      const { repo, entries, variant } = variantFixture();
+      const primary = repo.articles[entries[0].id];
+      primary.source = { ...primary.source, url: primaryUrl, title: 'Un article', revisionId };
+      variant.source = { ...variant.source, url: variantUrl, title: 'Un article', revisionId };
+      const root = await createRepo(subtest, repo);
+      const { errors } = await validateRepository(root);
+      if (accepted) {
+        assert.deepEqual(errors, []);
+      } else {
+        assert.match(messages(errors), /variants\[0\] must share the primary article's source/);
+      }
+    });
+  }
+});
+
+test('validates the shape, metadata and references of variants', async (t) => {
+  const cases = [
+    ['non-array', ({ entries }) => { entries[0].variants = null; }, /variants must be an array/],
+    ['non-object', ({ entries }) => { entries[0].variants.push(null); }, /variants\[1\] must be an object/],
+    ['nested', ({ variantEntry }) => { variantEntry.variants = []; }, /variants\[0\]\.variants is not allowed/],
+    ['missing file', ({ repo, variant }) => { delete repo.articles[variant.id]; }, /articles\/.*-b1\.json:.*ENOENT/],
+    ['bad path', ({ variantEntry }) => { variantEntry.path = 'articles/other.json'; }, /variants\[0\]\.path must be/],
+    ['metadata mismatch', ({ variantEntry }) => { variantEntry.title = 'Another title'; }, /title must match the day index/],
+    ['invalid article', ({ variant }) => { delete variant.license; }, /articles\/.*-b1\.json:.*license/],
+    ['other day', ({ variantEntry }) => { variantEntry.date = '2026-11-12'; }, /variants\[0\]\.date must match the day index/],
+    ['same level', ({ variant, variantEntry }) => { variant.level = variantEntry.level = 'A2'; }, /duplicates level "A2"/],
+    ['repeated variant', ({ entries, variantEntry }) => { entries[0].variants.push(variantEntry); }, /duplicates level "B1"/],
+    ['repeated primary', ({ entries }) => { entries[0].variants.push(entries[1]); }, /duplicates id/],
+    ['repeated across families', ({ entries, variantEntry }) => { entries[1].variants = [variantEntry]; }, /duplicates id/],
+  ];
+
+  for (const [label, change, expected] of cases) {
+    await t.test(label, async (subtest) => {
+      const setup = variantFixture();
+      change(setup);
+      const root = await createRepo(subtest, setup.repo);
+      assert.match(messages((await validateRepository(root)).errors), expected);
+    });
+  }
+});
+
 test('repository accepts valid referenced PNG and JPEG assets', async (t) => {
   const cases = [
     ['PNG', PNG_2X3, 'png'],

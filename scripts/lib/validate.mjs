@@ -5,6 +5,7 @@ import { validateArticleImage, validateImageAsset } from './image.mjs';
 export { validateArticleImage, validateImageAsset } from './image.mjs';
 
 const LEVELS = new Set(['A2', 'B1', 'B2']);
+const ARTICLE_ID_RE = /^[A-Za-z0-9][A-Za-z0-9._~-]*$/;
 const ALLOWED_LICENSE =
   /(^|[^a-z])(pd|public domain|cc0|cc by(-sa)?)([^a-z]|$)/i;
 const FORBIDDEN_LICENSE =
@@ -59,12 +60,50 @@ function requireString(record, key, fail, label = key) {
   return record[key];
 }
 
+function requireArticleId(record, fail, label = 'id') {
+  const id = requireString(record, 'id', fail, label);
+  if (id && !ARTICLE_ID_RE.test(id)) {
+    fail(`${label} must be a safe URL path segment`);
+    return undefined;
+  }
+  return id;
+}
+
 function requireHttpUrl(record, key, fail, label = key) {
   const value = requireString(record, key, fail, label);
   if (value && !/^https?:\/\//i.test(value)) {
     fail(`${label} must be an http(s) URL`);
   }
   return value;
+}
+
+function wikiPageKey(url, title) {
+  if (url.pathname.startsWith('/wiki/')) return url.pathname;
+  if (url.pathname !== '/w/index.php') return null;
+  const pageTitle = url.searchParams.get('title') ?? title;
+  return isNonEmptyString(pageTitle)
+    ? `/wiki/${encodeURIComponent(pageTitle.replaceAll(' ', '_'))}`
+    : null;
+}
+
+export function sameArticleSource(left, right) {
+  if (!isRecord(left) || !isRecord(right)) return false;
+  if (isNonEmptyString(left.url) && left.url === right.url) return true;
+  if (!URL.canParse(left.url) || !URL.canParse(right.url)) return false;
+
+  const leftUrl = new URL(left.url);
+  const rightUrl = new URL(right.url);
+  if (leftUrl.hostname !== rightUrl.hostname) return false;
+  if (left.revisionId && left.revisionId === right.revisionId) return true;
+
+  if (leftUrl.hostname === 'fr.globalvoices.org') {
+    return leftUrl.pathname.replace(/\/$/, '') === rightUrl.pathname.replace(/\/$/, '');
+  }
+  if (['fr.wikipedia.org', 'fr.vikidia.org'].includes(leftUrl.hostname)) {
+    const leftPage = wikiPageKey(leftUrl, left.title);
+    return Boolean(leftPage && leftPage === wikiPageKey(rightUrl, right.title));
+  }
+  return false;
 }
 
 function validateSource(article, fail) {
@@ -311,7 +350,7 @@ export function validateArticle(article, file = 'article') {
     return errors;
   }
 
-  requireString(article, 'id', fail, 'id');
+  requireArticleId(article, fail);
   requireString(article, 'title', fail, 'title');
   requireString(article, 'theme', fail, 'theme');
   const paragraphs = Array.isArray(article.paragraphs) ? article.paragraphs : [];
@@ -498,6 +537,35 @@ async function listJsonFiles(directory) {
   }
 }
 
+function* dayEntries(articles, fail) {
+  for (const [index, primary] of articles.entries()) {
+    const label = `articles[${index}]`;
+    yield [label, primary];
+    if (!isRecord(primary) || primary.variants === undefined) {
+      continue;
+    }
+    if (!Array.isArray(primary.variants)) {
+      fail(`${label}.variants must be an array`);
+      continue;
+    }
+
+    const levels = new Set([primary.level]);
+    for (const [variantIndex, variant] of primary.variants.entries()) {
+      const variantLabel = `${label}.variants[${variantIndex}]`;
+      if (isRecord(variant)) {
+        if (variant.variants !== undefined) {
+          fail(`${variantLabel}.variants is not allowed`);
+        }
+        if (LEVELS.has(variant.level) && levels.has(variant.level)) {
+          fail(`${variantLabel} duplicates level "${variant.level}" in ${label}`);
+        }
+        levels.add(variant.level);
+      }
+      yield [variantLabel, variant, true];
+    }
+  }
+}
+
 /**
  * Validate a content repository (manifest -> day indexes -> articles).
  * Returns the collected errors and the number of article/day files seen.
@@ -553,95 +621,61 @@ export async function validateRepository(root = process.cwd()) {
       continue;
     }
 
-    const dayIds = new Set();
-    for (const [entryIndex, entry] of index.articles.entries()) {
+    const failEntry = (message) => fail(dayFile, message);
+    let primaryArticle;
+    for (const [label, entry, isVariant] of dayEntries(index.articles, failEntry)) {
+      if (!isVariant) primaryArticle = undefined;
       if (!isRecord(entry)) {
-        fail(dayFile, `articles[${entryIndex}] must be an object`);
+        failEntry(`${label} must be an object`);
         continue;
       }
 
-      const id = requireString(
-        entry,
-        'id',
-        (message) => fail(dayFile, message),
-        `articles[${entryIndex}].id`,
-      );
-      requireString(
-        entry,
-        'title',
-        (message) => fail(dayFile, message),
-        `articles[${entryIndex}].title`,
-      );
-      requireString(
-        entry,
-        'theme',
-        (message) => fail(dayFile, message),
-        `articles[${entryIndex}].theme`,
-      );
-      requireString(
-        entry,
-        'summary',
-        (message) => fail(dayFile, message),
-        `articles[${entryIndex}].summary`,
-      );
-      const entryDate = requireString(
-        entry,
-        'date',
-        (message) => fail(dayFile, message),
-        `articles[${entryIndex}].date`,
-      );
+      const id = requireArticleId(entry, failEntry, `${label}.id`);
+      for (const field of ['title', 'theme', 'summary']) {
+        requireString(entry, field, failEntry, `${label}.${field}`);
+      }
+      const entryDate = requireString(entry, 'date', failEntry, `${label}.date`);
       if (entryDate && !isCalendarDate(entryDate)) {
-        fail(
-          dayFile,
-          `articles[${entryIndex}].date must be a valid YYYY-MM-DD date`,
-        );
+        failEntry(`${label}.date must be a valid YYYY-MM-DD date`);
       } else if (entryDate && entryDate !== day) {
-        fail(
-          dayFile,
-          `articles[${entryIndex}].date must match the day index ("${day}")`,
-        );
+        failEntry(`${label}.date must match the day index ("${day}")`);
       }
       if (!LEVELS.has(entry.level)) {
-        fail(dayFile, `articles[${entryIndex}].level must be A2, B1 or B2`);
+        failEntry(`${label}.level must be A2, B1 or B2`);
       }
 
-      const articlePath = requireString(
-        entry,
-        'path',
-        (message) => fail(dayFile, message),
-        `articles[${entryIndex}].path`,
-      );
+      const articlePath = requireString(entry, 'path', failEntry, `${label}.path`);
       if (id && articlePath !== `articles/${id}.json`) {
-        fail(
-          dayFile,
-          `articles[${entryIndex}].path must be "articles/${id}.json"`,
-        );
+        failEntry(`${label}.path must be "articles/${id}.json"`);
       }
       if (!id || articlePath !== `articles/${id}.json`) {
         continue;
       }
 
-      if (dayIds.has(id)) {
-        fail(dayFile, `articles[${entryIndex}] duplicates id "${id}"`);
-      }
-      dayIds.add(id);
-      if (referencedIds.has(id) && referencedIds.get(id) !== day) {
-        fail(
-          dayFile,
-          `articles[${entryIndex}].id "${id}" is referenced by more than one day index`,
-        );
+      if (referencedIds.get(id) === day) {
+        failEntry(`${label} duplicates id "${id}"`);
+      } else if (referencedIds.has(id)) {
+        failEntry(`${label}.id "${id}" is referenced by more than one day index`);
       }
       referencedIds.set(id, day);
 
       const articleFile = path.normalize(path.join(absoluteRoot, articlePath));
       if (!articleFile.startsWith(`${articlesRoot}${path.sep}`)) {
-        fail(dayFile, `articles[${entryIndex}].path must stay inside articles/`);
+        failEntry(`${label}.path must stay inside articles/`);
         continue;
       }
       referencedArticles.add(articleFile);
       const article = await readJson(articleFile, fail);
       if (!isRecord(article)) {
+        if (article !== undefined) {
+          fail(articleFile, 'article must be an object');
+        }
         continue;
+      }
+      if (!isVariant) {
+        primaryArticle = article;
+      } else if (primaryArticle && !sameArticleSource(primaryArticle.source, article.source)) {
+        failEntry(`${label} must share the primary article's source`);
       }
       if (article.id !== id) {
         fail(articleFile, `id must match the day index ("${id}")`);

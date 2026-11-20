@@ -14,6 +14,12 @@ scripts/check.mjs                 ← 发布前结构校验
 
 App 先拉 `manifest.json`，再按日拉索引，点开文章才拉全文。日索引的 `date` 必须与文件名、条目 `date` 和文章元数据一致；每篇文章恰好被一个日索引引用。
 
+日索引的 `articles` 数组为每组分级文章保留一条主记录。主记录与可选 `variants` 数组中的条目都包含 `id`、`title`、`level`、`theme`、`date`、`summary` 和 `path`。`variants` 只容纳普通索引条目，禁止再嵌套 `variants`。没有 `variants` 的旧记录仍然有效。
+
+同组各版本使用同一发布日期，A2、B1、B2 各最多一个。每个版本使用独立 ID 和 `articles/<id>.json` 路径。各条目的元数据必须与各自的正文文件一致，正文、来源许可、题目、翻译及可选配图均按既有规则单独校验。同一 ID 和路径在所有日索引的主记录与附加版本中只能出现一次。
+
+文章 ID 必须是符合 `^[A-Za-z0-9][A-Za-z0-9._~-]*$` 的单个 URL 路径段。组内各版本必须与主记录指向同一篇来源文章。校验接受相同的来源 URL、同一主机上的相同修订 ID、法语 Wikipédia 或 Vikidia 同一页面的不同链接，以及同一路径的法语 Global Voices 链接。
+
 ## 许可
 
 - 每篇文章的文本按 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 发布。
