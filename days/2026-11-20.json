@@ -8,7 +8,18 @@
       "theme": "sport",
       "date": "2026-11-20",
       "summary": "Né aux États-Unis en 1891, le basket oppose deux équipes de cinq joueurs. Ce sport a ses règles, ses ballons et ses vedettes.",
-      "path": "articles/2026-11-20-basketball.json"
+      "path": "articles/2026-11-20-basketball.json",
+      "variants": [
+        {
+          "id": "2026-11-20-basketball-a2",
+          "title": "Le basket-ball : un sport d’équipe",
+          "level": "A2",
+          "theme": "sport",
+          "date": "2026-11-20",
+          "summary": "Le basket-ball est un sport d’équipe né aux États-Unis. Deux équipes de cinq joueurs essaient de marquer plus de points en lançant un ballon dans le panier adverse.",
+          "path": "articles/2026-11-20-basketball-a2.json"
+        }
+      ]
     }
   ]
 }

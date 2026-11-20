@@ -1,0 +1,354 @@
+{
+  "id": "2026-11-20-basketball-a2",
+  "title": "Le basket-ball : un sport d’équipe",
+  "level": "A2",
+  "theme": "sport",
+  "date": "2026-11-20",
+  "summary": "Le basket-ball est un sport d’équipe né aux États-Unis. Deux équipes de cinq joueurs essaient de marquer plus de points en lançant un ballon dans le panier adverse.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Le basket-ball est un sport collectif.",
+        "Deux équipes de cinq joueurs jouent sur un terrain.",
+        "Elles essaient de mettre plus de points que l’autre équipe.",
+        "Pour marquer, elles lancent le ballon dans le panier adverse."
+      ]
+    },
+    {
+      "sentences": [
+        "James Naismith a inventé ce jeu en 1891, dans une école de Springfield, aux États-Unis.",
+        "Il a utilisé une canne à pêche et un filet de pêche.",
+        "Le premier match s’est fini avec un seul point.",
+        "Le ballon est devenu orange vers 1950."
+      ]
+    },
+    {
+      "sentences": [
+        "Aujourd’hui, le panier est à 3,05 m du sol pour la plupart des joueurs.",
+        "Pour les U9 et U11, il est à 2,60 m.",
+        "Un ballon pour homme mesure 75 à 78 cm et pèse 600 à 650 g.",
+        "Un ballon pour femme mesure 72 à 74 cm et pèse 530 à 550 g."
+      ]
+    },
+    {
+      "sentences": [
+        "Un match se joue en quatre périodes de dix ou douze minutes.",
+        "Une équipe peut marquer deux ou trois points selon la distance.",
+        "Un lancer franc vaut un point.",
+        "En cas d’égalité, on joue cinq minutes de plus."
+      ]
+    },
+    {
+      "sentences": [
+        "Les joueurs ont cinq postes : meneur, arrière, ailier, ailier fort et pivot.",
+        "La NBA est une grande ligue américaine.",
+        "Chez les femmes, Lisa Leslie a marqué l’histoire.",
+        "Elle est née en 1972 et a gagné quatre médailles d’or olympiques."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "collectif"
+    },
+    {
+      "term": "adverse"
+    },
+    {
+      "term": "canne à pêche"
+    },
+    {
+      "term": "filet de pêche"
+    },
+    {
+      "term": "lancer franc"
+    },
+    {
+      "term": "égalité"
+    },
+    {
+      "term": "meneur"
+    },
+    {
+      "term": "ailier fort"
+    },
+    {
+      "term": "pivot"
+    },
+    {
+      "term": "ligue"
+    },
+    {
+      "term": "périodes"
+    },
+    {
+      "term": "médailles"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Que veulent faire les deux équipes pendant le match ?",
+      "options": [
+        "Elles veulent jouer avec un ballon orange.",
+        "Elles veulent changer la hauteur du panier.",
+        "Elles veulent avoir un meilleur score que l’autre équipe.",
+        "Elles veulent jouer cinq minutes de plus."
+      ],
+      "answerIndex": 2,
+      "evidence": "Elles essaient de mettre plus de points que l’autre équipe.",
+      "explanation": "Le texte dit que les équipes essaient de mettre plus de points que l’autre ; avoir un meilleur score veut dire la même chose. Les autres réponses parlent du ballon, du panier ou des minutes en plus, pas du but du match."
+    },
+    {
+      "id": "q2",
+      "prompt": "Que dit le texte sur la hauteur du panier pour les U9 et U11 ?",
+      "options": [
+        "Le panier est plus bas que pour la plupart des joueurs.",
+        "Le panier est plus haut que pour la plupart des joueurs.",
+        "Le panier est à la même hauteur que pour tous les joueurs.",
+        "Le panier n’a pas de hauteur fixe pour les U9 et U11."
+      ],
+      "answerIndex": 0,
+      "evidence": "Pour les U9 et U11, il est à 2,60 m.",
+      "explanation": "Le texte donne 3,05 m pour la plupart des joueurs et 2,60 m pour les U9 et U11 ; 2,60 m est donc plus bas. Les autres réponses contredisent cette comparaison."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel est le sujet principal de l’article ?",
+      "options": [
+        "La vie de James Naismith dans une école.",
+        "Le basket-ball, ses règles de base et son histoire.",
+        "Les grands joueurs de la NBA seulement.",
+        "La pêche avec une canne et un filet."
+      ],
+      "answerIndex": 1,
+      "evidence": "Le basket-ball est un sport collectif.",
+      "explanation": "La première phrase présente le basket-ball comme sujet ; l’article donne ensuite son histoire, la taille du panier, le ballon, le match et les postes. Les autres choix sont trop étroits ou hors sujet."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel ballon est plus petit et plus léger ?",
+      "options": [
+        "Le ballon pour homme.",
+        "Le ballon pour U9 et U11.",
+        "Le ballon du premier match.",
+        "Le ballon pour femme."
+      ],
+      "answerIndex": 3,
+      "evidence": "Un ballon pour femme mesure 72 à 74 cm et pèse 530 à 550 g.",
+      "explanation": "Le texte donne pour le ballon femme des mesures et un poids plus petits que ceux du ballon homme. Les autres ballons ne sont pas décrits avec ces deux critères."
+    },
+    {
+      "id": "q5",
+      "prompt": "Comment se joue un match de basket-ball ?",
+      "options": [
+        "Le match est divisé en quatre moments de dix ou douze minutes.",
+        "Le match est divisé en cinq moments de dix minutes.",
+        "Le match est divisé en deux moments de douze minutes.",
+        "Le match est divisé en quatre moments de cinq minutes."
+      ],
+      "answerIndex": 0,
+      "evidence": "Un match se joue en quatre périodes de dix ou douze minutes.",
+      "explanation": "Le texte indique quatre périodes, chacune de dix ou douze minutes. Les autres réponses changent le nombre de périodes ou leur durée."
+    },
+    {
+      "id": "q6",
+      "prompt": "Pourquoi une équipe peut-elle marquer deux ou trois points ?",
+      "options": [
+        "Parce que le match dure plus longtemps.",
+        "Parce que le joueur est un homme ou une femme.",
+        "Cela dépend de la distance du lancer.",
+        "Cela dépend du nombre de joueurs sur le terrain."
+      ],
+      "answerIndex": 2,
+      "evidence": "Une équipe peut marquer deux ou trois points selon la distance.",
+      "explanation": "Le texte relie le nombre de points à la distance du tir. Les autres réponses parlent de durée, de sexe ou du nombre de joueurs, ce qui n’est pas la raison donnée."
+    },
+    {
+      "id": "q7",
+      "prompt": "Qu’a réussi Lisa Leslie dans l’histoire du basket ?",
+      "options": [
+        "Elle a inventé le premier match.",
+        "Elle a gagné quatre médailles d’or aux Jeux olympiques.",
+        "Elle a changé la couleur du ballon.",
+        "Elle a créé une grande ligue américaine."
+      ],
+      "answerIndex": 1,
+      "evidence": "Elle est née en 1972 et a gagné quatre médailles d’or olympiques.",
+      "explanation": "Le texte dit que Lisa Leslie a gagné quatre médailles d’or olympiques. Les autres actions concernent James Naismith, le ballon ou la NBA, pas Lisa Leslie."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "篮球：一项团队运动",
+      "summary": "篮球是起源于美国的团队运动。两队各五名球员比赛，目标是把球投进对方篮筐，从而比对手得分更多。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "篮球是一项团队运动。",
+            "两支队伍各有五名球员，在球场上比赛。",
+            "他们努力比另一队得到更多分。",
+            "为了得分，他们把球投进对方的篮筐。"
+          ]
+        },
+        {
+          "sentences": [
+            "詹姆斯·奈史密斯于1891年在美国斯普林菲尔德的一所学校发明了这项运动。",
+            "他使用了一根钓鱼竿和一张渔网。",
+            "第一场比赛以一分结束。",
+            "大约在1950年，球变成了橙色。"
+          ]
+        },
+        {
+          "sentences": [
+            "如今，对大多数球员来说，篮筐离地面3.05米。",
+            "对于U9和U11，篮筐高2.60米。",
+            "男子用球尺寸为75至78厘米，重600至650克。",
+            "女子用球尺寸为72至74厘米，重530至550克。"
+          ]
+        },
+        {
+          "sentences": [
+            "一场比赛分四节进行，每节十分钟或十二分钟。",
+            "一支队伍可以根据距离得到两分或三分。",
+            "一次罚球得一分。",
+            "如果打平，就再打五分钟。"
+          ]
+        },
+        {
+          "sentences": [
+            "球员有五个位置：控球后卫、得分后卫、小前锋、大前锋和中锋。",
+            "NBA是一个美国大型联赛。",
+            "在女子篮球中，丽莎·莱斯利创造了历史。",
+            "她出生于1972年，并赢得了四枚奥运金牌。"
+          ]
+        }
+      ],
+      "glossary": {
+        "collectif": "团队性的；由多人一起参与，不是个人项目。",
+        "adverse": "对方的；指比赛中的另一支队伍。",
+        "canne à pêche": "钓鱼用的竿子。",
+        "filet de pêche": "捕鱼用的网。",
+        "lancer franc": "罚球；球员在特定情况下单独投篮得分的一次机会。",
+        "égalité": "平局；两队得分相同。",
+        "meneur": "控球后卫；通常负责组织进攻的球员位置。",
+        "ailier fort": "大前锋；靠近篮下、负责抢篮板和防守的球员位置。",
+        "pivot": "中锋；通常身材较高、在篮下活动的球员位置。",
+        "ligue": "联赛或联盟；组织多支球队比赛的机构。",
+        "périodes": "比赛分成的节或阶段；这里指一场比赛的四节。",
+        "médailles": "奖牌；比赛中奖励优胜者的金属牌。"
+      },
+      "questions": {
+        "q1": "文章说两队都想比对方得分多，因此正确意思是取得比对方更高的得分。说橙色球、改变篮筐高度或多打五分钟，都不是比赛的目标。",
+        "q2": "文章给出大多数球员的篮筐高3.05米，U9和U11为2.60米；2.60米比3.05米低，所以正确的是篮筐更低。说更高、相同或没有固定高度，都与这两个数字不符。",
+        "q3": "文章开头先介绍篮球是一项团队运动，随后讲它的起源、篮筐高度、用球、比赛方式和球员位置；这些内容都围绕篮球展开。因此主题是篮球及其基本规则和历史，而不是只讲奈史密斯、NBA或捕鱼。",
+        "q4": "文章说女子用球的尺寸和重量都比男子用球小；72至74厘米、530至550克小于75至78厘米、600至650克。因此更小更轻的是女子用球。其他球没有同时给出这两项可比较的信息。",
+        "q5": "文章说一场比赛有四节，每节十分钟或十二分钟。因此正确说法是分成四个十或十二分钟的时间段。其他选项改了节数或每节时长。",
+        "q6": "文章把两分或三分与投篮距离联系起来：距离不同，得分不同。所以正确的是取决于投篮距离。说时间、性别或人数，文章没有把这些当作得分不同的原因。",
+        "q7": "文章说丽莎·莱斯利获得过四枚奥运金牌，这是她的重要成就。发明比赛的是奈史密斯，改变球颜色和创建NBA也不是她的经历，所以正确内容是赢得四枚奥运金牌。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "比赛中两队想做什么？",
+          "options": [
+            "他们想玩一个橙色的球。",
+            "他们想改变篮筐的高度。",
+            "他们想比另一队得分更高。",
+            "他们想多打五分钟。"
+          ]
+        },
+        "q2": {
+          "prompt": "关于U9和U11的篮筐高度，文章说了什么？",
+          "options": [
+            "篮筐比大多数球员用的更低。",
+            "篮筐比大多数球员用的更高。",
+            "篮筐和所有球员用的高度一样。",
+            "U9和U11的篮筐没有固定高度。"
+          ]
+        },
+        "q3": {
+          "prompt": "文章的主要主题是什么？",
+          "options": [
+            "詹姆斯·奈史密斯在一所学校的生活。",
+            "篮球、它的基本规则和历史。",
+            "只有NBA的伟大球员。",
+            "用竿和网捕鱼。"
+          ]
+        },
+        "q4": {
+          "prompt": "哪种球更小、更轻？",
+          "options": [
+            "男子用球。",
+            "U9和U11用球。",
+            "第一场比赛的球。",
+            "女子用球。"
+          ]
+        },
+        "q5": {
+          "prompt": "一场篮球比赛怎样进行？",
+          "options": [
+            "比赛分成四个十或十二分钟的时间段。",
+            "比赛分成五个十分钟的时间段。",
+            "比赛分成两个十二分钟的时间段。",
+            "比赛分成四个五分钟的时间段。"
+          ]
+        },
+        "q6": {
+          "prompt": "为什么一支队伍可以得到两分或三分？",
+          "options": [
+            "因为比赛持续更久。",
+            "因为球员是男是女。",
+            "这取决于投篮的距离。",
+            "这取决于场上球员的人数。"
+          ]
+        },
+        "q7": {
+          "prompt": "丽莎·莱斯利在篮球历史上取得了什么成就？",
+          "options": [
+            "她发明了第一场比赛。",
+            "她赢得了四枚奥运金牌。",
+            "她改变了球的颜色。",
+            "她创建了一个美国大型联赛。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Basketball",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2741917&title=Basketball",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-20",
+    "revisionId": "2741917"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-20",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-20-basketball-a2-e3364c63fd9e.jpg",
+    "alt": "Wheelchair Basketball",
+    "author": "Shemesheeshsha",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wheelchair_Basketball_Team.JPG?oldid=1251242202",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Réduite à 1280×960 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 960,
+    "byteLength": 400451,
+    "sha256": "e3364c63fd9ed6660c021ef4ba22ae38a085d4950389e095fed63a7902772342",
+    "fileRevisionId": "1251242202",
+    "retrievedAt": "2026-11-20"
+  }
+}
