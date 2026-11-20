@@ -1,0 +1,368 @@
+{
+  "id": "2026-11-20-basketball",
+  "title": "Le basket-ball : origine, règles et vedettes",
+  "level": "B1",
+  "theme": "sport",
+  "date": "2026-11-20",
+  "summary": "Né aux États-Unis en 1891, le basket oppose deux équipes de cinq joueurs. Ce sport a ses règles, ses ballons et ses vedettes.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Le basket est un sport d’équipe.",
+        "Deux groupes de cinq joueurs essaient de marquer plus de points que l’adversaire.",
+        "James Naismith a créé ce jeu en 1891 à Springfield, dans le Massachusetts, sans contacts physiques.",
+        "Il voulait occuper ses élèves pendant l’hiver, et le premier match s’est fini avec 1 point."
+      ]
+    },
+    {
+      "sentences": [
+        "Au début, on utilisait un ballon de football brun.",
+        "Un ballon spécial est apparu en 1893, puis il est devenu orange vers 1950.",
+        "Le ballon taille 7 mesure 75 à 78 cm de circonférence et pèse 600 à 650 g.",
+        "Le modèle taille 6 pour les femmes mesure 72 à 74 cm et pèse 530 à 550 g."
+      ]
+    },
+    {
+      "sentences": [
+        "Le terrain couvre 22 à 29 m de long et 13 à 15 m de large, et l’anneau mesure 45 cm de diamètre.",
+        "Le panier est à 3,05 m, ou à 2,60 m pour les U9 et U11.",
+        "Un tir intérieur à la ligne à trois points donne 2 points, un tir extérieur en donne 3.",
+        "Un lancer franc vaut 1 point."
+      ]
+    },
+    {
+      "sentences": [
+        "Un match se joue en quatre périodes de 10 minutes, ou de 12 minutes en NBA.",
+        "En cas d’égalité, une prolongation de 5 minutes est jouée.",
+        "Les cinq postes sont meneur, arrière, ailier, ailier fort et pivot.",
+        "Chaque joueur a un rôle différent selon sa taille et ses qualités."
+      ]
+    },
+    {
+      "sentences": [
+        "La WNBA existe depuis 1997.",
+        "Lisa Leslie, née le 7 juillet 1972, mesure 1,95 m et a été la première femme à dunker en match officiel.",
+        "Diana Taurasi est née le 11 juin 1982 et joue au Phoenix Mercury.",
+        "Maria Stepanova, née le 23 février 1979, est une pivot russe reconnue."
+      ]
+    },
+    {
+      "sentences": [
+        "En France, Céline Dumerc compte 262 sélections.",
+        "Isabelle Fijalkowski a marqué 2 562 points.",
+        "L’équipe de France a obtenu plusieurs médailles, dont l’or à l’Euro 2013."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "adversaire"
+    },
+    {
+      "term": "circonférence"
+    },
+    {
+      "term": "prolongation"
+    },
+    {
+      "term": "meneur"
+    },
+    {
+      "term": "ailier fort"
+    },
+    {
+      "term": "pivot"
+    },
+    {
+      "term": "sélections"
+    },
+    {
+      "term": "médailles"
+    },
+    {
+      "term": "dunker"
+    },
+    {
+      "term": "contacts physiques"
+    },
+    {
+      "term": "égalité"
+    },
+    {
+      "term": "Euro 2013"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quelle phrase résume le mieux l’ensemble du texte ?",
+      "options": [
+        "Le texte explique seulement comment James Naismith a inventé le basket en 1891.",
+        "Le basket est présenté à travers son origine, ses règles et quelques joueuses marquantes.",
+        "Le texte compare uniquement les règles de la NBA et celles de la WNBA.",
+        "Le texte décrit surtout les différents ballons utilisés au cours de l’histoire."
+      ],
+      "answerIndex": 1,
+      "evidence": "Le basket est un sport d’équipe.",
+      "explanation": "Le texte ne se limite pas à l’invention du jeu : il enchaîne sur le matériel, les règles, les postes et des joueuses célèbres. Les autres propositions réduisent l’article à une seule de ces parties."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi James Naismith a-t-il créé ce jeu ?",
+      "options": [
+        "Pour occuper ses élèves pendant l’hiver.",
+        "Pour remplacer un ballon de football trop lourd.",
+        "Pour organiser un match avec un seul point.",
+        "Pour éviter que les joueurs marquent trop de points."
+      ],
+      "answerIndex": 0,
+      "evidence": "Il voulait occuper ses élèves pendant l’hiver, et le premier match s’est fini avec 1 point.",
+      "explanation": "La raison indiquée est l’occupation des élèves durant l’hiver ; le score de 1 point concerne seulement le premier match. Les autres options ajoutent des causes ou des buts que le texte ne donne pas."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quelles sont les caractéristiques du ballon taille 6 pour les femmes ?",
+      "options": [
+        "Il mesure 75 à 78 cm de circonférence et pèse 600 à 650 g.",
+        "Il mesure 72 à 74 cm de circonférence et pèse 530 à 550 g.",
+        "Il mesure 45 cm de diamètre et pèse 600 à 650 g.",
+        "Il mesure 72 à 74 cm de circonférence et pèse 600 à 650 g."
+      ],
+      "answerIndex": 1,
+      "evidence": "Le modèle taille 6 pour les femmes mesure 72 à 74 cm et pèse 530 à 550 g.",
+      "explanation": "Les valeurs 72 à 74 cm et 530 à 550 g sont explicitement celles du ballon taille 6 féminin. Les options fausses mélangent avec le taille 7 ou avec le diamètre de l’anneau."
+    },
+    {
+      "id": "q4",
+      "prompt": "Combien de points vaut un tir réussi derrière la ligne à trois points ?",
+      "options": [
+        "1 point",
+        "2 points",
+        "4 points",
+        "3 points"
+      ],
+      "answerIndex": 3,
+      "evidence": "Un tir intérieur à la ligne à trois points donne 2 points, un tir extérieur en donne 3.",
+      "explanation": "Le texte distingue le tir intérieur, qui vaut 2 points, du tir extérieur, qui vaut 3 points ; derrière la ligne à trois points correspond au tir extérieur. Les autres valeurs appartiennent au lancer franc ou à une autre partie du jeu."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que prévoit le texte en cas d’égalité à la fin d’un match ?",
+      "options": [
+        "Une prolongation de 5 minutes est jouée.",
+        "Le match s’arrête sur un match nul.",
+        "Deux périodes de 12 minutes sont ajoutées.",
+        "Les équipes changent de panier et rejouent 10 minutes."
+      ],
+      "answerIndex": 0,
+      "evidence": "En cas d’égalité, une prolongation de 5 minutes est jouée.",
+      "explanation": "La phrase indique qu’une égalité déclenche une prolongation de 5 minutes. Le texte ne parle ni de match nul définitif ni de périodes de 12 minutes supplémentaires."
+    },
+    {
+      "id": "q6",
+      "prompt": "Qu’a fait Lisa Leslie selon le texte ?",
+      "options": [
+        "Elle a marqué 2 562 points en équipe de France.",
+        "Elle joue au Phoenix Mercury.",
+        "Elle a été la première femme à dunker en match officiel.",
+        "Elle a obtenu l’or à l’Euro 2013."
+      ],
+      "answerIndex": 2,
+      "evidence": "Lisa Leslie, née le 7 juillet 1972, mesure 1,95 m et a été la première femme à dunker en match officiel.",
+      "explanation": "Le texte attribue à Lisa Leslie le fait d’avoir été la première femme à dunker en match officiel. Les autres actions sont associées à Diana Taurasi, à Isabelle Fijalkowski ou à l’équipe de France."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quel résultat est associé à Isabelle Fijalkowski ?",
+      "options": [
+        "Elle compte 262 sélections.",
+        "Elle a marqué 2 562 points.",
+        "Elle a été la première femme à dunker en match officiel.",
+        "Elle a gagné l’or à l’Euro 2013 avec la France."
+      ],
+      "answerIndex": 1,
+      "evidence": "Isabelle Fijalkowski a marqué 2 562 points.",
+      "explanation": "C’est bien Isabelle Fijalkowski qui est créditée de 2 562 points. Les 262 sélections concernent Céline Dumerc, et les autres options renvoient à d’autres joueuses ou à l’équipe de France."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "篮球：起源、规则与明星",
+      "summary": "篮球1891年诞生于美国，由两队各五名球员对抗。这项运动有自己的规则、用球和明星。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "篮球是一项团队运动。",
+            "两支各由五名球员组成的队伍努力比对手得更多分。",
+            "詹姆斯·奈史密斯于1891年在马萨诸塞州斯普林菲尔德创造了这项没有身体接触的比赛。",
+            "他想让学生在冬天有事可做，而第一场比赛以1分结束。"
+          ]
+        },
+        {
+          "sentences": [
+            "起初，人们使用棕色的足球。",
+            "一种专用球于1893年出现，后来在1950年前后变成橙色。",
+            "7号球的周长为75至78厘米，重600至650克。",
+            "女子用的6号球周长为72至74厘米，重530至550克。"
+          ]
+        },
+        {
+          "sentences": [
+            "球场长22至29米，宽13至15米，篮圈直径为45厘米。",
+            "篮筐高度为3.05米，U9和U11为2.60米。",
+            "三分线内投篮命中得2分，三分线外投篮命中得3分。",
+            "一次罚球得1分。"
+          ]
+        },
+        {
+          "sentences": [
+            "一场比赛分四节进行，每节10分钟，NBA每节12分钟。",
+            "如果比分相等，则进行5分钟加时赛。",
+            "五个位置是控球后卫、得分后卫、小前锋、大前锋和中锋。",
+            "每名球员根据身高和特点承担不同角色。"
+          ]
+        },
+        {
+          "sentences": [
+            "WNBA自1997年起存在。",
+            "丽莎·莱斯利生于1972年7月7日，身高1.95米，是第一位在正式比赛中扣篮的女性。",
+            "戴安娜·陶乐西生于1982年6月11日，效力于菲尼克斯水星队。",
+            "玛丽亚·斯捷潘诺娃生于1979年2月23日，是一位知名的俄罗斯中锋。"
+          ]
+        },
+        {
+          "sentences": [
+            "在法国，塞琳·迪梅尔代表国家队出场262次。",
+            "伊莎贝尔·菲雅尔科夫斯基得了2562分。",
+            "法国队获得过多枚奖牌，包括2013年欧锦赛金牌。"
+          ]
+        }
+      ],
+      "glossary": {
+        "adversaire": "比赛中与己方对抗的另一方球队或球员。",
+        "circonférence": "围绕球体一周的长度，用来衡量球的大小。",
+        "prolongation": "常规时间结束后比分相等时追加的比赛时段。",
+        "meneur": "通常负责组织进攻和控球的球员，常称控球后卫。",
+        "ailier fort": "通常身高较高、在内线附近活动并承担得分与篮板任务的前锋，常称大前锋。",
+        "pivot": "通常身材最高、靠近篮筐活动并负责篮板和内线进攻的球员，常称中锋。",
+        "sélections": "运动员入选国家队并代表国家队出场的次数。",
+        "médailles": "比赛中颁发给优胜者的奖牌，这里指法国队获得的荣誉。",
+        "dunker": "跳起后将球直接扣入篮筐的得分动作。",
+        "contacts physiques": "球员之间身体上的碰撞或推挤；文中说这项运动最初不设此类接触。",
+        "égalité": "比赛结束时双方得分相同的情况。",
+        "Euro 2013": "2013年欧洲篮球锦标赛。"
+      },
+      "questions": {
+        "q1": "首句“篮球是一项团队运动”奠定了全文的总体介绍，而后续段落依次补充起源、用球、场地与计分、比赛时长与位置、WNBA及法国球员等内容，因此最全面的概括是“通过起源、规则和几位著名女球员来介绍篮球”。其余选项只抓住发明、NBA与WNBA比较或篮球演变中的某一点，不能覆盖全文。",
+        "q2": "证据句直接说明他“想让学生在冬天有事可做”，这是创造运动的目的；第一场只得1分只是结果，不是原因。替换过重足球、组织只得一分的比赛、避免得分过多，文本均未作为目的提出。",
+        "q3": "证据句明确给出女子6号球为周长72至74厘米、重530至550克，因此第二项完全吻合。第一项是7号球数据，第三项把篮圈直径45厘米混入球的数据，第四项周长对但重量用了7号球的600至650克。",
+        "q4": "证据句把三分线内投篮定为2分、三分线外投篮定为3分；“三分线后”就是外线投篮，所以得3分。1分是罚球，2分是线内投篮，4分文本未提及。",
+        "q5": "证据句直接规定比分相等时进行5分钟加时赛，因此第一项正确。文本没有说以平局结束，也没有说增加两个12分钟时段或交换篮筐重打10分钟。",
+        "q6": "证据句把“第一位在正式比赛中扣篮的女性”直接归于丽莎·莱斯利，所以应选第三项。2562分属于伊莎贝尔·菲雅尔科夫斯基，菲尼克斯水星队属于戴安娜·陶乐西，2013年欧锦赛金牌属于法国队。",
+        "q7": "证据句直接说伊莎贝尔·菲雅尔科夫斯基得了2562分，因此应选第二项。262次国家队出场属于塞琳·迪梅尔，第一次正式比赛扣篮属于丽莎·莱斯利，2013年欧锦赛金牌是法国队整体成绩。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "哪句话最能概括全文？",
+          "options": [
+            "文本只解释了詹姆斯·奈史密斯如何在1891年发明篮球。",
+            "文章通过篮球的起源、规则和几位著名女球员来介绍篮球。",
+            "文本只比较NBA和WNBA的规则。",
+            "文本主要描述历史上使用过的不同篮球。"
+          ]
+        },
+        "q2": {
+          "prompt": "詹姆斯·奈史密斯为什么创造了这项运动？",
+          "options": [
+            "为了让他的学生在冬天有活动可做。",
+            "为了替换一个太重的足球。",
+            "为了组织一场只得一分的比赛。",
+            "为了避免球员得太多分。"
+          ]
+        },
+        "q3": {
+          "prompt": "女子6号球有什么特征？",
+          "options": [
+            "周长75至78厘米，重600至650克。",
+            "周长72至74厘米，重530至550克。",
+            "直径45厘米，重600至650克。",
+            "周长72至74厘米，重600至650克。"
+          ]
+        },
+        "q4": {
+          "prompt": "在三分线后投中的球得几分？",
+          "options": [
+            "1分",
+            "2分",
+            "4分",
+            "3分"
+          ]
+        },
+        "q5": {
+          "prompt": "文本规定比赛结束时比分相等会怎样？",
+          "options": [
+            "进行5分钟加时赛。",
+            "比赛以平局结束。",
+            "增加两个12分钟的比赛时段。",
+            "两队交换篮筐并重打10分钟。"
+          ]
+        },
+        "q6": {
+          "prompt": "根据文本，丽莎·莱斯利做了什么？",
+          "options": [
+            "她在法国队得了2562分。",
+            "她效力于菲尼克斯水星队。",
+            "她是第一位在正式比赛中扣篮的女性。",
+            "她在2013年欧锦赛获得金牌。"
+          ]
+        },
+        "q7": {
+          "prompt": "哪个成绩与伊莎贝尔·菲雅尔科夫斯基相关？",
+          "options": [
+            "她代表国家队出场262次。",
+            "她得了2562分。",
+            "她是第一位在正式比赛中扣篮的女性。",
+            "她随法国队获得2013年欧锦赛金牌。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Basketball",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2741917&title=Basketball",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-20",
+    "revisionId": "2741917"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-20",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-20-basketball-e3364c63fd9e.jpg",
+    "alt": "Wheelchair Basketball",
+    "author": "Shemesheeshsha",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wheelchair_Basketball_Team.JPG?oldid=1251242202",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Réduite à 1280×960 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 960,
+    "byteLength": 400451,
+    "sha256": "e3364c63fd9ed6660c021ef4ba22ae38a085d4950389e095fed63a7902772342",
+    "fileRevisionId": "1251242202",
+    "retrievedAt": "2026-11-20"
+  }
+}

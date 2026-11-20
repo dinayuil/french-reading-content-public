@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-20",
+  "articles": [
+    {
+      "id": "2026-11-20-basketball",
+      "title": "Le basket-ball : origine, règles et vedettes",
+      "level": "B1",
+      "theme": "sport",
+      "date": "2026-11-20",
+      "summary": "Né aux États-Unis en 1891, le basket oppose deux équipes de cinq joueurs. Ce sport a ses règles, ses ballons et ses vedettes.",
+      "path": "articles/2026-11-20-basketball.json"
+    }
+  ]
+}
