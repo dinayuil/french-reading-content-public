@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-18",
+  "articles": [
+    {
+      "id": "2026-11-18-quand-la-radio-s-invente-une-voix-numerique-la-langue-et-la",
+      "title": "Les voix roms de Prizren passent au numérique",
+      "level": "B1",
+      "theme": "culture",
+      "date": "2026-11-18",
+      "summary": "Une petite radio de Prizren transforme ses émissions en podcasts. Elle veut garder vivantes la langue et la culture roms au Kosovo et toucher aussi la diaspora.",
+      "path": "articles/2026-11-18-quand-la-radio-s-invente-une-voix-numerique-la-langue-et-la.json",
+      "variants": [
+        {
+          "id": "2026-11-18-quand-la-radio-s-invente-une-voix-numerique-la-langue-et-la-a2",
+          "title": "La radio rom de Prizren passe au podcast",
+          "level": "A2",
+          "theme": "société",
+          "date": "2026-11-18",
+          "summary": "À Prizren, la radio Romano Avazo transforme trois entretiens en podcasts en langue romani. Ce projet donne à la communauté rom un espace numérique pour écouter sa culture à tout moment.",
+          "path": "articles/2026-11-18-quand-la-radio-s-invente-une-voix-numerique-la-langue-et-la-a2.json"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-famille-bronte",
+      "title": "Les Brontë : une famille littéraire au destin singulier",
+      "level": "B2",
+      "theme": "culture",
+      "date": "2026-11-18",
+      "summary": "Au XIXe siècle, trois sœurs du Yorkshire, Charlotte, Emily et Anne Brontë, ont marqué la littérature anglaise par des romans passionnés, tandis que leur destin tragique a nourri un culte durable autour de Haworth.",
+      "path": "articles/2026-11-18-famille-bronte.json",
+      "variants": [
+        {
+          "id": "2026-11-18-famille-bronte-b1",
+          "title": "La famille Brontë",
+          "level": "B1",
+          "theme": "culture",
+          "date": "2026-11-18",
+          "summary": "Les Brontë forment une famille britannique célèbre au XIXe siècle grâce à Charlotte, Emily et Anne. Leurs romans, d’abord publiés sous des noms masculins, ont marqué la littérature anglaise.",
+          "path": "articles/2026-11-18-famille-bronte-b1.json"
+        },
+        {
+          "id": "2026-11-18-famille-bronte-a2",
+          "title": "La famille Brontë : trois sœurs et leurs romans",
+          "level": "A2",
+          "theme": "culture",
+          "date": "2026-11-18",
+          "summary": "La famille Brontë est une famille d’écrivaines du XIXe siècle. Trois sœurs, Charlotte, Emily et Anne, ont publié des romans célèbres sous des noms d’hommes.",
+          "path": "articles/2026-11-18-famille-bronte-a2.json"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-elephant",
+      "title": "Les éléphants : biologie, mémoire et histoire",
+      "level": "B2",
+      "theme": "science",
+      "date": "2026-11-18",
+      "summary": "Ce texte présente les éléphants sous plusieurs angles : leurs caractéristiques physiques, leur organisation sociale, leur mémoire remarquable ainsi que leur rôle historique et culturel.",
+      "path": "articles/2026-11-18-elephant.json",
+      "variants": [
+        {
+          "id": "2026-11-18-elephant-b1",
+          "title": "Les éléphants : des géants entre nature, mémoire et histoire",
+          "level": "B1",
+          "theme": "science",
+          "date": "2026-11-18",
+          "summary": "Cet article présente les éléphants : leurs espèces, leur taille, leur trompe, leur mémoire, leur vie en groupe et les dangers qui menacent leur survie.",
+          "path": "articles/2026-11-18-elephant-b1.json"
+        },
+        {
+          "id": "2026-11-18-elephant-a2",
+          "title": "Les éléphants : géants et intelligents",
+          "level": "A2",
+          "theme": "science",
+          "date": "2026-11-18",
+          "summary": "Les éléphants sont de grands mammifères herbivores. Ils vivent en Afrique et en Asie, ont une trompe puissante et une mémoire remarquable.",
+          "path": "articles/2026-11-18-elephant-a2.json"
+        }
+      ]
+    }
+  ]
+}

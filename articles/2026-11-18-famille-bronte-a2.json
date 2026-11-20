@@ -1,0 +1,369 @@
+{
+  "id": "2026-11-18-famille-bronte-a2",
+  "title": "La famille Brontë : trois sœurs et leurs romans",
+  "level": "A2",
+  "theme": "culture",
+  "date": "2026-11-18",
+  "summary": "La famille Brontë est une famille d’écrivaines du XIXe siècle. Trois sœurs, Charlotte, Emily et Anne, ont publié des romans célèbres sous des noms d’hommes.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "La famille Brontë est une famille d’écrivains britanniques du XIXe siècle.",
+        "Trois sœurs sont surtout connues : Charlotte, Emily et Anne.",
+        "Charlotte a vécu de 1816 à 1855, Emily de 1818 à 1848 et Anne de 1820 à 1849.",
+        "Leur frère Branwell et leur père Patrick font aussi partie de l’histoire familiale."
+      ]
+    },
+    {
+      "sentences": [
+        "Les trois sœurs ont d’abord écrit des poèmes.",
+        "Ensuite, elles ont publié des romans avec des noms d’hommes.",
+        "Jane Eyre, de Charlotte, a tout de suite eu du succès.",
+        "Les autres livres ont été reconnus plus tard comme des œuvres importantes."
+      ]
+    },
+    {
+      "sentences": [
+        "Emily a écrit Wuthering Heights, appelé Les Hauts de Hurlevent en français.",
+        "Anne a écrit The Tenant of Wildfell Hall, ou La Locataire de Wildfell Hall.",
+        "Charlotte a aussi écrit Villette.",
+        "Ces romans parlent de passions fortes et ont surpris les lecteurs."
+      ]
+    },
+    {
+      "sentences": [
+        "Les enfants Brontë étaient très proches.",
+        "Ils inventaient ensemble des histoires complexes.",
+        "La mort de leur mère et de deux sœurs aînées les a beaucoup marqués.",
+        "Cette tristesse a influencé leurs livres."
+      ]
+    },
+    {
+      "sentences": [
+        "Les sœurs sont mortes jeunes, et cela a augmenté leur célébrité.",
+        "Leur maison à Haworth est devenue un musée.",
+        "Chaque année, ce musée reçoit plusieurs centaines de milliers de personnes.",
+        "Des visiteurs de nombreux pays viennent encore découvrir leur vie."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "britanniques"
+    },
+    {
+      "term": "XIXe"
+    },
+    {
+      "term": "poèmes"
+    },
+    {
+      "term": "publié"
+    },
+    {
+      "term": "succès"
+    },
+    {
+      "term": "reconnus"
+    },
+    {
+      "term": "œuvres"
+    },
+    {
+      "term": "passions"
+    },
+    {
+      "term": "influencé"
+    },
+    {
+      "term": "célébrité"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Qu’est-ce que les trois sœurs ont écrit en premier ?",
+      "options": [
+        "Des poèmes",
+        "Des romans",
+        "Des lettres",
+        "Des pièces de théâtre"
+      ],
+      "answerIndex": 0,
+      "evidence": "Les trois sœurs ont d’abord écrit des poèmes.",
+      "explanation": "Le texte indique que les sœurs ont commencé par la poésie avant de publier des romans. Les autres options ne correspondent pas à ce premier type d’écriture."
+    },
+    {
+      "id": "q2",
+      "prompt": "Comment les trois sœurs ont-elles signé leurs romans au début ?",
+      "options": [
+        "Avec leurs vrais prénoms",
+        "Sans mettre de nom",
+        "Avec des noms d’hommes",
+        "Avec le nom de leur père"
+      ],
+      "answerIndex": 2,
+      "evidence": "Ensuite, elles ont publié des romans avec des noms d’hommes.",
+      "explanation": "Le passage précise qu’elles utilisent des noms masculins pour publier leurs romans. Les autres propositions contredisent cette information."
+    },
+    {
+      "id": "q3",
+      "prompt": "Pourquoi la tristesse a-t-elle eu une influence sur les livres des enfants Brontë ?",
+      "options": [
+        "Parce qu’ils ont quitté leur maison",
+        "Parce que leur mère et deux sœurs aînées sont mortes",
+        "Parce qu’ils n’aimaient pas les poèmes",
+        "Parce que leur père écrivait aussi"
+      ],
+      "answerIndex": 1,
+      "evidence": "La mort de leur mère et de deux sœurs aînées les a beaucoup marqués.",
+      "explanation": "Le texte relie la tristesse à la perte de la mère et de deux sœurs aînées. Les autres options ne sont pas présentées comme la cause de cette tristesse."
+    },
+    {
+      "id": "q4",
+      "prompt": "Que présente surtout cet article ?",
+      "options": [
+        "La vie d’un musée en Angleterre",
+        "Les romans policiers du XIXe siècle",
+        "Un voyage de Charlotte en France",
+        "Trois sœurs écrivaines et leur famille"
+      ],
+      "answerIndex": 3,
+      "evidence": "La famille Brontë est une famille d’écrivains britanniques du XIXe siècle.",
+      "explanation": "L’article parle principalement des trois sœurs Brontë, de leurs livres et de leur famille. Les autres options ne correspondent pas au sujet central du texte."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quel roman de Charlotte a connu un succès immédiat ?",
+      "options": [
+        "Jane Eyre",
+        "Villette",
+        "Les Hauts de Hurlevent",
+        "La Locataire de Wildfell Hall"
+      ],
+      "answerIndex": 0,
+      "evidence": "Jane Eyre, de Charlotte, a tout de suite eu du succès.",
+      "explanation": "Le texte dit que Jane Eyre a eu du succès tout de suite. Villette est aussi de Charlotte, mais ce succès immédiat n’est pas mentionné pour ce roman."
+    },
+    {
+      "id": "q6",
+      "prompt": "Qui a écrit Wuthering Heights ?",
+      "options": [
+        "Charlotte",
+        "Anne",
+        "Emily",
+        "Branwell"
+      ],
+      "answerIndex": 2,
+      "evidence": "Emily a écrit Wuthering Heights, appelé Les Hauts de Hurlevent en français.",
+      "explanation": "Le passage attribue clairement Wuthering Heights à Emily. Charlotte, Anne et Branwell ne sont pas présentés comme l’auteur de ce roman."
+    },
+    {
+      "id": "q7",
+      "prompt": "Aujourd’hui, que peuvent visiter les touristes à Haworth ?",
+      "options": [
+        "L’école des sœurs Brontë",
+        "La maison des sœurs Brontë",
+        "La tombe de leur père",
+        "La bibliothèque de Charlotte"
+      ],
+      "answerIndex": 1,
+      "evidence": "Leur maison à Haworth est devenue un musée.",
+      "explanation": "Le texte explique que la maison familiale à Haworth est maintenant un lieu à visiter. Les autres lieux ne sont pas indiqués comme ouverts aux visiteurs."
+    },
+    {
+      "id": "q8",
+      "prompt": "D’où viennent les personnes qui visitent la maison des sœurs Brontë ?",
+      "options": [
+        "De pays variés",
+        "Seulement du Royaume-Uni",
+        "Surtout de France",
+        "D’une seule ville anglaise"
+      ],
+      "answerIndex": 0,
+      "evidence": "Des visiteurs de nombreux pays viennent encore découvrir leur vie.",
+      "explanation": "Le texte parle de visiteurs venant de nombreux pays, donc de différents pays. Les options qui limitent les visiteurs à un seul pays ou lieu sont fausses."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "勃朗特家族：三姐妹与她们的小说",
+      "summary": "勃朗特家族是19世纪的一个女作家家庭。夏洛蒂、艾米莉和安妮三姐妹以男性名字发表了著名小说。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "勃朗特家族是19世纪英国的一个作家家庭。",
+            "其中尤其著名的是三姐妹：夏洛蒂、艾米莉和安妮。",
+            "夏洛蒂生于1816年，卒于1855年；艾米莉生于1818年，卒于1848年；安妮生于1820年，卒于1849年。",
+            "她们的兄弟布兰威尔和父亲帕特里克也属于这个家族故事的一部分。"
+          ]
+        },
+        {
+          "sentences": [
+            "三姐妹起初写诗歌。",
+            "随后，她们用男人的名字发表了小说。",
+            "夏洛蒂的《简·爱》立刻获得了成功。",
+            "其他作品后来才被承认为重要作品。"
+          ]
+        },
+        {
+          "sentences": [
+            "艾米莉写了《呼啸山庄》，法语名为《Les Hauts de Hurlevent》。",
+            "安妮写了《怀尔德菲尔府的租客》（The Tenant of Wildfell Hall），法语名为《La Locataire de Wildfell Hall》。",
+            "夏洛蒂还写了《维莱特》。",
+            "这些小说讲述强烈的情感，并让读者感到惊讶。"
+          ]
+        },
+        {
+          "sentences": [
+            "勃朗特家的孩子们关系非常亲密。",
+            "他们一起编造复杂的故事。",
+            "母亲和两个姐姐的去世给他们留下了很深的印记。",
+            "这种悲伤影响了他们的书。"
+          ]
+        },
+        {
+          "sentences": [
+            "姐妹们年纪轻轻就去世了，这提高了她们的名气。",
+            "她们在霍沃思的房子变成了一座博物馆。",
+            "每年，这座博物馆接待数十万人。",
+            "来自许多国家的游客仍来了解她们的生活。"
+          ]
+        }
+      ],
+      "glossary": {
+        "britanniques": "英国的；指与英国（大不列颠及北爱尔兰联合王国）有关的。",
+        "XIXe": "第十九（世纪）；如 XIXe siècle 表示19世纪。",
+        "poèmes": "诗歌（复数）；指诗篇、诗歌作品。",
+        "publié": "已出版、发表了；publier 的过去分词，这里指作品被发表。",
+        "succès": "成功、受欢迎；这里指作品获得成功。",
+        "reconnus": "被承认的、被认可的；这里指作品后来被公认为重要。",
+        "œuvres": "作品；尤指文学或艺术创作。",
+        "passions": "激情、强烈的情感（复数）。",
+        "influencé": "影响了；influencer 的过去分词，表示对……产生影响。",
+        "célébrité": "名声、名气；也可指名人。"
+      },
+      "questions": {
+        "q1": "原文说“三姐妹起初写诗歌”，随后才发表小说；因此正确项是“诗歌”。信件、戏剧在文中没有作为最初写作类型出现，“小说”是后来发表的。",
+        "q2": "原文说“随后她们用男人的名字发表小说”，即采用男性名字作署名；所以正确项是“用男性的名字”。真实名字、不署名、父亲名字都不符合。",
+        "q3": "原文把悲伤与“母亲和两个姐姐去世”直接联系起来，说明家庭丧亲深深影响了她们；因此正确项是“因为他们的母亲和两个姐姐去世了”。离开家、不喜欢诗歌、父亲也写作都不是文中给出的原因。",
+        "q4": "全文围绕勃朗特三姐妹、她们的小说和家庭展开，首句也点明这是一个19世纪英国作家家庭；所以正确项是“三位作家姐妹和她们的家人”。博物馆、侦探小说、夏洛蒂法国旅行都不是中心。",
+        "q5": "原文明确说“夏洛蒂的《简·爱》立刻获得成功”，因此正确项是《简·爱》。《维莱特》虽也是夏洛蒂作品，但文中没有说它立即成功；另外两部是艾米莉和安妮的作品。",
+        "q6": "原文说“艾米莉写了《呼啸山庄》”，所以正确项是艾米莉。夏洛蒂、安妮、布兰威尔均未被说成该书作者。",
+        "q7": "原文说“她们在霍沃思的房子变成了博物馆”，因此游客今天可参观的是勃朗特姐妹故居；正确项是“勃朗特姐妹的故居”。学校、父亲坟墓、夏洛蒂图书馆都未说对游客开放。",
+        "q8": "原文说“来自许多国家的游客仍来了解她们的生活”，说明参观者来自不同国家；正确项是“来自不同国家”。只说英国、主要法国、单一英格兰城市都与“许多国家”矛盾。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "三姐妹最先写的是什么？",
+          "options": [
+            "诗歌",
+            "小说",
+            "信件",
+            "戏剧"
+          ]
+        },
+        "q2": {
+          "prompt": "三姐妹最初发表小说时用了怎样的署名？",
+          "options": [
+            "用她们的真实名字",
+            "不署名",
+            "用男性的名字",
+            "用她们父亲的名字"
+          ]
+        },
+        "q3": {
+          "prompt": "为什么悲伤会对勃朗特家孩子们的书产生影响？",
+          "options": [
+            "因为他们离开了家",
+            "因为他们的母亲和两个姐姐去世了",
+            "因为他们不喜欢诗歌",
+            "因为他们的父亲也写作"
+          ]
+        },
+        "q4": {
+          "prompt": "这篇文章主要介绍什么？",
+          "options": [
+            "英格兰一座博物馆的情况",
+            "19世纪的侦探小说",
+            "夏洛蒂在法国的一次旅行",
+            "三位作家姐妹和她们的家人"
+          ]
+        },
+        "q5": {
+          "prompt": "夏洛蒂的哪部小说一出版就获得成功？",
+          "options": [
+            "《简·爱》",
+            "《维莱特》",
+            "《呼啸山庄》",
+            "《怀尔德菲尔府的租客》"
+          ]
+        },
+        "q6": {
+          "prompt": "《呼啸山庄》是谁写的？",
+          "options": [
+            "夏洛蒂",
+            "安妮",
+            "艾米莉",
+            "布兰威尔"
+          ]
+        },
+        "q7": {
+          "prompt": "如今游客在霍沃思可以参观什么？",
+          "options": [
+            "勃朗特姐妹的学校",
+            "勃朗特姐妹的故居",
+            "她们父亲的墓",
+            "夏洛蒂的图书馆"
+          ]
+        },
+        "q8": {
+          "prompt": "参观勃朗特姐妹故居的人来自哪里？",
+          "options": [
+            "来自不同国家",
+            "只来自英国",
+            "主要来自法国",
+            "来自英格兰的一座城市"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Famille Brontë",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=239589955",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-18",
+    "revisionId": "239589955"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-18",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-18-famille-bronte-a2-3cf2db84ea8c.jpg",
+    "alt": "1832 portrait of English writer and biographer Elizabeth Gaskell (1810-65)",
+    "author": "William John Thomson (Scottish, born circa 1771-1845)",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elizabeth_Gaskell_1832.jpg?oldid=1227899361",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Fichier original téléchargé depuis Wikimedia Commons ; aucune modification.",
+    "width": 318,
+    "height": 400,
+    "byteLength": 25084,
+    "sha256": "3cf2db84ea8c6cce3e69558e9d94274e127551bca965cfc7e1b119900c2ea2da",
+    "fileRevisionId": "1227899361",
+    "retrievedAt": "2026-11-20"
+  }
+}

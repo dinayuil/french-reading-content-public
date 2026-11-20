@@ -1,0 +1,350 @@
+{
+  "id": "2026-11-18-elephant",
+  "title": "Les éléphants : biologie, mémoire et histoire",
+  "level": "B2",
+  "theme": "science",
+  "date": "2026-11-18",
+  "summary": "Ce texte présente les éléphants sous plusieurs angles : leurs caractéristiques physiques, leur organisation sociale, leur mémoire remarquable ainsi que leur rôle historique et culturel.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Les éléphants, mammifères herbivores à peau épaisse, figurent parmi les plus grands animaux terrestres.",
+        "Le mâle d’Afrique atteint en moyenne quatre mètres au garrot et pèse environ six tonnes, alors que la femelle est plus petite.",
+        "Après vingt à vingt-deux mois de gestation, elle met au monde un seul petit, ce qui constitue la durée la plus longue chez les mammifères."
+      ]
+    },
+    {
+      "sentences": [
+        "Trois espèces sont reconnues : l’éléphant d’Asie, celui de savane d’Afrique et celui de forêt d’Afrique.",
+        "Les deux formes africaines ont longtemps été confondues, bien que des travaux aient montré leur séparation ancienne ; certains chercheurs les traitent encore comme des sous-espèces.",
+        "L’éléphant d’Afrique peut atteindre 3,70 m et sept tonnes, avec de grandes oreilles rafraîchissantes et une trompe à deux doigts.",
+        "L’espèce asiatique, plus petite, a des oreilles réduites et une trompe à un seul doigt."
+      ]
+    },
+    {
+      "sentences": [
+        "Composée d’environ quinze mille muscles, la trompe permet de sentir, de saisir, de caresser ou d’aspirer jusqu’à dix litres d’eau.",
+        "Les éléphants se distinguent par une mémoire remarquable : ils reconnaissent leurs semblables après vingt ans, et la matriarche guide le troupeau grâce à ses souvenirs.",
+        "Leur masse interdit le saut et la course véritable, mais ils avancent à quinze ou vingt kilomètres par heure, avec des pointes de trente à quarante.",
+        "En 2002, un mâle asiatique de trois tonnes a atteint vingt-trois kilomètres par heure en moyenne."
+      ]
+    },
+    {
+      "sentences": [
+        "Les troupeaux regroupent surtout des femelles et leurs petits, protégés par la matriarche et les autres adultes ; les mâles vivent souvent seuls et deviennent agressifs pendant le must, période hormonale marquée par un liquide frontal.",
+        "Chaque jour, un éléphant absorbe entre 150 et 260 kg de végétaux et de 50 à 140 litres d’eau.",
+        "En abattant des arbres ou en creusant le sol, il crée des clairières et des points d’eau favorables à la biodiversité, et il disperse des graines par ses déjections."
+      ]
+    },
+    {
+      "sentences": [
+        "La chasse pour l’ivoire a réduit les effectifs africains d’un million en 1970 à environ trente mille aujourd’hui, malgré la protection légale.",
+        "En 2002, des braconniers vendaient encore de l’ivoire à des acheteurs français, allemands et italiens.",
+        "Jumbo, capturé en 1861, transféré à Londres en 1865 puis aux États-Unis en 1882, est mort en 1885 ; un dessin satirique de 1870 a par ailleurs fait de l’éléphant l’emblème du Parti républicain américain.",
+        "Dans les légendes et les religions d’Asie, l’éléphant incarne force et sagesse ; il apparaît aussi dans des contes africains et la littérature jeunesse."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "herbivores"
+    },
+    {
+      "term": "garrot"
+    },
+    {
+      "term": "gestation"
+    },
+    {
+      "term": "sous-espèces"
+    },
+    {
+      "term": "rafraîchissantes"
+    },
+    {
+      "term": "matriarche"
+    },
+    {
+      "term": "must"
+    },
+    {
+      "term": "déjections"
+    },
+    {
+      "term": "braconniers"
+    },
+    {
+      "term": "satirique"
+    },
+    {
+      "term": "clairières"
+    },
+    {
+      "term": "biodiversité"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Que dit l’article à propos de la reproduction des éléphants ?",
+      "options": [
+        "La gestation dure vingt à vingt-deux mois et aboutit généralement à un seul petit, ce qui est la durée la plus longue chez les mammifères.",
+        "La gestation dure environ six mois et la femelle peut mettre au monde plusieurs petits.",
+        "La gestation atteint vingt ans et la femelle reconnaît son petit après ce délai.",
+        "La femelle met au monde un seul petit, mais la gestation reste plus courte que chez les autres mammifères."
+      ],
+      "answerIndex": 0,
+      "evidence": "Après vingt à vingt-deux mois de gestation, elle met au monde un seul petit, ce qui constitue la durée la plus longue chez les mammifères.",
+      "explanation": "La phrase précise à la fois la durée de la gestation, le nombre de petits et le record chez les mammifères. Les autres options modifient la durée, le nombre de petits ou le contraste avec les autres mammifères."
+    },
+    {
+      "id": "q2",
+      "prompt": "Que dit l’article sur la classification des deux formes africaines d’éléphants ?",
+      "options": [
+        "Elles sont aujourd’hui classées comme une seule espèce sans aucun débat scientifique.",
+        "Leur séparation ancienne n’a jamais été étudiée et elles restent confondues.",
+        "Bien que des travaux aient montré leur séparation ancienne, certains chercheurs les considèrent encore comme des sous-espèces.",
+        "Elles ont été séparées récemment, et tous les chercheurs les traitent comme deux espèces distinctes."
+      ],
+      "answerIndex": 2,
+      "evidence": "Les deux formes africaines ont longtemps été confondues, bien que des travaux aient montré leur séparation ancienne ; certains chercheurs les traitent encore comme des sous-espèces.",
+      "explanation": "Le texte maintient une nuance : la séparation ancienne est établie par des travaux, mais tous les chercheurs ne la traduisent pas en deux espèces. Les options fausses suppriment soit le débat, soit l’ancienneté de la séparation, soit la position des chercheurs."
+    },
+    {
+      "id": "q3",
+      "prompt": "Comment les éléphants contribuent-ils à la biodiversité, d’après l’article ?",
+      "options": [
+        "En chassant les braconniers qui menacent les points d’eau.",
+        "En abattant des arbres ou en creusant le sol, ils créent des clairières et des points d’eau, et dispersent des graines par leurs déjections.",
+        "En aspirant jusqu’à dix litres d’eau avec leur trompe, ils alimentent les autres espèces.",
+        "En restant seuls pendant le must, ils protègent les petits du troupeau."
+      ],
+      "answerIndex": 1,
+      "evidence": "En abattant des arbres ou en creusant le sol, il crée des clairières et des points d’eau favorables à la biodiversité, et il disperse des graines par ses déjections.",
+      "explanation": "L’action bénéfique décrite repose sur la transformation du milieu et la dispersion des graines. Les autres propositions attribuent aux éléphants des rôles que le texte ne leur donne pas."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel fait montre que le commerce de l’ivoire a continué malgré la protection légale ?",
+      "options": [
+        "La chasse a fait passer les effectifs africains d’un million en 1970 à environ trente mille aujourd’hui.",
+        "Jumbo a été transféré à Londres en 1865 puis aux États-Unis en 1882.",
+        "Un dessin satirique de 1870 a fait de l’éléphant l’emblème du Parti républicain américain.",
+        "En 2002, des braconniers vendaient encore de l’ivoire à des acheteurs français, allemands et italiens."
+      ],
+      "answerIndex": 3,
+      "evidence": "En 2002, des braconniers vendaient encore de l’ivoire à des acheteurs français, allemands et italiens.",
+      "explanation": "Seule cette phrase mentionne des ventes d’ivoire postérieures à la protection légale et des acheteurs précis. Les autres options concernent la baisse des effectifs ou des faits historiques sans lien direct avec ce commerce."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle phrase résume le mieux le contenu de l’article ?",
+      "options": [
+        "L’article présente la biologie des éléphants, leur organisation sociale et leur mémoire, puis évoque leur histoire et leur présence dans les légendes.",
+        "L’article explique surtout comment protéger les éléphants du braconnage et pourquoi la loi est inefficace.",
+        "L’article compare les trois espèces pour démontrer que l’éléphant d’Asie est le plus grand et le plus rapide.",
+        "L’article raconte la vie de Jumbo et l’origine de l’emblème du Parti républicain américain."
+      ],
+      "answerIndex": 0,
+      "evidence": "Les éléphants, mammifères herbivores à peau épaisse, figurent parmi les plus grands animaux terrestres.",
+      "explanation": "Cette phrase ouvre la présentation biologique, et l’article développe ensuite la reproduction, les espèces, la trompe, la mémoire, la vie en troupeau, l’écologie et l’histoire. Les autres options réduisent le texte à un seul thème ou contredisent son contenu."
+    },
+    {
+      "id": "q6",
+      "prompt": "Que peut-on conclure sur les capacités de déplacement des éléphants à partir de leur masse ?",
+      "options": [
+        "Leur masse les empêche tout déplacement rapide, sauf pendant le must.",
+        "Leur masse les empêche de sauter et de courir véritablement, mais ils peuvent avancer à quinze ou vingt kilomètres par heure, avec des pointes plus élevées.",
+        "Grâce à leur masse, ils peuvent courir véritablement et atteindre trente à quarante kilomètres par heure en moyenne.",
+        "Leur masse explique qu’ils vivent seuls et deviennent agressifs pendant le must."
+      ],
+      "answerIndex": 1,
+      "evidence": "Leur masse interdit le saut et la course véritable, mais ils avancent à quinze ou vingt kilomètres par heure, avec des pointes de trente à quarante.",
+      "explanation": "Le texte oppose une limitation due à la masse à une vitesse de déplacement réelle, avec des pointes. Les options fausses suppriment cette opposition ou attribuent à la masse des conséquences sociales."
+    },
+    {
+      "id": "q7",
+      "prompt": "Qu’est-ce que le must chez les éléphants ?",
+      "options": [
+        "Une période où les femelles quittent le troupeau pour protéger les petits.",
+        "Une maladie de la trompe qui empêche les éléphants de boire plus de dix litres d’eau.",
+        "Une période hormonale où les mâles deviennent agressifs et qui se manifeste par un liquide frontal.",
+        "Un moment de l’année où la matriarche guide le troupeau grâce à ses souvenirs."
+      ],
+      "answerIndex": 2,
+      "evidence": "Les troupeaux regroupent surtout des femelles et leurs petits, protégés par la matriarche et les autres adultes ; les mâles vivent souvent seuls et deviennent agressifs pendant le must, période hormonale marquée par un liquide frontal.",
+      "explanation": "La phrase définit le must comme une période hormonale liée à l’agressivité des mâles et à un liquide frontal. Les autres options le confondent avec le rôle des femelles, la trompe ou la mémoire de la matriarche."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "大象：生物学、记忆与历史",
+      "summary": "本文从多个角度介绍大象：身体特征、社会组织、非凡记忆以及历史和文化角色。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "大象是皮厚的食草哺乳动物，属于最大的陆生动物之列。",
+            "非洲雄象肩高平均可达四米，体重约六吨，而雌象则较小。",
+            "经过二十到二十二个月的妊娠期，雌象产下一只幼象，这是哺乳动物中最长的妊娠期。"
+          ]
+        },
+        {
+          "sentences": [
+            "目前公认三个物种：亚洲象、非洲草原象和非洲森林象。",
+            "非洲的两种形态长期被混为一谈，尽管一些研究已表明它们很早便已分化；一些研究者仍将它们视为亚种。",
+            "非洲象可达3.70米高、七吨重，有大而能降温的耳朵和有两个指状突起的鼻子。",
+            "亚洲象体型较小，耳朵较小，鼻子只有一个指状突起。"
+          ]
+        },
+        {
+          "sentences": [
+            "象鼻由约一万五千块肌肉组成，可以嗅闻、抓取、抚摸，或吸入多达十升水。",
+            "大象以非凡的记忆力著称：它们能在二十年后认出同类，母系首领则凭借记忆带领象群。",
+            "它们的体重使它们无法跳跃，也无法真正奔跑，但它们能以每小时十五或二十公里的速度前进，冲刺时可达三十到四十公里。",
+            "2002年，一头三吨重的亚洲雄象平均速度达到每小时二十三公里。"
+          ]
+        },
+        {
+          "sentences": [
+            "象群主要聚集雌象及其幼象，由母系首领和其他成年象保护；雄象常独自生活，并在狂暴期变得具有攻击性，这一激素期以额部渗液为标志。",
+            "每天，一头大象摄入150至260公斤植物和50至140升水。",
+            "通过推倒树木或挖掘地面，它创造出有利于生物多样性的林间空地和饮水点，并通过粪便散布种子。"
+          ]
+        },
+        {
+          "sentences": [
+            "为获取象牙的狩猎使非洲象数量从1970年的一百万头降至今天约三万头，尽管有法律保护。",
+            "2002年，偷猎者仍向法国、德国和意大利买家出售象牙。",
+            "Jumbo于1861年被捕获，1865年被转移到伦敦，1882年又转到美国，1885年死亡；此外，1870年的一幅讽刺画使大象成为美国共和党的标志。",
+            "在亚洲的传说和宗教中，大象象征力量与智慧；它也出现在非洲故事和儿童文学中。"
+          ]
+        }
+      ],
+      "glossary": {
+        "herbivores": "食草动物",
+        "garrot": "肩隆，指动物肩部最高处",
+        "gestation": "妊娠期",
+        "sous-espèces": "亚种",
+        "rafraîchissantes": "有降温作用的（指大象的耳朵）",
+        "matriarche": "母系首领，尤指象群中最年长的雌象",
+        "must": "雄象的激素性狂暴期，表现为额部渗液和攻击性增强",
+        "déjections": "粪便；排泄物",
+        "braconniers": "偷猎者",
+        "satirique": "讽刺的",
+        "clairières": "林间空地；林中开阔地",
+        "biodiversité": "生物多样性"
+      },
+      "questions": {
+        "q1": "文中明确说妊娠期持续二十到二十二个月、通常只产一仔，并称这是哺乳动物中最长的妊娠期。第一项同时保留这三个要点；第二项把妊娠期缩短为约六个月并说可产多仔，第三项把二十年误作妊娠期并混入记忆，第四项承认一仔却否认最长妊娠期，均与原文相反。",
+        "q2": "原文说非洲两种形态长期混淆，但有研究显示它们很早便已分化，同时一些研究者仍把它们当作亚种。第三项保留了“研究显示古老分化”和“仍有研究者视为亚种”的细微限定。第一项说无争议的单一物种，第二项说从未研究且仍混淆，第四项说近期才分开且所有研究者视为两个独立物种，均删去或篡改原文限定。",
+        "q3": "原文把大象对生物多样性的贡献归于推倒树木或挖掘地面而形成林间空地和饮水点，以及通过粪便散播种子。第二项完整复现这一因果链。第一项说大象猎杀偷猎者，第三项把吸水说成供给其他物种，第四项把狂暴期独居说成保护幼象，原文均未支持。",
+        "q4": "问题问的是法律保护下象牙贸易仍继续的证据。原文用2002年偷猎者仍向法国、德国和意大利买家出售象牙这一事实直接说明。第四项正是该句。第一项讲数量下降，第二项讲Jumbo迁移，第三项讲讽刺画与政党标志，都不能直接证明2002年仍有象牙交易。",
+        "q5": "文章先介绍身体特征、繁殖、物种和象鼻，再讲记忆、群体、生态作用，最后讲狩猎史和文化象征，因此第一项最全面。第二项把全文缩成保护与法律无效，第三项错误地说亚洲象最大最快，第四项只抓Jumbo和党徽细节，均不能概括全文。",
+        "q6": "原文先以体重解释限制：不能跳、不能真正奔跑；随后给出实际速度十五或二十公里，冲刺三十到四十公里。第二项保留限制与速度并存的结论。第一项说除狂暴期外完全不能快速移动，第三项说能真正奔跑且平均三十到四十公里，第四项把体重与社会行为相连，均不符。",
+        "q7": "原文把must定义为雄象在激素期变得具有攻击性并以额部渗液为标志。第三项准确复现这一定义。第一项说雌象离群，第二项说是象鼻疾病并限制饮水，第四项说是母系首领凭记忆带队的时候，均把must与其他内容混淆。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "关于大象的繁殖，文章说了什么？",
+          "options": [
+            "妊娠期持续二十到二十二个月，通常只产下一只幼象，这是哺乳动物中最长的妊娠期。",
+            "妊娠期约六个月，雌象可产下多只幼象。",
+            "妊娠期长达二十年，雌象要在这之后才认出自己的幼象。",
+            "雌象只产下一只幼象，但妊娠期比其他哺乳动物更短。"
+          ]
+        },
+        "q2": {
+          "prompt": "关于非洲两种形态大象的分类，文章说了什么？",
+          "options": [
+            "它们今天被归为单一物种，没有任何科学争议。",
+            "它们古老的分化从未被研究，且仍被混为一谈。",
+            "尽管一些研究显示它们很早便已分化，一些研究者仍把它们视为亚种。",
+            "它们最近才被分开，所有研究者都把二者视为两个不同物种。"
+          ]
+        },
+        "q3": {
+          "prompt": "根据文章，大象如何促进生物多样性？",
+          "options": [
+            "通过猎杀威胁饮水点的偷猎者。",
+            "通过推倒树木或挖掘地面，它们创造林间空地和饮水点，并通过粪便散布种子。",
+            "通过用象鼻吸入多达十升水，它们为其他物种提供水源。",
+            "通过在狂暴期独居，它们保护象群中的幼象。"
+          ]
+        },
+        "q4": {
+          "prompt": "哪个事实表明尽管有法律保护，象牙贸易仍在继续？",
+          "options": [
+            "狩猎使非洲象数量从1970年的一百万头降至今天约三万头。",
+            "Jumbo于1865年被转移到伦敦，1882年又转到美国。",
+            "1870年的一幅讽刺画使大象成为美国共和党的标志。",
+            "2002年，偷猎者仍向法国、德国和意大利买家出售象牙。"
+          ]
+        },
+        "q5": {
+          "prompt": "哪句话最能概括文章内容？",
+          "options": [
+            "文章介绍大象的生物学、社会组织和记忆，然后谈到它们的历史及在传说中的地位。",
+            "文章主要解释如何保护大象免遭偷猎，以及法律为何无效。",
+            "文章比较三个物种，以证明亚洲象最大且最快。",
+            "文章讲述Jumbo的生平以及美国共和党标志的起源。"
+          ]
+        },
+        "q6": {
+          "prompt": "从体重可以得出关于大象移动能力的什么结论？",
+          "options": [
+            "体重使它们无法快速移动，狂暴期除外。",
+            "体重使它们不能跳跃，也不能真正奔跑，但它们能以每小时十五或二十公里前进，冲刺时更快。",
+            "由于体重，它们能真正奔跑，平均达到每小时三十到四十公里。",
+            "体重解释了它们为何独居并在狂暴期变得具有攻击性。"
+          ]
+        },
+        "q7": {
+          "prompt": "大象的must（狂暴期）是什么？",
+          "options": [
+            "雌象离开象群以保护幼象的时期。",
+            "一种象鼻疾病，使大象无法喝超过十升水。",
+            "雄象变得具有攻击性的激素期，并以额部渗液为表现。",
+            "一年中母系首领凭记忆带领象群的时刻。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Éléphant",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2308707&title=%C3%89l%C3%A9phant",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-18",
+    "revisionId": "2308707"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-18",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-18-elephant-da8cf76f5d55.jpg",
+    "alt": "An elephant that is part of the Flying Squad, teams of elephants and humans who patrol the park to help mitigate human-elephant conflict. When elephants leave the park and get into crops, the Flying Squad drives them back in. They do a lot of good, but sometimes they are too late, as in late Novembe",
+    "author": "Jennykapau",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephant_near_Camp_Flying_Squad_at_Tesso_Nilo_National_Park.JPG?oldid=1227592065",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Fichier original téléchargé depuis Wikimedia Commons ; aucune modification.",
+    "width": 1200,
+    "height": 1600,
+    "byteLength": 962042,
+    "sha256": "da8cf76f5d5554ec41c5f8013810b4dc4718f326f7a4fae88006a4e08b773262",
+    "fileRevisionId": "1227592065",
+    "retrievedAt": "2026-11-20"
+  }
+}

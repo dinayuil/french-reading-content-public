@@ -1,0 +1,358 @@
+{
+  "id": "2026-11-18-elephant-a2",
+  "title": "Les éléphants : géants et intelligents",
+  "level": "A2",
+  "theme": "science",
+  "date": "2026-11-18",
+  "summary": "Les éléphants sont de grands mammifères herbivores. Ils vivent en Afrique et en Asie, ont une trompe puissante et une mémoire remarquable.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "L’éléphant est le plus grand animal terrestre.",
+        "Le mâle d’Afrique mesure environ 4 m et pèse près de 6 tonnes.",
+        "Il existe trois espèces : Asie, savane d’Afrique et forêt d’Afrique."
+      ]
+    },
+    {
+      "sentences": [
+        "L’éléphant d’Afrique a de grandes oreilles et une trompe à deux doigts.",
+        "L’éléphant d’Asie est plus petit, avec de petites oreilles.",
+        "Sa trompe n’a qu’un seul doigt."
+      ]
+    },
+    {
+      "sentences": [
+        "La trompe compte environ 15 000 muscles.",
+        "Elle sert à sentir, saisir, caresser et aspirer jusqu’à 10 L d’eau.",
+        "Les petits s’y accrochent pendant les trajets."
+      ]
+    },
+    {
+      "sentences": [
+        "L’éléphant ne peut ni sauter ni courir.",
+        "En chargeant, il peut atteindre 15 à 20 km/h.",
+        "En 2002, un mâle d’Asie de 3 tonnes a atteint 23 km/h."
+      ]
+    },
+    {
+      "sentences": [
+        "La femelle porte son petit pendant 20 à 22 mois.",
+        "Les éléphants ont une mémoire très forte.",
+        "Ils reconnaissent un congénère après 20 ans."
+      ]
+    },
+    {
+      "sentences": [
+        "Les défenses sont en ivoire.",
+        "Le braconnage reste un danger.",
+        "En 1970, on comptait un million d’éléphants ; aujourd’hui, il en reste 30 000."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "terrestre"
+    },
+    {
+      "term": "espèces"
+    },
+    {
+      "term": "savane"
+    },
+    {
+      "term": "trompe"
+    },
+    {
+      "term": "muscles"
+    },
+    {
+      "term": "aspirer"
+    },
+    {
+      "term": "trajets"
+    },
+    {
+      "term": "chargeant"
+    },
+    {
+      "term": "congénère"
+    },
+    {
+      "term": "défenses"
+    },
+    {
+      "term": "ivoire"
+    },
+    {
+      "term": "braconnage"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Combien d’espèces d’éléphants le texte présente-t-il ?",
+      "options": [
+        "Deux",
+        "Trois",
+        "Quatre",
+        "Cinq"
+      ],
+      "answerIndex": 1,
+      "evidence": "Il existe trois espèces : Asie, savane d’Afrique et forêt d’Afrique.",
+      "explanation": "La phrase indique directement qu’il existe trois espèces. Les autres nombres ne correspondent pas à cette information."
+    },
+    {
+      "id": "q2",
+      "prompt": "Combien de doigts a la trompe de l’éléphant d’Asie ?",
+      "options": [
+        "Un seul doigt",
+        "Deux doigts",
+        "Trois doigts",
+        "Aucun doigt"
+      ],
+      "answerIndex": 0,
+      "evidence": "Sa trompe n’a qu’un seul doigt.",
+      "explanation": "Le texte précise que la trompe de l’éléphant d’Asie n’a qu’un seul doigt. Les deux doigts concernent l’éléphant d’Afrique."
+    },
+    {
+      "id": "q3",
+      "prompt": "Combien d’eau la trompe peut-elle aspirer ?",
+      "options": [
+        "Jusqu’à 5 L d’eau",
+        "Jusqu’à 10 L d’eau",
+        "Jusqu’à 15 L d’eau",
+        "Jusqu’à 20 L d’eau"
+      ],
+      "answerIndex": 1,
+      "evidence": "Elle sert à sentir, saisir, caresser et aspirer jusqu’à 10 L d’eau.",
+      "explanation": "La phrase dit que la trompe peut aspirer jusqu’à 10 L d’eau. Les autres quantités ne sont pas données pour l’eau."
+    },
+    {
+      "id": "q4",
+      "prompt": "Qu’est-ce que les braconniers recherchent chez l’éléphant, d’après le texte ?",
+      "options": [
+        "L’ivoire de ses défenses",
+        "La viande de son corps",
+        "La peau de ses oreilles",
+        "L’eau de sa trompe"
+      ],
+      "answerIndex": 0,
+      "evidence": "Les défenses sont en ivoire.",
+      "explanation": "Le texte dit que les défenses sont en ivoire et que le braconnage reste un danger ; le lien est donc l’ivoire. Les autres matières ne sont pas présentées comme recherchées."
+    },
+    {
+      "id": "q5",
+      "prompt": "Après combien d’années un éléphant peut-il reconnaître un congénère ?",
+      "options": [
+        "10 ans",
+        "15 ans",
+        "20 ans",
+        "30 ans"
+      ],
+      "answerIndex": 2,
+      "evidence": "Ils reconnaissent un congénère après 20 ans.",
+      "explanation": "La phrase indique clairement un délai de 20 ans. Les autres durées ne sont pas mentionnées pour cette information."
+    },
+    {
+      "id": "q6",
+      "prompt": "Combien de temps la femelle porte-t-elle son petit ?",
+      "options": [
+        "10 à 12 mois",
+        "15 à 18 mois",
+        "18 à 20 mois",
+        "20 à 22 mois"
+      ],
+      "answerIndex": 3,
+      "evidence": "La femelle porte son petit pendant 20 à 22 mois.",
+      "explanation": "Le texte donne la durée de 20 à 22 mois. Les autres durées proposées ne correspondent pas à cette phrase."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quelle idée principale le texte donne-t-il sur les éléphants ?",
+      "options": [
+        "Ils sont grands et intelligents",
+        "Ils sont plus rapides que tous les animaux",
+        "Ils vivent seulement en Asie",
+        "Ils n’ont pas de mémoire"
+      ],
+      "answerIndex": 0,
+      "evidence": "Les éléphants ont une mémoire très forte.",
+      "explanation": "Le texte parle de leur grande taille, de leur trompe, de leur mémoire et d’autres caractéristiques ; l’ensemble présente donc des animaux grands et intelligents. Les autres options contredisent le texte ou réduisent trop son sujet."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "大象：庞然而聪明",
+      "summary": "大象是大型草食哺乳动物，生活在非洲和亚洲，拥有强壮的象鼻和非凡的记忆力。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "大象是最大的陆生动物。",
+            "非洲雄性大象长约4米，体重近6吨。",
+            "大象有三种：亚洲象、非洲草原象和非洲森林象。"
+          ]
+        },
+        {
+          "sentences": [
+            "非洲象有大耳朵和有两个指状突起的象鼻。",
+            "亚洲象体型更小，耳朵也小。",
+            "它的象鼻只有一个指状突起。"
+          ]
+        },
+        {
+          "sentences": [
+            "象鼻约有15000块肌肉。",
+            "它用于闻、抓、抚摸，以及吸起多达10升水。",
+            "小象在行走时会抓住象鼻。"
+          ]
+        },
+        {
+          "sentences": [
+            "大象既不能跳，也不能跑。",
+            "冲锋时，它可达到每小时15至20公里。",
+            "2002年，一头3吨重的亚洲雄象达到了每小时23公里。"
+          ]
+        },
+        {
+          "sentences": [
+            "雌象怀幼象20至22个月。",
+            "大象的记忆力非常强。",
+            "它们能在20年后认出同类。"
+          ]
+        },
+        {
+          "sentences": [
+            "长牙是象牙。",
+            "偷猎仍然是危险。",
+            "1970年，人们统计到一百万头大象；如今只剩下30000头。"
+          ]
+        }
+      ],
+      "glossary": {
+        "terrestre": "陆生的；生活在陆地上的。",
+        "espèces": "生物分类中的“种”，文中指大象的不同种类。",
+        "savane": "热带或亚热带草原，树木稀疏。",
+        "trompe": "象鼻，由鼻和上唇延长形成，长而灵活。",
+        "muscles": "肌肉；可收缩并产生运动的组织。",
+        "aspirer": "吸入液体或气体。",
+        "trajets": "行程；行走的路途。",
+        "chargeant": "冲锋时；此处指大象加速冲向某物。",
+        "congénère": "同种类的另一个个体。",
+        "défenses": "大象口腔中长出的长牙。",
+        "ivoire": "象牙材质，呈乳白色。",
+        "braconnage": "偷猎；非法捕猎野生动物。"
+      },
+      "questions": {
+        "q1": "文中句子“存在三种：亚洲象、非洲草原象和非洲森林象”直接说明大象有三种；第二项“三种”正确。第一项“两种”、第三项“四种”、第四项“五种”都与原文给出的数量不符。",
+        "q2": "证据“它的象鼻只有一个指状突起”说明亚洲象的象鼻只有一个指状突起；第一项“只有一个指状突起”正确。第二项“两个指状突起”对应的是非洲象，第三项“三个指状突起”和第四项“没有指状突起”在文中没有依据。",
+        "q3": "证据“吸起多达10升水”说明象鼻最多能吸10升水；第二项“最多10升水”正确。第一项“最多5升水”、第三项“最多15升水”、第四项“最多20升水”都不是文中给出的水量。",
+        "q4": "文中先说“长牙是象牙”，紧接着说“偷猎仍然是危险”，语义链是偷猎者因长牙的象牙而捕杀大象；第一项“长牙的象牙”正确。第二项“它身体的肉”、第三项“它耳朵的皮”、第四项“它的象鼻”都不是文中与偷猎危险相连的目标。",
+        "q5": "证据“它们能在20年后认出同类”直接说明认出同类所需的年数是20年；第三项“20年”正确。第一项“10年”、第二项“15年”、第四项“30年”都不符合原文。",
+        "q6": "证据“雌象怀幼象20至22个月”说明怀孕时长是20至22个月；第四项“20至22个月”正确。第一项“10至12个月”、第二项“15至18个月”、第三项“18至20个月”都不是文中给出的时长。",
+        "q7": "文章从“最大的陆生动物”、三种大象、象鼻的功能、很强的记忆力和20年后认出同类等方面介绍大象，这些内容合起来说明它们体型庞大且聪明；第一项“它们体型庞大且聪明”正确。第二项“它们比所有动物都跑得快”与文中“不能跑”及有限速度矛盾，第三项“它们只生活在亚洲”与非洲和亚洲都有大象矛盾，第四项“它们没有记忆”与“记忆力非常强”矛盾。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "文章介绍了多少种大象？",
+          "options": [
+            "两种",
+            "三种",
+            "四种",
+            "五种"
+          ]
+        },
+        "q2": {
+          "prompt": "亚洲象的象鼻有几个指状突起？",
+          "options": [
+            "只有一个指状突起",
+            "两个指状突起",
+            "三个指状突起",
+            "没有指状突起"
+          ]
+        },
+        "q3": {
+          "prompt": "象鼻能吸起多少水？",
+          "options": [
+            "最多5升水",
+            "最多10升水",
+            "最多15升水",
+            "最多20升水"
+          ]
+        },
+        "q4": {
+          "prompt": "根据文章，偷猎者在大象身上寻找什么？",
+          "options": [
+            "长牙的象牙",
+            "它身体的肉",
+            "它耳朵的皮",
+            "它的象鼻"
+          ]
+        },
+        "q5": {
+          "prompt": "大象在多少年后能认出同类？",
+          "options": [
+            "10年",
+            "15年",
+            "20年",
+            "30年"
+          ]
+        },
+        "q6": {
+          "prompt": "雌象怀幼象多长时间？",
+          "options": [
+            "10至12个月",
+            "15至18个月",
+            "18至20个月",
+            "20至22个月"
+          ]
+        },
+        "q7": {
+          "prompt": "文章关于大象给出的主要观点是什么？",
+          "options": [
+            "它们体型庞大且聪明",
+            "它们比所有动物都跑得快",
+            "它们只生活在亚洲",
+            "它们没有记忆"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Éléphant",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2308707&title=%C3%89l%C3%A9phant",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-18",
+    "revisionId": "2308707"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-18",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-18-elephant-a2-da8cf76f5d55.jpg",
+    "alt": "An elephant that is part of the Flying Squad, teams of elephants and humans who patrol the park to help mitigate human-elephant conflict. When elephants leave the park and get into crops, the Flying Squad drives them back in. They do a lot of good, but sometimes they are too late, as in late Novembe",
+    "author": "Jennykapau",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephant_near_Camp_Flying_Squad_at_Tesso_Nilo_National_Park.JPG?oldid=1227592065",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Fichier original téléchargé depuis Wikimedia Commons ; aucune modification.",
+    "width": 1200,
+    "height": 1600,
+    "byteLength": 962042,
+    "sha256": "da8cf76f5d5554ec41c5f8013810b4dc4718f326f7a4fae88006a4e08b773262",
+    "fileRevisionId": "1227592065",
+    "retrievedAt": "2026-11-20"
+  }
+}

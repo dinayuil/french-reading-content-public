@@ -1,0 +1,364 @@
+{
+  "id": "2026-11-18-quand-la-radio-s-invente-une-voix-numerique-la-langue-et-la-a2",
+  "title": "La radio rom de Prizren passe au podcast",
+  "level": "A2",
+  "theme": "société",
+  "date": "2026-11-18",
+  "summary": "À Prizren, la radio Romano Avazo transforme trois entretiens en podcasts en langue romani. Ce projet donne à la communauté rom un espace numérique pour écouter sa culture à tout moment.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Radio Romano Avazo est une petite radio communautaire à Prizren, au Kosovo.",
+        "Depuis longtemps, elle diffuse des émissions en langue romani.",
+        "Beaucoup de Roms ont peu accès aux médias dans leur langue.",
+        "Aujourd’hui, les médias en ligne deviennent très importants."
+      ]
+    },
+    {
+      "sentences": [
+        "La radio a lancé le projet Romani Voice Digital.",
+        "Elle a transformé trois anciens entretiens en podcasts.",
+        "On peut les écouter sur plusieurs plateformes connues, dont Spotify, Apple Podcasts et YouTube, ainsi que sur son site.",
+        "Ainsi, les contenus ne disparaissent plus après une diffusion."
+      ]
+    },
+    {
+      "sentences": [
+        "Trois épisodes parlent de trois personnes roms.",
+        "Urma Menekshe est professeure de romani et fondatrice d’une petite bibliothèque.",
+        "Sejnur Veshall est ancien vice-ministre de la Culture, comédien et poète.",
+        "Daut Qulangjiu dirige la rédaction rom de la RTK.",
+        "Il a aussi été danseur, folkloriste et comédien."
+      ]
+    },
+    {
+      "sentences": [
+        "Les podcasts montrent la vie de ces personnes.",
+        "Les auditeurs entendent aussi leurs idées pour aider la communauté rom.",
+        "Le projet voulait au moins 500 écoutes et 200 nouveaux abonnés.",
+        "Déjà, les contenus ont des dizaines de milliers de vues et d’écoutes."
+      ]
+    },
+    {
+      "sentences": [
+        "La radio veut créer une rubrique podcast permanente sur son site.",
+        "Les trois épisodes peuvent devenir une archive numérique plus grande.",
+        "Ce projet montre que la langue romani a sa place sur Internet.",
+        "Il peut aussi toucher la diaspora rom en Europe et ailleurs."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "communautaire"
+    },
+    {
+      "term": "romani"
+    },
+    {
+      "term": "podcasts"
+    },
+    {
+      "term": "plateformes"
+    },
+    {
+      "term": "abonnés"
+    },
+    {
+      "term": "rubrique"
+    },
+    {
+      "term": "archive"
+    },
+    {
+      "term": "diaspora"
+    },
+    {
+      "term": "folkloriste"
+    },
+    {
+      "term": "rédaction"
+    },
+    {
+      "term": "vice-ministre"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Que présente l’article sur Radio Romano Avazo ?",
+      "options": [
+        "Une grande radio nationale qui parle surtout en albanais.",
+        "Une petite radio de quartier qui fait des émissions en romani.",
+        "Un journal en ligne qui écrit seulement sur la culture.",
+        "Une chaîne de télévision qui vend des podcasts."
+      ],
+      "answerIndex": 1,
+      "evidence": "Radio Romano Avazo est une petite radio communautaire à Prizren, au Kosovo.",
+      "explanation": "Le texte dit que c’est une petite radio communautaire et qu’elle diffuse en romani. Les autres options changent le type de média ou la langue utilisée."
+    },
+    {
+      "id": "q2",
+      "prompt": "De quelle manière le public peut-il écouter les podcasts ?",
+      "options": [
+        "Uniquement en direct à la radio, pendant l’émission.",
+        "Seulement sur une plateforme appelée Romani Voice Digital.",
+        "Sur des services d’écoute en ligne et sur le site de la radio.",
+        "Sur le site de la RTK, avec un mot de passe."
+      ],
+      "answerIndex": 2,
+      "evidence": "On peut les écouter sur plusieurs plateformes connues, dont Spotify, Apple Podcasts et YouTube, ainsi que sur son site.",
+      "explanation": "Le texte cite plusieurs plateformes en ligne et le site de la radio. Il ne dit pas que l’écoute se fait seulement en direct ou sur un seul site."
+    },
+    {
+      "id": "q3",
+      "prompt": "Qu’est-ce que la radio a fait avec trois anciens entretiens ?",
+      "options": [
+        "Elle les a changés en podcasts.",
+        "Elle les a supprimés après la diffusion.",
+        "Elle les a traduits en albanais.",
+        "Elle les a vendus à Spotify."
+      ],
+      "answerIndex": 0,
+      "evidence": "Elle a transformé trois anciens entretiens en podcasts.",
+      "explanation": "Le projet a transformé ces entretiens en fichiers audio à écouter en ligne. Aucune vente ou traduction n’est mentionnée dans le texte."
+    },
+    {
+      "id": "q4",
+      "prompt": "Pourquoi les émissions ne disparaissent-elles plus après leur diffusion ?",
+      "options": [
+        "Parce que la radio arrête de diffuser en direct.",
+        "Parce que les invités gardent tous les fichiers.",
+        "Parce que YouTube est la seule plateforme gratuite.",
+        "Parce qu’on peut les réécouter en ligne plus tard."
+      ],
+      "answerIndex": 3,
+      "evidence": "Ainsi, les contenus ne disparaissent plus après une diffusion.",
+      "explanation": "La phrase « Ainsi » vient après l’idée qu’on peut écouter les podcasts sur des plateformes. Les contenus restent donc disponibles en ligne après la diffusion."
+    },
+    {
+      "id": "q5",
+      "prompt": "Qui est Urma Menekshe ?",
+      "options": [
+        "Une ancienne vice-ministre de la Culture.",
+        "Une danseuse et comédienne de la RTK.",
+        "Une professeure de romani et fondatrice d’une bibliothèque.",
+        "Une poétesse qui dirige la rédaction rom."
+      ],
+      "answerIndex": 2,
+      "evidence": "Urma Menekshe est professeure de romani et fondatrice d’une petite bibliothèque.",
+      "explanation": "Le texte donne ces deux rôles pour Urma Menekshe. Les autres fonctions sont celles de Sejnur Veshall ou de Daut Qulangjiu."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quel effet les podcasts ont-ils déjà eu sur le public ?",
+      "options": [
+        "Le public les a déjà regardés ou écoutés plusieurs dizaines de milliers de fois.",
+        "Le public a atteint exactement 500 écoutes et 200 abonnés.",
+        "Le public ne les a pas encore écoutés.",
+        "Le public les a écoutés seulement 200 fois."
+      ],
+      "answerIndex": 0,
+      "evidence": "Déjà, les contenus ont des dizaines de milliers de vues et d’écoutes.",
+      "explanation": "Le texte parle de dizaines de milliers de vues et d’écoutes déjà obtenues. Les nombres 500 et 200 correspondent à l’objectif du projet, pas au résultat actuel."
+    },
+    {
+      "id": "q7",
+      "prompt": "Que montre ce projet pour la langue romani ?",
+      "options": [
+        "Qu’elle doit rester seulement à la radio.",
+        "Qu’elle peut être présente et utilisée sur Internet.",
+        "Qu’elle est plus difficile que les autres langues.",
+        "Qu’elle n’intéresse plus les Roms du Kosovo."
+      ],
+      "answerIndex": 1,
+      "evidence": "Ce projet montre que la langue romani a sa place sur Internet.",
+      "explanation": "L’article dit que le romani peut avoir sa place en ligne. Il ne dit pas qu’il doit rester à la radio ou qu’il n’intéresse plus les Roms."
+    },
+    {
+      "id": "q8",
+      "prompt": "Quel nouveau projet la radio veut-elle réaliser ?",
+      "options": [
+        "Arrêter les podcasts après les trois premiers épisodes.",
+        "Ouvrir une radio dans un autre pays d’Europe.",
+        "Donner tous les entretiens à une chaîne de télévision.",
+        "Avoir une partie podcast qui reste sur son site."
+      ],
+      "answerIndex": 3,
+      "evidence": "La radio veut créer une rubrique podcast permanente sur son site.",
+      "explanation": "Le texte parle d’une rubrique permanente sur le site. Il ne parle pas d’arrêter les podcasts ni d’ouvrir une nouvelle radio."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "普里兹伦的罗姆电台转向播客",
+      "summary": "在普里兹伦，Romano Avazo 电台把三段访谈改做成罗姆语播客，让罗姆社群拥有可随时收听的数字文化空间。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "Radio Romano Avazo 是科索沃普里兹伦的一家小型社区电台。",
+            "长期以来，它用罗姆语播出节目。",
+            "许多罗姆人很少能接触到用自己语言制作的大众媒体。",
+            "如今，网络媒体变得非常重要。"
+          ]
+        },
+        {
+          "sentences": [
+            "该电台启动了“Romani Voice Digital”项目。",
+            "它把三段旧访谈制作成了播客。",
+            "人们可以在 Spotify、Apple Podcasts 和 YouTube 等多个知名平台以及电台网站上收听这些内容。",
+            "这样一来，内容在播出后就不再消失。"
+          ]
+        },
+        {
+          "sentences": [
+            "三集节目讲述三位罗姆人的故事。",
+            "Urma Menekshe 是罗姆语教师，也是一家小型图书馆的创办人。",
+            "Sejnur Veshall 曾任文化部副部长，是演员和诗人。",
+            "Daut Qulangjiu 领导 RTK 的罗姆语编辑部。",
+            "他还曾是舞蹈演员、民俗学者和演员。"
+          ]
+        },
+        {
+          "sentences": [
+            "这些播客展现了这些人的生活。",
+            "听众也能听到他们帮助罗姆社群的想法。",
+            "该项目原定目标至少是500次收听和200名新订阅者。",
+            "目前，这些内容已有数万次观看和收听。"
+          ]
+        },
+        {
+          "sentences": [
+            "电台希望在其网站上开设一个常设播客栏目。",
+            "这三集节目可能发展成更大的数字档案。",
+            "这个项目表明罗姆语在互联网上有自己的位置。",
+            "它也可能触及欧洲及其他地区的罗姆侨民。"
+          ]
+        }
+      ],
+      "glossary": {
+        "communautaire": "社区性的；指由地方社区运营、服务于社区成员的。",
+        "romani": "罗姆语，罗姆人使用的语言。",
+        "podcasts": "播客，可在线收听并可回听的音频节目。",
+        "plateformes": "平台，这里指提供在线收听或视频服务的网站与应用。",
+        "abonnés": "订阅者，关注或订阅某个频道或节目的人。",
+        "rubrique": "栏目，网站或媒体中按主题划分的固定版块。",
+        "archive": "档案，保存下来供日后查阅的内容集合。",
+        "diaspora": "侨民或散居群体，离开原居地分散生活在其他地区的人群。",
+        "folkloriste": "民俗学者，研究民间传统、风俗和文化的人。",
+        "rédaction": "编辑部，负责采写、编辑内容的团队。",
+        "vice-ministre": "副部长，部长的副职。"
+      },
+      "questions": {
+        "q1": "文本开头说这是普里兹伦的一家小型社区电台，并长期用罗姆语播出；因此正确项是第二项“小型社区电台，用罗姆语做节目”。第一项说大型全国电台且主要用阿尔巴尼亚语，第三项说只写文化的在线报纸，第四项说卖播客的电视台，均与文本的媒体类型或语言不符。",
+        "q2": "文中说可在多个知名平台（如 Spotify、Apple Podcasts、YouTube）和电台网站收听；第三项概括为多个在线服务加电台网站，符合原意。第一项限定为直播、第二项限定为单一平台、第四项限定为 RTK 网站加密码，均与“多平台且含电台网站”不符。",
+        "q3": "文中明确说把三段旧访谈改成了播客。第二项说播出后删除、第三项说译成阿尔巴尼亚语、第四项说卖给 Spotify，文本都没有依据。",
+        "q4": "前文说可在多个平台和网站收听，随后用“这样一来”说明播出后内容不再消失；也就是说可事后在线回听。第一项说停止直播、第二项说嘉宾保存文件、第三项说 YouTube 是唯一免费平台，均不能解释文本中的因果关系。",
+        "q5": "文本直接给 Urma Menekshe 的身份是罗姆语教师和小型图书馆创办人，对应第三项。第一项是 Sejnur Veshall 的职务，第二项混合了 Daut Qulangjiu 的舞蹈和演员经历，第四项把诗人身份和 Daut 的编辑部职务混在一起。",
+        "q6": "文中说“已经”有数万次观看和收听；第一项用“累计获得数万次”概括这一结果。500次收听和200名订阅者是项目设定的目标，不是当前结果，因此第二项和第四项把目标或部分目标当成结果；第三项与“已有数万次”相反。",
+        "q7": "文章结尾说罗姆语在互联网上有位置，第二项用“能够在数字空间中存在并被使用”概括同一意思。第一项说只留在电台、第三项作语言难度比较、第四项说科索沃罗姆人不再关心，均与文本相反或无依据。",
+        "q8": "文中说电台想在其网站上创建常设播客栏目；第四项“官网上保留长期播客专区”是对该计划的概括。第一项停止制作、第二项去别国开台、第三项交给电视台，文本均未提到。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "文章介绍了 Radio Romano Avazo 的什么情况？",
+          "options": [
+            "一家主要用阿尔巴尼亚语播出的大型全国电台。",
+            "一家用罗姆语制作节目的小型社区电台。",
+            "一家只写文化内容的在线报纸。",
+            "一家出售播客的电视台。"
+          ]
+        },
+        "q2": {
+          "prompt": "根据文章，听众通过哪些途径可以获取这些播客？",
+          "options": [
+            "只能在电台直播节目进行时收听。",
+            "只能在一个名为 Romani Voice Digital 的平台收听。",
+            "可以通过多个在线收听服务以及电台自己的网站获取。",
+            "只能在 RTK 网站上凭密码收听。"
+          ]
+        },
+        "q3": {
+          "prompt": "电台把三段旧访谈做了什么？",
+          "options": [
+            "把它们改成了播客。",
+            "在播出后把它们删除了。",
+            "把它们翻译成阿尔巴尼亚语。",
+            "把它们卖给了 Spotify。"
+          ]
+        },
+        "q4": {
+          "prompt": "为什么节目播出后不再消失？",
+          "options": [
+            "因为电台停止直播。",
+            "因为嘉宾保存了所有文件。",
+            "因为 YouTube 是唯一免费平台。",
+            "因为人们之后可以在线回听。"
+          ]
+        },
+        "q5": {
+          "prompt": "Urma Menekshe 是谁？",
+          "options": [
+            "一位前文化部副部长。",
+            "RTK 的一名舞蹈演员和演员。",
+            "一位罗姆语教师和图书馆创办人。",
+            "一位领导罗姆语编辑部的诗人。"
+          ]
+        },
+        "q6": {
+          "prompt": "从目前的收听数据看，这些播客已经取得了什么结果？",
+          "options": [
+            "它们已经累计获得数万次浏览和收听。",
+            "它们恰好达到了500次收听和200名订阅者。",
+            "公众目前还没有收听这些节目。",
+            "它们只被收听了200次。"
+          ]
+        },
+        "q7": {
+          "prompt": "这个项目说明了罗姆语可以扮演什么角色？",
+          "options": [
+            "它应当只留在传统电台里。",
+            "它能够在数字空间中存在并被使用。",
+            "它比其他语言更难使用。",
+            "科索沃的罗姆人已经不再关心它。"
+          ]
+        },
+        "q8": {
+          "prompt": "电台接下来打算怎样发展播客？",
+          "options": [
+            "在三集之后就停止播客制作。",
+            "在欧洲另一个国家新开一家电台。",
+            "把所有访谈交给一家电视台。",
+            "在官网上保留一个长期的播客专区。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Quand la radio s’invente une voix numérique : la langue et la culture roms arrivent sur Internet au Kosovo",
+    "authors": [
+      "Global Voices Central & Eastern Europe"
+    ],
+    "translators": [
+      "Emilie FRAPICCINI"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/18/304175/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-18",
+    "publishedAt": "2026-11-18",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-18",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "id": "2026-11-18-elephant-b1",
+  "title": "Les éléphants : des géants entre nature, mémoire et histoire",
+  "level": "B1",
+  "theme": "science",
+  "date": "2026-11-18",
+  "summary": "Cet article présente les éléphants : leurs espèces, leur taille, leur trompe, leur mémoire, leur vie en groupe et les dangers qui menacent leur survie.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Les éléphants sont les plus grands animaux terrestres.",
+        "Le mâle d’Afrique peut mesurer environ 4 m et peser près de 6 tonnes.",
+        "Ce sont des mammifères herbivores à peau épaisse, appelés pachydermes."
+      ]
+    },
+    {
+      "sentences": [
+        "La femelle met au monde un seul petit après 22 mois de gestation.",
+        "Il existe trois espèces : l’éléphant d’Asie, celui de savane et celui de forêt en Afrique.",
+        "Une étude a montré que les deux espèces africaines se sont séparées il y a des millions d’années, mais des scientifiques en discutent encore."
+      ]
+    },
+    {
+      "sentences": [
+        "L’éléphant d’Afrique peut atteindre 3,70 m et 7 tonnes ; ses grandes oreilles l’aident à se refroidir.",
+        "L’éléphant d’Asie est plus petit, avec de plus petites oreilles et une trompe à un seul doigt.",
+        "Il peut être apprivoisé et dirigé par un cornac."
+      ]
+    },
+    {
+      "sentences": [
+        "Les éléphants ne peuvent pas sauter.",
+        "Quand ils chargent, ils avancent à environ 15 à 20 km/h, avec des pointes de 30 à 40 km/h.",
+        "Leur trompe compte environ 15 000 muscles et peut aspirer 10 L d’eau.",
+        "Ils ont une mémoire excellente et reconnaissent un congénère après 20 ans."
+      ]
+    },
+    {
+      "sentences": [
+        "La matriarche guide le troupeau grâce à cette mémoire.",
+        "Ils mangent chaque jour 150 à 260 kg de végétaux et boivent 50 à 140 L d’eau.",
+        "Leur défense en ivoire a causé une chasse massive : il y avait 1 million d’éléphants en 1970, contre 30 000 aujourd’hui.",
+        "L’espèce est protégée, mais le braconnage continue."
+      ]
+    },
+    {
+      "sentences": [
+        "Les éléphants créent des clairières et dispersent des graines, ce qui aide la biodiversité.",
+        "Dans l’histoire, ils ont servi d’animaux de guerre : Hannibal a traversé les Alpes en 218 av. J.-C. avec des éléphants.",
+        "Jumbo, capturé en 1861, est devenu célèbre, et l’éléphant symbolise le Parti républicain américain depuis 1870."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "pachydermes"
+    },
+    {
+      "term": "gestation"
+    },
+    {
+      "term": "savane"
+    },
+    {
+      "term": "cornac"
+    },
+    {
+      "term": "chargent"
+    },
+    {
+      "term": "congénère"
+    },
+    {
+      "term": "matriarche"
+    },
+    {
+      "term": "clairières"
+    },
+    {
+      "term": "biodiversité"
+    },
+    {
+      "term": "braconnage"
+    },
+    {
+      "term": "ivoire"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "D’après le texte, à quoi servent les grandes oreilles de l’éléphant d’Afrique ?",
+      "options": [
+        "Elles l’aident à faire baisser sa température.",
+        "Elles lui permettent de mieux entendre ses congénères.",
+        "Elles l’aident à charger plus vite.",
+        "Elles lui servent à aspirer plus d’eau."
+      ],
+      "answerIndex": 0,
+      "evidence": "L’éléphant d’Afrique peut atteindre 3,70 m et 7 tonnes ; ses grandes oreilles l’aident à se refroidir.",
+      "explanation": "Le texte associe directement les grandes oreilles à la fonction de refroidissement. Les autres options attribuent aux oreilles des rôles qui ne sont pas mentionnés."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quelle caractéristique de l’éléphant d’Asie est donnée dans le texte ?",
+      "options": [
+        "Il est plus grand que l’éléphant d’Afrique et a de grandes oreilles.",
+        "Il est plus petit et sa trompe n’a qu’un seul doigt.",
+        "Il ne peut pas être dirigé par un cornac.",
+        "Ses oreilles sont plus grandes que celles de l’éléphant d’Afrique."
+      ],
+      "answerIndex": 1,
+      "evidence": "L’éléphant d’Asie est plus petit, avec de plus petites oreilles et une trompe à un seul doigt.",
+      "explanation": "Le texte indique que l’éléphant d’Asie est plus petit, a de plus petites oreilles et une trompe à un seul doigt. La phrase suivante précise même qu’il peut être dirigé par un cornac."
+    },
+    {
+      "id": "q3",
+      "prompt": "Que dit le texte sur la vitesse des éléphants lorsqu’ils chargent ?",
+      "options": [
+        "Ils courent toujours entre 30 et 40 km/h sans pouvoir ralentir.",
+        "Ils ne dépassent jamais 15 km/h, même sur une courte distance.",
+        "Ils se déplacent le plus souvent autour de 15 à 20 km/h, mais peuvent aller jusqu’à 30 ou 40 km/h.",
+        "Ils sautent au-dessus des obstacles avant de charger à 20 km/h."
+      ],
+      "answerIndex": 2,
+      "evidence": "Quand ils chargent, ils avancent à environ 15 à 20 km/h, avec des pointes de 30 à 40 km/h.",
+      "explanation": "Le texte donne une vitesse habituelle en charge et des pointes plus rapides. L’option sur le saut contredit l’information selon laquelle les éléphants ne peuvent pas sauter."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel fait illustre la mémoire des éléphants dans le texte ?",
+      "options": [
+        "Ils boivent chaque jour entre 50 et 140 L d’eau.",
+        "Ils utilisent leur trompe pour aspirer 10 L d’eau.",
+        "La matriarche guide le troupeau sans mémoire.",
+        "Ils peuvent reconnaître un autre éléphant après vingt ans."
+      ],
+      "answerIndex": 3,
+      "evidence": "Ils ont une mémoire excellente et reconnaissent un congénère après 20 ans.",
+      "explanation": "Reconnaître un congénère après vingt ans est l’exemple donné pour montrer leur excellente mémoire. Les autres options concernent l’eau, la trompe ou contredisent le rôle de la mémoire."
+    },
+    {
+      "id": "q5",
+      "prompt": "Pourquoi le nombre d’éléphants a-t-il beaucoup baissé entre 1970 et aujourd’hui, selon le texte ?",
+      "options": [
+        "Parce que leur ivoire a entraîné une chasse très importante.",
+        "Parce qu’ils mangent trop de végétaux chaque jour.",
+        "Parce qu’ils ne peuvent pas sauter pour échapper aux dangers.",
+        "Parce qu’une étude a séparé les deux espèces africaines."
+      ],
+      "answerIndex": 0,
+      "evidence": "Leur défense en ivoire a causé une chasse massive : il y avait 1 million d’éléphants en 1970, contre 30 000 aujourd’hui.",
+      "explanation": "Le texte relie la défense en ivoire à une chasse massive, puis donne la forte baisse du nombre d’éléphants. Les autres causes ne sont pas présentées dans l’article."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quel rôle des éléphants est décrit dans le passage sur la biodiversité ?",
+      "options": [
+        "Ils empêchent les graines de se disperser dans les clairières.",
+        "Ils ouvrent des espaces et répandent des graines, ce qui favorise la biodiversité.",
+        "Ils protègent leur ivoire contre le braconnage.",
+        "Ils créent des clairières uniquement pour y trouver de l’eau."
+      ],
+      "answerIndex": 1,
+      "evidence": "Les éléphants créent des clairières et dispersent des graines, ce qui aide la biodiversité.",
+      "explanation": "Le texte dit que les éléphants créent des clairières et dispersent des graines, et que cela aide la biodiversité. Les autres options ajoutent des buts ou des effets qui ne sont pas dans l’article."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quel est le rôle du dernier paragraphe de l’article ?",
+      "options": [
+        "Expliquer comment l’éléphant d’Afrique se refroidit grâce à ses oreilles.",
+        "Décrire la gestation et la naissance d’un seul petit.",
+        "Montrer que les éléphants ont une importance écologique et une place dans l’histoire.",
+        "Comparer la taille de l’éléphant d’Asie et celle de l’éléphant d’Afrique."
+      ],
+      "answerIndex": 2,
+      "evidence": "Les éléphants créent des clairières et dispersent des graines, ce qui aide la biodiversité.",
+      "explanation": "Ce paragraphe présente d’abord l’utilité écologique des éléphants, puis rappelle des exemples historiques comme Hannibal, Jumbo et le symbole politique. Les autres options renvoient à des passages différents de l’article."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "大象：自然、记忆与历史中的巨人",
+      "summary": "本文介绍大象的物种、体型、象鼻、记忆、群居生活以及威胁其生存的危险。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "大象是最大的陆生动物。",
+            "非洲雄性大象可长约4米，体重接近6吨。",
+            "它们是皮肤厚实的食草哺乳动物，被称为厚皮动物。"
+          ]
+        },
+        {
+          "sentences": [
+            "雌象经过22个月的妊娠期后只产下一只幼象。",
+            "共有三个物种：亚洲象、非洲草原象和非洲森林象。",
+            "一项研究表明，两种非洲象在数百万年前就已分化，但科学家们仍在讨论这一点。"
+          ]
+        },
+        {
+          "sentences": [
+            "非洲象可达3.70米高、7吨重；它的大耳朵有助于降温。",
+            "亚洲象体型更小，耳朵更小，鼻子只有一个指状突。",
+            "它可以被驯服，并由驯象人引导。"
+          ]
+        },
+        {
+          "sentences": [
+            "大象不能跳跃。",
+            "它们冲锋时以大约每小时15至20公里的速度前进，短时峰值可达每小时30至40公里。",
+            "它们的鼻子约有15000块肌肉，能吸入10升水。",
+            "它们记忆力极好，能在20年后认出同类。"
+          ]
+        },
+        {
+          "sentences": [
+            "母系首领凭借这种记忆带领象群。",
+            "它们每天吃150至260公斤植物，喝50至140升水。",
+            "它们的象牙招致大规模猎杀：1970年有100万头大象，如今只有3万头。",
+            "该物种受到保护，但偷猎仍在继续。"
+          ]
+        },
+        {
+          "sentences": [
+            "大象创造林中空地并传播种子，这有助于生物多样性。",
+            "在历史上，它们曾被用作战争动物：公元前218年，汉尼拔带着大象穿越阿尔卑斯山。",
+            "1861年被捕获的Jumbo变得闻名，而自1870年起，大象成为美国共和党的象征。"
+          ]
+        }
+      ],
+      "glossary": {
+        "pachydermes": "旧称“厚皮动物”，指皮肤厚的大型哺乳动物，如大象。",
+        "gestation": "妊娠期，指胎儿在母体内发育的时期。",
+        "savane": "稀树草原，热带或亚热带草原。",
+        "cornac": "驯象人，负责引导和照料大象的人。",
+        "chargent": "这里指大象冲锋、冲击。",
+        "congénère": "同类，同种的另一个个体。",
+        "matriarche": "母系首领，象群中由年长雌象担任的领导者。",
+        "clairières": "林中空地，树林中树木较少或没有树木的空旷处。",
+        "biodiversité": "生物多样性，指生物种类和生态系统的丰富多样。",
+        "braconnage": "偷猎，非法捕杀受保护动物。",
+        "ivoire": "象牙，大象的獠牙材质。"
+      },
+      "questions": {
+        "q1": "文中直接说非洲象的大耳朵帮助它降温，所以第一项正确。其他选项把听觉、冲锋速度或吸水功能归给耳朵，文中没有这样说。",
+        "q2": "文中说亚洲象更小、耳朵更小、鼻子只有一个指状突；后一句还提到它可由驯象人引导。第二项概括了这些特征；第一项说更大且有大耳朵与原文相反，第三项说不能被引导与原文相反，第四项说耳朵更大也与原文相反。",
+        "q3": "文中说冲锋时约每小时15至20公里，并有每小时30至40公里的短时峰值。第三项用“通常”和“短时冲刺”转述了这一速度范围；第一项“总是30至40且不能减速”过于绝对，第二项“从不超过15”不符合峰值，第四项“跳过障碍”与文中“不会跳”矛盾。",
+        "q4": "文中把“二十年后仍能认出同类”作为记忆力极好的例证。第四项正是这一例证；第一、二项讲饮水或鼻子吸水，第三项说首领“没有记忆”与原文“凭这种记忆带领象群”相反。",
+        "q5": "文中把象牙引发的“大规模猎杀”与数量从100万降到3万联系起来，因此第一项正确。第二、三项虽提到食量或不会跳，但文中没有把它们说成数量骤降的原因；第四项把“研究显示非洲两物种分离”误解为数量下降的原因。",
+        "q6": "文中明确说大象创造林中空地并传播种子，这有助于生物多样性，所以第二项正确。第一项说阻止种子传播与原文相反；第三项把保护象牙说成作用，文中说的是象牙招致偷猎；第四项说只为找水，文中未提。",
+        "q7": "最后一段并非解释耳朵降温、妊娠产仔或亚洲象与非洲象的体型比较；它先说大象创造林中空地、传播种子，因而有助于生物多样性，随后举汉尼拔、Jumbo和美国共和党象征等历史例子，说明大象既有生态重要性又有历史地位，所以第三项最准确。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "根据文章，非洲象的大耳朵有什么作用？",
+          "options": [
+            "它们帮助它降低体温。",
+            "它们让它能更好地听见同类。",
+            "它们帮助它更快地冲锋。",
+            "它们用来吸入更多的水。"
+          ]
+        },
+        "q2": {
+          "prompt": "文中给出了亚洲象的哪一特征？",
+          "options": [
+            "它比非洲象更大，并且有大耳朵。",
+            "它体型更小，鼻子只有一个指状突。",
+            "它不能被驯象人引导。",
+            "它的耳朵比非洲象的耳朵更大。"
+          ]
+        },
+        "q3": {
+          "prompt": "文中如何描述大象冲锋时的速度？",
+          "options": [
+            "它们总是以每小时30至40公里的速度奔跑，无法减速。",
+            "即使距离很短，它们也从不超过每小时15公里。",
+            "它们冲锋时通常大约每小时15到20公里，短时冲刺可达每小时30到40公里。",
+            "它们在以每小时20公里冲锋前会跳过障碍。"
+          ]
+        },
+        "q4": {
+          "prompt": "文中用哪一事实说明大象的记忆力？",
+          "options": [
+            "它们每天喝50至140升水。",
+            "它们用鼻子吸入10升水。",
+            "母系首领在没有记忆的情况下带领象群。",
+            "它们能在二十年后认出另一头大象。"
+          ]
+        },
+        "q5": {
+          "prompt": "根据文章，为什么1970年至今大象数量大幅下降？",
+          "options": [
+            "因为象牙导致它们遭到大量猎杀。",
+            "因为它们每天吃太多植物。",
+            "因为它们不能跳起来躲避危险。",
+            "因为一项研究把两种非洲象分开了。"
+          ]
+        },
+        "q6": {
+          "prompt": "在关于生物多样性的段落中，描述了大象的什么作用？",
+          "options": [
+            "它们阻止种子在林中空地散播。",
+            "它们开辟空间并传播种子，从而促进生物多样性。",
+            "它们保护自己的象牙不被偷猎。",
+            "它们开辟林中空地只是为了找水。"
+          ]
+        },
+        "q7": {
+          "prompt": "文章最后一段的作用是什么？",
+          "options": [
+            "解释非洲象如何借助耳朵降温。",
+            "描述妊娠以及只产下一只幼象的过程。",
+            "说明大象具有生态重要性并在历史中占有一席之地。",
+            "比较亚洲象和非洲象的体型。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Éléphant",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2308707&title=%C3%89l%C3%A9phant",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-18",
+    "revisionId": "2308707"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-18",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-18-elephant-b1-da8cf76f5d55.jpg",
+    "alt": "An elephant that is part of the Flying Squad, teams of elephants and humans who patrol the park to help mitigate human-elephant conflict. When elephants leave the park and get into crops, the Flying Squad drives them back in. They do a lot of good, but sometimes they are too late, as in late Novembe",
+    "author": "Jennykapau",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephant_near_Camp_Flying_Squad_at_Tesso_Nilo_National_Park.JPG?oldid=1227592065",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Fichier original téléchargé depuis Wikimedia Commons ; aucune modification.",
+    "width": 1200,
+    "height": 1600,
+    "byteLength": 962042,
+    "sha256": "da8cf76f5d5554ec41c5f8013810b4dc4718f326f7a4fae88006a4e08b773262",
+    "fileRevisionId": "1227592065",
+    "retrievedAt": "2026-11-20"
+  }
+}

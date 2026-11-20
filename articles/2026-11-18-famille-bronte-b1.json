@@ -1,0 +1,342 @@
+{
+  "id": "2026-11-18-famille-bronte-b1",
+  "title": "La famille Brontë",
+  "level": "B1",
+  "theme": "culture",
+  "date": "2026-11-18",
+  "summary": "Les Brontë forment une famille britannique célèbre au XIXe siècle grâce à Charlotte, Emily et Anne. Leurs romans, d’abord publiés sous des noms masculins, ont marqué la littérature anglaise.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Les Brontë forment une famille britannique connue au XIXe siècle.",
+        "Elle doit sa célébrité à trois sœurs écrivaines : Charlotte, Emily et Anne.",
+        "Leur frère Branwell et leur père Patrick jouent aussi un rôle important dans cette histoire."
+      ]
+    },
+    {
+      "sentences": [
+        "Charlotte est née en 1816, Emily en 1818 et Anne en 1820.",
+        "Les trois sœurs écrivent d’abord des poèmes, puis des romans.",
+        "En 1846, elles publient un recueil sous des pseudonymes masculins : Currer, Ellis et Acton Bell.",
+        "En 1847, Jane Eyre, écrit par Charlotte, plaît rapidement au public."
+      ]
+    },
+    {
+      "sentences": [
+        "Les romans d’Emily et d’Anne attirent aussi l’attention, mais ils sont reconnus plus tard.",
+        "Wuthering Heights, Agnes Grey et The Tenant of Wildfell Hall font partie de leurs œuvres connues.",
+        "Les sœurs et Branwell inventent ensemble des mondes imaginaires pendant leur jeunesse.",
+        "La mort de leurs deux sœurs aînées les marque profondément."
+      ]
+    },
+    {
+      "sentences": [
+        "Les trois sœurs meurent jeunes de maladie : Emily en 1848, Anne en 1849 et Charlotte en 1855.",
+        "Leur père Patrick, né en 1777, meurt en 1861.",
+        "Leur maison, le presbytère de Haworth, devient un musée.",
+        "Chaque année, des centaines de milliers de visiteurs viennent du monde entier."
+      ]
+    },
+    {
+      "sentences": [
+        "Elizabeth Gaskell écrit une biographie de Charlotte en 1857.",
+        "Elle aide à créer la légende d’une famille de génie et de malheur.",
+        "Aujourd’hui, les Brontë restent des auteurs majeurs de la littérature anglaise."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "célébrité"
+    },
+    {
+      "term": "pseudonymes"
+    },
+    {
+      "term": "recueil"
+    },
+    {
+      "term": "presbytère"
+    },
+    {
+      "term": "biographie"
+    },
+    {
+      "term": "légende"
+    },
+    {
+      "term": "génie"
+    },
+    {
+      "term": "malheur"
+    },
+    {
+      "term": "aînées"
+    },
+    {
+      "term": "majeurs"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Pourquoi la famille Brontë est-elle connue ?",
+      "options": [
+        "Parce que trois sœurs de la famille sont devenues écrivaines.",
+        "Parce que leur père Patrick a écrit une biographie célèbre.",
+        "Parce que Branwell a fondé un musée à Haworth.",
+        "Parce que Charlotte a traduit des romans anglais."
+      ],
+      "answerIndex": 0,
+      "evidence": "Elle doit sa célébrité à trois sœurs écrivaines : Charlotte, Emily et Anne.",
+      "explanation": "Le texte attribue la célébrité des Brontë à trois sœurs écrivaines. Les autres options attribuent à tort un rôle célèbre au père, à Branwell ou à une activité de traduction."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quand les trois sœurs publient-elles un recueil sous des pseudonymes masculins ?",
+      "options": [
+        "En 1847",
+        "En 1846",
+        "En 1848",
+        "En 1857"
+      ],
+      "answerIndex": 1,
+      "evidence": "En 1846, elles publient un recueil sous des pseudonymes masculins : Currer, Ellis et Acton Bell.",
+      "explanation": "Le texte donne clairement 1846 pour ce recueil. Les autres dates correspondent à Jane Eyre, à la mort d’Emily ou à la biographie de Charlotte."
+    },
+    {
+      "id": "q3",
+      "prompt": "Que dit le texte sur la reconnaissance des romans d’Emily et d’Anne ?",
+      "options": [
+        "Ils ont été reconnus immédiatement, avant Jane Eyre.",
+        "Ils n’ont jamais attiré l’attention du public.",
+        "Ils ont attiré l’attention, mais leur reconnaissance est venue plus tard.",
+        "Ils ont été publiés seulement après la mort des trois sœurs."
+      ],
+      "answerIndex": 2,
+      "evidence": "Les romans d’Emily et d’Anne attirent aussi l’attention, mais ils sont reconnus plus tard.",
+      "explanation": "Le passage oppose l’attention reçue et une reconnaissance plus tardive. Les options qui parlent d’une reconnaissance immédiate, d’un absence d’attention ou d’une publication après la mort des trois sœurs ne correspondent pas au texte."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel événement familial a profondément marqué les sœurs ?",
+      "options": [
+        "La publication de Jane Eyre en 1847",
+        "Le déménagement de la famille à Londres",
+        "L’ouverture du presbytère de Haworth comme musée",
+        "La perte de leurs deux sœurs aînées"
+      ],
+      "answerIndex": 3,
+      "evidence": "La mort de leurs deux sœurs aînées les marque profondément.",
+      "explanation": "Le texte indique explicitement que la mort des deux sœurs aînées marque profondément les sœurs. Les autres événements sont soit absents, soit présentés ailleurs sans ce rôle marquant."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quel est le sujet principal de l’article ?",
+      "options": [
+        "Les voyages des visiteurs au presbytère de Haworth.",
+        "La vie et la postérité de la famille Brontë, célèbre pour ses écrivaines.",
+        "La biographie d’Elizabeth Gaskell sur Charlotte.",
+        "L’histoire de la littérature anglaise au XIXe siècle."
+      ],
+      "answerIndex": 1,
+      "evidence": "Les Brontë forment une famille britannique connue au XIXe siècle.",
+      "explanation": "L’article présente la famille, les œuvres des sœurs, leurs décès, leur maison et leur place dans la littérature. Les autres options ne portent que sur un détail ou élargissent le sujet à toute la littérature anglaise."
+    },
+    {
+      "id": "q6",
+      "prompt": "Qu’est devenue la maison des Brontë, le presbytère de Haworth ?",
+      "options": [
+        "Elle a été détruite après la mort de Patrick.",
+        "Elle est devenue une école pour les trois sœurs.",
+        "Elle est devenue un musée.",
+        "Elle a été achetée par Elizabeth Gaskell."
+      ],
+      "answerIndex": 2,
+      "evidence": "Leur maison, le presbytère de Haworth, devient un musée.",
+      "explanation": "Le texte dit que le presbytère de Haworth devient un musée. Les autres options ajoutent une destruction, une école ou un achat qui ne sont pas mentionnés."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quel rôle Elizabeth Gaskell joue-t-elle dans la mémoire des Brontë ?",
+      "options": [
+        "Elle contribue à construire l’image légendaire de la famille.",
+        "Elle publie le recueil de poèmes des sœurs sous des pseudonymes masculins.",
+        "Elle achète le presbytère de Haworth pour le transformer en musée.",
+        "Elle soigne Emily et Anne pendant leur maladie."
+      ],
+      "answerIndex": 0,
+      "evidence": "Elle aide à créer la légende d’une famille de génie et de malheur.",
+      "explanation": "Le texte précise qu’Elizabeth Gaskell aide à créer la légende de la famille. La publication du recueil est le fait des sœurs, et le musée ou les soins ne lui sont pas attribués."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "勃朗特家族",
+      "summary": "勃朗特家族是19世纪英国著名家族，因夏洛蒂、艾米莉和安妮三姐妹而闻名。她们先以男性笔名发表作品，其小说成为英国文学的重要经典。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "勃朗特家族是19世纪英国一个为人熟知的家庭。",
+            "它因三位女作家——夏洛蒂、艾米莉和安妮——而闻名。",
+            "她们的兄弟布兰威尔和父亲帕特里克也在这段历史中扮演重要角色。"
+          ]
+        },
+        {
+          "sentences": [
+            "夏洛蒂生于1816年，艾米莉生于1818年，安妮生于1820年。",
+            "三姐妹起初写诗，后来写小说。",
+            "1846年，她们以男性笔名出版了一部合集：柯勒、埃利斯和阿克顿·贝尔。",
+            "1847年，夏洛蒂写的《简·爱》很快受到读者欢迎。"
+          ]
+        },
+        {
+          "sentences": [
+            "艾米莉和安妮的小说也引起关注，但她们更晚才得到认可。",
+            "《呼啸山庄》《阿格尼斯·格雷》和《怀尔德菲尔府的房客》属于她们为人所知的作品。",
+            "三姐妹和布兰威尔在青少年时期一起构想出想象的世界。",
+            "她们两位年长姐姐的去世给她们留下深刻印记。"
+          ]
+        },
+        {
+          "sentences": [
+            "三姐妹都年轻时就因病去世：艾米莉于1848年，安妮于1849年，夏洛蒂于1855年。",
+            "她们的父亲帕特里克生于1777年，于1861年去世。",
+            "她们的家——霍沃思牧师住宅——成为一座博物馆。",
+            "每年有数十万来自世界各地的游客前来参观。"
+          ]
+        },
+        {
+          "sentences": [
+            "伊丽莎白·盖斯凯尔于1857年写了夏洛蒂的传记。",
+            "她帮助塑造了一个天才而不幸的家族的传奇。",
+            "如今，勃朗特家族仍是英国文学的重要作家。"
+          ]
+        }
+      ],
+      "glossary": {
+        "célébrité": "名声、名望；文中指勃朗特家族因三姐妹而广为人知。",
+        "pseudonymes": "假名、笔名；文中指三姐妹发表作品时使用的男性名字。",
+        "recueil": "作品集、合集；文中指她们1846年出版的一部合集。",
+        "presbytère": "牧师住宅；文中指霍沃思的牧师住宅，后来成为博物馆。",
+        "biographie": "传记；文中指盖斯凯尔为夏洛蒂写的生平著作。",
+        "légende": "传奇、传说；文中指关于这个家族天才与不幸的传奇化形象。",
+        "génie": "天才、才华；文中指这个家族被认为具有非凡文学天才。",
+        "malheur": "不幸、灾祸；文中指家族成员早逝等悲惨遭遇。",
+        "aînées": "年长的（姐姐）；文中指比三姐妹年长的两个姐姐。",
+        "majeurs": "重要的、主要的；文中指勃朗特家族在英语文学中地位重要。"
+      },
+      "questions": {
+        "q1": "原文说该家族的名声来自三位女作家夏洛蒂、艾米莉和安妮，所以第一项“因为家中的三姐妹成为了作家”与证据直接对应。第二项把写传记归于父亲帕特里克，第三项把创办博物馆归于布兰威尔，第四项说夏洛蒂翻译英国小说，这些都与原文不符。",
+        "q2": "证据明确说1846年她们以男性笔名出版合集，因此第二项“1846年”正确。1847年对应《简·爱》受到欢迎，1848年对应艾米莉去世，1857年对应盖斯凯尔写夏洛蒂传记，都不是出版合集的时间。",
+        "q3": "原文说这些小说“也引起关注，但更晚才得到认可”，因此第三项“它们引起了关注，但得到认可较晚”准确概括了这种先有关注、后有认可的关系。第一项说立即得到认可且早于《简·爱》，第二项说从未引起关注，第四项说三姐妹去世后才出版，均与原文矛盾或原文未提。",
+        "q4": "原文直接说“她们两位年长姐姐的去世给她们留下深刻印记”，所以第四项“她们失去两个年长的姐姐”正确。第一项是作品出版事件；第二项搬家在文中没有出现；第三项博物馆开放是后来房屋用途的变化，并非文中所述深刻影响三姐妹的家庭事件。",
+        "q5": "文章从家族成员、三姐妹的作品、去世、故居和文学地位等方面介绍勃朗特家族，因此第二项“以女作家闻名的勃朗特家族的生平与后世影响”最全面地概括主题。第一项只是文中一个细节，第三项只涉及盖斯凯尔传记这一部分，第四项把范围扩大到整个英国文学史，均过于狭窄或过宽。",
+        "q6": "原文明确说“她们的家，霍沃思牧师住宅，成为一座博物馆”，所以第三项“它成了一座博物馆”正确。第一项拆毁、第二项变成学校、第四项被盖斯凯尔买下，原文都没有提到。",
+        "q7": "原文说盖斯凯尔“帮助塑造了一个天才而不幸的家族的传奇”，因此第一项“她帮助塑造了这个家族的传奇形象”正确。第二项诗集出版是三姐妹自己以男性笔名完成的；第三项博物馆、第四项照顾病人均未归于盖斯凯尔。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "为什么勃朗特家族出名？",
+          "options": [
+            "因为家中的三姐妹成为了作家。",
+            "因为她们的父亲帕特里克写了一部著名传记。",
+            "因为布兰威尔在霍沃思创办了一座博物馆。",
+            "因为夏洛蒂翻译了英国小说。"
+          ]
+        },
+        "q2": {
+          "prompt": "三姐妹什么时候以男性笔名出版了一部合集？",
+          "options": [
+            "1847年",
+            "1846年",
+            "1848年",
+            "1857年"
+          ]
+        },
+        "q3": {
+          "prompt": "关于艾米莉和安妮小说的认可，原文怎么说？",
+          "options": [
+            "它们立即得到认可，早于《简·爱》。",
+            "它们从未引起公众关注。",
+            "它们引起了关注，但得到认可较晚。",
+            "它们直到三姐妹去世后才出版。"
+          ]
+        },
+        "q4": {
+          "prompt": "哪个家庭事件给三姐妹留下了深刻印记？",
+          "options": [
+            "1847年《简·爱》出版",
+            "全家搬到伦敦",
+            "霍沃思牧师住宅作为博物馆开放",
+            "她们失去两个年长的姐姐"
+          ]
+        },
+        "q5": {
+          "prompt": "这篇文章的主要主题是什么？",
+          "options": [
+            "游客前往霍沃思牧师住宅的旅行。",
+            "以女作家闻名的勃朗特家族的生平与后世影响。",
+            "伊丽莎白·盖斯凯尔写的夏洛蒂传记。",
+            "19世纪英国文学史。"
+          ]
+        },
+        "q6": {
+          "prompt": "勃朗特家的房子——霍沃思牧师住宅——变成了什么？",
+          "options": [
+            "它在帕特里克去世后被拆毁。",
+            "它成了三姐妹的学校。",
+            "它成了一座博物馆。",
+            "它被伊丽莎白·盖斯凯尔买下。"
+          ]
+        },
+        "q7": {
+          "prompt": "伊丽莎白·盖斯凯尔在勃朗特家族的记忆与形象中起了什么作用？",
+          "options": [
+            "她帮助塑造了这个家族的传奇形象。",
+            "她以男性笔名出版了三姐妹的诗集。",
+            "她买下霍沃思牧师住宅，把它改造成博物馆。",
+            "她在艾米莉和安妮生病时照顾她们。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Famille Brontë",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=239589955",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-18",
+    "revisionId": "239589955"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-18",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-18-famille-bronte-b1-3cf2db84ea8c.jpg",
+    "alt": "1832 portrait of English writer and biographer Elizabeth Gaskell (1810-65)",
+    "author": "William John Thomson (Scottish, born circa 1771-1845)",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elizabeth_Gaskell_1832.jpg?oldid=1227899361",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Fichier original téléchargé depuis Wikimedia Commons ; aucune modification.",
+    "width": 318,
+    "height": 400,
+    "byteLength": 25084,
+    "sha256": "3cf2db84ea8c6cce3e69558e9d94274e127551bca965cfc7e1b119900c2ea2da",
+    "fileRevisionId": "1227899361",
+    "retrievedAt": "2026-11-20"
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "id": "2026-11-18-famille-bronte",
+  "title": "Les Brontë : une famille littéraire au destin singulier",
+  "level": "B2",
+  "theme": "culture",
+  "date": "2026-11-18",
+  "summary": "Au XIXe siècle, trois sœurs du Yorkshire, Charlotte, Emily et Anne Brontë, ont marqué la littérature anglaise par des romans passionnés, tandis que leur destin tragique a nourri un culte durable autour de Haworth.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Au XIXe siècle, la famille Brontë s’est imposée dans les lettres britanniques grâce à trois sœurs devenues romancières et poétesses.",
+        "Charlotte (1816-1855), Emily (1818-1848) et Anne (1820-1849) ont d’abord publié sous des noms masculins, avant que leurs œuvres ne retiennent l’attention par leur originalité et leur ardeur.",
+        "Seul Jane Eyre, signé par Charlotte, a connu un succès immédiat, tandis que Wuthering Heights, The Tenant of Wildfell Hall et Villette ont été reconnus plus tard comme des textes majeurs."
+      ]
+    },
+    {
+      "sentences": [
+        "Très proches, les trois sœurs et leur frère Branwell ont développé leur imagination en composant ensemble des récits de plus en plus complexes.",
+        "Guidés par un père cultivé, ils ont nourri une complicité créative qui a marqué leur production.",
+        "La mort de leur mère, puis celle de leurs deux aînées, Elisabeth et Maria, les a profondément éprouvés et a influencé leurs œuvres."
+      ]
+    },
+    {
+      "sentences": [
+        "Leur destin tragique, marqué par des disparitions précoces dues à la maladie, a largement contribué à leur renommée et à celle de leurs proches.",
+        "Dès leur vivant, et plus encore après leur mort, la famille a fait l’objet d’un culte qui a dépassé les frontières de l’Angleterre.",
+        "Le presbytère de Haworth, transformé en musée, accueille chaque année des centaines de milliers de visiteurs venus du monde entier."
+      ]
+    },
+    {
+      "sentences": [
+        "Le père, Patrick Brontë (1777-1861), pasteur anglican et auteur de recueils poétiques, avait étudié à Cambridge et veillait lui-même à l’instruction de ses enfants.",
+        "Il leur a offert livres et liberté, encourageant leurs lectures, leurs écrits et leurs promenades sur la lande.",
+        "Cette ouverture a sans doute favorisé l’éclosion d’une imagination familiale exceptionnelle."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "s’est imposée"
+    },
+    {
+      "term": "romancières"
+    },
+    {
+      "term": "poétesses"
+    },
+    {
+      "term": "ardeur"
+    },
+    {
+      "term": "majeurs"
+    },
+    {
+      "term": "complicité"
+    },
+    {
+      "term": "aînées"
+    },
+    {
+      "term": "éprouvés"
+    },
+    {
+      "term": "précoces"
+    },
+    {
+      "term": "presbytère"
+    },
+    {
+      "term": "lande"
+    },
+    {
+      "term": "éclosion"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quelle œuvre a rencontré un succès immédiat dès sa publication, selon le texte ?",
+      "options": [
+        "Jane Eyre",
+        "Wuthering Heights",
+        "The Tenant of Wildfell Hall",
+        "Villette"
+      ],
+      "answerIndex": 0,
+      "evidence": "Seul Jane Eyre, signé par Charlotte, a connu un succès immédiat, tandis que Wuthering Heights, The Tenant of Wildfell Hall et Villette ont été reconnus plus tard comme des textes majeurs.",
+      "explanation": "Le texte réserve le succès immédiat à Jane Eyre ; les autres titres sont présentés comme reconnus plus tard, ce qui rend les trois autres choix faux."
+    },
+    {
+      "id": "q2",
+      "prompt": "Selon l’article, qu’est-ce qui a largement contribué à la renommée de la famille Brontë et de ses proches ?",
+      "options": [
+        "Le succès immédiat de toutes leurs œuvres dès leur publication",
+        "La transformation du presbytère de Haworth en musée",
+        "Les disparitions précoces provoquées par la maladie",
+        "L’installation de la famille hors de l’Angleterre"
+      ],
+      "answerIndex": 2,
+      "evidence": "Leur destin tragique, marqué par des disparitions précoces dues à la maladie, a largement contribué à leur renommée et à celle de leurs proches.",
+      "explanation": "L’article relie explicitement la renommée de la famille à son destin tragique et aux morts précoces causées par la maladie ; les autres choix ne sont pas présentés comme la cause de cette renommée."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel rôle le texte attribue-t-il à Patrick Brontë dans la formation de ses enfants ?",
+      "options": [
+        "Il s’est limité à financer leurs études à Cambridge.",
+        "Il a veillé lui-même à leur instruction et leur a offert livres et liberté.",
+        "Il les a encouragés à publier uniquement sous des noms masculins.",
+        "Il a transformé le presbytère en musée pour accueillir les lecteurs."
+      ],
+      "answerIndex": 1,
+      "evidence": "Il leur a offert livres et liberté, encourageant leurs lectures, leurs écrits et leurs promenades sur la lande.",
+      "explanation": "Le père est décrit comme un acteur actif de l’instruction et de l’ouverture culturelle de ses enfants ; Cambridge le concerne lui-même, et les autres options attribuent au père des actions qui ne lui sont pas prêtées."
+    },
+    {
+      "id": "q4",
+      "prompt": "Comment les trois sœurs et Branwell ont-ils développé leur imagination, d’après le texte ?",
+      "options": [
+        "En voyageant dans toute l’Angleterre pour observer les paysages",
+        "En publiant séparément des poèmes sous leurs vrais noms",
+        "En composant ensemble des récits de plus en plus complexes",
+        "En suivant les cours d’un professeur extérieur à la famille"
+      ],
+      "answerIndex": 2,
+      "evidence": "Très proches, les trois sœurs et leur frère Branwell ont développé leur imagination en composant ensemble des récits de plus en plus complexes.",
+      "explanation": "Le texte indique clairement une création collective de récits complexes ; il ne mentionne ni voyages, ni publication séparée sous les vrais noms, ni professeur extérieur."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que précise l’article sur la reconnaissance des œuvres des sœurs Brontë ?",
+      "options": [
+        "Jane Eyre a été le seul roman à obtenir un succès immédiat, les autres étant reconnus plus tard.",
+        "Toutes les œuvres ont été saluées immédiatement par le public.",
+        "Wuthering Heights a connu un succès immédiat, contrairement à Jane Eyre.",
+        "Aucune œuvre n’a été reconnue avant la mort des trois sœurs."
+      ],
+      "answerIndex": 0,
+      "evidence": "Seul Jane Eyre, signé par Charlotte, a connu un succès immédiat, tandis que Wuthering Heights, The Tenant of Wildfell Hall et Villette ont été reconnus plus tard comme des textes majeurs.",
+      "explanation": "L’opposition entre le succès immédiat de Jane Eyre et la reconnaissance ultérieure des autres romans soutient la première réponse ; les trois autres contredisent cette chronologie."
+    },
+    {
+      "id": "q6",
+      "prompt": "Que devient le presbytère de Haworth aujourd’hui, selon le texte ?",
+      "options": [
+        "Il sert de maison d’édition pour les œuvres de la famille.",
+        "Il est devenu une école où l’on étudie les romans des sœurs.",
+        "Il a été transformé en musée qui attire des visiteurs du monde entier.",
+        "Il est resté la résidence privée des descendants de Patrick Brontë."
+      ],
+      "answerIndex": 2,
+      "evidence": "Le presbytère de Haworth, transformé en musée, accueille chaque année des centaines de milliers de visiteurs venus du monde entier.",
+      "explanation": "Le texte précise que le presbytère est devenu un musée et qu’il reçoit de nombreux visiteurs internationaux ; les autres fonctions ne sont pas mentionnées."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quel effet l’ouverture offerte par le père a-t-elle pu avoir, selon l’article ?",
+      "options": [
+        "Elle a garanti un succès immédiat à toutes les œuvres publiées.",
+        "Elle a sans doute favorisé l’éclosion d’une imagination familiale exceptionnelle.",
+        "Elle a permis d’éviter les maladies qui ont frappé la famille.",
+        "Elle a attiré chaque année des centaines de milliers de visiteurs à Haworth."
+      ],
+      "answerIndex": 1,
+      "evidence": "Cette ouverture a sans doute favorisé l’éclosion d’une imagination familiale exceptionnelle.",
+      "explanation": "L’article établit un lien probable entre l’ouverture du père et l’imagination familiale ; il ne dit pas qu’elle a garanti le succès, empêché les maladies ou attiré les visiteurs."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "勃朗特家族：命运独特的文学之家",
+      "summary": "十九世纪，约克郡的三姐妹夏洛蒂、艾米莉和安妮·勃朗特以充满激情的小说在英国文学中留下印记，而她们悲惨的命运则在霍沃思周围催生了持久的崇拜。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "十九世纪，勃朗特家族凭借三位成为小说家和诗人的姐妹，在英国文坛确立了地位。",
+            "夏洛蒂（1816—1855）、艾米莉（1818—1848）和安妮（1820—1849）起初以男性名字发表作品，后来她们的作品因其独创性和热情而受到关注。",
+            "只有夏洛蒂署名的《简·爱》立即获得成功，而《呼啸山庄》《怀尔德菲尔府的房客》和《维莱特》后来才被承认为重要作品。"
+          ]
+        },
+        {
+          "sentences": [
+            "三姐妹和她们的兄弟布兰韦尔关系亲密，他们通过一起创作越来越复杂的故事来发展想象力。",
+            "在一位有教养的父亲的引导下，他们培养出一种创造性的默契，这影响了他们的创作。",
+            "母亲去世，随后他们的两个姐姐伊丽莎白和玛丽亚也去世，使他们深受打击，并影响了他们的作品。"
+          ]
+        },
+        {
+          "sentences": [
+            "她们悲惨的命运以疾病导致的早逝为标志，这在很大程度上促成了她们及其亲人的名声。",
+            "从生前起，尤其是在死后，这个家族成为崇拜的对象，这种崇拜超越了英格兰的边界。",
+            "霍沃思的牧师住宅被改造成博物馆，每年接待来自世界各地的数十万游客。"
+          ]
+        },
+        {
+          "sentences": [
+            "父亲帕特里克·勃朗特（1777—1861）是圣公会牧师，也是诗集作者，曾在剑桥求学，并亲自关心子女的教育。",
+            "他给予他们书籍和自由，鼓励他们阅读、写作和在荒原上散步。",
+            "这种开放无疑有利于一种非凡的家庭想象力的萌发。"
+          ]
+        }
+      ],
+      "glossary": {
+        "s’est imposée": "在此指勃朗特家族在英国文坛确立地位、赢得承认。",
+        "romancières": "女性小说家，即写小说的人。",
+        "poétesses": "女性诗人。",
+        "ardeur": "热情、激情，指作品中强烈的情感力量。",
+        "majeurs": "重要的、主要的，此处指后来被公认为重要作品。",
+        "complicité": "彼此默契、心意相通，此处指兄妹间共同创作的亲密合作。",
+        "aînées": "年长的姐姐；文中指伊丽莎白和玛丽亚。",
+        "éprouvés": "深受打击、经受痛苦。",
+        "précoces": "过早的、年纪轻轻就发生的，此处指因病早逝。",
+        "presbytère": "牧师住宅，即牧师居住的房屋。",
+        "lande": "荒原、石南荒地，指英格兰北部常见的开阔荒野。",
+        "éclosion": "萌发、绽放，比喻想象力的产生和发展。"
+      },
+      "questions": {
+        "q1": "文章只把立即成功归于夏洛蒂署名的《简·爱》；《呼啸山庄》《怀尔德菲尔府的房客》和《维莱特》则被说成后来才被承认为重要作品，因此其他三个选项都不符合“立即成功”。",
+        "q2": "文章明确把家族及其亲属的名声与“悲惨命运”联系起来，并点明其标志是疾病导致的早逝；牧师住宅被改造成博物馆是名声带来的后续现象，而不是原因，其他作品立即成功或全家迁居国外也没有被列为名声的原因。",
+        "q3": "父亲被描述为亲自过问子女教育，并以书籍、自由和鼓励阅读、写作、在荒原散步来营造开放环境；剑桥求学是父亲本人的经历，不是他仅资助子女去剑桥，男性笔名发表也不是他的教育角色，把牧师住宅改成博物馆更不是他所为。",
+        "q4": "文章直接说三姐妹和布兰韦尔通过共同创作越来越复杂的故事来发展想象力；没有提到为观察风景而走遍英国、以真实姓名分别发表诗歌，或跟随家庭外教师上课。",
+        "q5": "文章把《简·爱》的立即成功与其他小说后来才被承认形成对照，因此正确说法是《简·爱》唯一立即成功而其余后来获认可；“所有作品立即受赞誉”“《呼啸山庄》立即成功而《简·爱》不是”“三姐妹去世前无作品获认可”都与这一时间顺序相反或文中无据。",
+        "q6": "文章说霍沃思牧师住宅已改造成博物馆，每年接待来自世界各地的数十万游客；没有说它成为出版社、学校或仍为私人住宅。",
+        "q7": "文章用“无疑”把父亲提供的开放环境与非凡家庭想象力的萌发联系起来；它并未说这保证作品成功、避免疾病或吸引游客，这些分别是文中未提或属于其他现象。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "根据文章，哪部作品一经出版便立即获得成功？",
+          "options": [
+            "Jane Eyre",
+            "Wuthering Heights",
+            "The Tenant of Wildfell Hall",
+            "Villette"
+          ]
+        },
+        "q2": {
+          "prompt": "根据文章，什么在很大程度上促成了勃朗特家族及其亲属的名声？",
+          "options": [
+            "他们所有作品一经出版便立即成功",
+            "霍沃思牧师住宅被改造成博物馆",
+            "疾病造成的早逝",
+            "全家迁居英国以外"
+          ]
+        },
+        "q3": {
+          "prompt": "文章认为帕特里克·勃朗特在子女教育中扮演了什么角色？",
+          "options": [
+            "他只限于资助他们在剑桥的学业。",
+            "他亲自关心他们的教育，并给予他们书籍和自由。",
+            "他鼓励他们只以男性笔名发表作品。",
+            "他把牧师住宅改造成博物馆以接待读者。"
+          ]
+        },
+        "q4": {
+          "prompt": "根据文章，三姐妹和布兰韦尔是如何发展想象力的？",
+          "options": [
+            "走遍英国各地观察风景",
+            "以真实姓名分别发表诗歌",
+            "一起创作越来越复杂的故事",
+            "跟随家庭外的老师上课"
+          ]
+        },
+        "q5": {
+          "prompt": "文章对勃朗特姐妹作品的认可情况作了什么说明？",
+          "options": [
+            "Jane Eyre 是唯一立即获得成功的小说，其他作品后来才得到认可。",
+            "所有作品都立即受到公众赞誉。",
+            "与 Jane Eyre 不同，Wuthering Heights 立即获得成功。",
+            "在三姐妹去世前，没有任何作品得到认可。"
+          ]
+        },
+        "q6": {
+          "prompt": "根据文章，霍沃思的牧师住宅如今变成了什么？",
+          "options": [
+            "它被用作出版家族作品的出版社。",
+            "它变成了一所研究姐妹小说的学校。",
+            "它被改造成博物馆，吸引来自世界各地的游客。",
+            "它仍是帕特里克·勃朗特后代的私人住所。"
+          ]
+        },
+        "q7": {
+          "prompt": "根据文章，父亲给予的开明可能产生了什么效果？",
+          "options": [
+            "它保证了所有已发表作品立即成功。",
+            "它很可能促成了非凡的家庭想象力的萌发。",
+            "它使家人得以避免袭来的疾病。",
+            "它每年为霍沃思吸引数十万游客。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Famille Brontë",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=239589955",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-18",
+    "revisionId": "239589955"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-18",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-18-famille-bronte-3cf2db84ea8c.jpg",
+    "alt": "1832 portrait of English writer and biographer Elizabeth Gaskell (1810-65)",
+    "author": "William John Thomson (Scottish, born circa 1771-1845)",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elizabeth_Gaskell_1832.jpg?oldid=1227899361",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Fichier original téléchargé depuis Wikimedia Commons ; aucune modification.",
+    "width": 318,
+    "height": 400,
+    "byteLength": 25084,
+    "sha256": "3cf2db84ea8c6cce3e69558e9d94274e127551bca965cfc7e1b119900c2ea2da",
+    "fileRevisionId": "1227899361",
+    "retrievedAt": "2026-11-20"
+  }
+}

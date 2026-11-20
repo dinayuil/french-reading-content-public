@@ -1,0 +1,339 @@
+{
+  "id": "2026-11-18-quand-la-radio-s-invente-une-voix-numerique-la-langue-et-la",
+  "title": "Les voix roms de Prizren passent au numérique",
+  "level": "B1",
+  "theme": "culture",
+  "date": "2026-11-18",
+  "summary": "Une petite radio de Prizren transforme ses émissions en podcasts. Elle veut garder vivantes la langue et la culture roms au Kosovo et toucher aussi la diaspora.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Radio Romano Avazo, basée à Prizren, est une des rares radios du Kosovo à diffuser régulièrement la langue et la culture roms.",
+        "Son public rom a souvent peu accès aux médias dans sa langue, surtout quand les contenus en ligne prennent plus d’importance."
+      ]
+    },
+    {
+      "sentences": [
+        "La station a lancé le projet Romani Voice Digital, appelé aussi « Voix numérique rom », pour créer des podcasts à partir de ses émissions culturelles.",
+        "Ses contenus sont maintenant sur Spotify, Apple Podcasts, YouTube et son site.",
+        "Ce n’est pas seulement un changement technique : la radio offre un espace numérique durable à la langue, à la culture et aux témoignages roms."
+      ]
+    },
+    {
+      "sentences": [
+        "Avant, une émission comme « Langue et culture » n’existait qu’au moment de sa diffusion.",
+        "Si l’auditeur la manquait, il ne pouvait plus l’écouter.",
+        "Trois épisodes ont donc été adaptés en podcasts, pour être consultés à la demande et former une archive."
+      ]
+    },
+    {
+      "sentences": [
+        "Le premier épisode présente Urma Menekshe, professeure de romani à Prizren et fondatrice d’une petite bibliothèque rom.",
+        "Auteure et traductrice, elle rappelle que la langue se transmet aussi par les livres et les familles.",
+        "Le deuxième donne la parole à Sejnur Veshall, ancien vice-ministre de la Culture, comédien et poète.",
+        "Le troisième invite Daut Qulangjiu, rédacteur en chef à la RTK, ancien danseur, folkloriste et comédien."
+      ]
+    },
+    {
+      "sentences": [
+        "Les podcasts ont aussi un côté humain : les invités parlent de leur vie et proposent des idées pour la communauté rom.",
+        "Après leur publication, des auditeurs de Prizren et d’autres communes ont demandé comment les écouter.",
+        "La radio visait au moins 500 écoutes et 200 nouveaux abonnés ; le contenu a déjà reçu des dizaines de milliers de vues et d’écoutes."
+      ]
+    },
+    {
+      "sentences": [
+        "Disponibles à l’international, les podcasts aident la diaspora rom à garder un lien avec sa langue.",
+        "Le prochain défi est de rendre cette rubrique durable sur le site de la radio.",
+        "Elle pourrait servir aux jeunes, aux femmes, aux Roms ruraux et à toute la diaspora."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "régulièrement"
+    },
+    {
+      "term": "témoignages"
+    },
+    {
+      "term": "adaptés"
+    },
+    {
+      "term": "archive"
+    },
+    {
+      "term": "fondatrice"
+    },
+    {
+      "term": "rédacteur en chef"
+    },
+    {
+      "term": "folkloriste"
+    },
+    {
+      "term": "diaspora"
+    },
+    {
+      "term": "rubrique"
+    },
+    {
+      "term": "à la demande"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Pourquoi les émissions culturelles de la radio étaient-elles difficiles à réécouter avant le projet ?",
+      "options": [
+        "Parce qu’elles n’étaient disponibles qu’au moment où elles passaient.",
+        "Parce qu’elles étaient diffusées uniquement en ligne.",
+        "Parce qu’elles étaient réservées aux auditeurs de Prizren.",
+        "Parce qu’elles n’étaient pas présentées en romani."
+      ],
+      "answerIndex": 0,
+      "evidence": "Avant, une émission comme « Langue et culture » n’existait qu’au moment de sa diffusion.",
+      "explanation": "Le texte explique qu’une émission n’existait qu’au moment de sa diffusion : si on la manquait, on ne pouvait plus l’écouter. Les autres options ajoutent des restrictions qui ne sont pas dans le texte."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quel est l’objectif principal du projet Romani Voice Digital selon l’article ?",
+      "options": [
+        "Remplacer la radio par des plateformes internationales.",
+        "Transformer des émissions culturelles en podcasts pour créer un espace durable.",
+        "Former de nouveaux journalistes roms à Prizren.",
+        "Traduire les émissions en plusieurs langues."
+      ],
+      "answerIndex": 1,
+      "evidence": "La station a lancé le projet Romani Voice Digital, appelé aussi « Voix numérique rom », pour créer des podcasts à partir de ses émissions culturelles.",
+      "explanation": "Le projet consiste à créer des podcasts à partir des émissions culturelles, et le texte présente cela comme un espace numérique durable. Les autres options ne correspondent pas au but décrit."
+    },
+    {
+      "id": "q3",
+      "prompt": "Dans le premier épisode, quel profil présente-t-on ?",
+      "options": [
+        "Une ancienne vice-ministre de la Culture devenue comédienne.",
+        "Un rédacteur en chef de la RTK ancien danseur.",
+        "Une professeure de romani qui a créé une bibliothèque.",
+        "Une traductrice de la RTK qui dirige une école."
+      ],
+      "answerIndex": 2,
+      "evidence": "Le premier épisode présente Urma Menekshe, professeure de romani à Prizren et fondatrice d’une petite bibliothèque rom.",
+      "explanation": "Le texte indique qu’Urma Menekshe enseigne le romani et a fondé une petite bibliothèque rom. Les autres profils renvoient à d’autres invités ou à des informations absentes."
+    },
+    {
+      "id": "q4",
+      "prompt": "Qu’est-ce qui distingue Sejnur Veshall dans le deuxième épisode ?",
+      "options": [
+        "Il est professeur de romani et fondateur de bibliothèque.",
+        "Il est rédacteur en chef à la RTK et folkloriste.",
+        "Il est le fondateur de Radio Romano Avazo.",
+        "Il a été vice-ministre de la Culture et est aussi comédien et poète."
+      ],
+      "answerIndex": 3,
+      "evidence": "Le deuxième donne la parole à Sejnur Veshall, ancien vice-ministre de la Culture, comédien et poète.",
+      "explanation": "Sejnur Veshall est présenté comme ancien vice-ministre de la Culture, comédien et poète. Les autres fonctions correspondent à d’autres personnes ou ne sont pas mentionnées pour lui."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quel résultat le texte indique-t-il par rapport à l’objectif d’écoutes ?",
+      "options": [
+        "Les écoutes sont restées inférieures à 500.",
+        "Le contenu a largement dépassé l’objectif prévu.",
+        "Seuls 200 nouveaux abonnés ont été atteints.",
+        "Les auditeurs n’ont pas trouvé comment écouter."
+      ],
+      "answerIndex": 1,
+      "evidence": "La radio visait au moins 500 écoutes et 200 nouveaux abonnés ; le contenu a déjà reçu des dizaines de milliers de vues et d’écoutes.",
+      "explanation": "Le texte compare l’objectif de 500 écoutes à des dizaines de milliers de vues et d’écoutes, ce qui montre un dépassement important. Les autres options contredisent ce résultat ou ajoutent une information absente."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quel défi la radio doit-elle encore relever ?",
+      "options": [
+        "Faire en sorte que la rubrique reste disponible durablement sur son site.",
+        "Trouver des invités pour les prochains épisodes.",
+        "Diffuser les podcasts seulement au Kosovo.",
+        "Créer une nouvelle bibliothèque pour la diaspora."
+      ],
+      "answerIndex": 0,
+      "evidence": "Le prochain défi est de rendre cette rubrique durable sur le site de la radio.",
+      "explanation": "Le texte parle de rendre la rubrique durable sur le site de la radio comme prochain défi. Les autres propositions ne sont pas présentées comme le défi à venir."
+    },
+    {
+      "id": "q7",
+      "prompt": "Où les podcasts sont-ils disponibles ?",
+      "options": [
+        "Uniquement sur le site de Radio Romano Avazo.",
+        "Dans les bibliothèques roms de Prizren.",
+        "Sur Spotify, Apple Podcasts, YouTube et le site de la radio.",
+        "À la radio uniquement pendant les émissions."
+      ],
+      "answerIndex": 2,
+      "evidence": "Ses contenus sont maintenant sur Spotify, Apple Podcasts, YouTube et son site.",
+      "explanation": "Le texte cite plusieurs plateformes en ligne, dont Spotify, Apple Podcasts, YouTube et le site de la radio. Les autres options limitent à tort la diffusion à un seul lieu."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "普里兹伦的罗姆之声走向数字化",
+      "summary": "普里兹伦一家小型广播电台将其节目转为播客，旨在在科索沃保持罗姆语言和文化的活力，并接触侨居海外的罗姆人。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "总部位于普里兹伦的Romano Avazo电台是科索沃少数定期播出罗姆语言和文化的电台之一。",
+            "其罗姆听众常常很少能接触到用自己语言制作的内容，尤其是在网络内容变得更重要的时候。"
+          ]
+        },
+        {
+          "sentences": [
+            "该电台启动了名为Romani Voice Digital（又称“罗姆数字之声”）的项目，将其文化节目制作成播客。",
+            "其内容现在出现在Spotify、Apple Podcasts、YouTube及其网站上。",
+            "这不仅是技术上的变化：电台为罗姆语言、文化和见证提供了一个持久的数字空间。"
+          ]
+        },
+        {
+          "sentences": [
+            "以前，像《语言与文化》这样的节目只在播出时存在。",
+            "如果听众错过，就无法再收听。",
+            "因此，有三集被改编成播客，以便按需收听并形成档案。"
+          ]
+        },
+        {
+          "sentences": [
+            "第一集介绍Urma Menekshe，她是普里兹伦的罗姆语教师，也是一家小型罗姆图书馆的创办人。",
+            "作为作者和译者，她提醒人们，语言也通过书籍和家庭传承。",
+            "第二集由Sejnur Veshall发言，他是前文化部副部长、喜剧演员和诗人。",
+            "第三集邀请Daut Qulangjiu，他是RTK主编、前舞蹈演员、民俗学者和喜剧演员。"
+          ]
+        },
+        {
+          "sentences": [
+            "播客也有人情味：嘉宾谈论自己的生活，并为罗姆社群提出想法。",
+            "发布后，来自普里兹伦和其他市镇的听众询问如何收听。",
+            "电台目标是至少500次收听和200名新订阅者；内容已获得数万次浏览和收听。"
+          ]
+        },
+        {
+          "sentences": [
+            "这些播客在国际上可收听，帮助罗姆侨民与自己的语言保持联系。",
+            "下一个挑战是让这个栏目在电台网站上持续存在。",
+            "它可以服务于年轻人、女性、农村罗姆人和整个侨民群体。"
+          ]
+        }
+      ],
+      "glossary": {
+        "régulièrement": "以固定频率、经常地；文中指电台定期播出罗姆语和文化内容。",
+        "témoignages": "证言、亲身经历的讲述；文中指罗姆人讲述自己的生活。",
+        "adaptés": "经过改编以适合新用途；文中指节目被改做成播客。",
+        "archive": "保存下来可供日后查阅的资料；文中指可回听的节目存档。",
+        "fondatrice": "女性创办人、创立者。",
+        "rédacteur en chef": "编辑部负责人，负责审定和统筹内容。",
+        "folkloriste": "研究民间传统、民俗的学者。",
+        "diaspora": "离开原乡、散居在其他地区的群体；文中指罗姆侨民。",
+        "rubrique": "媒体中的固定栏目或板块。",
+        "à la demande": "按用户需要随时点播，而非只在固定播出时间收听。"
+      },
+      "questions": {
+        "q1": "原文指出，像《语言与文化》这样的节目“只在播出时存在”，错过就无法再听；这说明项目前难以重听是因为没有随选回听机制，只能依赖播出时刻。第二项说只在网上播出，原文并未这样限定；第三项说只面向普里兹伦听众，原文没有此限制；第四项说不用罗姆语介绍，与电台播出罗姆语言和文化相矛盾。",
+        "q2": "原文说电台启动该项目，是为了把文化节目制作成播客；后文又称这为罗姆语言、文化和见证提供持久数字空间。因此主要目标是转为播客并建立持久空间。第一项“取代电台”不符合原文；第三项培训记者、第四项翻译成多种语言，文中均未提及。",
+        "q3": "原文介绍第一集人物Urma Menekshe，说她是在普里兹伦教罗姆语并创办小型罗姆图书馆的人；这与“教授罗姆语并为罗姆人开设小型阅读空间的女士”相符。第一项和第二项分别对应其他嘉宾或其他人物的身份；第四项把RTK译者和领导学校混在一起，文中没有依据。",
+        "q4": "原文说第二集由Sejnur Veshall发言，并称他是前文化部副部长、喜剧演员和诗人；所以正确项是“曾任文化部副部长，也是喜剧演员和诗人”。第一项是Urma的简介，第二项是Daut的简介，第三项说他是电台创办人，文中未提。",
+        "q5": "原文把目标定为至少500次收听和200名新订阅者，随后说内容已获得数万次浏览和收听；将目标与结果对比，可见大大超过预定目标。第一项“仍低于500”与数万次相矛盾；第三项只说达到200名订阅者，忽略了数万次收听；第四项说听众不知道如何收听，与听众询问如何收听及内容可获得收听不符。",
+        "q6": "原文明确说下一个挑战是让这个栏目在电台网站上持久存在；因此正确项是让栏目长期可用。第二项寻找嘉宾、第三项只在科索沃播出、第四项为侨民建新图书馆，都不是文中提出的下个挑战。",
+        "q7": "原文列出内容现在在Spotify、Apple Podcasts、YouTube及其网站上；所以正确项是这些平台和电台网站。第一项只限网站、第二项说在图书馆、第四项说只在电台播出，都缩小了原文所说的可收听范围。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "在该项目之前，为什么电台的文化节目难以重听？",
+          "options": [
+            "因为节目播出后无法补听，听众只能依赖播出时收听。",
+            "因为它们只在网上播出。",
+            "因为它们只面向普里兹伦的听众。",
+            "因为它们不是用罗姆语介绍的。"
+          ]
+        },
+        "q2": {
+          "prompt": "根据文章，Romani Voice Digital项目的主要目标是什么？",
+          "options": [
+            "用国际平台取代电台。",
+            "把文化节目转成播客，以建立持久空间。",
+            "在普里兹伦培训新的罗姆记者。",
+            "把节目翻译成多种语言。"
+          ]
+        },
+        "q3": {
+          "prompt": "第一集介绍的是哪一位人物的情况？",
+          "options": [
+            "一位后来成为喜剧演员的前文化部副部长。",
+            "一位曾任舞蹈演员的RTK主编。",
+            "一位教授罗姆语、并为罗姆人开设小型阅读空间的女士。",
+            "一位在RTK工作并领导学校的译者。"
+          ]
+        },
+        "q4": {
+          "prompt": "第二集中，Sejnur Veshall的独特之处是什么？",
+          "options": [
+            "他是罗姆语教师和图书馆创办人。",
+            "他是RTK主编和民俗学者。",
+            "他是Radio Romano Avazo的创办人。",
+            "他曾任文化部副部长，也是喜剧演员和诗人。"
+          ]
+        },
+        "q5": {
+          "prompt": "关于收听目标，文章指出了什么结果？",
+          "options": [
+            "收听次数仍低于500。",
+            "内容大大超过了预定目标。",
+            "只达到了200名新订阅者。",
+            "听众不知道如何收听。"
+          ]
+        },
+        "q6": {
+          "prompt": "电台还必须应对什么挑战？",
+          "options": [
+            "让该栏目在电台网站上长期可用。",
+            "为接下来的节目寻找嘉宾。",
+            "只在科索沃播出播客。",
+            "为侨民建立一座新图书馆。"
+          ]
+        },
+        "q7": {
+          "prompt": "这些播客在哪里可以收听？",
+          "options": [
+            "仅在Radio Romano Avazo网站上。",
+            "在普里兹伦的罗姆图书馆里。",
+            "在Spotify、Apple Podcasts、YouTube和电台网站上。",
+            "只在节目播出时通过电台收听。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Quand la radio s’invente une voix numérique : la langue et la culture roms arrivent sur Internet au Kosovo",
+    "authors": [
+      "Global Voices Central & Eastern Europe"
+    ],
+    "translators": [
+      "Emilie FRAPICCINI"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/18/304175/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-18",
+    "publishedAt": "2026-11-18",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-18",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}
