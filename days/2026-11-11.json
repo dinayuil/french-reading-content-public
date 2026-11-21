@@ -8,7 +8,27 @@
       "theme": "environnement",
       "date": "2026-11-11",
       "summary": "Lors de la COP17 sur la diversité biologique, Madagascar a présenté son réseau de 155 aires protégées, son plan national et ses priorités de financement, tout en insistant sur l’association des communautés locales, des femmes et des jeunes à la conservation.",
-      "path": "articles/2026-11-11-madagascar-s-engage-pour-la-biodiversite-a-travers-la-protec.json"
+      "path": "articles/2026-11-11-madagascar-s-engage-pour-la-biodiversite-a-travers-la-protec.json",
+      "variants": [
+        {
+          "id": "2026-11-11-madagascar-s-engage-pour-la-biodiversite-a-travers-la-protec-b1",
+          "title": "Madagascar défend sa biodiversité à la COP17",
+          "level": "B1",
+          "theme": "environnement",
+          "date": "2026-11-11",
+          "summary": "À la COP17 sur la biodiversité, Madagascar a présenté ses efforts pour protéger ses écosystèmes et a expliqué comment appliquer le cadre de Kunming-Montréal avec les communautés locales.",
+          "path": "articles/2026-11-11-madagascar-s-engage-pour-la-biodiversite-a-travers-la-protec-b1.json"
+        },
+        {
+          "id": "2026-11-11-madagascar-s-engage-pour-la-biodiversite-a-travers-la-protec-a2",
+          "title": "Madagascar défend sa biodiversité à la COP17",
+          "level": "A2",
+          "theme": "environnement",
+          "date": "2026-11-11",
+          "summary": "À la COP17, Madagascar présente ses progrès pour la nature. L’entretien traite du 30×30, de l’argent pour la conservation et des communautés.",
+          "path": "articles/2026-11-11-madagascar-s-engage-pour-la-biodiversite-a-travers-la-protec-a2.json"
+        }
+      ]
     },
     {
       "id": "2026-11-11-calypso-navire",

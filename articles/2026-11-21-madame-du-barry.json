@@ -1,0 +1,355 @@
+{
+  "id": "2026-11-21-madame-du-barry",
+  "title": "Jeanne Bécu, comtesse du Barry : une favorite entre Cour et Révolution",
+  "level": "B1",
+  "theme": "histoire",
+  "date": "2026-11-21",
+  "summary": "Ce portrait retrace l’ascension de Jeanne Bécu, favorite de Louis XV, puis sa chute après la mort du roi et sous la Révolution.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Jeanne Bécu naît le 19 août 1743 à Vaucouleurs.",
+        "Sa mère est couturière et célibataire ; le père probable est un franciscain, Jean-Baptiste Gomard de Vaubernier.",
+        "À six ans, Jeanne est confiée aux religieuses de Sainte-Aure, à Paris.",
+        "Elle quitte le couvent à quinze ans."
+      ]
+    },
+    {
+      "sentences": [
+        "Elle mène ensuite une vie légère, car sa beauté est sa principale richesse.",
+        "Renvoyée d’un poste de lectrice, elle devient vendeuse et dessinatrice de mode.",
+        "Le comte Jean-Baptiste du Barry, dit « Le Roué », la remarque et l’installe rue Jurassienne.",
+        "Son salon attire des écrivains et de grands seigneurs."
+      ]
+    },
+    {
+      "sentences": [
+        "En 1768, grâce au duc de Richelieu et à Lebel, elle croise Louis XV à Versailles.",
+        "Le roi, séduit, veut la garder à la Cour.",
+        "Pour lui donner un titre, elle épouse Guillaume du Barry, frère cadet du comte.",
+        "Elle est présentée à la Cour le 22 avril 1769."
+      ]
+    },
+    {
+      "sentences": [
+        "La promotion de Jeanne divise la Cour.",
+        "Choiseul devient son ennemi, mais Louis XV la couvre de bijoux.",
+        "En juillet 1769, il lui donne Louveciennes ; Gabriel rénove le château, puis Ledoux bâtit un pavillon.",
+        "Le 16 mai 1770, le dauphin épouse Marie-Antoinette."
+      ]
+    },
+    {
+      "sentences": [
+        "Choiseul est exilé le 24 décembre 1770, et Marie-Antoinette méprise la favorite pendant des mois.",
+        "Le 1er janvier 1772, elle lui adresse enfin une phrase devant la Cour.",
+        "Louis XV tombe malade le 27 avril 1774 ; la variole est diagnostiquée le 29.",
+        "Jeanne quitte Versailles le 3 mai, et le roi meurt le 10 mai."
+      ]
+    },
+    {
+      "sentences": [
+        "Après la mort du roi, une lettre de cachet l’envoie à Pont-aux-Dames le 12 mai ; elle y reste onze mois.",
+        "Elle retourne à Louveciennes et devient la maîtresse du duc de Cossé-Brissac.",
+        "Ses bijoux sont volés en 1791 ; elle est inscrite sur la liste des émigrés, et sa propriété devient bien national après sa mort.",
+        "En 1793, Louveciennes est mise sous scellés ; elle est incarcérée le 22 septembre à Sainte-Pélagie, condamnée et guillotinée le 8 décembre 1793 place de la Concorde."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "couturière"
+    },
+    {
+      "term": "célibataire"
+    },
+    {
+      "term": "franciscain"
+    },
+    {
+      "term": "couvent"
+    },
+    {
+      "term": "lectrice"
+    },
+    {
+      "term": "dessinatrice"
+    },
+    {
+      "term": "seigneurs"
+    },
+    {
+      "term": "variole"
+    },
+    {
+      "term": "lettre de cachet"
+    },
+    {
+      "term": "émigrés"
+    },
+    {
+      "term": "scellés"
+    },
+    {
+      "term": "guillotinée"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Pourquoi Jeanne Bécu épouse-t-elle Guillaume du Barry ?",
+      "options": [
+        "Pour obtenir un titre qui lui permette de rester à la Cour.",
+        "Pour devenir lectrice chez les religieuses de Sainte-Aure.",
+        "Pour que le comte du Barry l’installe rue Jurassienne.",
+        "Pour échapper à une lettre de cachet après la mort du roi."
+      ],
+      "answerIndex": 0,
+      "evidence": "Pour lui donner un titre, elle épouse Guillaume du Barry, frère cadet du comte.",
+      "explanation": "Le texte indique que ce mariage sert à donner un titre à Jeanne, ce qui correspond à la volonté du roi de la garder à la Cour. Les autres options concernent d’autres moments de sa vie ou d’autres personnes."
+    },
+    {
+      "id": "q2",
+      "prompt": "Que se passe-t-il à Louveciennes après que Louis XV en fait don à Jeanne ?",
+      "options": [
+        "Ledoux rénove le château, puis Gabriel construit un pavillon.",
+        "Choiseul rénove le château, puis Ledoux construit un pavillon.",
+        "Gabriel rénove le château, puis Ledoux construit un pavillon.",
+        "Marie-Antoinette rénove le château, puis Gabriel construit un pavillon."
+      ],
+      "answerIndex": 2,
+      "evidence": "En juillet 1769, il lui donne Louveciennes ; Gabriel rénove le château, puis Ledoux bâtit un pavillon.",
+      "explanation": "Le texte attribue la rénovation du château à Gabriel et la construction du pavillon à Ledoux, dans cet ordre. Les autres options inversent les noms ou attribuent les travaux à d’autres personnes."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quand Jeanne est-elle présentée à la Cour ?",
+      "options": [
+        "Le 16 mai 1770",
+        "Le 22 avril 1769",
+        "Le 1er janvier 1772",
+        "Le 12 mai 1774"
+      ],
+      "answerIndex": 1,
+      "evidence": "Elle est présentée à la Cour le 22 avril 1769.",
+      "explanation": "La date est donnée directement dans le texte. Les autres dates correspondent au mariage du dauphin, à une phrase de Marie-Antoinette ou au départ après la mort du roi."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quelle information montre que la promotion de Jeanne divise la Cour ?",
+      "options": [
+        "Marie-Antoinette l’admire devant la Cour dès 1769.",
+        "Louis XV la couvre de bijoux et lui donne Louveciennes.",
+        "Le dauphin épouse Marie-Antoinette le 16 mai 1770.",
+        "Choiseul devient son ennemi, tandis que Louis XV la couvre de bijoux."
+      ],
+      "answerIndex": 3,
+      "evidence": "Choiseul devient son ennemi, mais Louis XV la couvre de bijoux.",
+      "explanation": "Le contraste entre l’hostilité de Choiseul et la protection du roi illustre la division de la Cour. Les autres options ne montrent pas cette opposition ou sont fausses."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que se passe-t-il pour Jeanne juste après la mort de Louis XV ?",
+      "options": [
+        "Une lettre de cachet l’envoie à Pont-aux-Dames, où elle reste onze mois.",
+        "Elle retourne à Louveciennes et devient la maîtresse du duc de Cossé-Brissac.",
+        "Elle est incarcérée à Sainte-Pélagie le 22 septembre 1793.",
+        "Ses bijoux sont volés et elle est inscrite sur la liste des émigrés."
+      ],
+      "answerIndex": 0,
+      "evidence": "Après la mort du roi, une lettre de cachet l’envoie à Pont-aux-Dames le 12 mai ; elle y reste onze mois.",
+      "explanation": "Le texte place cette lettre de cachet immédiatement après la mort du roi. Les autres événements arrivent plus tard, après son retour à Louveciennes ou en 1791-1793."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelle est l’idée principale de l’article ?",
+      "options": [
+        "Il explique comment Louveciennes est devenue un bien national en 1793.",
+        "Il décrit les relations entre Louis XV et Marie-Antoinette à Versailles.",
+        "Il raconte la vie de Jeanne Bécu, de sa naissance à son exécution, et son rôle de favorite.",
+        "Il présente les travaux de Gabriel et de Ledoux à Louveciennes."
+      ],
+      "answerIndex": 2,
+      "evidence": "Jeanne Bécu naît le 19 août 1743 à Vaucouleurs.",
+      "explanation": "Le texte suit la vie de Jeanne Bécu depuis sa naissance jusqu’à sa condamnation et son exécution, en insistant sur sa position de favorite. Les autres options ne concernent qu’un épisode secondaire."
+    },
+    {
+      "id": "q7",
+      "prompt": "Que fait Jeanne le 3 mai 1774 ?",
+      "options": [
+        "Elle est présentée à la Cour.",
+        "Elle quitte Versailles.",
+        "Elle est envoyée à Pont-aux-Dames.",
+        "Elle est guillotinée place de la Concorde."
+      ],
+      "answerIndex": 1,
+      "evidence": "Jeanne quitte Versailles le 3 mai, et le roi meurt le 10 mai.",
+      "explanation": "Le texte indique explicitement que Jeanne quitte Versailles à cette date. Les autres options correspondent à d’autres dates de sa vie."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "让娜·贝屈，杜巴里伯爵夫人：宫廷与革命之间的一位宠妃",
+      "summary": "本文勾勒让娜·贝屈从出生到成为路易十五宠妃的崛起，以及国王去世后她在革命时期失势、被囚并最终被处决的历程。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "让娜·贝屈于1743年8月19日出生在沃库勒尔。",
+            "她的母亲是裁缝，且未婚；可能父亲是方济各会士让-巴蒂斯特·戈马尔·德·沃贝尔尼耶。",
+            "六岁时，让娜被托付给巴黎圣奥尔的修女们。",
+            "她十五岁离开修道院。"
+          ]
+        },
+        {
+          "sentences": [
+            "此后她过着轻浮的生活，因为美貌是她最主要的财富。",
+            "她从一个朗读女侍的职位上被辞退后，成为女售货员和时装绘图师。",
+            "人称“浪荡子”的让-巴蒂斯特·杜巴里伯爵注意到她，并把她安置在朱拉西耶纳街。",
+            "她的沙龙吸引作家和大贵族。"
+          ]
+        },
+        {
+          "sentences": [
+            "1768年，多亏黎塞留公爵和勒贝尔，她在凡尔赛与路易十五相遇。",
+            "国王被迷住，想把她留在宫廷。",
+            "为了给她一个头衔，她嫁给伯爵的弟弟纪尧姆·杜巴里。",
+            "1769年4月22日，她被引见入宫廷。"
+          ]
+        },
+        {
+          "sentences": [
+            "让娜的擢升在宫廷中造成分裂。",
+            "舒瓦瑟尔成为她的敌人，但路易十五给她大量珠宝。",
+            "1769年7月，国王把卢沃西耶纳赐给她；加布里埃尔翻修城堡，随后勒杜建造一座小阁楼。",
+            "1770年5月16日，王太子与玛丽-安托瓦内特结婚。"
+          ]
+        },
+        {
+          "sentences": [
+            "舒瓦瑟尔于1770年12月24日被流放，玛丽-安托瓦内特则数月鄙视这位宠妃。",
+            "1772年1月1日，她终于在宫廷面前对让娜说了一句话。",
+            "路易十五于1774年4月27日生病；29日诊断出天花。",
+            "让娜于5月3日离开凡尔赛，国王于5月10日去世。"
+          ]
+        },
+        {
+          "sentences": [
+            "国王去世后，一道密札于5月12日把她送往蓬欧达姆；她在那里待了十一个月。",
+            "她回到卢沃西耶纳，成为科塞-布里萨克公爵的情妇。",
+            "她的珠宝于1791年被盗；她被列入流亡者名单，她死后其产业成为国家财产。",
+            "1793年，卢沃西耶纳被查封；她于9月22日被关押在圣佩拉吉监狱，被判罪并于1793年12月8日在协和广场被送上断头台。"
+          ]
+        }
+      ],
+      "glossary": {
+        "couturière": "女性裁缝，以缝制衣物为业。",
+        "célibataire": "未婚的，未结婚的；文中指让娜的母亲没有结婚。",
+        "franciscain": "方济各会修士，天主教方济各会的成员。",
+        "couvent": "修道院，尤其指修女生活的宗教院舍。",
+        "lectrice": "朗读女侍；在贵族家庭或宫廷中负责朗读的女性职位。",
+        "dessinatrice": "女性绘图者、设计师；文中指时装绘图师。",
+        "seigneurs": "领主、贵族老爷；文中指有地位的大贵族。",
+        "variole": "天花，一种烈性传染病。",
+        "lettre de cachet": "密札，法国旧制度下国王签发的逮捕或流放命令。",
+        "émigrés": "流亡者，特指法国大革命时期离开法国的贵族等。",
+        "scellés": "查封封条；mettre sous scellés 指司法查封。",
+        "guillotinée": "被送上断头台处决的女性。"
+      },
+      "questions": {
+        "q1": "文中说“为了给她一个头衔，她嫁给……”，紧接前文说国王想把她留在宫廷，因此婚姻的作用是让她获得能留在宫廷的头衔。第一项正符合这一因果。第二项把她的早年修道院经历混入；第三项发生在遇见伯爵时，与婚姻目的无关；第四项发生在国王死后，时间不符。",
+        "q2": "证据句明确说加布里埃尔翻修城堡，随后勒杜建造小阁楼，顺序是加布里埃尔在前、勒杜在后。第三项与此一致。第一项把两人工作颠倒；第二项换成舒瓦瑟尔翻修；第四项换成玛丽-安托瓦内特翻修，均与原文不符。",
+        "q3": "原文直接写“1769年4月22日，她被引见入宫廷”，所以第二项正确。1770年5月16日是王太子结婚；1772年1月1日是玛丽-安托瓦内特对她说一句话；1774年5月12日是她被密札送往蓬欧达姆，均非引见日期。",
+        "q4": "证据句把舒瓦瑟尔成为敌人与路易十五赏赐珠宝并置，形成宫廷内敌意与王权保护的对立，正说明宫廷分裂。第四项保留了这一对比。第一项说玛丽-安托瓦内特1769年就钦佩她，与后文鄙视不符；第二项只写国王恩宠，未体现分裂；第三项是王太子婚事，与分裂无直接关系。",
+        "q5": "原文在“国王去世后”之后立即说密札于5月12日把她送往蓬欧达姆并停留十一个月，所以第一项是紧接着发生的事。第二项是她在蓬欧达姆之后回卢沃西耶纳；第三项发生在1793年；第四项发生在1791年及以后，均晚于国王去世。",
+        "q6": "文章从让娜出生写起，依次叙述她成为路易十五宠妃、国王死后失势以及革命中被处决，主线是她的一生和宠妃角色。第三项概括这一主线。第一项只涉及1793年卢沃西耶纳成为国家财产的一个细节；第二项只涉及路易十五与玛丽-安托瓦内特的关系；第四项只涉及加布里埃尔和勒杜的工程，都是次要片段。",
+        "q7": "证据句明确说“让娜于5月3日离开凡尔赛，国王于5月10日去世”，因此5月3日她离开凡尔赛。第二项正确。第一项是她1769年4月22日被引见；第三项是1774年5月12日被送往蓬欧达姆；第四项是1793年12月8日被处决，日期和事件均不符。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "让娜·贝屈为什么嫁给纪尧姆·杜巴里？",
+          "options": [
+            "为了获得一个能让她留在宫廷的头衔。",
+            "为了成为圣奥尔修女们的朗读女侍。",
+            "为了让杜巴里伯爵把她安置在朱拉西耶纳街。",
+            "为了在国王死后躲避一道密札。"
+          ]
+        },
+        "q2": {
+          "prompt": "路易十五把卢沃西耶纳赐给让娜后，那里发生了什么？",
+          "options": [
+            "勒杜翻修城堡，随后加布里埃尔建造小阁楼。",
+            "舒瓦瑟尔翻修城堡，随后勒杜建造小阁楼。",
+            "加布里埃尔翻修城堡，随后勒杜建造小阁楼。",
+            "玛丽-安托瓦内特翻修城堡，随后加布里埃尔建造小阁楼。"
+          ]
+        },
+        "q3": {
+          "prompt": "让娜何时被引见入宫廷？",
+          "options": [
+            "1770年5月16日",
+            "1769年4月22日",
+            "1772年1月1日",
+            "1774年5月12日"
+          ]
+        },
+        "q4": {
+          "prompt": "哪一信息表明让娜的擢升使宫廷分裂？",
+          "options": [
+            "玛丽-安托瓦内特从1769年起就在宫廷面前钦佩她。",
+            "路易十五给她大量珠宝，并把卢沃西耶纳赐给她。",
+            "王太子于1770年5月16日与玛丽-安托瓦内特结婚。",
+            "舒瓦瑟尔成为她的敌人，而路易十五给她大量珠宝。"
+          ]
+        },
+        "q5": {
+          "prompt": "路易十五去世后，让娜紧接着发生了什么？",
+          "options": [
+            "一道密札把她送往蓬欧达姆，她在那里待了十一个月。",
+            "她回到卢沃西耶纳，成为科塞-布里萨克公爵的情妇。",
+            "她于1793年9月22日被关押在圣佩拉吉监狱。",
+            "她的珠宝被盗，她被列入流亡者名单。"
+          ]
+        },
+        "q6": {
+          "prompt": "文章的主要观点是什么？",
+          "options": [
+            "它解释卢沃西耶纳如何在1793年成为国家财产。",
+            "它描述路易十五与玛丽-安托瓦内特在凡尔赛的关系。",
+            "它讲述让娜·贝屈从出生到被处决的一生及其宠妃角色。",
+            "它介绍加布里埃尔和勒杜在卢沃西耶纳的工程。"
+          ]
+        },
+        "q7": {
+          "prompt": "让娜在1774年5月3日做了什么？",
+          "options": [
+            "她被引见入宫廷。",
+            "她离开凡尔赛。",
+            "她被送往蓬欧达姆。",
+            "她在协和广场被送上断头台。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Madame du Barry",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2703937&title=Madame%20du%20Barry",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-21",
+    "revisionId": "2703937"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-21",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "id": "2026-11-11-madagascar-s-engage-pour-la-biodiversite-a-travers-la-protec-b1",
+  "title": "Madagascar défend sa biodiversité à la COP17",
+  "level": "B1",
+  "theme": "environnement",
+  "date": "2026-11-11",
+  "summary": "À la COP17 sur la biodiversité, Madagascar a présenté ses efforts pour protéger ses écosystèmes et a expliqué comment appliquer le cadre de Kunming-Montréal avec les communautés locales.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Du 19 au 30 octobre 2026, la ville d’Erevan, en Arménie, a accueilli la 17e conférence des parties sur la diversité biologique.",
+        "Madagascar y a rappelé son engagement pour la nature.",
+        "Le pays a présenté ses actions et ses priorités pour les prochaines années."
+      ]
+    },
+    {
+      "sentences": [
+        "Sur place, une responsable malgache a répondu aux questions de Global Voices.",
+        "Tojotsara Ratefason travaille à la direction des aires protégées au ministère chargé de l’environnement.",
+        "Elle a parlé du cadre de Kunming-Montréal, de l’objectif 30×30, du financement et du rôle des habitants."
+      ]
+    },
+    {
+      "sentences": [
+        "Madagascar pense pouvoir aider à atteindre l’objectif 30×30, pour la terre comme pour la mer.",
+        "Le pays possède déjà 155 aires protégées terrestres et marines.",
+        "Ce réseau forme une base solide pour continuer à protéger les espèces et les habitats.",
+        "Le pays suit aussi une stratégie nationale pour la biodiversité, appelée SPANB."
+      ]
+    },
+    {
+      "sentences": [
+        "Cependant, le nombre d’aires protégées ne suffit pas.",
+        "L’objectif est de sauver les écosystèmes, les espèces et les lieux naturels uniques de Madagascar.",
+        "Les femmes et les jeunes doivent aussi participer à cette protection.",
+        "Les décisions publiques, les gestionnaires et les populations doivent travailler ensemble."
+      ]
+    },
+    {
+      "sentences": [
+        "Le ministère veut aussi créer des emplois verts et des revenus liés à la nature.",
+        "La biodiversité peut être protégée et devenir une source de développement durable.",
+        "Les communautés doivent comprendre la valeur de leurs ressources et en tirer profit.",
+        "Quand elles voient des bénéfices concrets, elles s’engagent davantage."
+      ]
+    },
+    {
+      "sentences": [
+        "Madagascar fait partie des 17 pays mégadivers du monde.",
+        "Cette position aide le pays à obtenir des financements, notamment du Fonds pour l’environnement mondial (FEM).",
+        "Mais l’argent doit aussi arriver aux populations proches des zones protégées.",
+        "La conservation doit améliorer leurs conditions de vie, pas seulement protéger la nature."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "biodiversité"
+    },
+    {
+      "term": "conférence des parties"
+    },
+    {
+      "term": "aires protégées"
+    },
+    {
+      "term": "écosystèmes"
+    },
+    {
+      "term": "habitats"
+    },
+    {
+      "term": "mégadivers"
+    },
+    {
+      "term": "financements"
+    },
+    {
+      "term": "conservation"
+    },
+    {
+      "term": "stratégie"
+    },
+    {
+      "term": "gestionnaires"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Que montre l’article sur la participation de Madagascar à la COP17 ?",
+      "options": [
+        "Elle a surtout servi à organiser la conférence à Erevan.",
+        "Elle a permis de signer un accord sur le climat.",
+        "Elle a été l’occasion de présenter ses actions et ses priorités.",
+        "Elle a conduit le pays à quitter le cadre de Kunming-Montréal."
+      ],
+      "answerIndex": 2,
+      "evidence": "Le pays a présenté ses actions et ses priorités pour les prochaines années.",
+      "explanation": "Le texte indique que Madagascar a exposé ce qu’il fait et ce qu’il veut faire dans les années à venir. Les autres actions ne sont pas attribuées à Madagascar dans l’article."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi Madagascar estime-t-il pouvoir aider à atteindre l’objectif 30×30 ?",
+      "options": [
+        "Parce qu’il possède déjà un réseau de 155 aires protégées.",
+        "Parce qu’il a reçu le Fonds pour l’environnement mondial.",
+        "Parce qu’il accueille la conférence à Erevan.",
+        "Parce qu’il a adopté un objectif de 17 pays mégadivers."
+      ],
+      "answerIndex": 0,
+      "evidence": "Le pays possède déjà 155 aires protégées terrestres et marines.",
+      "explanation": "L’article présente ce réseau existant comme une base pour protéger les espèces et les habitats. Le FEM est cité plus loin pour les financements, pas comme raison directe pour l’objectif 30×30."
+    },
+    {
+      "id": "q3",
+      "prompt": "Que signifie la phrase « le nombre d’aires protégées ne suffit pas » ?",
+      "options": [
+        "Les aires protégées doivent toutes devenir marines.",
+        "Il faut aussi sauver les écosystèmes et associer les populations.",
+        "Le pays doit arrêter de créer des aires protégées terrestres.",
+        "Les aires protégées actuelles n’ont pas de valeur."
+      ],
+      "answerIndex": 1,
+      "evidence": "Cependant, le nombre d’aires protégées ne suffit pas.",
+      "explanation": "Le texte ajoute que l’objectif est de sauver les écosystèmes, les espèces et les lieux naturels, et que plusieurs acteurs doivent participer. Il ne dit pas que les aires protégées sont inutiles."
+    },
+    {
+      "id": "q4",
+      "prompt": "Selon l’article, quand les communautés s’engagent-elles davantage ?",
+      "options": [
+        "Quand les gestionnaires prennent les décisions à leur place.",
+        "Quand elles reçoivent directement l’argent du FEM.",
+        "Quand elles quittent les zones protégées.",
+        "Quand elles constatent des avantages concrets."
+      ],
+      "answerIndex": 3,
+      "evidence": "Quand elles voient des bénéfices concrets, elles s’engagent davantage.",
+      "explanation": "L’engagement augmente si les populations voient un intérêt réel. Le texte ne dit pas que le versement du FEM suffit ni que les habitants doivent partir."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quel avantage le statut de pays mégadivers donne-t-il à Madagascar ?",
+      "options": [
+        "Il facilite l’obtention de financements.",
+        "Il lui permet d’organiser la COP17.",
+        "Il réduit le besoin d’aires protégées.",
+        "Il remplace la stratégie nationale SPANB."
+      ],
+      "answerIndex": 0,
+      "evidence": "Cette position aide le pays à obtenir des financements, notamment du Fonds pour l’environnement mondial (FEM).",
+      "explanation": "Le texte relie ce statut à l’accès à des financements, en citant le FEM. Il ne dit pas que ce statut organise la conférence ou supprime des outils de protection."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelle idée générale ressort de l’article ?",
+      "options": [
+        "Madagascar veut organiser la prochaine conférence à Erevan.",
+        "Madagascar veut protéger la nature tout en aidant les populations locales.",
+        "Madagascar refuse le cadre de Kunming-Montréal.",
+        "Madagascar veut réduire son réseau d’aires protégées."
+      ],
+      "answerIndex": 1,
+      "evidence": "La conservation doit améliorer leurs conditions de vie, pas seulement protéger la nature.",
+      "explanation": "L’article décrit l’engagement du pays pour la biodiversité et insiste, à la fin, sur l’amélioration des conditions de vie des habitants proches des zones protégées."
+    },
+    {
+      "id": "q7",
+      "prompt": "Que représente SPANB dans l’article ?",
+      "options": [
+        "Un réseau de 155 aires protégées.",
+        "Un fonds pour l’environnement mondial.",
+        "Une stratégie nationale pour la biodiversité.",
+        "Une conférence des parties sur la biodiversité."
+      ],
+      "answerIndex": 2,
+      "evidence": "Le pays suit aussi une stratégie nationale pour la biodiversité, appelée SPANB.",
+      "explanation": "Le sigle est présenté juste après l’expression qui le définit. Les autres options correspondent à d’autres éléments du texte."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "马达加斯加在COP17上捍卫其生物多样性",
+      "summary": "在生物多样性公约第十七次缔约方大会上，马达加斯加介绍了保护生态系统的努力，并说明如何与当地社区共同落实昆明-蒙特利尔框架。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "2026年10月19日至30日，亚美尼亚城市埃里温承办了生物多样性公约第十七次缔约方大会。",
+            "马达加斯加在会上重申了对自然的承诺。",
+            "该国介绍了未来几年的行动和优先事项。"
+          ]
+        },
+        {
+          "sentences": [
+            "在现场，一位马达加斯加负责人回答了全球之声的提问。",
+            "Tojotsara Ratefason在环境部保护区管理局工作。",
+            "她谈到了昆明-蒙特利尔框架、30×30目标、资金以及居民的作用。"
+          ]
+        },
+        {
+          "sentences": [
+            "马达加斯加认为，它能够帮助实现陆地和海洋的30×30目标。",
+            "该国已经拥有155个陆地和海洋保护区。",
+            "这一网络构成了继续保护物种和栖息地的坚实基础。",
+            "该国还遵循一项名为SPANB的国家生物多样性战略。"
+          ]
+        },
+        {
+          "sentences": [
+            "然而，保护区的数量还不够。",
+            "目标是拯救马达加斯加独特的生态系统、物种和自然地点。",
+            "女性和青年也必须参与这项保护。",
+            "公共决策者、管理者和民众必须共同努力。"
+          ]
+        },
+        {
+          "sentences": [
+            "该部还想创造绿色就业和与自然相关的收入。",
+            "生物多样性可以得到保护，并成为可持续发展的来源。",
+            "社区必须理解其资源的价值并从中获益。",
+            "当它们看到具体好处时，它们会更积极地参与。"
+          ]
+        },
+        {
+          "sentences": [
+            "马达加斯加是世界17个生物多样性特丰富国家之一。",
+            "这一地位帮助该国获得资金，尤其是全球环境基金（FEM）的资金。",
+            "但资金也必须到达保护区附近的民众手中。",
+            "保护必须改善他们的生活条件，而不只是保护自然。"
+          ]
+        }
+      ],
+      "glossary": {
+        "biodiversité": "生物多样性：一定区域内物种、基因和生态系统的多样性，是文章讨论的保护对象。",
+        "conférence des parties": "缔约方大会：生物多样性公约缔约国定期举行的会议，COP17即第十七次此类会议。",
+        "aires protégées": "保护区：为保护物种、栖息地和自然景观而划定的陆域或海域管理区域。",
+        "écosystèmes": "生态系统：生物群落与其非生物环境相互作用形成的整体，文中强调要拯救的对象。",
+        "habitats": "栖息地：某一物种或生物群落生活和繁衍所需的自然环境。",
+        "mégadivers": "生物多样性特丰富：指拥有大量物种和特有生物的国家，马达加斯加属于此类国家。",
+        "financements": "资金/融资：用于支持保护行动和项目的经费来源，如全球环境基金。",
+        "conservation": "保护：为维持生物多样性、生态系统和自然地点而采取的管理与行动。",
+        "stratégie": "战略：为指导长期行动而制定的总体规划和优先方向，文中指国家生物多样性战略。",
+        "gestionnaires": "管理者：负责保护区或自然资源的日常管理和决策执行的人员。"
+      },
+      "questions": {
+        "q1": "证据句“该国介绍了未来几年的行动和优先事项”直接说明，马达加斯加参加COP17是为了展示已有行动和今后优先事项。埃里温承办会议是亚美尼亚城市承办，并未说是马达加斯加组织；签署气候协议文中没有提到；退出昆明-蒙特利尔框架与后文讨论如何应用该框架相反。",
+        "q2": "证据句“该国已经拥有155个陆地和海洋保护区”说明，现有保护区网络被视为继续保护物种和栖息地的坚实基础，所以这是马达加斯加认为能帮助实现30×30目标的直接理由。获得全球环境基金是后文谈资金来源，不是实现该目标的直接原因；在埃里温主办会议的是亚美尼亚方面；17个生物多样性特丰富国家是马达加斯加的身份，不是它设定的目标。",
+        "q3": "证据句“然而，保护区的数量还不够”后文马上补充：目标还包括拯救生态系统、物种和独特自然地点，并要求女性、青年、公共决策者、管理者和民众共同参与。因此这句话的意思是还要拯救生态系统并让民众参与。把所有保护区都变成海洋保护区、停止建立陆地保护区、说现有保护区没有价值，都不符合文章把现有网络称为“坚实基础”的意思。",
+        "q4": "证据句“当它们看到具体好处时，它们会更积极地参与”表明，社区参与度提高的条件是看到实际利益，语义上是因果联系。由管理者替社区做决定与文中“共同合作”相反；直接收到全球环境基金资金文中没有说；离开保护区也没有依据。",
+        "q5": "证据句“这一地位帮助该国获得资金，尤其是全球环境基金（FEM）的资金”明确把生物多样性特丰富国家身份与获得融资联系起来。主办COP17的是埃里温；减少对保护区的需求与文章强调现有保护区网络是基础相反；取代国家生物多样性战略SPANB在文中没有依据。",
+        "q6": "证据句“保护必须改善他们的生活条件，而不只是保护自然”位于结尾，概括了全文：马达加斯加既想保护自然，也想帮助保护区附近的当地民众。让下一届会议在埃里温举办不是文章内容；拒绝昆明-蒙特利尔框架与全文相反；缩减保护区网络也与文章强调保护努力相反。",
+        "q7": "证据句“该国还遵循一项国家生物多样性战略，称为SPANB”直接给出定义，因此SPANB是国家生物多样性战略。155个保护区、全球环境基金和缔约方大会都是文中出现的其他概念，不是SPANB所指。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "文章显示了马达加斯加参与COP17的什么情况？",
+          "options": [
+            "它主要有助于在埃里温组织这次会议。",
+            "它促成了签署一项气候协议。",
+            "它成为介绍其行动和优先事项的机会。",
+            "它导致该国退出昆明-蒙特利尔框架。"
+          ]
+        },
+        "q2": {
+          "prompt": "为什么马达加斯加认为它能够帮助实现30×30目标？",
+          "options": [
+            "因为它已经拥有由155个保护区组成的网络。",
+            "因为它获得了全球环境基金。",
+            "因为它正在埃里温主办这次会议。",
+            "因为它采纳了一个由17个生物多样性特丰富国家组成的目标。"
+          ]
+        },
+        "q3": {
+          "prompt": "“保护区数量还不够”这句话意味着什么？",
+          "options": [
+            "所有保护区都必须变成海洋保护区。",
+            "还必须拯救生态系统并让民众参与。",
+            "该国必须停止建立陆地保护区。",
+            "现有保护区没有价值。"
+          ]
+        },
+        "q4": {
+          "prompt": "根据文章，社区什么时候会更积极地参与？",
+          "options": [
+            "当管理者替它们做决定时。",
+            "当它们直接收到全球环境基金的资金时。",
+            "当它们离开保护区时。",
+            "当它们看到具体好处时。"
+          ]
+        },
+        "q5": {
+          "prompt": "生物多样性特丰富国家身份给马达加斯加带来什么优势？",
+          "options": [
+            "它便于获得资金。",
+            "它使该国能够主办COP17。",
+            "它减少对保护区的需求。",
+            "它取代国家生物多样性战略SPANB。"
+          ]
+        },
+        "q6": {
+          "prompt": "文章传达的主要观点是什么？",
+          "options": [
+            "马达加斯加想下一届会议在埃里温举办。",
+            "马达加斯加想保护自然，同时帮助当地民众。",
+            "马达加斯加拒绝昆明-蒙特利尔框架。",
+            "马达加斯加想缩减其保护区网络。"
+          ]
+        },
+        "q7": {
+          "prompt": "文章中的SPANB指什么？",
+          "options": [
+            "一个由155个保护区组成的网络。",
+            "一个全球环境基金。",
+            "一项国家生物多样性战略。",
+            "一次生物多样性缔约方大会。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Madagascar s’engage pour la biodiversité à travers la protection des aires marines",
+    "authors": [
+      "Mamisoa Raveloaritiana"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/09/304239/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-21",
+    "publishedAt": "2026-11-09",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-21",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

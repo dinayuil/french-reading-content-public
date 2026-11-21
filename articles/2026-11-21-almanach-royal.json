@@ -1,0 +1,369 @@
+{
+  "id": "2026-11-21-almanach-royal",
+  "title": "L’Almanach royal, un annuaire officiel de l’Ancien Régime à la Troisième République",
+  "level": "B2",
+  "theme": "histoire",
+  "date": "2026-11-21",
+  "summary": "L’Almanach royal, annuaire administratif fondé au XVIIe siècle, a évolué pendant plus de deux siècles avant de disparaître, tout en inspirant des reprises contemporaines.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Créé en 1683 par le libraire Laurent d’Houry, l’Almanach royal devient, à partir de 1700, un annuaire administratif français publié sous ce titre jusqu’en 1792.",
+        "Il recense la famille royale, les princes, le haut clergé, les maréchaux, les ambassadeurs et divers responsables, selon un ordre de préséance.",
+        "Malgré ses listes austères, il intéresse financiers, politiques et personnes soucieuses de comprendre l’administration.",
+        "Son caractère officiel explique que Pierre Joly, accusé d’usurper le métier de banquier, ait été enfermé à la Bastille à la fin du XVIIIe siècle."
+      ]
+    },
+    {
+      "sentences": [
+        "En 1699, Louis XIV demande à voir l’ouvrage, ce qui conduit à la première édition royale en 1700.",
+        "Trois annuaires comparables circulent alors, dont l’État de la France de Trabouillet et le Calendrier de la Cour de Colombat.",
+        "Les conflits entre éditeurs sont fréquents : en 1717, un jugement interdit à d’Houry de contrefaire Colombat, tout en gelant le contenu de ce dernier.",
+        "En 1716, d’Houry est même emprisonné à la Bastille après une plainte de l’ambassadeur anglais, car il n’avait pas désigné George comme roi de Grande-Bretagne."
+      ]
+    },
+    {
+      "sentences": [
+        "Après la mort de Laurent d’Houry en 1725, sa veuve Élisabeth Dubois reprend l’affaire, tandis que leur fils Charles-Maurice tente sans succès de l’écarter.",
+        "En 1728, André-François Le Breton, petit-fils de l’éditeur, est associé à l’entreprise; une lettre royale de 1744 confirme ensuite ses droits.",
+        "Sous sa direction, l’ouvrage s’enrichit, mais il subit des critiques, notamment une lettre virulente de Voltaire en 1768.",
+        "En 1774, une mention maladroite sur un trésorier des grains lui vaut une fermeture de trois mois et une édition corrigée."
+      ]
+    },
+    {
+      "sentences": [
+        "La Révolution modifie le titre et le contenu de l’annuaire, qui suit ensuite les régimes politiques jusqu’à la Troisième République.",
+        "Le nombre de pages passe d’environ cent en 1699 à plus de mille six cents en 1900.",
+        "Les informations officielles sont fournies par les administrations, et la présentation typographique soigne les longues listes.",
+        "En 1814, une ordonnance transfère l’entreprise à l’association Guyot-Testu, mettant fin à l’hégémonie de la famille d’Houry."
+      ]
+    },
+    {
+      "sentences": [
+        "En 1867, l’édition revient à la veuve Berger-Levrault, puis elle s’arrête en 1919 après une interruption due à la guerre; le dernier numéro couvre 1915 à 1919.",
+        "Le titre est repris en 1975 par Hervé Pinoteau pour un État présent de la Maison de Bourbon, publié jusqu’en 2012.",
+        "Des blogs monarchistes ont ensuite proposé, en 2018 et 2019, des versions en ligne ou imprimées.",
+        "L’Almanach a ainsi traversé onze régimes, changé quatorze fois d’éditeur et neuf fois de titre."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "préséance"
+    },
+    {
+      "term": "austères"
+    },
+    {
+      "term": "usurper"
+    },
+    {
+      "term": "contrefaire"
+    },
+    {
+      "term": "virulente"
+    },
+    {
+      "term": "hégémonie"
+    },
+    {
+      "term": "ordonnance"
+    },
+    {
+      "term": "typographique"
+    },
+    {
+      "term": "monarchistes"
+    },
+    {
+      "term": "trésorier"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Pourquoi Pierre Joly a-t-il été enfermé à la Bastille à la fin du XVIIIe siècle ?",
+      "options": [
+        "Parce qu’il était accusé d’exercer illégalement le métier de banquier.",
+        "Parce qu’il avait publié un annuaire concurrent de l’Almanach royal.",
+        "Parce qu’il avait omis de mentionner George comme roi de Grande-Bretagne.",
+        "Parce qu’il avait contrefait le Calendrier de la Cour de Colombat."
+      ],
+      "answerIndex": 0,
+      "evidence": "Son caractère officiel explique que Pierre Joly, accusé d’usurper le métier de banquier, ait été enfermé à la Bastille à la fin du XVIIIe siècle.",
+      "explanation": "Le texte indique que Joly est accusé d’usurper le métier de banquier, ce qui explique son enfermement. Les autres options renvoient à d’autres personnes ou à d’autres conflits éditoriaux."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quelle conséquence la demande de Louis XIV en 1699 a-t-elle eue ?",
+      "options": [
+        "Elle a entraîné la première édition royale en 1700.",
+        "Elle a provoqué l’emprisonnement de d’Houry à la Bastille en 1716.",
+        "Elle a obligé Colombat à geler le contenu de son calendrier en 1717.",
+        "Elle a transféré l’entreprise à l’association Guyot-Testu en 1814."
+      ],
+      "answerIndex": 0,
+      "evidence": "En 1699, Louis XIV demande à voir l’ouvrage, ce qui conduit à la première édition royale en 1700.",
+      "explanation": "Le texte établit un lien direct entre la demande royale de 1699 et la première édition royale de 1700. Les autres événements sont présentés plus loin et ne découlent pas de cette demande."
+    },
+    {
+      "id": "q3",
+      "prompt": "Que décide un jugement de 1717 concernant d’Houry et Colombat ?",
+      "options": [
+        "Colombat doit cesser de publier son calendrier au profit de d’Houry.",
+        "D’Houry obtient le droit de reprendre le contenu de Colombat contre paiement.",
+        "D’Houry doit cesser de reproduire Colombat, dont le contenu reste alors inchangé.",
+        "Les deux éditeurs doivent fusionner leurs annuaires sous contrôle royal."
+      ],
+      "answerIndex": 2,
+      "evidence": "Les conflits entre éditeurs sont fréquents : en 1717, un jugement interdit à d’Houry de contrefaire Colombat, tout en gelant le contenu de ce dernier.",
+      "explanation": "Le jugement interdit à d’Houry de contrefaire Colombat et empêche aussi le contenu de Colombat d’évoluer. Les autres options inversent les rôles ou ajoutent une fusion absente du texte."
+    },
+    {
+      "id": "q4",
+      "prompt": "Que se passe-t-il après la mort de Laurent d’Houry en 1725 ?",
+      "options": [
+        "Son fils Charles-Maurice reprend l’affaire avec l’accord de sa mère.",
+        "Sa veuve Élisabeth Dubois reprend l’affaire, alors que leur fils tente sans succès de l’écarter.",
+        "André-François Le Breton rachète immédiatement l’entreprise familiale.",
+        "Une lettre royale de 1744 retire ses droits à la veuve au profit du fils."
+      ],
+      "answerIndex": 1,
+      "evidence": "Après la mort de Laurent d’Houry en 1725, sa veuve Élisabeth Dubois reprend l’affaire, tandis que leur fils Charles-Maurice tente sans succès de l’écarter.",
+      "explanation": "Le texte précise que la veuve reprend l’entreprise et que le fils échoue à l’écarter. Le Breton est associé plus tard, en 1728, et la lettre de 1744 confirme ses droits."
+    },
+    {
+      "id": "q5",
+      "prompt": "Qu’arrive-t-il à l’Almanach en 1774 ?",
+      "options": [
+        "Il est transféré à l’association Guyot-Testu après une ordonnance.",
+        "Il est critiqué par Voltaire dans une lettre virulente.",
+        "Il est interdit de contrefaire Colombat par un jugement.",
+        "Il est fermé trois mois à cause d’une mention maladroite, puis paraît corrigé."
+      ],
+      "answerIndex": 3,
+      "evidence": "En 1774, une mention maladroite sur un trésorier des grains lui vaut une fermeture de trois mois et une édition corrigée.",
+      "explanation": "Le passage associe explicitement une mention maladroite à une fermeture de trois mois et à une édition corrigée. Les autres options concernent d’autres dates ou d’autres événements."
+    },
+    {
+      "id": "q6",
+      "prompt": "Que montre l’augmentation du nombre de pages de l’Almanach entre 1699 et 1900 ?",
+      "options": [
+        "L’ouvrage cesse d’être officiel.",
+        "L’ouvrage change de titre chaque année.",
+        "L’ouvrage devient beaucoup plus volumineux.",
+        "L’ouvrage est désormais publié par la famille d’Houry."
+      ],
+      "answerIndex": 2,
+      "evidence": "Le nombre de pages passe d’environ cent en 1699 à plus de mille six cents en 1900.",
+      "explanation": "La comparaison chiffrée indique une forte croissance du volume de l’ouvrage. Les autres options ne découlent pas de cette évolution du nombre de pages."
+    },
+    {
+      "id": "q7",
+      "prompt": "Que se passe-t-il pour l’édition à partir de 1867 ?",
+      "options": [
+        "Elle revient à la veuve Berger-Levrault et s’arrête en 1919 après une interruption liée à la guerre.",
+        "Elle est reprise par Hervé Pinoteau et publiée jusqu’en 2012.",
+        "Elle est transférée à l’association Guyot-Testu par une ordonnance.",
+        "Elle est interrompue en 1867 à cause d’une guerre et ne reprend qu’en 1915."
+      ],
+      "answerIndex": 0,
+      "evidence": "En 1867, l’édition revient à la veuve Berger-Levrault, puis elle s’arrête en 1919 après une interruption due à la guerre; le dernier numéro couvre 1915 à 1919.",
+      "explanation": "Le texte mentionne le passage à la veuve Berger-Levrault en 1867, puis l’arrêt en 1919 après une interruption causée par la guerre. Les autres options confondent les dates ou les responsables."
+    },
+    {
+      "id": "q8",
+      "prompt": "Que révèlent les chiffres indiqués à la fin de l’article ?",
+      "options": [
+        "L’Almanach a gardé le même éditeur sous onze régimes.",
+        "L’Almanach a connu de nombreux changements politiques et éditoriaux.",
+        "L’Almanach a changé de titre à chaque régime sans changer d’éditeur.",
+        "L’Almanach a été publié uniquement sous la Troisième République."
+      ],
+      "answerIndex": 1,
+      "evidence": "L’Almanach a ainsi traversé onze régimes, changé quatorze fois d’éditeur et neuf fois de titre.",
+      "explanation": "Le bilan final insiste sur la succession de régimes et sur les nombreux changements d’éditeur et de titre. Les autres options contredisent ces chiffres ou réduisent à tort la durée de publication."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "《皇家年鉴》：从旧制度到第三共和国的一部官方年鉴",
+      "summary": "《皇家年鉴》是17世纪创立的行政年鉴，历经两个多世纪演变后消失，并启发现当代的续编。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "《皇家年鉴》由书商洛朗·杜里于1683年创办，从1700年起成为法国行政年鉴，并以此书名出版至1792年。",
+            "它按位次顺序收录王室成员、亲王、高级神职人员、元帅、大使以及各类负责人。",
+            "尽管其中尽是枯燥的名单，它仍吸引金融家、政治家以及有意了解行政机构的人。",
+            "其官方性质解释了为何被指控非法从事银行家职业的皮埃尔·若利在18世纪末被关进巴士底狱。"
+          ]
+        },
+        {
+          "sentences": [
+            "1699年，路易十四要求查看该书，这促成了1700年的首个皇家版本。",
+            "当时有三部类似的年鉴在流通，其中包括特拉布耶的《法国国况》和科隆巴的《宫廷日历》。",
+            "出版商之间的冲突频繁：1717年，一项判决禁止杜里仿冒科隆巴，同时又冻结了后者的内容。",
+            "1716年，杜里甚至因英国大使的控告而被关进巴士底狱，因为他在书中没有把乔治标为英国国王。"
+          ]
+        },
+        {
+          "sentences": [
+            "洛朗·杜里于1725年去世后，其遗孀伊丽莎白·杜布瓦接手生意，而他们的儿子夏尔-莫里斯试图排挤她却未成功。",
+            "1728年，出版商的孙子安德烈-弗朗索瓦·勒布勒东被纳入企业；1744年的一封皇家书信随后确认了他的权利。",
+            "在他的领导下，该书内容日益丰富，但也遭到批评，尤其是1768年伏尔泰的一封措辞尖刻的信。",
+            "1774年，书中关于一位粮食司库的不当表述使其被停刊三个月，并促成了一个更正版。"
+          ]
+        },
+        {
+          "sentences": [
+            "大革命改变了年鉴的书名和内容，此后它随政治制度更迭，一直延续到第三共和国。",
+            "页数从1699年约一百页增至1900年的一千六百多页。",
+            "官方信息由各行政机构提供，排版设计则精心处理这些长长的名单。",
+            "1814年，一项法令将企业转让给居约-泰斯图协会，结束了杜里家族的主导地位。"
+          ]
+        },
+        {
+          "sentences": [
+            "1867年，出版权转到贝热尔-勒沃寡妇手中，随后因战争中断，并于1919年停止；最后一期涵盖1915年至1919年。",
+            "1975年，埃尔韦·皮诺托为《波旁王室现状》重新启用这一书名，出版至2012年。",
+            "此后，君主主义博客在2018年和2019年推出了网络版或印刷版。",
+            "《皇家年鉴》就这样历经十一个政权，十四次更换出版商，九次更换书名。"
+          ]
+        }
+      ],
+      "glossary": {
+        "préséance": "按身份等级排列的优先位次；文中指年鉴依照礼制顺序列出人物。",
+        "austères": "严肃、朴素甚至枯燥乏味的；文中形容名单缺乏趣味。",
+        "usurper": "僭取、非法占据或无权从事；文中指被指控无权从事银行家职业。",
+        "contrefaire": "仿造、擅自复制他人出版物；文中指非法翻印科隆巴的日历。",
+        "virulente": "措辞尖刻、激烈攻击的；文中形容伏尔泰的批评信。",
+        "hégémonie": "主导地位、垄断性控制；文中指杜里家族长期掌控出版。",
+        "ordonnance": "国王或政权发布的法令、敕令；文中指1814年转让企业的法令。",
+        "typographique": "与排版、印刷外观有关的；文中指年鉴对长名单的排版处理。",
+        "monarchistes": "拥护君主制的人或团体；文中指后来续编年鉴的保皇派博客。",
+        "trésorier": "管理钱财的官员、司库；文中指粮食司库这一职位。"
+      },
+      "questions": {
+        "q1": "证据句说皮埃尔·若利被指控“非法从事银行家职业”，其官方年鉴背景使这一罪名导致他被关入巴士底狱；因此正确选项是“被指控非法从事银行家职业”。第二项说出版竞争年鉴、第三项说漏写乔治为英国国王、第四项说仿冒科隆巴的《宫廷日历》，这些分别对应文本中的其他冲突或其他人，并非若利入狱的原因。",
+        "q2": "证据句直接说明1699年路易十四要求查看该书，结果促成1700年首个皇家版本，所以正确选项是“促成了1700年的首个皇家版本”。第二项把1716年杜里入狱混入；第三项是1717年判决涉及科隆巴内容冻结；第四项是1814年企业转让，均不是1699年请求的直接后果。",
+        "q3": "证据句说1717年判决禁止杜里仿冒科隆巴，同时冻结科隆巴的内容，因此正确选项是“杜里必须停止复制科隆巴，而后者内容保持不变”。第一项让科隆巴停止出版，第二项给杜里复制权，第四项说两家合并，都与“禁止仿冒并冻结内容”的判决相反或无中生有。",
+        "q4": "证据句明确：1725年洛朗·杜里死后，遗孀伊丽莎白·杜布瓦接手，儿子夏尔-莫里斯试图排挤她但未成功；所以正确选项是“遗孀接手，儿子排挤失败”。第一项说儿子经母亲同意接手，与原文相反；第三项说勒布勒东立即买下企业，但文本说1728年才被纳入；第四项说1744年书信剥夺遗孀权利，而文本说该书信确认勒布勒东的权利。",
+        "q5": "证据句把1774年“关于粮食司库的不当表述”与“停刊三个月并出版更正版”直接相连，所以正确选项是“因不当表述停刊三个月，随后出版更正版”。第一项是1814年法令后的转让；第二项是1768年伏尔泰的批评；第三项是1717年关于科隆巴的判决，均属其他时间或其他事件。",
+        "q6": "证据句用页数从1699年约一百页增加到1900年一千六百多页作比较，说明该书体量大幅增长，因此正确选项是“该书变得厚得多”。第一项说不再官方、第二项说每年改名、第四项说仍由杜里家族出版，都不是页数增长所显示的内容，且与后文1814年转让等事实不符。",
+        "q7": "证据句说1867年出版权转到贝热尔-勒沃寡妇手中，随后因战争中断并于1919年停止，最后一期涵盖1915至1919年；因此正确选项是“转到贝热尔-勒沃寡妇手中，因战争中断后于1919年停止”。第二项是1975年皮诺托的续编；第三项是1814年居约-泰斯图协会的转让；第四项把中断时间错置于1867年，均与原文时间线不符。",
+        "q8": "结尾证据句说年鉴历经十一个政权、十四次更换出版商、九次更换书名，这正说明政治与出版方面的频繁变化，所以正确选项是“经历了众多政治和编辑变化”。第一项说同一出版商不变，第三项说只换书名不换出版商，第四项说只在第三共和国出版，都与“十四次更换出版商”“历经十一个政权”等数字矛盾。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "为什么皮埃尔·若利在18世纪末被关进巴士底狱？",
+          "options": [
+            "因为他被指控非法从事银行家职业。",
+            "因为他出版了一部与《皇家年鉴》竞争的年鉴。",
+            "因为他没有提到乔治是英国国王。",
+            "因为他仿冒了科隆巴的《宫廷日历》。"
+          ]
+        },
+        "q2": {
+          "prompt": "路易十四1699年的要求产生了什么后果？",
+          "options": [
+            "它促成了1700年的首个皇家版本。",
+            "它导致杜里于1716年被关进巴士底狱。",
+            "它迫使科隆巴在1717年冻结其日历内容。",
+            "它于1814年将企业转让给居约-泰斯图协会。"
+          ]
+        },
+        "q3": {
+          "prompt": "1717年一项关于杜里和科隆巴的判决决定了什么？",
+          "options": [
+            "科隆巴必须停止出版其日历，让位于杜里。",
+            "杜里获得付费转载科隆巴内容的权利。",
+            "杜里必须停止复制科隆巴，而科隆巴的内容当时保持不变。",
+            "两位出版商必须在皇家监督下合并他们的年鉴。"
+          ]
+        },
+        "q4": {
+          "prompt": "1725年洛朗·杜里去世后发生了什么？",
+          "options": [
+            "他的儿子夏尔-莫里斯经母亲同意接手生意。",
+            "他的遗孀伊丽莎白·杜布瓦接手生意，而他们的儿子试图排挤她但未成功。",
+            "安德烈-弗朗索瓦·勒布勒东立即买下家族企业。",
+            "1744年的一封皇家书信剥夺了遗孀的权利，将其转给儿子。"
+          ]
+        },
+        "q5": {
+          "prompt": "1774年《皇家年鉴》发生了什么？",
+          "options": [
+            "在一项法令后，它被转让给居约-泰斯图协会。",
+            "它遭到伏尔泰一封措辞尖刻的信的批评。",
+            "一项判决禁止它仿冒科隆巴。",
+            "它因一处不当表述被停刊三个月，随后出版更正版。"
+          ]
+        },
+        "q6": {
+          "prompt": "《皇家年鉴》1699年至1900年页数增加说明了什么？",
+          "options": [
+            "该书不再具有官方性质。",
+            "该书每年都更换书名。",
+            "该书变得篇幅大得多。",
+            "该书此时由杜里家族出版。"
+          ]
+        },
+        "q7": {
+          "prompt": "从1867年起，该版本发生了什么？",
+          "options": [
+            "出版权转到贝热尔-勒沃寡妇手中，并在因战争中断后于1919年停止。",
+            "它被埃尔韦·皮诺托接手，并出版至2012年。",
+            "它通过一项法令被转让给居约-泰斯图协会。",
+            "它于1867年因战争中断，直到1915年才恢复。"
+          ]
+        },
+        "q8": {
+          "prompt": "文章末尾给出的数字揭示了什么？",
+          "options": [
+            "《皇家年鉴》在十一个政权下保持同一出版商。",
+            "《皇家年鉴》经历了众多政治和出版变化。",
+            "《皇家年鉴》在每个政权都更换书名，却不更换出版商。",
+            "《皇家年鉴》只在第三共和国时期出版。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Almanach royal",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=240366521",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-21",
+    "revisionId": "240366521"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-21",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-21-almanach-royal-e09ec61fffb6.png",
+    "alt": "Almanach royal de 1738, exemple de reliure classique faite par l'imprimeur",
+    "author": "FMichaud76",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Almanach1738-reliureclassique.png?oldid=789492115",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Fichier original téléchargé depuis Wikimedia Commons ; aucune modification.",
+    "width": 572,
+    "height": 431,
+    "byteLength": 613751,
+    "sha256": "e09ec61fffb62f29e50fb934a5f95af0e4b08d8897e0feae54620ac3cf02ee21",
+    "fileRevisionId": "789492115",
+    "retrievedAt": "2026-11-21"
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "id": "2026-11-11-madagascar-s-engage-pour-la-biodiversite-a-travers-la-protec-a2",
+  "title": "Madagascar défend sa biodiversité à la COP17",
+  "level": "A2",
+  "theme": "environnement",
+  "date": "2026-11-11",
+  "summary": "À la COP17, Madagascar présente ses progrès pour la nature. L’entretien traite du 30×30, de l’argent pour la conservation et des communautés.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Madagascar veut protéger sa nature et appliquer le cadre de Kunming-Montréal sur la biodiversité.",
+        "La COP17 s’est déroulée à Erevan, en Arménie, entre le 19 et le 30 octobre 2026.",
+        "Le pays a montré ses actions, ses priorités et ses projets pour les écosystèmes terrestres et marins.",
+        "Ce rendez-vous a favorisé des partenariats et des échanges."
+      ]
+    },
+    {
+      "sentences": [
+        "Global Voices a interviewé Tojotsara Ratefason.",
+        "Elle est directrice à la DAPRNRE, au ministère de l’Environnement (MEDD).",
+        "Elle a représenté le gouvernement malgache.",
+        "L’entretien parle du 30×30, des financements et du rôle des communautés, des femmes et des jeunes."
+      ]
+    },
+    {
+      "sentences": [
+        "Madagascar pense pouvoir aider à atteindre le 30×30.",
+        "Le pays a 155 aires protégées terrestres et marines.",
+        "Il utilise le plan national pour la biodiversité (SPANB).",
+        "Ce plan vient de la Convention sur la diversité biologique."
+      ]
+    },
+    {
+      "sentences": [
+        "Protéger la nature ne se limite pas au nombre d’aires protégées.",
+        "Madagascar veut sauver ses écosystèmes, ses espèces et ses habitats uniques.",
+        "Les communautés locales doivent participer à cette responsabilité partagée.",
+        "Elles doivent voir les bénéfices de la conservation."
+      ]
+    },
+    {
+      "sentences": [
+        "Le MEDD veut créer des emplois verts et des revenus durables.",
+        "Madagascar est parmi les 17 pays mégadivers.",
+        "Le pays a reçu des fonds du FEM, le Fonds pour l’environnement mondial.",
+        "Ces fonds doivent aider les communautés près des aires protégées et soutenir la conservation."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "biodiversité"
+    },
+    {
+      "term": "Kunming-Montréal"
+    },
+    {
+      "term": "écosystèmes"
+    },
+    {
+      "term": "terrestres"
+    },
+    {
+      "term": "marins"
+    },
+    {
+      "term": "DAPRNRE"
+    },
+    {
+      "term": "30×30"
+    },
+    {
+      "term": "aires protégées"
+    },
+    {
+      "term": "SPANB"
+    },
+    {
+      "term": "mégadivers"
+    },
+    {
+      "term": "FEM"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Où et quand la COP17 s’est-elle déroulée ?",
+      "options": [
+        "À Erevan, en Arménie, entre le 19 et le 30 octobre 2026.",
+        "À Antananarivo, à Madagascar, entre le 19 et le 30 octobre 2026.",
+        "À Erevan, en Arménie, entre le 19 et le 30 novembre 2026.",
+        "À Kunming, en Chine, entre le 19 et le 30 octobre 2026."
+      ],
+      "answerIndex": 0,
+      "evidence": "La COP17 s’est déroulée à Erevan, en Arménie, entre le 19 et le 30 octobre 2026.",
+      "explanation": "La phrase indique clairement Erevan, en Arménie, et les dates du 19 au 30 octobre 2026. Les autres options changent le lieu ou le mois."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quelle fonction Tojotsara Ratefason occupe-t-elle ?",
+      "options": [
+        "Elle est présidente de la COP17 à Erevan.",
+        "Elle est responsable des communautés locales.",
+        "Elle est directrice à la DAPRNRE, au ministère de l’Environnement.",
+        "Elle est directrice du Fonds pour l’environnement mondial."
+      ],
+      "answerIndex": 2,
+      "evidence": "Elle est directrice à la DAPRNRE, au ministère de l’Environnement (MEDD).",
+      "explanation": "Le texte présente Tojotsara Ratefason comme directrice à la DAPRNRE, au MEDD. Elle n’est ni présidente de la COP17 ni responsable du FEM."
+    },
+    {
+      "id": "q3",
+      "prompt": "Combien d’aires protégées terrestres et marines Madagascar possède-t-il ?",
+      "options": [
+        "17 aires protégées",
+        "155 aires protégées",
+        "30 aires protégées",
+        "19 aires protégées"
+      ],
+      "answerIndex": 1,
+      "evidence": "Le pays a 155 aires protégées terrestres et marines.",
+      "explanation": "Le texte donne le chiffre de 155 aires protégées. Les nombres 17, 30 et 19 correspondent à d’autres éléments ou ne sont pas indiqués pour ce total."
+    },
+    {
+      "id": "q4",
+      "prompt": "À quoi doivent servir les fonds du FEM reçus par Madagascar ?",
+      "options": [
+        "À organiser la COP17 à Erevan.",
+        "À créer le plan national pour la biodiversité.",
+        "À protéger seulement les écosystèmes marins.",
+        "À aider les communautés près des aires protégées et à soutenir la conservation."
+      ],
+      "answerIndex": 3,
+      "evidence": "Ces fonds doivent aider les communautés près des aires protégées et soutenir la conservation.",
+      "explanation": "La dernière phrase de l’article relie les fonds du FEM à l’aide aux communautés et à la conservation. Les autres options ne sont pas présentées comme l’usage de ces fonds."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que doivent faire les communautés locales dans la conservation ?",
+      "options": [
+        "Participer à la protection de la nature.",
+        "Attendre que le MEDD protège seul les aires protégées.",
+        "Quitter les zones proches des aires protégées.",
+        "Recevoir tout l’argent du Fonds pour l’environnement mondial."
+      ],
+      "answerIndex": 0,
+      "evidence": "Les communautés locales doivent participer à cette responsabilité partagée.",
+      "explanation": "Le texte dit que les communautés locales doivent participer à la responsabilité partagée de protéger la nature. Les autres options vont contre cette idée ou ne sont pas dans l’article."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quel est le sujet principal de l’article ?",
+      "options": [
+        "Le voyage touristique de Tojotsara Ratefason en Arménie.",
+        "La création d’un nouveau ministère de l’Environnement à Madagascar.",
+        "La participation de Madagascar à la COP17 pour protéger sa biodiversité.",
+        "La comparaison des aires protégées de Madagascar et d’Arménie."
+      ],
+      "answerIndex": 2,
+      "evidence": "Madagascar veut protéger sa nature et appliquer le cadre de Kunming-Montréal sur la biodiversité.",
+      "explanation": "L’article explique surtout comment Madagascar montre ses actions pour la biodiversité à la COP17. Les autres options portent sur des détails absents ou faux."
+    },
+    {
+      "id": "q7",
+      "prompt": "D’où vient le plan national pour la biodiversité (SPANB) ?",
+      "options": [
+        "Du Fonds pour l’environnement mondial (FEM).",
+        "De la Convention sur la diversité biologique.",
+        "De la COP17 à Erevan.",
+        "Du ministère de l’Environnement (MEDD)."
+      ],
+      "answerIndex": 1,
+      "evidence": "Ce plan vient de la Convention sur la diversité biologique.",
+      "explanation": "Le texte précise que le SPANB vient de la Convention sur la diversité biologique. Le FEM, la COP17 et le MEDD sont cités, mais pas comme origine du plan."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "马达加斯加在COP17上捍卫其生物多样性",
+      "summary": "在COP17上，马达加斯加介绍其在自然保护方面的进展。访谈涉及30×30目标、保护资金以及社区、妇女和青年的作用。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "马达加斯加希望保护自然并落实昆明-蒙特利尔生物多样性框架。",
+            "COP17于2026年10月19日至30日在亚美尼亚埃里温举行。",
+            "该国展示了其行动、优先事项以及针对陆地和海洋生态系统的项目。",
+            "这次会议促进了伙伴关系与交流。"
+          ]
+        },
+        {
+          "sentences": [
+            "Global Voices采访了Tojotsara Ratefason。",
+            "她是环境部（MEDD）DAPRNRE的主任。",
+            "她代表马达加斯加政府。",
+            "访谈谈及30×30、资金以及社区、妇女和青年的作用。"
+          ]
+        },
+        {
+          "sentences": [
+            "马达加斯加认为能够帮助实现30×30目标。",
+            "该国有155个陆地和海洋保护区。",
+            "它使用国家生物多样性计划（SPANB）。",
+            "该计划来自《生物多样性公约》。"
+          ]
+        },
+        {
+          "sentences": [
+            "保护自然不限于保护区的数量。",
+            "马达加斯加希望拯救其独特的生态系统、物种和栖息地。",
+            "地方社区必须参与这一共同责任。",
+            "它们必须看到保护带来的好处。"
+          ]
+        },
+        {
+          "sentences": [
+            "MEDD希望创造绿色就业和可持续收入。",
+            "马达加斯加是17个生物多样性巨丰富国家之一。",
+            "该国获得了全球环境基金（FEM）的资金。",
+            "这些资金必须帮助保护区附近的社区并支持保护工作。"
+          ]
+        }
+      ],
+      "glossary": {
+        "biodiversité": "生物多样性：生物物种、生态系统和遗传资源的多样性。",
+        "Kunming-Montréal": "昆明-蒙特利尔全球生物多样性框架：2022年通过的全球生物多样性保护目标框架。",
+        "écosystèmes": "生态系统：生物群落与其环境相互作用形成的整体。",
+        "terrestres": "陆地的：与陆地环境有关的。",
+        "marins": "海洋的：与海洋环境有关的。",
+        "DAPRNRE": "马达加斯加环境部（MEDD）下属的DAPRNRE；文中受访者担任该机构主任。",
+        "30×30": "30×30目标：到2030年保护至少30%的陆地和海洋。",
+        "aires protégées": "保护区：为保护自然生态和生物多样性而划定的区域。",
+        "SPANB": "国家生物多样性战略与行动计划：各国为落实《生物多样性公约》制定的国家计划。",
+        "mégadivers": "生物多样性巨丰富的：指拥有大量物种和特有物种的国家。",
+        "FEM": "全球环境基金：为环境项目提供资金的国际基金。"
+      },
+      "questions": {
+        "q1": "原文明确说COP17于2026年10月19日至30日在亚美尼亚埃里温举行；因此正确项是地点和月份都吻合的第一项。第二项把地点换成马达加斯加塔那那利佛，第三项把月份换成11月，第四项把地点换成中国昆明，均与原文不符。",
+        "q2": "原文直接介绍她是环境部（MEDD）下属DAPRNRE的主任，所以第三项职务与证据一致。第一项称她是COP17主席，第二项称她负责地方社区，第四项称她领导全球环境基金，原文均未如此表述。",
+        "q3": "证据句给出马达加斯加有155个陆地和海洋保护区，因此第二项“155个保护区”正确。第一项17、第三项30、第四项19分别可能让人联想到文中其他数字，但都不是保护区总数。",
+        "q4": "最后一句把FEM资金与帮助保护区附近社区、支持保护工作直接联系起来，因此第四项符合证据。第一项组织COP17、第二项制定SPANB、第三项只保护海洋生态系统都不是文中说明的这笔资金用途。",
+        "q5": "原文说地方社区必须参与这一共同责任，语义上就是参与自然保护，所以第一项正确。第二项让MEDD单独保护、第三项要求搬离、第四项要求获得全部FEM资金，都与“共同责任/参与”的证据相悖或文中没有依据。",
+        "q6": "证据句点明马达加斯加希望保护自然并落实昆明-蒙特利尔生物多样性框架，全文围绕其参加COP17展示生物多样性行动展开，因此第三项概括主题。第一项旅游、第二项新设环境部、第四项比较两国保护区都不是文章主线。",
+        "q7": "证据句明确说该计划来自《生物多样性公约》，所以第二项正确。FEM是资金机构，COP17是会议，MEDD是环境部，文中虽提到它们，却没有说它们是SPANB的来源。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "COP17在何时何地举行？",
+          "options": [
+            "2026年10月19日至30日，在亚美尼亚埃里温。",
+            "2026年10月19日至30日，在马达加斯加塔那那利佛。",
+            "2026年11月19日至30日，在亚美尼亚埃里温。",
+            "2026年10月19日至30日，在中国昆明。"
+          ]
+        },
+        "q2": {
+          "prompt": "Tojotsara Ratefason担任什么职务？",
+          "options": [
+            "她是埃里温COP17的主席。",
+            "她负责地方社区事务。",
+            "她是环境部DAPRNRE的主任。",
+            "她是全球环境基金主任。"
+          ]
+        },
+        "q3": {
+          "prompt": "马达加斯加拥有多少个陆地和海洋保护区？",
+          "options": [
+            "17个保护区",
+            "155个保护区",
+            "30个保护区",
+            "19个保护区"
+          ]
+        },
+        "q4": {
+          "prompt": "马达加斯加收到的FEM资金应作何用途？",
+          "options": [
+            "用于在埃里温组织COP17。",
+            "用于制定国家生物多样性计划。",
+            "仅用于保护海洋生态系统。",
+            "用于帮助保护区附近社区并支持保护工作。"
+          ]
+        },
+        "q5": {
+          "prompt": "地方社区在保护中应做什么？",
+          "options": [
+            "参与自然保护。",
+            "等待MEDD独自保护保护区。",
+            "离开保护区附近地区。",
+            "获得全球环境基金的全部资金。"
+          ]
+        },
+        "q6": {
+          "prompt": "文章的主题是什么？",
+          "options": [
+            "Tojotsara Ratefason在亚美尼亚的旅游。",
+            "马达加斯加新设环境部。",
+            "马达加斯加参加COP17以保护其生物多样性。",
+            "马达加斯加与亚美尼亚保护区的比较。"
+          ]
+        },
+        "q7": {
+          "prompt": "国家生物多样性计划（SPANB）来自哪里？",
+          "options": [
+            "来自全球环境基金（FEM）。",
+            "来自《生物多样性公约》。",
+            "来自埃里温COP17。",
+            "来自环境部（MEDD）。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Madagascar s’engage pour la biodiversité à travers la protection des aires marines",
+    "authors": [
+      "Mamisoa Raveloaritiana"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/09/304239/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-21",
+    "publishedAt": "2026-11-09",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-21",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-21",
+  "articles": [
+    {
+      "id": "2026-11-21-madame-du-barry",
+      "title": "Jeanne Bécu, comtesse du Barry : une favorite entre Cour et Révolution",
+      "level": "B1",
+      "theme": "histoire",
+      "date": "2026-11-21",
+      "summary": "Ce portrait retrace l’ascension de Jeanne Bécu, favorite de Louis XV, puis sa chute après la mort du roi et sous la Révolution.",
+      "path": "articles/2026-11-21-madame-du-barry.json"
+    },
+    {
+      "id": "2026-11-21-almanach-royal",
+      "title": "L’Almanach royal, un annuaire officiel de l’Ancien Régime à la Troisième République",
+      "level": "B2",
+      "theme": "histoire",
+      "date": "2026-11-21",
+      "summary": "L’Almanach royal, annuaire administratif fondé au XVIIe siècle, a évolué pendant plus de deux siècles avant de disparaître, tout en inspirant des reprises contemporaines.",
+      "path": "articles/2026-11-21-almanach-royal.json"
+    }
+  ]
+}
