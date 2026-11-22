@@ -1,0 +1,362 @@
+{
+  "id": "2026-11-22-comment-l-equateur-lutte-t-il-contre-la-presence-d-acides-gr",
+  "title": "Protéger la population contre les graisses trans en Équateur",
+  "level": "B2",
+  "theme": "santé",
+  "date": "2026-11-22",
+  "summary": "En Équateur, des experts et des associations souhaitent que la lutte contre les graisses trans industrielles dépasse les choix individuels et s’appuie sur des règles mieux appliquées.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Le 7 septembre, Eliana Estrella, membre du Comité des utilisateurs du marché alimentaire, a ouvert à Quito le colloque « Cœurs sans graisses trans ».",
+        "Dans l’amphithéâtre de l’université San Francisco de Quito, elle parlait devant associations, universités et agences sanitaires.",
+        "Ce colloque inaugurait trois jours d’activités sur les maladies non transmissibles."
+      ]
+    },
+    {
+      "sentences": [
+        "Le 8 septembre, organisations civiles et universitaires ont débattu à la Faculté latino-américaine des sciences sociales des priorités, capacités et stratégies de plaidoyer.",
+        "Le 10 septembre, le groupe « Nourriture pour la Vie » a examiné les initiatives citoyennes, leurs défis et difficultés."
+      ]
+    },
+    {
+      "sentences": [
+        "Margarines, biscuits, pâtes à tartiner, beignets, gâteaux et fritures peuvent contenir des graisses trans industrielles, selon les huiles et procédés.",
+        "L’OMS rappelle que l’hydrogénation partielle solidifie l’huile pour changer sa texture et prolonger sa conservation, un avantage industriel non sanitaire.",
+        "La viande et les produits laitiers de ruminants apportent des graisses trans naturelles aussi nocives, mais seule la forme industrielle peut être supprimée et remplacée."
+      ]
+    },
+    {
+      "sentences": [
+        "Beatriz Champagne, directrice de Coalición América Saludable, un collectif de plus de 200 organismes et personnes, refuse de limiter le problème aux choix individuels.",
+        "Pour elle, les maladies ne sont pas fortuites : elles découlent de systèmes alimentaires, sanitaires et réglementaires ayant échoué à protéger.",
+        "L’OMS estime à plus de 278 000 les décès annuels dus à ces graisses industrielles, liées à la maladie coronarienne, à l’AVC et au décès."
+      ]
+    },
+    {
+      "sentences": [
+        "Daniel Antiporta, de l’Organisation Panaméricaine de la Santé, évoque plus de 150 000 morts dans les Amériques, dont près de la moitié prématurées, avec des effets sur le développement et le bien-être.",
+        "Eliana Estrella juge ces produits accessibles et bon marché, fortement promus, concurrents des aliments frais et de l’agriculture locale, au détriment des producteurs.",
+        "Malek Batal, professeur à l’Université de Montréal, rappelle qu’on achète seulement ce qui existe à prix abordable; cibler les individus peut accroître la frustration."
+      ]
+    },
+    {
+      "sentences": [
+        "Une crise cardiaque ou un AVC peut exiger soins urgents, médicaments, opération et aide permanente, souvent assumée par la famille, avec des effets sur les revenus et le foyer.",
+        "La réduction des risques dépendant de l’éducation, des revenus et du lieu de vie, Beatriz Champagne réclame une politique collective pour toute la population équatorienne.",
+        "Eliana Estrella s’est engagée après le cancer de sa mère, décédée quinze ans plus tôt; elle soutient l’agriculture biologique et admet qu’un changement alimentaire exige du temps, de la volonté et des solutions accessibles.",
+        "L’Équateur limite par la Décision ministérielle no 4439 les graisses trans à 2 grammes pour 100 grammes de matières grasses, sans couvrir tous les produits finis ni interdire les huiles partiellement hydrogénées, comme l’OMS souhaite."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "amphithéâtre"
+    },
+    {
+      "term": "non transmissibles"
+    },
+    {
+      "term": "hydrogénation partielle"
+    },
+    {
+      "term": "ruminants"
+    },
+    {
+      "term": "coronarienne"
+    },
+    {
+      "term": "prématurées"
+    },
+    {
+      "term": "plaidoyer"
+    },
+    {
+      "term": "fortuites"
+    },
+    {
+      "term": "partiellement hydrogénées"
+    },
+    {
+      "term": "Décision ministérielle no 4439"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon l’OMS, quel est l’intérêt de l’hydrogénation partielle des huiles ?",
+      "options": [
+        "Elle rend l’huile plus riche en graisses trans naturelles et améliore sa valeur sanitaire.",
+        "Elle rend l’huile solide et prolonge sa conservation, surtout pour un usage industriel.",
+        "Elle supprime les graisses trans industrielles tout en gardant la texture liquide.",
+        "Elle réduit les risques cardiovasculaires en modifiant la texture des produits laitiers."
+      ],
+      "answerIndex": 1,
+      "evidence": "L’OMS rappelle que l’hydrogénation partielle solidifie l’huile pour changer sa texture et prolonger sa conservation, un avantage industriel non sanitaire.",
+      "explanation": "Le texte présente l’hydrogénation partielle comme un procédé qui solidifie l’huile et allonge sa conservation, avec un intérêt industriel et non sanitaire. Les options qui y voient un bénéfice pour la santé ou une suppression des graisses trans contredisent ce passage."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi Beatriz Champagne refuse-t-elle de réduire le problème des graisses trans aux seuls choix individuels ?",
+      "options": [
+        "Parce qu’elle considère que les maladies résultent de systèmes qui n’ont pas su protéger la population.",
+        "Parce qu’elle estime que les individus connaissent mal les produits à éviter.",
+        "Parce qu’elle pense que les produits laitiers naturels sont la cause principale.",
+        "Parce qu’elle juge que les agences sanitaires manquent surtout de personnel."
+      ],
+      "answerIndex": 0,
+      "evidence": "Pour elle, les maladies ne sont pas fortuites : elles découlent de systèmes alimentaires, sanitaires et réglementaires ayant échoué à protéger.",
+      "explanation": "Beatriz Champagne situe l’origine des maladies dans l’échec des systèmes alimentaires, sanitaires et réglementaires, ce qui justifie selon elle une action qui dépasse les choix personnels. Les autres options ajoutent des causes que le texte ne lui attribue pas."
+    },
+    {
+      "id": "q3",
+      "prompt": "Combien de décès annuels l’OMS attribue-t-elle aux graisses trans industrielles ?",
+      "options": [
+        "Plus de 150 000 décès par an dans le monde.",
+        "Environ la moitié des décès prématurés dans les Amériques.",
+        "Plus de 278 000 décès par an.",
+        "Environ 2 décès pour 100 grammes de matières grasses."
+      ],
+      "answerIndex": 2,
+      "evidence": "L’OMS estime à plus de 278 000 les décès annuels dus à ces graisses industrielles, liées à la maladie coronarienne, à l’AVC et au décès.",
+      "explanation": "Le chiffre mondial donné par l’OMS est de plus de 278 000 décès annuels. Le chiffre de 150 000 concerne les Amériques, et la limite de 2 grammes relève de la réglementation équatorienne."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel rôle joue l’évocation du cancer de la mère d’Eliana Estrella ?",
+      "options": [
+        "Elle prouve que le cancer a été causé par les graisses trans industrielles.",
+        "Elle montre que la réglementation équatorienne a déjà empêché ces maladies.",
+        "Elle sert à critiquer l’agriculture biologique comme trop lente.",
+        "Elle explique son engagement personnel et rappelle qu’un changement alimentaire doit offrir des solutions accessibles."
+      ],
+      "answerIndex": 3,
+      "evidence": "Eliana Estrella s’est engagée après le cancer de sa mère, décédée quinze ans plus tôt; elle soutient l’agriculture biologique et admet qu’un changement alimentaire exige du temps, de la volonté et des solutions accessibles.",
+      "explanation": "Le passage relie l’histoire familiale d’Eliana Estrella à son engagement et à sa position sur la nécessité de solutions accessibles. Il ne prouve pas que le cancer de sa mère avait une cause précise ni que la réglementation actuelle aurait déjà résolu le problème."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que dit le texte sur les graisses trans naturelles et industrielles ?",
+      "options": [
+        "Les graisses naturelles sont inoffensives, tandis que l’industrielle est dangereuse.",
+        "Les deux sont nocives, mais seule l’industrielle peut être éliminée et remplacée.",
+        "L’industrielle est moins nocive, car elle est liée aux produits laitiers.",
+        "Les naturelles peuvent être supprimées, contrairement à l’industrielle."
+      ],
+      "answerIndex": 1,
+      "evidence": "La viande et les produits laitiers de ruminants apportent des graisses trans naturelles aussi nocives, mais seule la forme industrielle peut être supprimée et remplacée.",
+      "explanation": "Le texte affirme que les graisses trans naturelles et industrielles sont toutes deux nocives, tout en précisant que l’action est possible seulement sur la forme industrielle. Les options qui rendent les naturelles inoffensives ou supprimables inversent cette distinction."
+    },
+    {
+      "id": "q6",
+      "prompt": "Pourquoi, selon Malek Batal, cibler les individus peut-il accroître la frustration ?",
+      "options": [
+        "Parce que les individus refusent de changer même quand les solutions existent.",
+        "Parce que les produits frais sont toujours plus chers que les produits industriels.",
+        "Parce que les gens achètent ce qui est disponible à prix abordable, ce qui dépasse leurs seuls choix.",
+        "Parce que les politiques collectives empêchent les gens d’acheter ce qu’ils veulent."
+      ],
+      "answerIndex": 2,
+      "evidence": "Malek Batal, professeur à l’Université de Montréal, rappelle qu’on achète seulement ce qui existe à prix abordable; cibler les individus peut accroître la frustration.",
+      "explanation": "Malek Batal souligne que l’achat dépend de ce qui est disponible à un prix abordable, si bien que la responsabilité individuelle est insuffisante. Les autres options évoquent des refus ou des prix absolus que le texte ne soutient pas."
+    },
+    {
+      "id": "q7",
+      "prompt": "Que prévoit la Décision ministérielle no 4439 en Équateur ?",
+      "options": [
+        "Elle fixe une limite de 2 grammes de graisses trans pour 100 grammes de matières grasses, avec des exclusions.",
+        "Elle interdit toutes les huiles partiellement hydrogénées et tous les produits finis.",
+        "Elle impose la même limite à tous les produits, y compris la viande et les produits laitiers.",
+        "Elle supprime les graisses trans naturelles des ruminants."
+      ],
+      "answerIndex": 0,
+      "evidence": "L’Équateur limite par la Décision ministérielle no 4439 les graisses trans à 2 grammes pour 100 grammes de matières grasses, sans couvrir tous les produits finis ni interdire les huiles partiellement hydrogénées, comme l’OMS souhaite.",
+      "explanation": "La décision fixe une limite précise, mais le texte indique qu’elle ne couvre pas tous les produits finis et n’interdit pas les huiles partiellement hydrogénées. Les options qui parlent d’interdiction totale ou de suppression des graisses naturelles vont au-delà du texte."
+    },
+    {
+      "id": "q8",
+      "prompt": "Quelle idée principale se dégage de l’article ?",
+      "options": [
+        "L’article compare uniquement les graisses naturelles et industrielles sans évoquer les politiques publiques.",
+        "L’article défend que les choix individuels suffisent si l’éducation alimentaire s’améliore.",
+        "L’article détaille surtout les traitements médicaux des maladies cardiaques et des AVC.",
+        "L’article montre une mobilisation équatorienne pour réduire les graisses trans industrielles et souligne que la réglementation actuelle reste partielle."
+      ],
+      "answerIndex": 3,
+      "evidence": "La réduction des risques dépendant de l’éducation, des revenus et du lieu de vie, Beatriz Champagne réclame une politique collective pour toute la population équatorienne.",
+      "explanation": "L’article suit un colloque et des débats sur les graisses trans, présente des arguments sanitaires et sociaux, puis signale les limites de la réglementation équatorienne. L’idée d’une politique collective y occupe une place centrale, alors que les autres options réduisent le sujet à un seul aspect non dominant."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "保护厄瓜多尔民众免受反式脂肪危害",
+      "summary": "在厄瓜多尔，专家和协会希望对抗工业反式脂肪不只靠个人选择，而应依靠执行更好的法规。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "9月7日，食品市场用户委员会成员埃利亚娜·埃斯特雷利亚在基多宣布“无反式脂肪心脏”座谈会开幕。",
+            "在圣弗朗西斯科·德·基多大学礼堂里，她面向协会、大学和卫生机构发言。",
+            "此次座谈会开启为期三天的非传染性疾病活动。"
+          ]
+        },
+        {
+          "sentences": [
+            "9月8日，民间组织和大学在拉丁美洲社会科学学院讨论了倡导的优先事项、能力和策略。",
+            "9月10日，“为生命而食”小组审视了公民倡议及其挑战和困难。"
+          ]
+        },
+        {
+          "sentences": [
+            "根据所用油脂和工艺，人造黄油、饼干、涂抹酱、甜甜圈、蛋糕和油炸食品可能含有工业反式脂肪。",
+            "世界卫生组织提醒，部分氢化使油脂固化，以改变其质地并延长保存期，这是一种工业优势而非健康优势。",
+            "反刍动物的肉和奶制品提供同样有害的天然反式脂肪，但只有工业形式可以被消除和替代。"
+          ]
+        },
+        {
+          "sentences": [
+            "Coalición América Saludable 是一个由200多个组织和人士组成的联盟，其主任贝阿特丽斯·香槟拒绝把问题局限于个人选择。",
+            "对她而言，疾病并非偶然：它们源于未能保护人们的食品、卫生和监管体系。",
+            "世界卫生组织估计，每年有超过27.8万例死亡由这些工业反式脂肪导致，与冠心病、中风和死亡相关。"
+          ]
+        },
+        {
+          "sentences": [
+            "泛美卫生组织的丹尼尔·安蒂波尔塔提到美洲有超过15万例死亡，其中近一半是过早死亡，并影响发展与福祉。",
+            "埃利亚娜·埃斯特雷利亚认为这些产品易得且便宜、被大力推广，与新鲜食品和本地农业竞争，损害生产者利益。",
+            "蒙特利尔大学教授马莱克·巴塔尔提醒，人们只购买价格可负担且实际存在的产品；针对个人可能加剧挫败感。"
+          ]
+        },
+        {
+          "sentences": [
+            "心脏病发作或中风可能需要急救、药物、手术和长期帮助，这些常由家庭承担，并影响收入和家庭。",
+            "由于降低风险取决于教育、收入和生活地点，贝阿特丽斯·香槟呼吁为全体厄瓜多尔民众制定集体政策。",
+            "埃利亚娜·埃斯特雷利亚在她母亲患癌（十五年前去世）后投身其中；她支持有机农业，并承认饮食改变需要时间、意愿和可及的解决方案。",
+            "厄瓜多尔通过第4439号部长决定将反式脂肪限制为每100克脂肪2克，但未覆盖所有成品，也未禁止部分氢化油，而世界卫生组织希望禁止。"
+          ]
+        }
+      ],
+      "glossary": {
+        "amphithéâtre": "阶梯教室或礼堂，常用于大学讲座和会议。",
+        "non transmissibles": "非传染性疾病指不通过病原体在人与人之间传播的疾病，如心血管病、癌症、糖尿病等。",
+        "hydrogénation partielle": "在油脂加工中部分加氢，使液态油变得更固态，以改变质地并延长保存期。",
+        "ruminants": "反刍动物，如牛、羊等，其肉和奶可含天然反式脂肪。",
+        "coronarienne": "冠状动脉的；冠心病指供应心肌的冠状动脉发生病变。",
+        "prématurées": "过早的，指在通常预期寿命之前发生的死亡。",
+        "plaidoyer": "倡导、游说，指为某项公共事业争取政策支持和社会关注。",
+        "fortuites": "偶然的、意外的；文中指疾病并非随机发生。",
+        "partiellement hydrogénées": "部分氢化的，指油脂经过部分加氢处理，可能产生工业反式脂肪。",
+        "Décision ministérielle no 4439": "厄瓜多尔第4439号部长决定，规定反式脂肪限量等监管措施。"
+      },
+      "questions": {
+        "q1": "文中说部分氢化使油固化、改变质地并延长保存期，且这是工业而非健康优势，因此第二项正确。第一项把天然反式脂肪和健康价值混入；第三项说消除工业反式脂肪且保持液态，与固化相反；第四项把奶制品和降低心血管风险扯入，文本未支持。",
+        "q2": "证据把疾病归因于食品、卫生和监管体系未能保护民众，因此她反对只归咎个人选择，第一项正确。第二项说个人了解少，第三项说天然奶制品是主因，第四项说卫生机构缺人，文中都没有作为她的理由。",
+        "q3": "世卫组织给出的全球数字是每年超过27.8万例死亡，所以第三项正确。第一项15万是美洲数字；第二项是美洲过早死亡近半；第四项把每100克2克的法规限量误作死亡数。",
+        "q4": "该句把母亲的癌症和十五年前去世与她此后的投身联系起来，并紧接着说明她支持有机农业、承认改变需要时间意愿和可及方案，因此第四项正确。第一项把癌症原因说死，文中没有；第二项说法规已阻止疾病，与全文批评法规不完整相反；第三项说她批评有机农业太慢，文中她是支持有机农业。",
+        "q5": "证据说天然反式脂肪同样有害，但只有工业形式可以消除和替代，因此第二项正确。第一项把天然说成无害；第三项把工业说成危害较小并与奶制品相连；第四项颠倒可消除的对象。",
+        "q6": "马莱克·巴塔尔的原话是人们只买价格可负担且实际存在的产品，因此责任不能只落在个人选择上，第三项正确。第一项说个人拒绝改变，第二项说新鲜产品总是更贵，第四项说集体政策阻止购买，均非文中论点。",
+        "q7": "第4439号决定设定每100克脂肪2克的上限，但文本明确指出它不覆盖所有成品，也不禁止部分氢化油，因此第一项正确。第二项说全面禁止，第三项说包括肉奶在内的所有产品同限，第四项说消除天然反式脂肪，都超出文本。",
+        "q8": "全文围绕座谈会和辩论，呈现健康与社会论证，最后指出厄瓜多尔法规只部分应对问题，因此第四项概括主旨正确。第一项说完全不谈公共政策，第二项说个人选择足够，第三项说重点是医疗治疗，都只抓非主要或未主张的内容。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "根据世界卫生组织，部分氢化油脂有什么用处？",
+          "options": [
+            "它使油富含天然反式脂肪并提高其健康价值。",
+            "它使油固化并延长保存期，尤其用于工业用途。",
+            "它消除工业反式脂肪，同时保持液态质地。",
+            "它通过改变奶制品质地降低心血管风险。"
+          ]
+        },
+        "q2": {
+          "prompt": "为什么贝阿特丽斯·香槟拒绝把反式脂肪问题归结为个人选择？",
+          "options": [
+            "因为她认为疾病源于未能保护民众的体系。",
+            "因为她认为个人对要避免的产品了解甚少。",
+            "因为她认为天然奶制品是主要原因。",
+            "因为她认为卫生机构主要缺少人员。"
+          ]
+        },
+        "q3": {
+          "prompt": "世界卫生组织将多少年度死亡归因于工业反式脂肪？",
+          "options": [
+            "全球每年超过15万例死亡。",
+            "美洲约一半的过早死亡。",
+            "每年超过27.8万例死亡。",
+            "每100克脂肪约2例死亡。"
+          ]
+        },
+        "q4": {
+          "prompt": "提及埃利亚娜·埃斯特雷利亚母亲的癌症起什么作用？",
+          "options": [
+            "它证明癌症由工业反式脂肪引起。",
+            "它表明厄瓜多尔法规已经阻止了这些疾病。",
+            "它用来批评有机农业太慢。",
+            "它解释她的个人投身，并提醒饮食改变必须提供可及解决方案。"
+          ]
+        },
+        "q5": {
+          "prompt": "关于天然和工业反式脂肪，文章说了什么？",
+          "options": [
+            "天然脂肪无害，而工业脂肪危险。",
+            "两者都有害，但只有工业形式可以被消除和替代。",
+            "工业形式危害较小，因为它与奶制品有关。",
+            "天然形式可以被消除，而工业形式不能。"
+          ]
+        },
+        "q6": {
+          "prompt": "根据马莱克·巴塔尔，为什么针对个人可能加剧挫败感？",
+          "options": [
+            "因为即使存在解决方案，个人也拒绝改变。",
+            "因为新鲜产品总是比工业产品更贵。",
+            "因为人们购买价格可负担且可得到的东西，这超出其单纯选择。",
+            "因为集体政策阻止人们购买想要的东西。"
+          ]
+        },
+        "q7": {
+          "prompt": "厄瓜多尔第4439号部长决定规定了什么？",
+          "options": [
+            "它规定每100克脂肪中反式脂肪限量为2克，并有排除情形。",
+            "它禁止所有部分氢化油和所有成品。",
+            "它对所有产品施加相同限量，包括肉和奶制品。",
+            "它消除反刍动物的天然反式脂肪。"
+          ]
+        },
+        "q8": {
+          "prompt": "文章的主要观点是什么？",
+          "options": [
+            "文章只比较天然和工业脂肪，未提及公共政策。",
+            "文章主张如果改善饮食教育，个人选择就足够。",
+            "文章主要详述心脏病和中风的医疗治疗。",
+            "文章展示厄瓜多尔为减少工业反式脂肪而开展的动员，并强调现行法规仍不完整。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Comment l'Équateur lutte-t-il contre la présence d'acides gras trans industriels dans les rayons de supermarchés ?",
+    "authors": [
+      "Carlos E. Flores"
+    ],
+    "translators": [
+      "Corinne Molton"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/18/304203/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-22",
+    "publishedAt": "2026-11-18",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-22",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

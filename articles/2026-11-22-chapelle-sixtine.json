@@ -1,0 +1,358 @@
+{
+  "id": "2026-11-22-chapelle-sixtine",
+  "title": "La chapelle Sixtine, chef-d’œuvre de la Renaissance romaine",
+  "level": "B2",
+  "theme": "culture",
+  "date": "2026-11-22",
+  "summary": "Édifiée pour Sixte IV et devenue un haut lieu des conclaves, la chapelle Sixtine illustre la Renaissance romaine grâce aux cycles de fresques de grands artistes, dont Michel-Ange.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Commandée par le pape Sixte IV della Rovere, la chapelle Sixtine fut construite entre 1477 et 1483 au sein des palais pontificaux du Vatican.",
+        "Dédiée à la Vierge de l’Assomption, elle remplaça la capella magna, utilisée pour recevoir la cour pontificale et les ambassadeurs.",
+        "Aujourd’hui intégrée aux musées du Vatican, elle accueille le conclave où les cardinaux élisent chaque nouveau pape."
+      ]
+    },
+    {
+      "sentences": [
+        "L’identité de l’architecte reste discutée : Giovanni de’ Dolci ou Baccio Pontelli sont évoqués.",
+        "Le premier fut payé pour le chantier, sans doute comme contremaître, tandis que le second, installé à Urbino, aurait pu envoyer ses plans à Rome.",
+        "Le Pérugin commença seul la décoration de l’autel avec la Pala dell’Assunta."
+      ]
+    },
+    {
+      "sentences": [
+        "Le 28 juin 1472, Sixte IV excommunia les Médicis et Florence après l’échec de la conjuration des Pazzi, soutenue par la papauté.",
+        "Les meilleurs ateliers se trouvant à Florence, seuls des artistes non toscans purent d’abord travailler.",
+        "Le 3 décembre 1480, le pape révoqua cette excommunication ; Laurent de Médicis proposa alors d’envoyer des peintres florentins, ce qu’il accepta."
+      ]
+    },
+    {
+      "sentences": [
+        "Ghirlandaio, Botticelli et Signorelli rejoignirent ainsi le chantier pour les parois latérales, aux côtés d’autres peintres chargés de tâches secondaires.",
+        "Jules II poursuivit ensuite la rénovation de Rome et nomma Bramante surintendant des fabriques papales.",
+        "Il sollicita Michel-Ange, déjà reconnu et protégé par les Médicis, pour reprendre la voûte étoilée endommagée."
+      ]
+    },
+    {
+      "sentences": [
+        "L’artiste hésita, car il se considérait comme sculpteur et non comme fresquiste, n’ayant achevé aucun tableau, pas même la Bataille de Cascina.",
+        "Peindre ce sanctuaire majeur de la chrétienté comportait en outre d’énormes risques.",
+        "La salle unique mesure 40 mètres de long, 13 de large et 21 de haut, avec douze fenêtres cintrées et une voûte en berceau ; le rapport 21/13 renvoie au nombre d’or.",
+        "Une cloison de marbre sépare l’espace du clergé de celui des fidèles."
+      ]
+    },
+    {
+      "sentences": [
+        "La célébrité du lieu tient aux fresques de Michel-Ange, du Pérugin et de Botticelli, notamment.",
+        "Le plafond, divisé en onze sections inspirées de la Genèse, et le Jugement dernier ont été restaurés récemment, retrouvant des couleurs vives ; La Création d’Adam en fait partie.",
+        "Les parois présentent deux cycles de six scènes consacrées à Moïse et à Jésus, avec des œuvres du Pérugin, de Botticelli, de Ghirlandaio, de Rosselli, de Signorelli et de Biagio d’Antonio.",
+        "Le Vatican perçoit des revenus grâce aux droits d’auteur et d’image liés à cette œuvre très reproduite."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "pontificaux"
+    },
+    {
+      "term": "conclave"
+    },
+    {
+      "term": "contremaître"
+    },
+    {
+      "term": "conjuration"
+    },
+    {
+      "term": "excommunia"
+    },
+    {
+      "term": "révoqua"
+    },
+    {
+      "term": "surintendant"
+    },
+    {
+      "term": "fabriques"
+    },
+    {
+      "term": "fresquiste"
+    },
+    {
+      "term": "cintrées"
+    },
+    {
+      "term": "berceau"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Qui a commencé seul la décoration de l’autel de la chapelle Sixtine ?",
+      "options": [
+        "Botticelli",
+        "Ghirlandaio",
+        "Le Pérugin",
+        "Michel-Ange"
+      ],
+      "answerIndex": 2,
+      "evidence": "Le Pérugin commença seul la décoration de l’autel avec la Pala dell’Assunta.",
+      "explanation": "Le texte attribue au Pérugin le début solitaire de la décoration de l’autel ; les autres peintres cités travaillent aux parois ou à la voûte."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi Michel-Ange hésite-t-il d’abord à reprendre la voûte ?",
+      "options": [
+        "Parce qu’il se voyait comme sculpteur et n’avait achevé aucun tableau.",
+        "Parce qu’il jugeait la voûte déjà restaurée par Bramante.",
+        "Parce qu’il refusait de travailler pour Jules II.",
+        "Parce qu’il préférait décorer les parois latérales avec Botticelli."
+      ],
+      "answerIndex": 0,
+      "evidence": "L’artiste hésita, car il se considérait comme sculpteur et non comme fresquiste, n’ayant achevé aucun tableau, pas même la Bataille de Cascina.",
+      "explanation": "Le texte indique que son hésitation vient de son identité de sculpteur et de son absence d’œuvre picturale achevée ; les autres options ne sont pas présentées comme des causes de son refus."
+    },
+    {
+      "id": "q3",
+      "prompt": "Que dit l’article sur l’identité de l’architecte de la chapelle ?",
+      "options": [
+        "Elle est certaine : Baccio Pontelli a dirigé seul le chantier.",
+        "Elle reste discutée entre Giovanni de’ Dolci et Baccio Pontelli.",
+        "Elle est attribuée à Michel-Ange, qui aurait envoyé ses plans.",
+        "Elle est inconnue, car aucun nom n’est mentionné."
+      ],
+      "answerIndex": 1,
+      "evidence": "L’identité de l’architecte reste discutée : Giovanni de’ Dolci ou Baccio Pontelli sont évoqués.",
+      "explanation": "Le texte présente deux noms sans trancher ; Dolci est payé pour le chantier et Pontelli aurait pu envoyer des plans, ce qui exclut une attribution certaine."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel est le rôle du passage sur les dimensions de la salle ?",
+      "options": [
+        "Montrer que la chapelle peut accueillir un très grand conclave.",
+        "Expliquer pourquoi les fenêtres ont été murées après les restaurations.",
+        "Prouver que Michel-Ange a choisi seul l’emplacement des fresques.",
+        "Souligner que l’architecture repose sur des proportions précises, dont le nombre d’or."
+      ],
+      "answerIndex": 3,
+      "evidence": "La salle unique mesure 40 mètres de long, 13 de large et 21 de haut, avec douze fenêtres cintrées et une voûte en berceau ; le rapport 21/13 renvoie au nombre d’or.",
+      "explanation": "Le détail des mesures aboutit au rapport 21/13 associé au nombre d’or ; il ne sert pas à décrire la taille du conclave ni une intervention de Michel-Ange."
+    },
+    {
+      "id": "q5",
+      "prompt": "Qu’est-ce que Laurent de Médicis propose après la révocation de l’excommunication de Florence ?",
+      "options": [
+        "D’envoyer des peintres florentins pour le chantier.",
+        "De financer la reconstruction de la capella magna.",
+        "De confier la voûte à Michel-Ange, déjà protégé par sa famille.",
+        "De remplacer Sixte IV par un pape favorable aux Médicis."
+      ],
+      "answerIndex": 0,
+      "evidence": "Le 3 décembre 1480, le pape révoqua cette excommunication ; Laurent de Médicis proposa alors d’envoyer des peintres florentins, ce qu’il accepta.",
+      "explanation": "Après la levée de l’excommunication, Laurent propose des peintres florentins et le pape accepte ; Michel-Ange n’est sollicité que plus tard par Jules II."
+    },
+    {
+      "id": "q6",
+      "prompt": "Entre quelles années la chapelle Sixtine a-t-elle été construite ?",
+      "options": [
+        "Entre 1477 et 1483.",
+        "Entre 1472 et 1480.",
+        "Entre 1480 et 1483.",
+        "Entre 1477 et 1480."
+      ],
+      "answerIndex": 0,
+      "evidence": "Commandée par le pape Sixte IV della Rovere, la chapelle Sixtine fut construite entre 1477 et 1483 au sein des palais pontificaux du Vatican.",
+      "explanation": "Le texte donne explicitement 1477 comme début et 1483 comme fin ; les autres dates correspondent à des événements politiques ou à la révocation de l’excommunication."
+    },
+    {
+      "id": "q7",
+      "prompt": "Pourquoi le Vatican perçoit-il des revenus liés à la chapelle Sixtine ?",
+      "options": [
+        "Parce que les visites du conclave sont payantes.",
+        "Parce que les droits d’auteur et d’image concernent une œuvre très reproduite.",
+        "Parce que les artistes ont cédé leurs fresques au Vatican.",
+        "Parce que les restaurations récentes ont augmenté le prix des entrées."
+      ],
+      "answerIndex": 1,
+      "evidence": "Le Vatican perçoit des revenus grâce aux droits d’auteur et d’image liés à cette œuvre très reproduite.",
+      "explanation": "La cause indiquée est l’exploitation des droits d’auteur et d’image sur une œuvre largement reproduite, pas la vente de billets ni une cession des fresques."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "西斯廷礼拜堂：罗马文艺复兴的杰作",
+      "summary": "西斯廷礼拜堂为西克斯图斯四世而建，后成为教皇选举会议的重要场所；凭众多大师（包括米开朗基罗）的壁画组画，它展现了罗马文艺复兴。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "应教皇西克斯图斯四世·德拉·罗韦雷之命，西斯廷礼拜堂于1477年至1483年间建于梵蒂冈教皇宫内。",
+            "它献给圣母升天，取代了用于接待教廷和使节的capella magna（大礼拜堂）。",
+            "如今它并入梵蒂冈博物馆，并承办枢机们选举每位新教皇的教皇选举会议。"
+          ]
+        },
+        {
+          "sentences": [
+            "建筑师的身份仍有争议：有人提到乔瓦尼·德·多尔奇或巴乔·蓬泰利。",
+            "前者因工程获酬，大概作为工头；而后者住在乌尔比诺，可能把图纸寄到了罗马。",
+            "佩鲁吉诺独自开始装饰祭坛，创作了《圣母升天祭坛画》。"
+          ]
+        },
+        {
+          "sentences": [
+            "1472年6月28日，在得到教廷支持的帕齐阴谋失败后，西克斯图斯四世将美第奇家族和佛罗伦萨开除教籍。",
+            "由于最优秀的作坊都在佛罗伦萨，起初只有非托斯卡纳的艺术家能够工作。",
+            "1480年12月3日，教皇撤销了这一开除教籍令；洛伦佐·德·美第奇于是提议派佛罗伦萨画家来，教皇接受了。"
+          ]
+        },
+        {
+          "sentences": [
+            "吉兰达约、波提切利和西尼奥雷利于是加入侧墙的工程，与其他承担次要任务的画家并肩工作。",
+            "尤利乌斯二世随后继续罗马的翻新工程，并任命布拉曼特为教廷工程总监。",
+            "他请求已享有声誉并受美第奇家族保护的米开朗基罗接手受损的星空穹顶。"
+          ]
+        },
+        {
+          "sentences": [
+            "这位艺术家犹豫了，因为他自视为雕塑家而非湿壁画画家，而且没有完成过任何一幅画，连《卡希纳之战》也未完成。",
+            "此外，为基督教这一重要圣所作画还包含巨大风险。",
+            "这个单一大厅长40米、宽13米、高21米，有十二扇拱形窗和筒形穹顶；21/13之比与黄金比例相关。",
+            "一道大理石隔墙把神职人员空间与信徒空间分开。"
+          ]
+        },
+        {
+          "sentences": [
+            "该地之所以闻名，尤其在于米开朗基罗、佩鲁吉诺和波提切利等人的湿壁画。",
+            "穹顶分为十一个受《创世记》启发的部分，它与《最后的审判》最近得到修复，重现鲜艳色彩；《创造亚当》也在其中。",
+            "墙面展示两个各含六幅场景的组画，分别献给摩西和耶稣，其中有佩鲁吉诺、波提切利、吉兰达约、罗塞利、西尼奥雷利和比亚焦·达·安东尼奥的作品。",
+            "梵蒂冈凭与这件被大量复制的作品相关的著作权和图像权获得收入。"
+          ]
+        }
+      ],
+      "glossary": {
+        "pontificaux": "教皇的；教廷的。文中指属于梵蒂冈教皇宫的宫殿。",
+        "conclave": "教皇选举会议；枢机团在西斯廷礼拜堂内秘密选举新教皇的会议。",
+        "contremaître": "工头；施工现场负责监督工人和工程进度的人。",
+        "conjuration": "阴谋；此处指帕齐家族反对美第奇家族的帕齐阴谋。",
+        "excommunia": "将……开除教籍；绝罚。",
+        "révoqua": "撤销；废除。文中指撤销开除教籍令。",
+        "surintendant": "总监；总管。文中指教廷工程总监。",
+        "fabriques": "建筑工程；教廷工程机构。文中“fabriques papales”指教廷工程。",
+        "fresquiste": "湿壁画画家；专门绘制湿壁画的人。",
+        "cintrées": "拱形的；带拱的。文中指十二扇拱形窗。",
+        "berceau": "筒形拱顶；穹顶的一种。文中“voûte en berceau”即筒形穹顶。"
+      },
+      "questions": {
+        "q1": "文中明确说佩鲁吉诺独自开始装饰祭坛，并创作《圣母升天祭坛画》，所以第三项（佩鲁吉诺）对应答案；波提切利和吉兰达约后文被提到参与侧墙工程，米开朗基罗则参与穹顶，均不是祭坛装饰的起始者。",
+        "q2": "证据说明他犹豫是因为自我认同为雕塑家、不是湿壁画画家，且未完成任何画作；第一项直接复述这一因果关系。布拉曼特在文中被任命为工程总监，并未修复穹顶；为尤利乌斯二世工作正是他被请求之事；与波提切利装饰侧墙并未作为他的偏好出现。",
+        "q3": "文中说建筑师身份仍有讨论，并提到多尔奇和蓬泰利两个名字；多尔奇因工程获酬，蓬泰利可能寄图纸，说明并未确定。因此第二项正确；第一项的“确定”和“独自”与存疑表述矛盾，米开朗基罗不是建筑师候选人，文中也明确提到了名字。",
+        "q4": "尺寸段落列出长宽高并指出21/13对应黄金比例，作用在说明建筑比例设计；第四项概括了这一意图。文中没有用尺寸说明选举会议容量，也未提窗户被砌死或米开朗基罗选择壁画位置。",
+        "q5": "证据说教皇撤销开除教籍令后，洛伦佐提议派佛罗伦萨画家，教皇接受了；第一项相对应。米开朗基罗受美第奇保护是后文由尤利乌斯二世征召时提到的，不是洛伦佐此时提议；资助重建和替换教皇均无文本依据。",
+        "q6": "文中首段直接写礼拜堂建于1477年至1483年之间，所以第一项正确。1472和1480对应帕齐阴谋与撤销开除教籍令等政治事件，不是建造起止年；1480至1483也不是文中给的建造区间，1477至1480同样不完整。",
+        "q7": "末句明确说收入来自这件被大量复制作品的著作权和图像权，因此第二项正确。文中没有说选举会议参观收费、艺术家转让壁画或修复导致门票涨价，这些均为无依据推测。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "谁独自开始了西斯廷礼拜堂祭坛的装饰？",
+          "options": [
+            "波提切利",
+            "吉兰达约",
+            "佩鲁吉诺",
+            "米开朗基罗"
+          ]
+        },
+        "q2": {
+          "prompt": "米开朗基罗起初为什么犹豫是否接手穹顶？",
+          "options": [
+            "因为他自视为雕塑家，且未完成任何绘画作品。",
+            "因为他认为穹顶已由布拉曼特修复。",
+            "因为他拒绝为尤利乌斯二世工作。",
+            "因为他更愿意与波提切利一起装饰侧墙。"
+          ]
+        },
+        "q3": {
+          "prompt": "文章如何说明礼拜堂建筑师的身份？",
+          "options": [
+            "身份确定：巴乔·蓬泰利独自领导工程。",
+            "身份仍在乔瓦尼·德·多尔奇与巴乔·蓬泰利之间存疑。",
+            "身份归于米开朗基罗，说他寄了图纸。",
+            "身份未知，因为文中未提任何名字。"
+          ]
+        },
+        "q4": {
+          "prompt": "关于大厅尺寸的段落有什么作用？",
+          "options": [
+            "表明礼拜堂可容纳极大规模的教皇选举会议。",
+            "解释为何修复后窗户被砌死。",
+            "证明米开朗基罗独自选择了壁画位置。",
+            "强调建筑以精确比例为据，包括黄金比例。"
+          ]
+        },
+        "q5": {
+          "prompt": "佛罗伦萨的开除教籍令被撤销后，洛伦佐·德·美第奇提议什么？",
+          "options": [
+            "派佛罗伦萨画家参与工程。",
+            "资助重建大礼拜堂。",
+            "把穹顶交给已受其家族保护的米开朗基罗。",
+            "用一个亲美第奇的教皇取代西克斯图斯四世。"
+          ]
+        },
+        "q6": {
+          "prompt": "西斯廷礼拜堂建于哪几年之间？",
+          "options": [
+            "1477年至1483年之间。",
+            "1472年至1480年之间。",
+            "1480年至1483年之间。",
+            "1477年至1480年之间。"
+          ]
+        },
+        "q7": {
+          "prompt": "梵蒂冈为什么从西斯廷礼拜堂获得收入？",
+          "options": [
+            "因为参加教皇选举会议的参观要收费。",
+            "因为著作权和图像权涉及一件被大量复制的作品。",
+            "因为艺术家们把他们的湿壁画转让给了梵蒂冈。",
+            "因为最近的修复提高了门票价格。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Chapelle Sixtine",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2333901&title=Chapelle%20Sixtine",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-22",
+    "revisionId": "2333901"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-22",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-22-chapelle-sixtine-9deeec789b9f.jpg",
+    "alt": "The Sistine Chapel",
+    "author": "Antoine Taveneaux",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chapelle_sixtine2.jpg?oldid=1296516871",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Réduite à 1280×857 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 857,
+    "byteLength": 462646,
+    "sha256": "9deeec789b9fdffbaa7657e9b30840e2ea5f635814fed6407181a85cb578c06a",
+    "fileRevisionId": "1296516871",
+    "retrievedAt": "2026-11-22"
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "id": "2026-11-22-abbaye-saint-paul-de-cormery",
+  "title": "L’abbaye Saint-Paul de Cormery, mille ans d’histoire tourangelle",
+  "level": "B2",
+  "theme": "histoire",
+  "date": "2026-11-22",
+  "summary": "Fondée en 791 puis élevée au rang d’abbaye en 800, Saint-Paul de Cormery a connu une grande prospérité médiévale avant un déclin qui aboutit à sa suppression en 1790.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Située à Cormery, en Indre-et-Loire, dans la région Centre-Val de Loire, l’ancienne abbaye bénédictine Saint-Paul occupe la rive gauche de l’Indre, entre la rivière au nord et deux routes départementales.",
+        "Ithier, abbé de Saint-Martin de Tours et chancelier de Charlemagne, y installe en 791 une communauté religieuse sur un terrain qu’il a acheté.",
+        "En 800, avec l’appui d’Alcuin et de Benoît d’Aniane, cette fondation devient une véritable abbaye soumise à la règle bénédictine, confirmée par une charte de Charlemagne datée du 3 juin 800."
+      ]
+    },
+    {
+      "sentences": [
+        "Rattachée à Saint-Martin de Tours jusqu’à la Révolution, l’abbaye se développe malgré des dégâts normands au IXe siècle, dont l’ampleur reste difficile à mesurer.",
+        "Au Moyen Âge central, elle possède de nombreux biens, ses bateaux circulent librement sur les cours d’eau du royaume et elle compte cinquante moines.",
+        "La guerre de Cent Ans puis les guerres de Religion l’affaiblissent durablement, même si elle se relève partiellement du premier conflit."
+      ]
+    },
+    {
+      "sentences": [
+        "Les mauristes prennent en charge l’établissement en 1662, mais leurs travaux et leurs emprunts ne suffisent pas à rétablir sa prospérité.",
+        "Les effectifs diminuent, les revenus baissent et une crue de l’Indre en 1770 aggrave les dégâts.",
+        "En 1790, cinq moines âgés demeurent ; les biens sont vendus dès 1791, puis morcelés jusqu’en 1820.",
+        "Les bâtiments, vendus comme biens nationaux, sont détruits, morcelés puis remaniés, jusqu’à former 54 lots en 1820."
+      ]
+    },
+    {
+      "sentences": [
+        "Au XXIe siècle, plusieurs vestiges subsistent : la tour Saint-Paul, une chapelle gothique, une partie du réfectoire et du cloître, ainsi que les logis de l’abbé, du prieur et du sacristain.",
+        "Des protections successives entre 1908 et 1933, puis une inscription en 2021, concernent ces éléments, sauf le logis du sacristain pour la première période.",
+        "Intégrés au bâti moderne, ils perdent parfois leur unité d’ensemble."
+      ]
+    },
+    {
+      "sentences": [
+        "Les fouilles de 2016-2017 ont révélé une occupation antérieure à la fondation d’Ithier, tandis que l’origine du nom Cormaricus, attesté en 791, reste discutée.",
+        "Les hypothèses évoquent un arbre remarquable, un domaine germanique ou une tradition pénitentielle, mais les linguistes rejettent l’explication du « cœur marri ».",
+        "La pâtisserie locale, le macaron de Cormery, est associée à l’abbaye par la tradition, sans preuve décisive."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "bénédictine"
+    },
+    {
+      "term": "chancelier"
+    },
+    {
+      "term": "mauristes"
+    },
+    {
+      "term": "réfectoire"
+    },
+    {
+      "term": "sacristain"
+    },
+    {
+      "term": "pénitentielle"
+    },
+    {
+      "term": "morcelés"
+    },
+    {
+      "term": "attesté"
+    },
+    {
+      "term": "prieur"
+    },
+    {
+      "term": "Cormaricus"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon le texte, quelle condition accompagne le passage de la fondation à une véritable abbaye bénédictine en 800 ?",
+      "options": [
+        "Elle doit recevoir le soutien d’Alcuin et de Benoît d’Aniane, puis être confirmée par Charlemagne.",
+        "Ithier doit d’abord acheter un nouveau terrain à Saint-Martin de Tours.",
+        "Les moines doivent quitter Saint-Martin de Tours pour vivre selon sa règle.",
+        "Elle doit obtenir une charte de Saint-Martin et l’accord des mauristes."
+      ],
+      "answerIndex": 0,
+      "evidence": "En 800, avec l’appui d’Alcuin et de Benoît d’Aniane, cette fondation devient une véritable abbaye soumise à la règle bénédictine, confirmée par une charte de Charlemagne datée du 3 juin 800.",
+      "explanation": "Le texte associe l’appui d’Alcuin et de Benoît d’Aniane, puis la confirmation par une charte de Charlemagne, à l’adoption de la règle bénédictine. Les autres options déplacent la condition vers un achat de terrain, un départ des moines ou une intervention des mauristes, absente à cette date."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi l’intervention des mauristes ne permet-elle pas à l’abbaye de retrouver sa prospérité ?",
+      "options": [
+        "Parce que les mauristes refusent de s’installer dans l’abbaye.",
+        "Parce que leurs travaux et leurs dettes ne suffisent pas à la redresser.",
+        "Parce que la crue de 1770 détruit tous les bâtiments dès leur arrivée.",
+        "Parce que les moines vendent eux-mêmes les biens dès 1662."
+      ],
+      "answerIndex": 1,
+      "evidence": "Les mauristes prennent en charge l’établissement en 1662, mais leurs travaux et leurs emprunts ne suffisent pas à rétablir sa prospérité.",
+      "explanation": "Le texte oppose leur prise en charge à l’échec du redressement : les efforts accomplis et les emprunts contractés n’ont pas permis de rendre à l’abbaye sa richesse. Les autres options ajoutent un refus, une destruction immédiate ou une vente qui ne sont pas indiqués."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel effet des guerres le texte attribue-t-il à l’abbaye ?",
+      "options": [
+        "Elles l’enrichissent grâce aux bateaux circulant sur les cours d’eau.",
+        "Elles la détruisent complètement dès la guerre de Cent Ans.",
+        "Elles l’affaiblissent durablement, même si elle se remet en partie du premier conflit.",
+        "Elles l’obligent à abandonner la règle bénédictine au IXe siècle."
+      ],
+      "answerIndex": 2,
+      "evidence": "La guerre de Cent Ans puis les guerres de Religion l’affaiblissent durablement, même si elle se relève partiellement du premier conflit.",
+      "explanation": "Le texte présente un affaiblissement de longue durée, tout en précisant qu’un relèvement partiel suit la guerre de Cent Ans. Les autres options contredisent cette nuance ou introduisent des conséquences absentes."
+    },
+    {
+      "id": "q4",
+      "prompt": "Que devient la communauté entre 1790 et 1820 ?",
+      "options": [
+        "Les moines sont expulsés en 1790 et les bâtiments sont rachetés par les mauristes en 1820.",
+        "Les biens sont vendus en 1790 et les bâtiments reconstruits en 54 lots dès 1791.",
+        "Cinq moines rachètent les biens en 1791 et les conservent jusqu’en 1820.",
+        "La communauté se réduit à quelques religieux âgés, puis ses biens sont dispersés et divisés jusqu’en 1820."
+      ],
+      "answerIndex": 3,
+      "evidence": "En 1790, cinq moines âgés demeurent ; les biens sont vendus dès 1791, puis morcelés jusqu’en 1820.",
+      "explanation": "Le texte montre d’abord une communauté réduite à quelques moines âgés, puis la vente et la division progressive de ses biens jusqu’en 1820. Les autres options inversent les dates, attribuent le rachat aux mauristes ou font des moines des acheteurs."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle conséquence le texte souligne-t-il pour les vestiges conservés ?",
+      "options": [
+        "Ils ont tous été classés en 2021 sans exception.",
+        "Leur insertion dans des constructions modernes nuit à leur cohérence d’ensemble.",
+        "Ils ont été reconstruits à l’identique après 1820.",
+        "Ils servent aujourd’hui de logements pour les moines."
+      ],
+      "answerIndex": 1,
+      "evidence": "Intégrés au bâti moderne, ils perdent parfois leur unité d’ensemble.",
+      "explanation": "Le texte indique que les vestiges subsistent, mais que leur intégration dans des constructions récentes les empêche parfois d’être perçus comme un ensemble cohérent. Les autres options ajoutent une protection totale, une reconstruction ou un usage monastique actuel qui ne sont pas écrits."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quel bâtiment reste hors du champ des premières mesures de protection ?",
+      "options": [
+        "La tour Saint-Paul.",
+        "La chapelle gothique.",
+        "Le logis du sacristain.",
+        "Une partie du réfectoire."
+      ],
+      "answerIndex": 2,
+      "evidence": "Des protections successives entre 1908 et 1933, puis une inscription en 2021, concernent ces éléments, sauf le logis du sacristain pour la première période.",
+      "explanation": "Le texte exclut explicitement le logis du sacristain des protections de la première période, alors que les autres éléments cités font partie des vestiges concernés. Les autres options correspondent à des bâtiments mentionnés parmi les vestiges protégés."
+    },
+    {
+      "id": "q7",
+      "prompt": "Que révèlent les fouilles de 2016-2017 ?",
+      "options": [
+        "Le site était occupé avant la fondation d’Ithier.",
+        "L’abbaye a été fondée par Charlemagne en 791.",
+        "Le nom Cormaricus vient d’un arbre remarquable.",
+        "Les mauristes ont reconstruit le cloître au XVIe siècle."
+      ],
+      "answerIndex": 0,
+      "evidence": "Les fouilles de 2016-2017 ont révélé une occupation antérieure à la fondation d’Ithier, tandis que l’origine du nom Cormaricus, attesté en 791, reste discutée.",
+      "explanation": "Les fouilles établissent une occupation plus ancienne que l’installation d’Ithier. Les autres options attribuent la fondation à Charlemagne, présentent une hypothèse sur le nom comme un fait ou avancent une reconstruction par les mauristes qui n’est pas soutenue par le texte."
+    },
+    {
+      "id": "q8",
+      "prompt": "Quel rapport le texte établit-il entre le macaron de Cormery et l’abbaye ?",
+      "options": [
+        "Le macaron est fabriqué par les moines depuis 791.",
+        "Les fouilles de 2016 ont prouvé ce lien.",
+        "Les linguistes expliquent le nom par le macaron.",
+        "La tradition les relie sans preuve décisive."
+      ],
+      "answerIndex": 3,
+      "evidence": "La pâtisserie locale, le macaron de Cormery, est associée à l’abbaye par la tradition, sans preuve décisive.",
+      "explanation": "Le texte présente ce lien comme une tradition locale, mais précise qu’aucune preuve décisive ne le confirme. Les autres options transforment cette tradition en fabrication monastique, en preuve archéologique ou en explication linguistique."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "科尔梅里的圣保罗修道院：图赖讷千年史",
+      "summary": "圣保罗修道院位于科尔梅里，791年建院，800年升格为大修道院，中世纪繁荣，后衰落，1790年被撤销。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "位于中央-卢瓦尔河谷大区安德尔-卢瓦尔省的科尔梅里，古老的圣保罗本笃会修道院坐落在安德尔河左岸，北面是河流，两侧是两条省道。",
+            "图尔的圣马丁修道院院长、查理曼的掌玺大臣伊蒂耶于791年在他购得的一块土地上在此建立了一个宗教团体。",
+            "800年，在阿尔昆和阿尼亚讷的本笃支持下，这一创建成为一座真正遵循本笃会规则的修道院，并由查理曼于800年6月3日颁布的特许状确认。"
+          ]
+        },
+        {
+          "sentences": [
+            "该修道院一直隶属于图尔的圣马丁修道院直至法国大革命，尽管9世纪遭到诺曼人的破坏（其严重程度仍难以衡量），它仍得以发展。",
+            "在中世纪盛期，它拥有许多财产，其船只可在王国水道自由航行，并有五十名修士。",
+            "百年战争以及随后的宗教战争使它长期衰弱，尽管它从第一场冲突中部分恢复。"
+          ]
+        },
+        {
+          "sentences": [
+            "1662年，莫尔会修士接管了该机构，但他们的工程和借款不足以恢复其繁荣。",
+            "人员减少，收入下降，1770年安德尔河洪水又加重了损坏。",
+            "1790年只剩五名年迈修士；财产自1791年起被出售，随后分割直至1820年。",
+            "这些建筑作为国有财产被出售，遭拆毁、分割并改建，到1820年形成54块地块。"
+          ]
+        },
+        {
+          "sentences": [
+            "21世纪仍存留多处遗迹：圣保罗塔、一座哥特式礼拜堂、食堂和回廊的一部分，以及院长、副院长和圣器管理员的住所。",
+            "1908年至1933年间先后列入保护，2021年又登记在册，这些措施涉及上述元素，但第一时期不包括圣器管理员的住所。",
+            "它们融入现代建筑之中，有时失去整体统一性。"
+          ]
+        },
+        {
+          "sentences": [
+            "2016—2017年的发掘表明，在伊蒂耶创建之前该地已有人类活动，而791年已见记载的科尔马里库斯（Cormaricus）这一名称的起源仍存争议。",
+            "各种假设提及一棵奇树、一个日耳曼领地或一种忏悔传统，但语言学家否定“忧伤之心”的解释。",
+            "当地糕点科尔梅里马卡龙按传统与修道院相联系，但没有决定性证据。"
+          ]
+        }
+      ],
+      "glossary": {
+        "bénédictine": "本笃会的；指遵循圣本笃会规的修士或修会。",
+        "chancelier": "掌玺大臣；此处指查理曼宫廷中负责文书与印玺的高级官员。",
+        "mauristes": "莫尔会修士；17世纪起改革并接管许多法国本笃会修道院的圣莫尔会成员。",
+        "réfectoire": "修士食堂；修道院中供团体用餐的房间。",
+        "sacristain": "圣器管理员；负责保管教堂器物、法衣并协助礼仪的修士或职员。",
+        "pénitentielle": "忏悔的、苦修赎罪的；此处指与忏悔实践有关的传统。",
+        "morcelés": "被分割成小块；指财产或建筑被分成多份出售或改建。",
+        "attesté": "有文献证明的、见于记载的；指某名称在史料中首次或明确出现。",
+        "prieur": "副院长、隐修院院长代理人；修道院中仅次于院长的高级职务。",
+        "Cormaricus": "科尔马里库斯；791年文献中出现的科尔梅里古名，其词源仍有争议。"
+      },
+      "questions": {
+        "q1": "证据句把“阿尔昆和阿尼亚讷的本笃支持”与“查理曼特许状确认”放在采用本笃会规则的过程中。因此正确选项是“须获阿尔昆和阿尼亚讷的本笃支持，并由查理曼确认”。其余选项把条件改成购买新土地、离开圣马丁或取得莫尔会同意，这些在800年的语境中没有依据。",
+        "q2": "证据句说1662年莫尔会接管后，工程和借款仍不能恢复繁荣，语义重点在“努力不足、债务负担”与“未能重振”之间的因果。正确选项概括为整修与举债不足以扭转衰败。拒绝入住、洪水立即毁掉全部建筑、1662年自行出售财产都找不到文本依据。",
+        "q3": "证据句先提百年战争和宗教战争造成长期衰弱，又用“尽管”指出从第一场冲突中部分恢复。正确选项保留“长期衰弱”和“部分恢复”两层。致富、彻底摧毁、9世纪放弃规则均与文本相反或无据。",
+        "q4": "证据句先写1790年只剩五名年迈修士，再写1791年起出售并分割至1820年，说明团体缩小后财产被分散。正确选项按此顺序概括。其他选项颠倒出售与分割的日期，或把莫尔会、修士说成买回者。",
+        "q5": "证据句“融入现代建筑”导致“有时失去整体统一性”，正确选项把这一因果关系表达为现代建筑损害整体一致性。全部列入保护、按原样重建、今日作修士住所都超出文本。",
+        "q6": "证据句说1908—1933年及2021年的保护涉及这些元素，但第一时期不包括圣器管理员的住所。因此正确选项是圣器管理员的住所。圣保罗塔、哥特式礼拜堂、食堂的一部分都在受保护遗迹之列。",
+        "q7": "证据句把2016—2017年发掘的结论说成“伊蒂耶创建之前已有人类活动”，正确选项即此意。查理曼创建、名称来自奇树、莫尔会16世纪重建回廊，分别属于误置事实或把假设当成定论。",
+        "q8": "证据句明确说马卡龙“按传统”与修道院相联系，同时“没有决定性证据”，正确选项保留传统与无定论两端。修士自791年制作、考古证明、语言学家用马卡龙解释名称，都把传统或假设说成事实。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "根据文本，800年从创建团体转为真正的本笃会修道院时伴随什么条件？",
+          "options": [
+            "它须获得阿尔昆和阿尼亚讷的本笃支持，并由查理曼确认。",
+            "伊蒂耶须先向图尔的圣马丁修道院购买一块新土地。",
+            "修士们须离开图尔的圣马丁修道院，按它的规则生活。",
+            "它须取得圣马丁修道院的特许状并获莫尔会修士同意。"
+          ]
+        },
+        "q2": {
+          "prompt": "为什么莫尔会修士的介入未能让修道院重振繁荣？",
+          "options": [
+            "因为莫尔会修士拒绝迁入该修道院。",
+            "因为他们的整修与举债仍不足以扭转衰败。",
+            "因为1770年的洪水在他们到来时就毁掉了全部建筑。",
+            "因为修士们从1662年起就自行出售了财产。"
+          ]
+        },
+        "q3": {
+          "prompt": "文本把战争给修道院带来了什么影响？",
+          "options": [
+            "战争让修道院因船只在水道航行而致富。",
+            "百年战争一开始就把修道院彻底摧毁。",
+            "战争使其长期衰弱，尽管它从第一场冲突中部分恢复。",
+            "战争迫使它在9世纪放弃本笃会规则。"
+          ]
+        },
+        "q4": {
+          "prompt": "1790年至1820年间，修道团体发生了什么？",
+          "options": [
+            "修士于1790年被驱逐，建筑于1820年被莫尔会修士买回。",
+            "财产于1790年出售，建筑自1791年起重建为54块地块。",
+            "五名修士于1791年买回财产并保留至1820年。",
+            "团体缩减为少数年迈会士，随后其财产被分散并分割至1820年。"
+          ]
+        },
+        "q5": {
+          "prompt": "文本强调了保存下来的遗迹的什么后果？",
+          "options": [
+            "它们全部在2021年被列入保护，无一例外。",
+            "它们被纳入现代建筑，损害了整体一致性。",
+            "它们在1820年后被按原样重建。",
+            "它们今天用作修士的住所。"
+          ]
+        },
+        "q6": {
+          "prompt": "在早期保护措施中，哪一处住所未被纳入保护范围？",
+          "options": [
+            "圣保罗塔。",
+            "哥特式礼拜堂。",
+            "圣器管理员的住所。",
+            "食堂的一部分。"
+          ]
+        },
+        "q7": {
+          "prompt": "2016—2017年的考古工作对遗址年代给出了什么信息？",
+          "options": [
+            "在伊蒂耶创建修道团体之前，这里已经有人类活动。",
+            "查理曼于791年亲自创建了这座修道院。",
+            "科尔马里库斯一名已被证明来自一棵奇树。",
+            "莫尔会修士在16世纪重建了回廊。"
+          ]
+        },
+        "q8": {
+          "prompt": "文本在科尔梅里马卡龙与修道院之间建立了什么关系？",
+          "options": [
+            "自791年起，马卡龙由修士制作。",
+            "2016年的发掘证明了这一联系。",
+            "语言学家通过马卡龙解释名称。",
+            "传统将二者联系起来，但没有决定性证据。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Abbaye Saint-Paul de Cormery",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=241026613",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-22",
+    "revisionId": "241026613"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-22",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-22-abbaye-saint-paul-de-cormery-03a2b78a1266.jpg",
+    "alt": "image du livre de Guy Bretonneau.",
+    "author": "Jean Picart. versement et modifications ː G.Garitan",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Denis_Bri%C3%A7onnet_29889_Guy_Bretonneau.jpg?oldid=1200938024",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Fichier original téléchargé depuis Wikimedia Commons ; aucune modification.",
+    "width": 782,
+    "height": 814,
+    "byteLength": 757675,
+    "sha256": "03a2b78a126657c29c60b64c726a084ee1f723ffc7fde2223ff170a350aeca2a",
+    "fileRevisionId": "1200938024",
+    "retrievedAt": "2026-11-22"
+  }
+}

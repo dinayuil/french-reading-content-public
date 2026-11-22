@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-22",
+  "articles": [
+    {
+      "id": "2026-11-22-comment-l-equateur-lutte-t-il-contre-la-presence-d-acides-gr",
+      "title": "Protéger la population contre les graisses trans en Équateur",
+      "level": "B2",
+      "theme": "santé",
+      "date": "2026-11-22",
+      "summary": "En Équateur, des experts et des associations souhaitent que la lutte contre les graisses trans industrielles dépasse les choix individuels et s’appuie sur des règles mieux appliquées.",
+      "path": "articles/2026-11-22-comment-l-equateur-lutte-t-il-contre-la-presence-d-acides-gr.json",
+      "variants": [
+        {
+          "id": "2026-11-22-comment-l-equateur-lutte-t-il-contre-la-presence-d-acides-gr-b1",
+          "title": "Graisses trans : aliments à risque et protection à renforcer",
+          "level": "B1",
+          "theme": "santé",
+          "date": "2026-11-22",
+          "summary": "À Quito, des experts ont débattu des graisses trans industrielles, de leurs dangers pour la santé et des règles encore insuffisantes en Équateur.",
+          "path": "articles/2026-11-22-comment-l-equateur-lutte-t-il-contre-la-presence-d-acides-gr-b1.json"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-chapelle-sixtine",
+      "title": "La chapelle Sixtine, chef-d’œuvre de la Renaissance romaine",
+      "level": "B2",
+      "theme": "culture",
+      "date": "2026-11-22",
+      "summary": "Édifiée pour Sixte IV et devenue un haut lieu des conclaves, la chapelle Sixtine illustre la Renaissance romaine grâce aux cycles de fresques de grands artistes, dont Michel-Ange.",
+      "path": "articles/2026-11-22-chapelle-sixtine.json",
+      "variants": [
+        {
+          "id": "2026-11-22-chapelle-sixtine-a2",
+          "title": "La chapelle Sixtine, un trésor du Vatican",
+          "level": "A2",
+          "theme": "culture",
+          "date": "2026-11-22",
+          "summary": "La chapelle Sixtine est une salle célèbre du Vatican. Elle accueille le conclave et montre des fresques de peintres importants de la Renaissance.",
+          "path": "articles/2026-11-22-chapelle-sixtine-a2.json"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-abbaye-saint-paul-de-cormery",
+      "title": "L’abbaye Saint-Paul de Cormery, mille ans d’histoire tourangelle",
+      "level": "B2",
+      "theme": "histoire",
+      "date": "2026-11-22",
+      "summary": "Fondée en 791 puis élevée au rang d’abbaye en 800, Saint-Paul de Cormery a connu une grande prospérité médiévale avant un déclin qui aboutit à sa suppression en 1790.",
+      "path": "articles/2026-11-22-abbaye-saint-paul-de-cormery.json"
+    }
+  ]
+}

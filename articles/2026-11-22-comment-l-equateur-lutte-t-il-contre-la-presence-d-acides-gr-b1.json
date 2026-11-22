@@ -1,0 +1,349 @@
+{
+  "id": "2026-11-22-comment-l-equateur-lutte-t-il-contre-la-presence-d-acides-gr-b1",
+  "title": "Graisses trans : aliments à risque et protection à renforcer",
+  "level": "B1",
+  "theme": "santé",
+  "date": "2026-11-22",
+  "summary": "À Quito, des experts ont débattu des graisses trans industrielles, de leurs dangers pour la santé et des règles encore insuffisantes en Équateur.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Le 7 septembre, à Quito, Eliana Estrella a lancé le débat à l’université San Francisco.",
+        "Membre du CUUM, elle a demandé si nos aliments donnent la vie ou la menacent au colloque « Cœurs sans graisses trans »."
+      ]
+    },
+    {
+      "sentences": [
+        "Ce colloque ouvrait un programme de trois jours.",
+        "Le 8 septembre, groupes civils et universitaires se sont réunis à la FLACSO Ecuador pour fixer des priorités sur les maladies non transmissibles.",
+        "Le 10 septembre, le groupe Nourriture pour la Vie a examiné les initiatives citoyennes et leurs difficultés."
+      ]
+    },
+    {
+      "sentences": [
+        "Dans un supermarché, de nombreux produits peuvent cacher des graisses trans industrielles.",
+        "Selon l’OMS, celles-ci viennent surtout d’une hydrogénation partielle qui solidifie les huiles et allonge la conservation.",
+        "L’OMS juge aussi nocives les graisses trans naturelles de la viande et des produits laitiers.",
+        "Elle veut une limite pour tous les aliments et l’interdiction des huiles partiellement hydrogénées."
+      ]
+    },
+    {
+      "sentences": [
+        "Beatriz Champagne, de Coalición América Saludable, un réseau de 200 organismes, refuse de parler de simples choix personnels.",
+        "L’OMS estime plus de 278 000 décès annuels liés à ces graisses, avec risques coronariens, AVC et mort.",
+        "Daniel Antiporta, de l’OPS, parle de plus de 150 000 morts en Amérique, dont la moitié prématurées.",
+        "Malek Batal, de l’Université de Montréal, rappelle que l’on achète seulement ce qui existe et coûte peu."
+      ]
+    },
+    {
+      "sentences": [
+        "Eliana Estrella lie ces achats à la promotion des produits bon marché, au détriment des produits frais et locaux.",
+        "Son engagement vient du cancer de sa mère, décédée il y a 15 ans, qui l’a poussée vers une alimentation plus saine.",
+        "L’Équateur applique la décision 4439, qui limite à 2 g de graisses trans pour 100 g de matières grasses.",
+        "Cette règle de 2013 exempte la viande et les produits laitiers de ruminants."
+      ]
+    },
+    {
+      "sentences": [
+        "Près de 828 millions d’Américains sont protégés, et le Brésil, le Pérou, le Mexique, les États-Unis et le Canada progressent.",
+        "Les organisations veulent des contrôles réguliers et des tests, pour choisir sans vérifier les étiquettes."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "graisses trans"
+    },
+    {
+      "term": "hydrogénation partielle"
+    },
+    {
+      "term": "solidifie"
+    },
+    {
+      "term": "conservation"
+    },
+    {
+      "term": "nocives"
+    },
+    {
+      "term": "coronariens"
+    },
+    {
+      "term": "prématurées"
+    },
+    {
+      "term": "exempte"
+    },
+    {
+      "term": "ruminants"
+    },
+    {
+      "term": "initiatives citoyennes"
+    },
+    {
+      "term": "non transmissibles"
+    },
+    {
+      "term": "colloque"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon l’OMS, d’où viennent surtout les graisses trans industrielles ?",
+      "options": [
+        "D’un procédé qui rend les huiles plus solides et les conserve plus longtemps.",
+        "De la viande et des produits laitiers de ruminants.",
+        "D’une cuisson à très haute température qui ajoute des graisses aux aliments.",
+        "D’un ajout de sucre destiné à allonger la conservation des produits."
+      ],
+      "answerIndex": 0,
+      "evidence": "Selon l’OMS, celles-ci viennent surtout d’une hydrogénation partielle qui solidifie les huiles et allonge la conservation.",
+      "explanation": "Le texte attribue l’origine principale des graisses trans industrielles à l’hydrogénation partielle, qui rend les huiles solides et prolonge leur conservation. Les autres options ne correspondent pas à cette explication de l’OMS."
+    },
+    {
+      "id": "q2",
+      "prompt": "Selon Malek Batal, pourquoi le choix alimentaire ne dépend-il pas seulement de la volonté personnelle ?",
+      "options": [
+        "Parce que les produits frais et locaux sont toujours plus chers.",
+        "Parce qu’on achète ce qui est disponible et peu coûteux.",
+        "Parce que les étiquettes ne donnent pas assez d’informations.",
+        "Parce que les graisses trans naturelles sont plus dangereuses que les industrielles."
+      ],
+      "answerIndex": 1,
+      "evidence": "Malek Batal, de l’Université de Montréal, rappelle que l’on achète seulement ce qui existe et coûte peu.",
+      "explanation": "Malek Batal souligne que l’achat dépend de ce qui existe et coûte peu, donc de l’offre et du prix. Les autres réponses ajoutent des causes que le texte ne lui attribue pas."
+    },
+    {
+      "id": "q3",
+      "prompt": "Que prévoit la décision 4439 appliquée en Équateur ?",
+      "options": [
+        "Elle interdit totalement les huiles partiellement hydrogénées.",
+        "Elle impose la même limite à la viande et aux produits laitiers de ruminants.",
+        "Elle fixe une limite de 2 g de graisses trans pour 100 g de matières grasses.",
+        "Elle exige des tests réguliers dans les supermarchés."
+      ],
+      "answerIndex": 2,
+      "evidence": "L’Équateur applique la décision 4439, qui limite à 2 g de graisses trans pour 100 g de matières grasses.",
+      "explanation": "La décision 4439 est présentée comme une limite de 2 g de graisses trans pour 100 g de matières grasses. Les autres options correspondent à d’autres demandes ou vont contre le texte."
+    },
+    {
+      "id": "q4",
+      "prompt": "Qu’est-ce qui a poussé Eliana Estrella vers une alimentation plus saine ?",
+      "options": [
+        "Le décès de son père il y a 15 ans.",
+        "Une maladie coronarienne qu’elle a eue elle-même.",
+        "Les 278 000 décès annuels signalés par l’OMS.",
+        "Le cancer de sa mère, morte quinze ans plus tôt."
+      ],
+      "answerIndex": 3,
+      "evidence": "Son engagement vient du cancer de sa mère, décédée il y a 15 ans, qui l’a poussée vers une alimentation plus saine.",
+      "explanation": "Le texte relie directement l’engagement d’Eliana Estrella au cancer de sa mère, décédée quinze ans auparavant. Les autres options changent la personne ou la cause."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle est la fonction du colloque du 7 septembre dans le programme ?",
+      "options": [
+        "Il marquait le début d’un programme de trois jours.",
+        "Il concluait les trois jours de débats.",
+        "Il fixait les priorités sur les maladies non transmissibles.",
+        "Il examinait les initiatives citoyennes et leurs difficultés."
+      ],
+      "answerIndex": 0,
+      "evidence": "Ce colloque ouvrait un programme de trois jours.",
+      "explanation": "Le texte dit que ce colloque ouvrait un programme de trois jours, donc qu’il en marquait le commencement. Les autres activités sont associées à d’autres dates."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quel est le sujet principal de l’article ?",
+      "options": [
+        "L’organisation d’un colloque universitaire à Quito.",
+        "Les choix personnels des acheteurs dans les supermarchés.",
+        "Les graisses trans dans l’alimentation et les mesures pour protéger les consommateurs.",
+        "La production de viande et de produits laitiers en Équateur."
+      ],
+      "answerIndex": 2,
+      "evidence": "Elle veut une limite pour tous les aliments et l’interdiction des huiles partiellement hydrogénées.",
+      "explanation": "L’article présente les risques liés aux graisses trans et les mesures réclamées ou appliquées pour protéger la population. Le colloque n’est qu’un cadre, et les autres options sont trop limitées."
+    },
+    {
+      "id": "q7",
+      "prompt": "Que demandent les organisations à la fin de l’article ?",
+      "options": [
+        "L’interdiction de la viande et des produits laitiers de ruminants.",
+        "Des contrôles réguliers et des tests pour choisir sans lire les étiquettes.",
+        "Une limite de 2 g pour 100 g de matières grasses.",
+        "La promotion des produits bon marché au détriment des produits frais."
+      ],
+      "answerIndex": 1,
+      "evidence": "Les organisations veulent des contrôles réguliers et des tests, pour choisir sans vérifier les étiquettes.",
+      "explanation": "La fin du texte indique que les organisations réclament des contrôles réguliers et des tests afin de pouvoir choisir sans vérifier les étiquettes. Les autres options ne correspondent pas à cette demande."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "反式脂肪：高风险食品与仍需加强的保护",
+      "summary": "在基多，专家们讨论了工业反式脂肪、其对健康的危害以及厄瓜多尔仍不充分的规则。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "9月7日，在基多，埃利亚娜·埃斯特雷利亚在旧金山大学开启了辩论。",
+            "作为CUUM成员，她在“无反式脂肪之心”研讨会上追问：我们的食物是给予生命，还是威胁生命？"
+          ]
+        },
+        {
+          "sentences": [
+            "这场研讨会开启了一个为期三天的项目。",
+            "9月8日，民间团体和学界人士在厄瓜多尔拉丁美洲社会科学院（FLACSO Ecuador）聚会，以确定非传染性疾病的优先事项。",
+            "9月10日，“为生命而食”小组审视了公民倡议及其困难。"
+          ]
+        },
+        {
+          "sentences": [
+            "在超市里，许多产品可能隐藏着工业反式脂肪。",
+            "据世界卫生组织称，这些反式脂肪主要来自部分氢化，这种工艺使油凝固并延长保存时间。",
+            "世卫组织还认为肉类和奶制品中的天然反式脂肪有害。",
+            "它希望对所有食品设定限量，并禁止部分氢化油。"
+          ]
+        },
+        {
+          "sentences": [
+            "来自拥有200个组织的“健康美洲联盟”网络的贝亚特丽斯·尚帕涅拒绝把问题说成单纯的个人选择。",
+            "世卫组织估计，每年有超过27.8万例死亡与这些脂肪有关，并带来冠状动脉疾病、中风和死亡风险。",
+            "泛美卫生组织的丹尼尔·安蒂波尔塔谈到美洲有超过15万人死亡，其中一半是过早死亡。",
+            "蒙特利尔大学的马莱克·巴塔尔提醒说，人们只买存在且便宜的东西。"
+          ]
+        },
+        {
+          "sentences": [
+            "埃利亚娜·埃斯特雷利亚把这些购买行为与廉价产品的推广联系起来，认为这牺牲了新鲜和本地产品。",
+            "她的投入源于她母亲的癌症——母亲15年前去世，这促使她转向更健康的饮食。",
+            "厄瓜多尔实施第4439号决定，规定每100克脂肪中反式脂肪不得超过2克。",
+            "这项2013年的规则豁免反刍动物的肉和奶制品。"
+          ]
+        },
+        {
+          "sentences": [
+            "近8.28亿美洲人受到保护，巴西、秘鲁、墨西哥、美国和加拿大也在取得进展。",
+            "各组织希望有定期检查和检测，以便无需核对标签就能选择。"
+          ]
+        }
+      ],
+      "glossary": {
+        "graisses trans": "反式脂肪；指一类不饱和脂肪酸，工业反式脂肪主要来自部分氢化油。",
+        "hydrogénation partielle": "部分氢化；向油脂加氢使其部分硬化、延长保质期的工业过程。",
+        "solidifie": "使凝固、变固体；文中指氢化让液态油变得更固态。",
+        "conservation": "保存、保质；文中指延长食品存放时间。",
+        "nocives": "有害的；对健康造成损害。",
+        "coronariens": "冠状动脉的；与心脏供血血管相关的风险。",
+        "prématurées": "过早的；文中指未到预期寿命的死亡。",
+        "exempte": "豁免、免除；文中指该规则不适用于某些产品。",
+        "ruminants": "反刍动物；如牛、羊等。",
+        "initiatives citoyennes": "公民倡议；由市民或社区发起的行动。",
+        "non transmissibles": "非传染性的；不会在人与人之间传播的疾病。",
+        "colloque": "研讨会、学术会议。"
+      },
+      "questions": {
+        "q1": "文本把工业反式脂肪的主要来源归为部分氢化：该工艺使油变固体并延长保存，因此第一项正确。第二项说的是世卫组织也视为有害的天然反式脂肪来源，不是工业反式脂肪的主要来源；第三项和第四项分别提到高温烹饪加脂和加糖延长保质，文本均未这样说。",
+        "q2": "马莱克·巴塔尔强调，人们只买存在且便宜的东西，所以购买受供应和价格限制，第二项正确。第一项把新鲜本地产品说成总是更贵，文本未如此断言；第三项谈标签信息不足，第四项比较天然与工业反式脂肪危险性，都不是他给出的理由。",
+        "q3": "第4439号决定被明确表述为每100克脂肪中反式脂肪限量为2克，因此第三项正确。第一项说完全禁止部分氢化油，文本只提到世卫组织希望禁止，不是厄瓜多尔该决定；第二项与文本相反，该规则豁免反刍动物肉奶；第四项是文末组织的要求，不是该决定内容。",
+        "q4": "文本直接说她的投入来自母亲患癌、母亲15年前去世，这促使她选择更健康饮食，所以第四项正确。第一项把父亲替换成母亲；第二项说她本人患病，文本未提；第三项是世卫组织总体死亡估计，不是推动她的个人原因。",
+        "q5": "文本说这场研讨会开启了一个为期三天的项目，因此它的作用是标志项目开始，第一项正确。第二项说结束三天辩论，与“开启”相反；第三项是9月8日FLACSO会议的目标；第四项是9月10日“为生命而食”小组的内容。",
+        "q6": "文章围绕反式脂肪的健康风险以及专家和机构要求的限量、禁令、检测等保护措施展开，所以第三项最全面。研讨会只是叙述框架，第一项过窄；第二项只涉及个人选择且文本反对简单归因；第四项只涉肉奶生产，不是主旨。",
+        "q7": "文末说各组织希望定期检查和检测，以便无需核对标签就能选择，因此第二项正确。第一项是文本未提出的禁令；第三项是厄瓜多尔第4439号决定的现有限量；第四项是埃斯特雷利亚批评的廉价产品推广，不是组织诉求。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "据世界卫生组织称，工业反式脂肪主要来自哪里？",
+          "options": [
+            "一种使油更固体并保存更久的工艺。",
+            "反刍动物的肉和奶制品。",
+            "在极高温度下烹饪，从而给食物添加脂肪。",
+            "添加糖以延长产品保质期。"
+          ]
+        },
+        "q2": {
+          "prompt": "据马莱克·巴塔尔说，为什么食物选择不只取决于个人意愿？",
+          "options": [
+            "因为新鲜和本地产品总是更贵。",
+            "因为人们购买现有且便宜的东西。",
+            "因为标签没有提供足够信息。",
+            "因为天然反式脂肪比工业反式脂肪更危险。"
+          ]
+        },
+        "q3": {
+          "prompt": "厄瓜多尔实施的第4439号决定规定了什么？",
+          "options": [
+            "它完全禁止部分氢化油。",
+            "它对反刍动物的肉和奶制品施加同样限制。",
+            "它规定每100克脂肪中反式脂肪限量为2克。",
+            "它要求超市定期检测。"
+          ]
+        },
+        "q4": {
+          "prompt": "是什么促使埃利亚娜·埃斯特雷利亚转向更健康的饮食？",
+          "options": [
+            "她父亲15年前的去世。",
+            "她自己得过的一种冠状动脉疾病。",
+            "世卫组织报告的每年27.8万例死亡。",
+            "她母亲的癌症，母亲十五年前去世。"
+          ]
+        },
+        "q5": {
+          "prompt": "9月7日的研讨会在项目中起什么作用？",
+          "options": [
+            "它标志着一个为期三天的项目的开始。",
+            "它结束了三天的辩论。",
+            "它确定了非传染性疾病的优先事项。",
+            "它审查了公民倡议及其困难。"
+          ]
+        },
+        "q6": {
+          "prompt": "文章的主要主题是什么？",
+          "options": [
+            "在基多组织一场大学研讨会。",
+            "超市买家的个人选择。",
+            "饮食中的反式脂肪以及保护消费者的措施。",
+            "厄瓜多尔的肉和奶制品生产。"
+          ]
+        },
+        "q7": {
+          "prompt": "文章结尾处各组织要求什么？",
+          "options": [
+            "禁止反刍动物的肉和奶制品。",
+            "定期检查和检测，以便无需阅读标签就能选择。",
+            "每100克脂肪2克的限量。",
+            "以牺牲新鲜产品为代价推广廉价产品。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Comment l'Équateur lutte-t-il contre la présence d'acides gras trans industriels dans les rayons de supermarchés ?",
+    "authors": [
+      "Carlos E. Flores"
+    ],
+    "translators": [
+      "Corinne Molton"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/18/304203/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-22",
+    "publishedAt": "2026-11-18",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-22",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

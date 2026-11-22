@@ -1,0 +1,389 @@
+{
+  "id": "2026-11-22-chapelle-sixtine-a2",
+  "title": "La chapelle Sixtine, un trésor du Vatican",
+  "level": "A2",
+  "theme": "culture",
+  "date": "2026-11-22",
+  "summary": "La chapelle Sixtine est une salle célèbre du Vatican. Elle accueille le conclave et montre des fresques de peintres importants de la Renaissance.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "La chapelle Sixtine est un bâtiment religieux du Vatican.",
+        "Sixte IV la fait construire entre 1477 et 1483.",
+        "Aujourd'hui, elle fait partie des musées du Vatican.",
+        "Les cardinaux s'y réunissent pour choisir un nouveau pape."
+      ]
+    },
+    {
+      "sentences": [
+        "La chapelle est dédiée à la Vierge de l'Assomption.",
+        "Elle remplace une grande salle médiévale, la capella magna.",
+        "On ne connaît pas sûrement les architectes.",
+        "Giovanni de' Dolci ou Baccio Pontelli ont peut-être fait les plans."
+      ]
+    },
+    {
+      "sentences": [
+        "Le Pérugin commence la décoration.",
+        "Il peint seul la Pala dell'Assunta derrière l'autel.",
+        "En 1472, Sixte IV excommunie les Médicis et Florence.",
+        "Il retire cette décision le 3 décembre 1480."
+      ]
+    },
+    {
+      "sentences": [
+        "Après la réconciliation, Laurent de Médicis envoie des artistes florentins.",
+        "Ghirlandaio, Botticelli et Signorelli viennent décorer les murs.",
+        "Jules II continue les travaux et nomme Bramante responsable des bâtiments papaux.",
+        "Michel-Ange peint le plafond et le Jugement dernier."
+      ]
+    },
+    {
+      "sentences": [
+        "La salle mesure 40 mètres sur 13 et 21 en hauteur.",
+        "Le rapport entre 21 et 13 donne environ 1,61, le nombre d'or.",
+        "Elle a une voûte en berceau et 12 fenêtres cintrées.",
+        "Une cloison en marbre sépare le clergé des fidèles."
+      ]
+    },
+    {
+      "sentences": [
+        "La voûte montre 11 scènes de la Genèse.",
+        "Les murs présentent deux cycles sur Moïse et Jésus.",
+        "Chaque cycle contient six peintures.",
+        "La chapelle est très connue et très reproduite; le Vatican gagne de l'argent avec les droits d'image."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "chapelle Sixtine"
+    },
+    {
+      "term": "Vatican"
+    },
+    {
+      "term": "cardinaux"
+    },
+    {
+      "term": "Assomption"
+    },
+    {
+      "term": "capella magna"
+    },
+    {
+      "term": "excommunie"
+    },
+    {
+      "term": "réconciliation"
+    },
+    {
+      "term": "voûte en berceau"
+    },
+    {
+      "term": "fenêtres cintrées"
+    },
+    {
+      "term": "clergé"
+    },
+    {
+      "term": "droits d'image"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quel est le sujet principal de l'article ?",
+      "options": [
+        "Un bâtiment religieux du Vatican et ses décorations",
+        "Un musée de Florence et ses tableaux",
+        "Un livre écrit par un pape",
+        "Une salle de concert à Rome"
+      ],
+      "answerIndex": 0,
+      "evidence": "La chapelle Sixtine est un bâtiment religieux du Vatican.",
+      "explanation": "Le texte présente d'abord ce bâtiment du Vatican, puis raconte sa construction et ses décorations. Les autres options parlent d'un musée de Florence, d'un livre ou d'une salle de concert, absents de l'article."
+    },
+    {
+      "id": "q2",
+      "prompt": "Qui fait construire la chapelle Sixtine ?",
+      "options": [
+        "Jules II",
+        "Laurent de Médicis",
+        "Sixte IV",
+        "Michel-Ange"
+      ],
+      "answerIndex": 2,
+      "evidence": "Sixte IV la fait construire entre 1477 et 1483.",
+      "explanation": "Le texte attribue la construction à Sixte IV entre 1477 et 1483. Jules II continue les travaux, et Laurent de Médicis envoie des artistes."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quand Sixte IV retire-t-il la décision d'excommunier les Médicis et Florence ?",
+      "options": [
+        "En 1472",
+        "Le 3 décembre 1480",
+        "Entre 1477 et 1483",
+        "Après la mort de Michel-Ange"
+      ],
+      "answerIndex": 1,
+      "evidence": "Il retire cette décision le 3 décembre 1480.",
+      "explanation": "La date est donnée directement dans la phrase qui suit l'excommunication de 1472. Les autres dates correspondent à d'autres événements du texte ou n'y figurent pas."
+    },
+    {
+      "id": "q4",
+      "prompt": "Que peint Michel-Ange dans la chapelle ?",
+      "options": [
+        "Le plafond et le Jugement dernier",
+        "La Pala dell'Assunta derrière l'autel",
+        "Les murs avec Botticelli et Signorelli",
+        "Les 12 fenêtres cintrées"
+      ],
+      "answerIndex": 0,
+      "evidence": "Michel-Ange peint le plafond et le Jugement dernier.",
+      "explanation": "Le texte nomme précisément les deux œuvres de Michel-Ange. La Pala dell'Assunta est peinte par Le Pérugin, et les murs sont décorés par d'autres artistes florentins."
+    },
+    {
+      "id": "q5",
+      "prompt": "Pourquoi Laurent de Médicis envoie-t-il des artistes florentins ?",
+      "options": [
+        "Parce que la chapelle est déjà un musée",
+        "Parce que Michel-Ange quitte le Vatican",
+        "Parce que Bramante devient responsable des bâtiments",
+        "Parce que Sixte IV et les Médicis se sont réconciliés"
+      ],
+      "answerIndex": 3,
+      "evidence": "Après la réconciliation, Laurent de Médicis envoie des artistes florentins.",
+      "explanation": "L'envoi des artistes vient juste après la réconciliation entre Sixte IV et les Médicis. Les autres options concernent d'autres moments ou d'autres personnes."
+    },
+    {
+      "id": "q6",
+      "prompt": "Combien de fenêtres cintrées la chapelle a-t-elle ?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "21"
+      ],
+      "answerIndex": 1,
+      "evidence": "Elle a une voûte en berceau et 12 fenêtres cintrées.",
+      "explanation": "Le nombre de fenêtres cintrées est indiqué directement : il y en a 12. Les nombres 11, 13 et 21 correspondent à d'autres éléments ou mesures du texte."
+    },
+    {
+      "id": "q7",
+      "prompt": "Que sépare la cloison en marbre ?",
+      "options": [
+        "Les murs de la voûte",
+        "La chapelle des musées du Vatican",
+        "Le clergé des fidèles",
+        "Les cardinaux du nouveau pape"
+      ],
+      "answerIndex": 2,
+      "evidence": "Une cloison en marbre sépare le clergé des fidèles.",
+      "explanation": "Le texte dit clairement que la cloison en marbre sépare le clergé des fidèles. Les autres options ne correspondent pas à cette séparation."
+    },
+    {
+      "id": "q8",
+      "prompt": "Pourquoi le Vatican gagne-t-il de l'argent avec la chapelle ?",
+      "options": [
+        "Parce que la chapelle est très reproduite",
+        "Parce que les cardinaux y choisissent le pape",
+        "Parce que Michel-Ange a peint le plafond",
+        "Parce que la salle mesure 40 mètres"
+      ],
+      "answerIndex": 0,
+      "evidence": "La chapelle est très connue et très reproduite; le Vatican gagne de l'argent avec les droits d'image.",
+      "explanation": "Le texte relie les gains du Vatican aux droits d'image, car la chapelle est beaucoup reproduite. Les autres options donnent des faits présents dans l'article, mais pas la cause de ces gains."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "西斯廷礼拜堂：梵蒂冈的瑰宝",
+      "summary": "西斯廷礼拜堂是梵蒂冈著名的宗教建筑，建于1477至1483年，现属梵蒂冈博物馆，也用于枢机主教选举教皇。堂内汇集佩鲁吉诺、波提切利、米开朗基罗等艺术家的装饰，并因图像版权带来收入。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "西斯廷礼拜堂是梵蒂冈的一座宗教建筑。",
+            "西克斯图斯四世让人在1477年至1483年间建造它。",
+            "如今，它属于梵蒂冈博物馆的一部分。",
+            "枢机主教们在那里集会，以选出新教皇。"
+          ]
+        },
+        {
+          "sentences": [
+            "这座礼拜堂献给圣母升天。",
+            "它取代了一座中世纪大厅，即大礼拜堂（capella magna）。",
+            "人们并不确切知道建筑师是谁。",
+            "乔瓦尼·德·多尔奇或巴乔·蓬泰利可能绘制了图纸。"
+          ]
+        },
+        {
+          "sentences": [
+            "佩鲁吉诺开始装饰工作。",
+            "他独自绘制了祭坛后面的《圣母升天祭坛画》。",
+            "1472年，西克斯图斯四世开除美第奇家族和佛罗伦萨的教籍。",
+            "他于1480年12月3日撤销这一决定。"
+          ]
+        },
+        {
+          "sentences": [
+            "和解之后，洛伦佐·德·美第奇派来佛罗伦萨艺术家。",
+            "基尔兰达约、波提切利和西尼奥雷利前来装饰墙壁。",
+            "尤利乌斯二世继续工程，并任命布拉曼特负责教皇的建筑。",
+            "米开朗基罗绘制天顶和《最后的审判》。"
+          ]
+        },
+        {
+          "sentences": [
+            "大厅长40米、宽13米、高21米。",
+            "21与13的比值约为1.61，即黄金比例。",
+            "它有一个筒形拱顶和12扇拱形窗。",
+            "一道大理石隔墙把神职人员与信徒分开。"
+          ]
+        },
+        {
+          "sentences": [
+            "拱顶展示了11个《创世纪》场景。",
+            "墙壁上呈现两个系列，分别关于摩西和耶稣。",
+            "每个系列包含六幅画。",
+            "这座礼拜堂非常著名，并被大量复制；梵蒂冈通过图像版权赚钱。"
+          ]
+        }
+      ],
+      "glossary": {
+        "chapelle Sixtine": "西斯廷礼拜堂，梵蒂冈著名的宗教建筑和博物馆参观区域。",
+        "Vatican": "梵蒂冈，位于罗马内的城国，天主教教皇所在地。",
+        "cardinaux": "枢机主教，天主教会高级神职人员，参与选举教皇。",
+        "Assomption": "圣母升天，天主教教义中圣母玛利亚灵魂和身体被接升天。",
+        "capella magna": "大礼拜堂，指西斯廷礼拜堂之前位于同一地点的大型中世纪厅堂。",
+        "excommunie": "开除教籍，教会对某人施加的绝罚，使其不能领受圣事等。",
+        "réconciliation": "和解，这里指西克斯图斯四世与美第奇家族及佛罗伦萨恢复关系。",
+        "voûte en berceau": "筒形拱顶，半圆柱形的连续拱顶结构。",
+        "fenêtres cintrées": "拱形窗，顶部为圆弧形的窗户。",
+        "clergé": "神职人员，教会中负责宗教职务的人。",
+        "droits d'image": "图像版权，复制图像时需支付的授权费用。"
+      },
+      "questions": {
+        "q1": "文章开篇说西斯廷礼拜堂是梵蒂冈的宗教建筑，后文围绕它的建造和装饰展开，所以主题是“梵蒂冈的一座宗教建筑及其装饰”。其他选项分别提到佛罗伦萨博物馆、教皇写的书和罗马音乐厅，这些内容文中均未出现。",
+        "q2": "证据句直接说“西克斯图斯四世让人在1477年至1483年间建造它”，因此建造发起者是西克斯图斯四世。尤利乌斯二世是继续工程，洛伦佐·德·美第奇是派艺术家，米开朗基罗是画天顶和《最后的审判》，都不是最初建造者。",
+        "q3": "证据句“他于1480年12月3日撤销这一决定”紧接1472年开除教籍之后，所以正确日期是1480年12月3日。1472年是开除教籍的年份，1477至1483年是建造时期，米开朗基罗去世后文中未作为撤销时间。",
+        "q4": "证据句直接列出米开朗基罗画天顶和《最后的审判》。祭坛后的《圣母升天祭坛画》是佩鲁吉诺所画，墙壁由波提切利和西尼奥雷利等佛罗伦萨艺术家装饰，12扇拱形窗是建筑特征而非米开朗基罗的画作。",
+        "q5": "证据句以“和解之后”开头，说明洛伦佐派佛罗伦萨艺术家是在西克斯图斯四世与美第奇家族和解之后，因此原因是双方和解。礼拜堂当时还不是博物馆；米开朗基罗离开梵蒂冈和布拉曼特负责建筑都不是文中给出的派艺术家原因。",
+        "q6": "证据句直接说“有12扇拱形窗”，所以数量是12。11对应天顶的《创世纪》场景数，13和21是礼拜堂的宽度和高度数值，不是窗户数。",
+        "q7": "证据句直接说大理石隔墙把神职人员与信徒分开。其他选项分别涉及拱顶墙壁、礼拜堂与梵蒂冈博物馆的关系、枢机主教与新教皇，均不是该隔墙分隔的对象。",
+        "q8": "证据句把梵蒂冈赚钱与“图像版权”联系起来，原因是礼拜堂非常著名且被大量复制。枢机主教选举教皇、米开朗基罗画天顶、大厅长40米都是文中事实，但不是文中说明的赚钱原因。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "文章的主要主题是什么？",
+          "options": [
+            "梵蒂冈的一座宗教建筑及其装饰",
+            "佛罗伦萨的一座博物馆及其画作",
+            "一位教皇写的书",
+            "罗马的一座音乐厅"
+          ]
+        },
+        "q2": {
+          "prompt": "谁让人建造西斯廷礼拜堂？",
+          "options": [
+            "尤利乌斯二世",
+            "洛伦佐·德·美第奇",
+            "西克斯图斯四世",
+            "米开朗基罗"
+          ]
+        },
+        "q3": {
+          "prompt": "西克斯图斯四世何时撤销开除美第奇家族和佛罗伦萨教籍的决定？",
+          "options": [
+            "1472年",
+            "1480年12月3日",
+            "1477年至1483年间",
+            "米开朗基罗去世后"
+          ]
+        },
+        "q4": {
+          "prompt": "米开朗基罗在礼拜堂里画了什么？",
+          "options": [
+            "天顶和《最后的审判》",
+            "祭坛后面的《圣母升天祭坛画》",
+            "与波提切利和西尼奥雷利一起画的墙壁",
+            "12扇拱形窗"
+          ]
+        },
+        "q5": {
+          "prompt": "洛伦佐·德·美第奇为什么派佛罗伦萨艺术家来？",
+          "options": [
+            "因为礼拜堂已经是一座博物馆",
+            "因为米开朗基罗离开了梵蒂冈",
+            "因为布拉曼特成为建筑负责人",
+            "因为西克斯图斯四世与美第奇家族和解了"
+          ]
+        },
+        "q6": {
+          "prompt": "礼拜堂有多少扇拱形窗？",
+          "options": [
+            "11",
+            "12",
+            "13",
+            "21"
+          ]
+        },
+        "q7": {
+          "prompt": "大理石隔墙分隔了什么？",
+          "options": [
+            "拱顶的墙壁",
+            "礼拜堂与梵蒂冈博物馆",
+            "神职人员与信徒",
+            "枢机主教与新教皇"
+          ]
+        },
+        "q8": {
+          "prompt": "梵蒂冈为什么能靠礼拜堂赚钱？",
+          "options": [
+            "因为礼拜堂被大量复制",
+            "因为枢机主教在那里选举教皇",
+            "因为米开朗基罗画了天顶",
+            "因为大厅长40米"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Chapelle Sixtine",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2333901&title=Chapelle%20Sixtine",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-22",
+    "revisionId": "2333901"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-22",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-22-chapelle-sixtine-a2-9deeec789b9f.jpg",
+    "alt": "The Sistine Chapel",
+    "author": "Antoine Taveneaux",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chapelle_sixtine2.jpg?oldid=1296516871",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Réduite à 1280×857 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 857,
+    "byteLength": 462646,
+    "sha256": "9deeec789b9fdffbaa7657e9b30840e2ea5f635814fed6407181a85cb578c06a",
+    "fileRevisionId": "1296516871",
+    "retrievedAt": "2026-11-22"
+  }
+}
