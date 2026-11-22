@@ -1,0 +1,315 @@
+{
+  "id": "2026-11-21-madame-du-barry-a2",
+  "title": "Jeanne Bécu, comtesse du Barry",
+  "level": "A2",
+  "theme": "histoire",
+  "date": "2026-11-21",
+  "summary": "Jeanne Bécu, née en 1743, devient la maîtresse officielle de Louis XV. Elle vit à la Cour, puis la Révolution la conduit à la guillotine en 1793.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Jeanne Bécu naît le 19 août 1743 à Vaucouleurs.",
+        "Sa mère est couturière et n’est pas mariée.",
+        "À six ans, Jeanne est confiée à des religieuses, qui s’occupent de son éducation pendant neuf ans.",
+        "À quinze ans, elle quitte le couvent et elle devient lectrice, puis demoiselle de magasin."
+      ]
+    },
+    {
+      "sentences": [
+        "Le comte du Barry la remarque et l’installe chez lui.",
+        "En 1768, Jeanne rencontre Louis XV, qui est séduit.",
+        "Pour avoir un titre, elle épouse Guillaume du Barry.",
+        "Le 22 avril 1769, elle est présentée à la Cour comme comtesse du Barry et devient la maîtresse du roi."
+      ]
+    },
+    {
+      "sentences": [
+        "La Cour est choquée et Choiseul devient son ennemi.",
+        "Louis XV offre à Jeanne le domaine de Louveciennes en juillet 1769.",
+        "En 1770, Marie-Antoinette arrive à Versailles et elle refuse de parler à Jeanne.",
+        "Le 1er janvier 1772, elle lui adresse enfin une phrase."
+      ]
+    },
+    {
+      "sentences": [
+        "Louis XV tombe malade le 27 avril 1774 et il meurt le 10 mai.",
+        "Jeanne doit quitter Versailles et elle reste enfermée onze mois à Pont-aux-Dames.",
+        "Pendant la Révolution, ses bijoux sont volés en 1791 et elle est mise sur la liste des Émigrés.",
+        "En 1793, elle est arrêtée, condamnée à mort et guillotinée le 8 décembre."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "couturière"
+    },
+    {
+      "term": "religieuses"
+    },
+    {
+      "term": "éducation"
+    },
+    {
+      "term": "lectrice"
+    },
+    {
+      "term": "demoiselle de magasin"
+    },
+    {
+      "term": "séduit"
+    },
+    {
+      "term": "maîtresse"
+    },
+    {
+      "term": "choquée"
+    },
+    {
+      "term": "Émigrés"
+    },
+    {
+      "term": "guillotinée"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quel est le sujet principal de l’article ?",
+      "options": [
+        "Les fêtes organisées à la Cour de Louis XV.",
+        "La vie de Jeanne Bécu, de sa naissance à sa mort.",
+        "La vie de Marie-Antoinette à Versailles.",
+        "Le métier de couturière au XVIIIe siècle."
+      ],
+      "answerIndex": 1,
+      "evidence": "En 1793, elle est arrêtée, condamnée à mort et guillotinée le 8 décembre.",
+      "explanation": "L’article suit Jeanne Bécu depuis sa naissance jusqu’à son exécution ; la phrase finale marque la fin de ce parcours. Les autres choix portent sur des sujets secondaires ou sur d’autres personnes."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quel rôle les religieuses ont-elles auprès de Jeanne pendant son enfance ?",
+      "options": [
+        "Elles lui apprennent le métier de couturière.",
+        "Elles la présentent à la Cour comme comtesse.",
+        "Elles s'occupent de son éducation pendant plusieurs années.",
+        "Elles la gardent avec sa mère à Vaucouleurs."
+      ],
+      "answerIndex": 2,
+      "evidence": "À six ans, Jeanne est confiée à des religieuses, qui s’occupent de son éducation pendant neuf ans.",
+      "explanation": "Le texte indique que Jeanne est placée chez des religieuses dès six ans et qu’elles assurent son instruction durant neuf ans. Les autres options renvoient à sa mère, à la Cour ou à une période plus tardive."
+    },
+    {
+      "id": "q3",
+      "prompt": "Pourquoi Jeanne épouse-t-elle Guillaume du Barry ?",
+      "options": [
+        "Pour obtenir un titre et être présentée à la Cour avec un statut.",
+        "Pour recevoir le domaine de Louveciennes de Louis XV.",
+        "Pour devenir lectrice chez le comte du Barry.",
+        "Pour éviter la liste des Émigrés pendant la Révolution."
+      ],
+      "answerIndex": 0,
+      "evidence": "Pour avoir un titre, elle épouse Guillaume du Barry.",
+      "explanation": "Le mariage avec Guillaume du Barry sert à donner à Jeanne un titre avant sa présentation à la Cour. Louveciennes, le rôle de lectrice et la Révolution arrivent à d'autres moments."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quand Louis XV meurt-il ?",
+      "options": [
+        "Le 27 avril 1774.",
+        "Le 22 avril 1769.",
+        "Le 8 décembre 1793.",
+        "Le 10 mai 1774."
+      ],
+      "answerIndex": 3,
+      "evidence": "Louis XV tombe malade le 27 avril 1774 et il meurt le 10 mai.",
+      "explanation": "La maladie commence le 27 avril 1774, mais le roi meurt le 10 mai suivant. Les autres dates correspondent à la présentation à la Cour ou à l’exécution de Jeanne."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que doit faire Jeanne après la mort de Louis XV ?",
+      "options": [
+        "Aller à Vaucouleurs avec sa mère.",
+        "Quitter Versailles et rester enfermée à Pont-aux-Dames.",
+        "Épouser Guillaume du Barry après la mort du roi.",
+        "Rester à la Cour comme maîtresse officielle."
+      ],
+      "answerIndex": 1,
+      "evidence": "Jeanne doit quitter Versailles et elle reste enfermée onze mois à Pont-aux-Dames.",
+      "explanation": "Après la disparition du roi, Jeanne ne peut plus rester à Versailles ; elle est enfermée onze mois à Pont-aux-Dames. Les autres choix concernent des événements antérieurs ou des personnes différentes."
+    },
+    {
+      "id": "q6",
+      "prompt": "Comment Marie-Antoinette se comporte-t-elle d'abord avec Jeanne ?",
+      "options": [
+        "Elle lui adresse une phrase dès son arrivée.",
+        "Elle devient son ennemie avec Choiseul.",
+        "Elle refuse de lui parler.",
+        "Elle l’invite à Louveciennes."
+      ],
+      "answerIndex": 2,
+      "evidence": "En 1770, Marie-Antoinette arrive à Versailles et elle refuse de parler à Jeanne.",
+      "explanation": "À l’arrivée de Marie-Antoinette à Versailles, celle-ci ne veut pas parler à Jeanne ; elle ne lui adresse une phrase qu’en 1772. Les autres options attribuent à Marie-Antoinette des actions qui ne sont pas dans le texte."
+    },
+    {
+      "id": "q7",
+      "prompt": "Que se passe-t-il avec les bijoux de Jeanne pendant la Révolution ?",
+      "options": [
+        "Ils sont volés en 1791.",
+        "Ils sont donnés à Marie-Antoinette.",
+        "Ils sont vendus pour payer Louveciennes.",
+        "Ils sont gardés à Versailles jusqu’en 1793."
+      ],
+      "answerIndex": 0,
+      "evidence": "Pendant la Révolution, ses bijoux sont volés en 1791 et elle est mise sur la liste des Émigrés.",
+      "explanation": "Le texte situe le vol des bijoux en 1791, pendant la Révolution. Les autres options imaginent des transferts ou des ventes qui ne sont pas mentionnés."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "让娜·贝屈，杜巴里伯爵夫人",
+      "summary": "让娜·贝屈生于1743年，成为路易十五的正式情妇。她生活在宫廷，后来大革命使她在1793年走上断头台。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "让娜·贝屈于1743年8月19日出生在沃库勒尔。",
+            "她的母亲是裁缝，且没有结婚。",
+            "六岁时，让娜被托付给修女，由她们负责她的教育长达九年。",
+            "十五岁时，她离开修道院，先成为朗读女侍，后来成为商店女店员。"
+          ]
+        },
+        {
+          "sentences": [
+            "杜巴里伯爵注意到她，并把她安置在自己家中。",
+            "1768年，让娜结识路易十五，国王被她迷住。",
+            "为了获得一个头衔，她嫁给纪尧姆·杜巴里。",
+            "1769年4月22日，她以杜巴里伯爵夫人的身份被引见给宫廷，并成为国王的情妇。"
+          ]
+        },
+        {
+          "sentences": [
+            "宫廷感到震惊，舒瓦瑟尔成为她的敌人。",
+            "1769年7月，路易十五把卢沃谢讷领地送给让娜。",
+            "1770年，玛丽-安托瓦内特抵达凡尔赛，并拒绝和让娜说话。",
+            "1772年1月1日，玛丽-安托瓦内特终于对让娜说了一句话。"
+          ]
+        },
+        {
+          "sentences": [
+            "路易十五于1774年4月27日生病，并于5月10日去世。",
+            "让娜不得不离开凡尔赛，并在蓬欧达姆被幽禁十一个月。",
+            "大革命期间，她的珠宝于1791年被盗，她也被列入流亡者名单。",
+            "1793年，她被逮捕、判处死刑，并于12月8日被断头处死。"
+          ]
+        }
+      ],
+      "glossary": {
+        "couturière": "以缝制衣物为业的女性；文中指让娜的母亲靠裁缝工作谋生。",
+        "religieuses": "天主教修女；文中指让娜六岁时被托付给修女接受教育。",
+        "éducation": "对儿童进行的培养和教导；文中指修女负责让娜九年的教育。",
+        "lectrice": "旧时在贵族家中为女主人朗读或陪伴阅读的女性职务；文中是让娜离开修道院后的职业。",
+        "demoiselle de magasin": "商店里的女店员或女售货员；文中指让娜离开修道院后的工作。",
+        "séduit": "被吸引、迷住；文中指路易十五被让娜吸引。",
+        "maîtresse": "国王的正式情妇；文中指让娜成为路易十五的官方情妇。",
+        "choquée": "感到震惊、受冒犯；文中指宫廷对让娜被引见并成为国王情妇感到震惊。",
+        "Émigrés": "法国大革命期间离开法国、被视为政治敌人的流亡者；文中指让娜被列入流亡者名单。",
+        "guillotinée": "被断头台处死；文中指让娜1793年12月8日被处决。"
+      },
+      "questions": {
+        "q1": "文章从让娜·贝屈出生写到她被处决：开头交代1743年出生，中间叙述她成为路易十五正式情妇，结尾写到1793年上断头台，因此主线是她的一生。其他选项只涉及宫廷宴会、玛丽-安托瓦内特或裁缝职业等次要内容或他人。",
+        "q2": "文中说让娜六岁时被交给修女，由她们负责她的教育九年，因此正确项是“她们在让娜的童年时期照管她的教育”。第一项把母亲是裁缝与修女职责混淆；第二项把后来在宫廷被引见的事提前；第四项与文中她离开母亲、被托付给修女相反。",
+        "q3": "文中说“为了获得一个头衔，她嫁给纪尧姆·杜巴里”，紧接着写她以伯爵夫人身份被引见给宫廷；所以婚姻的动机是让她进入宫廷时有正式身份。卢沃谢讷领地是路易十五后来所赠，朗读女侍是她更早的职业，流亡者名单是大革命时期的事。",
+        "q4": "文中先说路易十五于1774年4月27日生病，随后明确说他在5月10日去世；因此4月27日是患病开始，而非死亡日期。1769年4月22日是让娜被引见给宫廷，1793年12月8日是她被断头处死，均非国王去世。",
+        "q5": "文中说路易十五死后，让娜必须离开凡尔赛，并在蓬欧达姆被幽禁十一个月；因此正确项是“离开凡尔赛，并被幽禁在蓬欧达姆”。她与纪尧姆的婚姻发生在国王生前；回沃库勒尔与母亲同住、留任正式情妇均无文中依据。",
+        "q6": "文中说1770年玛丽-安托瓦内特到凡尔赛时拒绝和让娜说话，直到1772年1月1日才终于对她说了一句话；所以起初是“拒绝和让娜说话”。第一项把1772年的事提前到1770年；与舒瓦瑟尔为敌的是舒瓦瑟尔本人，不是玛丽-安托瓦内特；邀请去卢沃谢讷文中没有。",
+        "q7": "文中把珠宝被盗放在大革命期间并具体到1791年；后文又说她1791年被列入流亡者名单，时间线一致。其他选项所说的赠予玛丽-安托瓦内特、变卖以支付卢沃谢讷或一直存于凡尔赛至1793年，文中均无依据。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "文章的主题是什么？",
+          "options": [
+            "路易十五宫廷中举办的宴会。",
+            "让娜·贝屈从出生到死亡的一生。",
+            "玛丽-安托瓦内特在凡尔赛的生活。",
+            "18世纪裁缝的职业。"
+          ]
+        },
+        "q2": {
+          "prompt": "童年时，修女们为让娜做了什么？",
+          "options": [
+            "她们教她裁缝手艺。",
+            "她们以伯爵夫人的身份把她引见给宫廷。",
+            "她们在让娜的童年时期照管她的教育。",
+            "她们把她和母亲一起留在沃库勒尔。"
+          ]
+        },
+        "q3": {
+          "prompt": "让娜与纪尧姆·杜巴里结婚的动机是什么？",
+          "options": [
+            "为了让让娜在进入宫廷时拥有正式身份。",
+            "为了从路易十五那里得到卢沃谢讷领地。",
+            "为了成为杜巴里伯爵家的朗读女侍。",
+            "为了在大革命期间避开流亡者名单。"
+          ]
+        },
+        "q4": {
+          "prompt": "路易十五何时去世？",
+          "options": [
+            "1774年4月27日。",
+            "1769年4月22日。",
+            "1793年12月8日。",
+            "1774年5月10日。"
+          ]
+        },
+        "q5": {
+          "prompt": "路易十五死后，让娜必须做什么？",
+          "options": [
+            "1774年回到沃库勒尔与母亲同住。",
+            "离开凡尔赛，并被幽禁在蓬欧达姆。",
+            "在国王死后嫁给纪尧姆·杜巴里。",
+            "作为正式情妇留在凡尔赛直到1791年。"
+          ]
+        },
+        "q6": {
+          "prompt": "玛丽-安托瓦内特起初如何对待让娜？",
+          "options": [
+            "她在1770年刚到凡尔赛时就对让娜说了一句话。",
+            "她与舒瓦瑟尔一起成为让娜的敌人。",
+            "她拒绝和让娜说话。",
+            "她在1770年邀请让娜去卢沃谢讷。"
+          ]
+        },
+        "q7": {
+          "prompt": "大革命期间，让娜的珠宝发生了什么？",
+          "options": [
+            "它们于1791年被盗。",
+            "它们被送给玛丽-安托瓦内特。",
+            "它们被卖掉以支付卢沃谢讷。",
+            "它们一直保存在凡尔赛直到1793年。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Madame du Barry",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2703937&title=Madame%20du%20Barry",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-21",
+    "revisionId": "2703937"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-22",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

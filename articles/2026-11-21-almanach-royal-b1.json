@@ -1,0 +1,387 @@
+{
+  "id": "2026-11-21-almanach-royal-b1",
+  "title": "L’Almanach royal : un annuaire officiel français (1683-1919)",
+  "level": "B1",
+  "theme": "histoire",
+  "date": "2026-11-21",
+  "summary": "Cet article raconte l’histoire d’un annuaire administratif français créé au XVIIe siècle. Il explique comment ce livre officiel a évolué, changé de propriétaires et disparu au début du XXe siècle.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Cet annuaire administratif français s’appelle l’Almanach royal.",
+        "Laurent d’Houry, un libraire, le crée en 1683.",
+        "Le titre apparaît de 1700 à 1792.",
+        "Ensuite, le livre paraît sous d’autres noms jusqu’en 1919."
+      ]
+    },
+    {
+      "sentences": [
+        "Il classe les personnes selon leur rang officiel.",
+        "On y trouve la famille royale, les princes, le haut clergé, les maréchaux et les ambassadeurs.",
+        "Les financiers et les politiques l’utilisent beaucoup.",
+        "Même si ce n’était qu’une suite de listes, figurer dedans avait un caractère officiel."
+      ]
+    },
+    {
+      "sentences": [
+        "Ainsi, Pierre Joly, un Poitevin, fut enfermé à la Bastille vers la fin des années 1700.",
+        "Il s’était fait inscrire comme banquier sans en avoir le droit.",
+        "En 1699, Louis XIV demande à voir l’ouvrage.",
+        "Le premier volume portant ce titre paraît en 1700."
+      ]
+    },
+    {
+      "sentences": [
+        "Trois annuaires se concurrencent alors : celui d’Houry, celui de Colombat et l’État de la France de Trabouillet.",
+        "Les procès et les conflits familiaux sont nombreux.",
+        "En 1716, d’Houry est emprisonné après une plainte de l’ambassadeur anglais.",
+        "Plus tard, Le Breton développe le livre, mais Voltaire le critique en 1768."
+      ]
+    },
+    {
+      "sentences": [
+        "En 1774, une ligne sur un trésorier des grains provoque une sanction.",
+        "En 1777, Le Breton doit retirer un passage jugé subversif.",
+        "La famille d’Houry perd le contrôle en 1814 au profit de Guyot et Testu.",
+        "En 1867, Berger-Levrault reprend l’édition.",
+        "La publication s’arrête en 1919, et le dernier numéro couvre 1915 à 1919."
+      ]
+    },
+    {
+      "sentences": [
+        "Pendant 237 ans, l’ouvrage traverse 11 régimes, change 14 fois d’éditeur et 9 fois de titre.",
+        "Depuis 1975, le titre sert à un état de la maison de Bourbon.",
+        "Hervé Pinoteau publie cet annuaire jusqu’en 2012.",
+        "Des blogs royalistes reprennent aussi le nom en 2018 et 2019."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "administratif"
+    },
+    {
+      "term": "libraire"
+    },
+    {
+      "term": "haut clergé"
+    },
+    {
+      "term": "maréchaux"
+    },
+    {
+      "term": "ambassadeurs"
+    },
+    {
+      "term": "figurer"
+    },
+    {
+      "term": "concurrencent"
+    },
+    {
+      "term": "trésorier des grains"
+    },
+    {
+      "term": "subversif"
+    },
+    {
+      "term": "royalistes"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Qui a créé l’Almanach royal en 1683 ?",
+      "options": [
+        "Louis XIV",
+        "Laurent d’Houry",
+        "Le Breton",
+        "Hervé Pinoteau"
+      ],
+      "answerIndex": 1,
+      "evidence": "Laurent d’Houry, un libraire, le crée en 1683.",
+      "explanation": "Le texte attribue la création de l’annuaire à ce libraire à cette date. Louis XIV intervient plus tard, et les deux autres noms correspondent à d’autres moments de l’histoire du livre."
+    },
+    {
+      "id": "q2",
+      "prompt": "Que fait Louis XIV en 1699 à propos de l’ouvrage ?",
+      "options": [
+        "Il interdit sa publication.",
+        "Il en confie l’édition à Le Breton.",
+        "Il demande à le consulter.",
+        "Il le fait paraître sous un nouveau titre."
+      ],
+      "answerIndex": 2,
+      "evidence": "En 1699, Louis XIV demande à voir l’ouvrage.",
+      "explanation": "Le passage indique seulement que le roi veut examiner le livre cette année-là. Aucune interdiction, aucun changement d’éditeur ni de titre n’est mentionné à ce moment."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel rôle le deuxième paragraphe donne-t-il à l’Almanach royal ?",
+      "options": [
+        "Il montre que figurer dans l’annuaire conférait un caractère officiel.",
+        "Il explique comment le livre était imprimé et vendu.",
+        "Il raconte les procès entre les différents éditeurs.",
+        "Il décrit les changements de titre au fil des années."
+      ],
+      "answerIndex": 0,
+      "evidence": "Même si ce n’était qu’une suite de listes, figurer dedans avait un caractère officiel.",
+      "explanation": "Ce passage insiste sur la valeur officielle que prenait une inscription dans le livre, malgré sa forme de listes. Les autres choix renvoient à des aspects traités ailleurs ou non présents."
+    },
+    {
+      "id": "q4",
+      "prompt": "Pour quelle raison Pierre Joly est-il emprisonné ?",
+      "options": [
+        "Parce qu’il avait utilisé sans droit le titre de banquier.",
+        "Parce qu’il avait critiqué Louis XIV dans un écrit.",
+        "Parce qu’il avait refusé de payer une taxe sur le grain.",
+        "Parce qu’il avait publié un annuaire concurrent."
+      ],
+      "answerIndex": 0,
+      "evidence": "Il s’était fait inscrire comme banquier sans en avoir le droit.",
+      "explanation": "Le texte relie son enfermement au fait qu’il s’est présenté comme banquier alors qu’il n’en avait pas le droit. Les autres raisons ne sont pas données pour ce personnage."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que se passe-t-il pour d’Houry en 1716 ?",
+      "options": [
+        "Il obtient la protection de l’ambassadeur anglais.",
+        "Il perd le contrôle de l’annuaire au profit de Guyot et Testu.",
+        "Il est critiqué par Voltaire pour la qualité du livre.",
+        "Il est emprisonné après une plainte venue d’Angleterre."
+      ],
+      "answerIndex": 3,
+      "evidence": "En 1716, d’Houry est emprisonné après une plainte de l’ambassadeur anglais.",
+      "explanation": "La phrase situe l’emprisonnement de d’Houry en 1716 et le rattache à la plainte d’un représentant britannique. Les autres événements appartiennent à d’autres dates ou à d’autres personnes."
+    },
+    {
+      "id": "q6",
+      "prompt": "Que doit faire Le Breton en 1777 ?",
+      "options": [
+        "Retirer un passage considéré comme subversif.",
+        "Ajouter une ligne sur un trésorier des grains.",
+        "Céder l’édition à Berger-Levrault.",
+        "Répondre à une critique de Voltaire."
+      ],
+      "answerIndex": 0,
+      "evidence": "En 1777, Le Breton doit retirer un passage jugé subversif.",
+      "explanation": "Le texte précise qu’on lui impose de supprimer un extrait jugé dangereux cette année-là. Les autres actions correspondent à d’autres dates ou à d’autres acteurs."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quelle période couvre le dernier numéro de l’Almanach royal ?",
+      "options": [
+        "1915 à 1919",
+        "1867 à 1919",
+        "1814 à 1867",
+        "1700 à 1792"
+      ],
+      "answerIndex": 0,
+      "evidence": "La publication s’arrête en 1919, et le dernier numéro couvre 1915 à 1919.",
+      "explanation": "La fin de la publication est fixée en 1919, et l’ultime livraison concerne les années indiquées dans la phrase. Les autres périodes renvoient à d’autres étapes du livre."
+    },
+    {
+      "id": "q8",
+      "prompt": "Depuis 1975, à quoi sert le titre « Almanach royal » ?",
+      "options": [
+        "À un annuaire administratif officiel de l’État français.",
+        "À un journal dirigé par Hervé Pinoteau jusqu’en 2012.",
+        "À un état de la maison de Bourbon.",
+        "À un blog royaliste publié en 2018 et 2019."
+      ],
+      "answerIndex": 2,
+      "evidence": "Depuis 1975, le titre sert à un état de la maison de Bourbon.",
+      "explanation": "Le texte indique que le nom désigne désormais une publication liée à cette maison. Hervé Pinoteau et certains blogs sont mentionnés ensuite, mais ils ne définissent pas l’usage du titre depuis 1975."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "《皇家年鉴》：一份法国官方年鉴（1683—1919）",
+      "summary": "本文讲述一部17世纪创立的法国行政年鉴的历史：它如何演变、几经易主，并在20世纪初消失。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "这部法国行政年鉴名为《皇家年鉴》。",
+            "书商洛朗·杜里于1683年创办了它。",
+            "这一标题从1700年出现到1792年。",
+            "此后，这本书以其他名称出版，直到1919年。"
+          ]
+        },
+        {
+          "sentences": [
+            "它按官方等级排列人物。",
+            "其中可以找到王室、亲王、高级神职人员、元帅和大使。",
+            "金融家和政治家经常使用它。",
+            "即使它只是一连串名单，被列入其中也具有一种官方性质。"
+          ]
+        },
+        {
+          "sentences": [
+            "例如，普瓦图人皮埃尔·若利在18世纪末前后被关进巴士底狱。",
+            "他无权却把自己登记为银行家。",
+            "1699年，路易十四要求查看这部著作。",
+            "第一部带有这一标题的卷册于1700年出版。"
+          ]
+        },
+        {
+          "sentences": [
+            "当时有三部年鉴相互竞争：杜里的、科隆巴的，以及特拉布耶的《法国状况》。",
+            "诉讼和家庭纠纷很多。",
+            "1716年，杜里因英国大使的投诉而被监禁。",
+            "后来，勒布勒东发展了这本书，但伏尔泰在1768年批评了它。"
+          ]
+        },
+        {
+          "sentences": [
+            "1774年，一行关于粮食司库的文字引发了一项处罚。",
+            "1777年，勒布勒东必须撤除一段被认为颠覆性的文字。",
+            "1814年，杜里家族失去控制权，由居约和泰斯图接手。",
+            "1867年，贝热尔-勒夫罗接手出版。",
+            "该出版物于1919年停止，最后一期覆盖1915年至1919年。"
+          ]
+        },
+        {
+          "sentences": [
+            "在237年间，这部著作历经11个政权，更换14次出版商和9次标题。",
+            "自1975年起，这一标题用于波旁家族的一份名录。",
+            "埃尔韦·皮诺托出版这部年鉴直到2012年。",
+            "保皇派博客也在2018年和2019年重新使用了这一名称。"
+          ]
+        }
+      ],
+      "glossary": {
+        "administratif": "行政的；与行政管理有关的。",
+        "libraire": "书商；经营书籍销售、旧时也参与出版的人。",
+        "haut clergé": "高级神职人员，如主教、大主教等。",
+        "maréchaux": "元帅（复数），法国的高级军衔。",
+        "ambassadeurs": "大使（复数），驻外的最高外交代表。",
+        "figurer": "出现、被列入（名单或书中）。",
+        "concurrencent": "竞争；互相争夺市场或读者（动词 concurrencer 的第三人称复数）。",
+        "trésorier des grains": "粮食司库或粮食财务官，负责粮食资金管理的官员。",
+        "subversif": "颠覆性的；被认为可能危害现有秩序的。",
+        "royalistes": "保皇派或王党分子；支持王室的人。"
+      },
+      "questions": {
+        "q1": "文中在1683年这一时间点明确把创刊归给书商洛朗·杜里，所以对应第二项（洛朗·杜里）。路易十四是后来1699年才要求查看该书；勒布勒东和埃尔韦·皮诺托分别属于后续发展或现代阶段，不能回答1683年的创刊者。",
+        "q2": "1699年那一句只说明国王要求看这本书，因此对应第三项（他要求查阅该书）。文中没有说禁止出版、把编辑交给勒布勒东或改换新标题，这些都与1699年这一处叙述不符。",
+        "q3": "第二段最后一句强调，即使只是名单，被列入其中也带有官方性质；这直接支持第一项。其余选项分别谈印刷销售、编辑诉讼和标题变化，第二段并未讲这些内容。",
+        "q4": "文中把皮埃尔·若利的入狱与“他无权却把自己登记为银行家”相连，所以原因是冒用银行家身份，对应第一项。没有提到他批评路易十四、拒缴粮食税或出版竞争年鉴。",
+        "q5": "1716年那一句说杜里因英国大使投诉而被监禁，因此对应第四项（在来自英国的投诉后入狱）。第一项说得到保护、第二项说1814年失去控制权、第三项说1768年受伏尔泰批评，都不是1716年杜里的遭遇。",
+        "q6": "1777年文中说勒布勒东必须撤掉一段被判为颠覆性的文字，因此对应第一项（撤除被视为颠覆性的段落）。增补粮食司库一行是1774年，转让给贝热尔-勒夫罗是1867年，回应伏尔泰批评是1768年，均非1777年。",
+        "q7": "最后一句说1919年停刊，最后一期覆盖1915至1919年，所以选第一项。其他区间对应其他阶段：1867年起由贝热尔-勒夫罗接手、1814年易主、1700至1792年是标题期，不是最后一期的覆盖期。",
+        "q8": "文中说自1975年起这个标题用于波旁家族的一份名录，直接对应第三项。埃尔韦·皮诺托只是后来出版该年鉴至2012年，博客在2018年和2019年借用名称，都不是1975年以来标题所指的用途。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "1683年，谁创办了《皇家年鉴》？",
+          "options": [
+            "路易十四",
+            "洛朗·杜里",
+            "勒布勒东",
+            "埃尔韦·皮诺托"
+          ]
+        },
+        "q2": {
+          "prompt": "1699年，路易十四就这部著作做了什么？",
+          "options": [
+            "他禁止该书出版。",
+            "他把编辑工作交给勒布勒东。",
+            "他要求查阅该书。",
+            "他让该书以新标题出版。"
+          ]
+        },
+        "q3": {
+          "prompt": "第二段赋予《皇家年鉴》什么作用？",
+          "options": [
+            "它表明被列入年鉴会赋予一种官方性质。",
+            "它解释这本书如何印刷和销售。",
+            "它讲述不同出版商之间的诉讼。",
+            "它描述多年来标题的变化。"
+          ]
+        },
+        "q4": {
+          "prompt": "皮埃尔·若利为什么被监禁？",
+          "options": [
+            "因为他无权却使用了银行家头衔。",
+            "因为他在一篇文章中批评路易十四。",
+            "因为他拒绝缴纳粮食税。",
+            "因为他出版了一部竞争年鉴。"
+          ]
+        },
+        "q5": {
+          "prompt": "1716年杜里发生了什么？",
+          "options": [
+            "他得到英国大使的保护。",
+            "他失去对年鉴的控制，由居约和泰斯图接手。",
+            "他因这本书的质量受到伏尔泰批评。",
+            "他在来自英国的投诉后入狱。"
+          ]
+        },
+        "q6": {
+          "prompt": "1777年勒布勒东必须做什么？",
+          "options": [
+            "撤除一段被视为颠覆性的文字。",
+            "增加一行关于粮食司库的内容。",
+            "把出版权让给贝热尔-勒夫罗。",
+            "回应伏尔泰的批评。"
+          ]
+        },
+        "q7": {
+          "prompt": "《皇家年鉴》最后一期覆盖哪个时期？",
+          "options": [
+            "1915年至1919年",
+            "1867年至1919年",
+            "1814年至1867年",
+            "1700年至1792年"
+          ]
+        },
+        "q8": {
+          "prompt": "自1975年起，“皇家年鉴”这一标题用于什么？",
+          "options": [
+            "法国国家的一部官方行政年鉴。",
+            "一份由埃尔韦·皮诺托领导至2012年的报纸。",
+            "波旁家族的一份名录。",
+            "一个在2018年和2019年发布的保皇派博客。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Almanach royal",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=240366521",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-21",
+    "revisionId": "240366521"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-22",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-21-almanach-royal-b1-e09ec61fffb6.png",
+    "alt": "Almanach royal de 1738, exemple de reliure classique faite par l'imprimeur",
+    "author": "FMichaud76",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Almanach1738-reliureclassique.png?oldid=789492115",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Fichier original téléchargé depuis Wikimedia Commons ; aucune modification.",
+    "width": 572,
+    "height": 431,
+    "byteLength": 613751,
+    "sha256": "e09ec61fffb62f29e50fb934a5f95af0e4b08d8897e0feae54620ac3cf02ee21",
+    "fileRevisionId": "789492115",
+    "retrievedAt": "2026-11-22"
+  }
+}

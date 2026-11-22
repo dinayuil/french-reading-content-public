@@ -1,0 +1,333 @@
+{
+  "id": "2026-11-21-madame-du-barry-b2",
+  "title": "Jeanne Bécu, comtesse du Barry : ascension et chute d’une favorite",
+  "level": "B2",
+  "theme": "histoire",
+  "date": "2026-11-21",
+  "summary": "Ce portrait retrace l’ascension de Jeanne Bécu, favorite de Louis XV, puis sa chute sous la Révolution, jusqu’à son exécution en 1793.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Jeanne Bécu naît le 19 août 1743 à Vaucouleurs et meurt guillotinée le 8 décembre 1793 à Paris, après cinq ans comme maîtresse officielle de Louis XV.",
+        "Sa mère, couturière célibataire au couvent de Picpus, aurait eu pour amant probable le franciscain Jean-Baptiste Gomard de Vaubernier.",
+        "À six ans, Jeanne est confiée aux dames de Sainte-Aure, à Paris, où neuf ans lui enseignent valeurs chrétiennes et bonnes manières."
+      ]
+    },
+    {
+      "sentences": [
+        "À quinze ans, elle quitte le couvent et vit de sa beauté ; en 1768, avec Richelieu et Lebel, elle croise Louis XV, presque sexagénaire, séduit.",
+        "Le comte Jean-Baptiste du Barry, dit « Le Roué », la remarque et l'installe rue Jurassienne.",
+        "Guillaume du Barry, frère cadet du Roué, l'épouse pour lui donner un titre puis repart en Languedoc avec une rente.",
+        "Le 22 avril 1769, la comtesse de Béarn la présente et Jeanne devient favorite en titre, avec un logement relié aux appartements du roi."
+      ]
+    },
+    {
+      "sentences": [
+        "Cette promotion scandalise la Cour : Choiseul, qui espérait y placer sa sœur, devient l'ennemi de Jeanne, tandis que princes du sang et alliés parlementaires répandent des rumeurs ignobles.",
+        "Louis XV, amoureux d'une femme de trente-trois ans sa cadette, s'irrite de cette hostilité ; Jeanne le distrait et lui redonne le goût de vivre.",
+        "En juillet 1769, il lui donne Louveciennes, près de Marly, que Gabriel rénove et où Ledoux bâtit un pavillon de musique."
+      ]
+    },
+    {
+      "sentences": [
+        "Le 16 mai 1770, le dauphin épouse Marie-Antoinette ; Choiseul espère limiter l'influence de la favorite, mais il est renvoyé avec Praslin le 24 décembre.",
+        "Marie-Antoinette méprise Jeanne pendant des mois ; sous diverses pressions, elle lui adresse enfin, le 1er janvier 1772, une phrase sur l’affluence du jour à Versailles.",
+        "Les années 1772 et 1773 sont heureuses, mais Louis XV tombe malade le 27 avril 1774 ; la variole est diagnostiquée le 29.",
+        "Le 3 mai, Jeanne gagne Rueil, et le roi meurt le 10 mai à 15 h 15."
+      ]
+    },
+    {
+      "sentences": [
+        "Le 12 mai, une lettre de cachet l'enferme onze mois à Pont-aux-Dames ; elle gagne ensuite Louveciennes et vit une liaison heureuse avec Cossé-Brissac.",
+        "Sous la Révolution, ses bijoux sont volés en 1791 ; ses voyages en Angleterre pour les récupérer la font inscrire sur la liste des Émigrés.",
+        "En 1793, suspecte sous la Terreur, elle est incarcérée le 22 septembre à Sainte-Pélagie, condamnée à mort et guillotinée le 8 décembre place de la Concorde ; Louveciennes devient bien national."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "guillotinée"
+    },
+    {
+      "term": "célibataire"
+    },
+    {
+      "term": "franciscain"
+    },
+    {
+      "term": "couturière"
+    },
+    {
+      "term": "scandalise"
+    },
+    {
+      "term": "hostilité"
+    },
+    {
+      "term": "parlementaires"
+    },
+    {
+      "term": "variole"
+    },
+    {
+      "term": "lettre de cachet"
+    },
+    {
+      "term": "Émigrés"
+    },
+    {
+      "term": "Terreur"
+    },
+    {
+      "term": "bien national"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Que se passe-t-il pendant les neuf années que Jeanne passe chez les dames de Sainte-Aure ?",
+      "options": [
+        "Elle y reçoit une éducation chrétienne et apprend les bonnes manières.",
+        "Elle y apprend le métier de couturière comme sa mère.",
+        "Elle y est présentée à Louis XV pour la première fois.",
+        "Elle y épouse Guillaume du Barry afin d'obtenir un titre."
+      ],
+      "answerIndex": 0,
+      "evidence": "À six ans, Jeanne est confiée aux dames de Sainte-Aure, à Paris, où neuf ans lui enseignent valeurs chrétiennes et bonnes manières.",
+      "explanation": "Le texte indique que son séjour au couvent lui transmet des valeurs chrétiennes et de bonnes manières. Les autres options renvoient à d'autres moments de sa vie ou à des faits non mentionnés."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi Choiseul devient-il l'ennemi de Jeanne ?",
+      "options": [
+        "Parce qu'elle refuse de quitter la Cour pour Louveciennes.",
+        "Parce qu'il espérait placer sa sœur à la Cour et que l'ascension de Jeanne contrarie ce projet.",
+        "Parce que Louis XV le rend responsable des rumeurs répandues par les princes.",
+        "Parce qu'il veut défendre Marie-Antoinette contre l'influence de la favorite."
+      ],
+      "answerIndex": 1,
+      "evidence": "Cette promotion scandalise la Cour : Choiseul, qui espérait y placer sa sœur, devient l'ennemi de Jeanne, tandis que princes du sang et alliés parlementaires répandent des rumeurs ignobles.",
+      "explanation": "Le texte relie l'hostilité de Choiseul à son espoir déçu de voir sa sœur occuper une place à la Cour. Les autres causes proposées ne sont pas données dans le passage."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel rôle joue le troisième paragraphe dans l'article ?",
+      "options": [
+        "Il explique comment Jeanne obtient un titre grâce à son mariage avec Guillaume du Barry.",
+        "Il raconte le mariage du dauphin avec Marie-Antoinette et le renvoi de Choiseul.",
+        "Il montre que l'hostilité de la Cour n'empêche pas le roi de s'attacher à Jeanne et d'y trouver une distraction.",
+        "Il explique surtout pourquoi Louis XV décide de renvoyer Choiseul."
+      ],
+      "answerIndex": 2,
+      "evidence": "Louis XV, amoureux d'une femme de trente-trois ans sa cadette, s'irrite de cette hostilité ; Jeanne le distrait et lui redonne le goût de vivre.",
+      "explanation": "Ce paragraphe présente le scandale provoqué par Jeanne, puis insiste sur la réaction du roi, qui s'irrite de l'hostilité et trouve auprès d'elle distraction et plaisir de vivre. Les autres options portent sur des épisodes situés ailleurs dans l'article."
+    },
+    {
+      "id": "q4",
+      "prompt": "Que fait Jeanne le 3 mai 1774 ?",
+      "options": [
+        "Elle est enfermée à Pont-aux-Dames.",
+        "Elle est présentée à Marie-Antoinette.",
+        "Elle est incarcérée à Sainte-Pélagie.",
+        "Elle part pour Rueil."
+      ],
+      "answerIndex": 3,
+      "evidence": "Le 3 mai, Jeanne gagne Rueil, et le roi meurt le 10 mai à 15 h 15.",
+      "explanation": "La phrase indique qu'elle gagne Rueil le 3 mai 1774, peu avant la mort du roi. Les autres lieux ou événements correspondent à d'autres dates."
+    },
+    {
+      "id": "q5",
+      "prompt": "Pourquoi Jeanne est-elle inscrite sur la liste des Émigrés sous la Révolution ?",
+      "options": [
+        "Parce qu'elle se rend en Angleterre pour tenter de récupérer ses bijoux volés.",
+        "Parce qu'elle fuit la Terreur avec Cossé-Brissac.",
+        "Parce qu'elle vend ses bijoux à Londres.",
+        "Parce qu'elle refuse de revenir de Louveciennes."
+      ],
+      "answerIndex": 0,
+      "evidence": "Sous la Révolution, ses bijoux sont volés en 1791 ; ses voyages en Angleterre pour les récupérer la font inscrire sur la liste des Émigrés.",
+      "explanation": "Le texte établit un lien direct entre ses déplacements en Angleterre pour retrouver ses bijoux et son inscription sur la liste des Émigrés. Les autres motifs ne sont pas soutenus par le passage."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelle affirmation correspond à l'attitude de Marie-Antoinette envers Jeanne ?",
+      "options": [
+        "Elle la soutient publiquement dès le mariage du dauphin.",
+        "Elle la méprise longtemps, puis finit par lui adresser la parole le 1er janvier 1772.",
+        "Elle la présente elle-même à la Cour en 1769.",
+        "Elle refuse de lui parler jusqu'à la mort de Louis XV."
+      ],
+      "answerIndex": 1,
+      "evidence": "Marie-Antoinette méprise Jeanne pendant des mois ; sous diverses pressions, elle lui adresse enfin, le 1er janvier 1772, une phrase sur l’affluence du jour à Versailles.",
+      "explanation": "Le passage montre d'abord du mépris, puis une parole adressée à Jeanne sous la pression, à une date précise. Les autres options contredisent cette chronologie ou attribuent à Marie-Antoinette un rôle qui n'est pas le sien."
+    },
+    {
+      "id": "q7",
+      "prompt": "Après la condamnation de Jeanne, quel sort est réservé au domaine de Louveciennes ?",
+      "options": [
+        "Il est attribué à Cossé-Brissac en dédommagement.",
+        "Il est restitué à la famille du Barry.",
+        "Il est transformé en couvent.",
+        "Il est confisqué et déclaré propriété de la nation."
+      ],
+      "answerIndex": 3,
+      "evidence": "En 1793, suspecte sous la Terreur, elle est incarcérée le 22 septembre à Sainte-Pélagie, condamnée à mort et guillotinée le 8 décembre place de la Concorde ; Louveciennes devient bien national.",
+      "explanation": "Le texte précise qu'après la condamnation de Jeanne, Louveciennes passe au statut de bien national, c'est-à-dire qu'il revient à l'État. Les autres issues proposées ne sont pas mentionnées."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "让娜·贝屈，杜巴里伯爵夫人：一位宠妃的崛起与覆灭",
+      "summary": "本文记述让娜·贝屈从路易十五的正式情妇到法国大革命中失势并于1793年被处决的兴衰历程。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "让娜·贝屈于1743年8月19日出生在沃库勒尔，在做了路易十五五年正式情妇之后，于1793年12月8日在巴黎被送上断头台处死。",
+            "她的母亲是皮克皮斯修道院的一名未婚女裁缝，据说其可能的爱人是方济各会修士让-巴蒂斯特·戈马尔·德·沃贝尔尼耶。",
+            "六岁时，让娜被托付给巴黎的圣奥雷修女院，在那里度过的九年教给她基督教价值观和良好礼仪。"
+          ]
+        },
+        {
+          "sentences": [
+            "十五岁时，她离开修道院，靠自己的美貌生活；1768年，在黎塞留和勒贝尔的陪同下，她邂逅了年近六十、已被迷住的路易十五。",
+            "人称“放荡者”的让-巴蒂斯特·杜巴里伯爵注意到了她，并把她安置在朱拉西安街。",
+            "“放荡者”的弟弟纪尧姆·杜巴里为了给她一个头衔而娶了她，随后带着一笔年金返回朗格多克。",
+            "1769年4月22日，贝阿尔纳伯爵夫人将她引见入宫，让娜随即成为正式宠妃，并拥有一处与国王套房相连的住所。"
+          ]
+        },
+        {
+          "sentences": [
+            "这一擢升令宫廷哗然：曾希望把自己的妹妹安排进宫的舒瓦瑟尔成了让娜的敌人，而王室亲王和高等法院的盟友则散布卑劣的谣言。",
+            "路易十五爱上了一个比他年轻三十三岁的女人，对这种敌意感到恼火；让娜为他解闷，让他重新有了生活乐趣。",
+            "1769年7月，他把马尔利附近的卢韦谢讷赐给她，加布里埃尔对其加以翻新，勒杜还在那里建了一座音乐亭。"
+          ]
+        },
+        {
+          "sentences": [
+            "1770年5月16日，王太子迎娶玛丽-安托瓦内特；舒瓦瑟尔希望限制这位宠妃的影响，但他于12月24日与普拉兰一同被免职。",
+            "玛丽-安托瓦内特数月来都鄙视让娜；在各种压力下，她终于在1772年1月1日对让娜说了一句关于当日凡尔赛人流拥挤的话。",
+            "1772年和1773年是幸福的年份，但路易十五于1774年4月27日病倒；29日诊断出天花。",
+            "5月3日，让娜前往吕埃，国王于5月10日15时15分去世。"
+          ]
+        },
+        {
+          "sentences": [
+            "5月12日，一封国王密札把她关在蓬奥达姆十一个月；她随后前往卢韦谢讷，并与科塞-布里萨克保持着一段幸福的恋情。",
+            "大革命期间，她的珠宝于1791年被盗；她为追回珠宝而多次前往英国，这使她上了流亡者名单。",
+            "1793年，在恐怖统治下她受到怀疑，于9月22日被关押到圣佩拉吉监狱，被判处死刑，并于12月8日在协和广场被断头台处决；卢韦谢讷成为国有财产。"
+          ]
+        }
+      ],
+      "glossary": {
+        "guillotinée": "被断头台处决。",
+        "célibataire": "未婚的；这里指未结婚。",
+        "franciscain": "方济各会修士。",
+        "couturière": "女裁缝。",
+        "scandalise": "使……震惊、引起丑闻。",
+        "hostilité": "敌意、敌对态度。",
+        "parlementaires": "与高等法院（parlement）有关的人；这里指高等法院的盟友。",
+        "variole": "天花。",
+        "lettre de cachet": "国王密札，一种可未经审判下令监禁的盖印令。",
+        "Émigrés": "流亡者；尤指法国大革命期间逃往国外的贵族。",
+        "Terreur": "恐怖统治，指法国大革命中革命政府的镇压时期。",
+        "bien national": "国有财产、国家财产。"
+      },
+      "questions": {
+        "q1": "原文说让娜在圣奥雷修女院度过九年，修女们教她基督教价值观和良好礼仪；因此第一项“她在那里接受基督教教育并学习良好礼仪”符合文意。第二项说她像母亲一样学裁缝，文中没有；第三项说首次被引见给路易十五，发生在后来；第四项说嫁给纪尧姆以取得头衔，也发生在别处。",
+        "q2": "原文把舒瓦瑟尔的敌意与他曾希望把妹妹安排进宫联系起来：让娜的擢升打乱了这个打算，所以第二项“他原想把自己的妹妹安置在宫廷，而让娜的崛起阻碍了这一计划”正确。第一项、第三项、第四项都不是文中给出的原因。",
+        "q3": "该段先写让娜得宠引发宫廷丑闻，接着写路易十五因敌意而恼火，却在让娜身边得到解闷和生活的乐趣；所以第三项“说明宫廷的敌意并未阻止国王依恋让娜并从她那里得到消遣”概括了该段作用。第一项讲婚姻获头衔，第二项讲王太子婚礼和舒瓦瑟尔免职，第四项讲免职原因，均不属于此段重点或不在本段。",
+        "q4": "原文明确说“5月3日，让娜前往吕埃”，紧接着写国王5月10日去世；因此第四项“她前往吕埃”正确。被关在蓬奥达姆、被引见给玛丽-安托瓦内特、被关押到圣佩拉吉分别对应其他时间或事件。",
+        "q5": "原文说她的珠宝1791年被盗，她为追回珠宝而前往英国，这些旅行使她上了流亡者名单；所以第一项“她前往英国试图找回被盗珠宝”正确。文中没有说她与科塞-布里萨克一起逃离恐怖统治、在伦敦卖珠宝或拒绝离开卢韦谢讷。",
+        "q6": "原文先写玛丽-安托瓦内特数月鄙视让娜，后写在各种压力下于1772年1月1日终于对她说了一句话；因此第二项“她长期鄙视让娜，后来终于在1772年1月1日对她开口”符合。第一项说公开支持、第三项说亲自引见、第四项说直到路易十五死都不说话，均与原文矛盾。",
+        "q7": "原文结尾说“Louveciennes devient bien national”，即卢韦谢讷被收归国家；所以第四项“它被没收并宣布为国家财产”正确。文中没有说它被赐给科塞-布里萨克作补偿、归还杜巴里家族或改成修道院。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "让娜在圣奥雷修女院度过的九年里发生了什么？",
+          "options": [
+            "她在那里接受基督教教育并学习良好礼仪。",
+            "她像母亲一样在那里学习裁缝手艺。",
+            "她在那里第一次被引见给路易十五。",
+            "她为了获得头衔在那里嫁给纪尧姆·杜巴里。"
+          ]
+        },
+        "q2": {
+          "prompt": "舒瓦瑟尔为什么成为让娜的敌人？",
+          "options": [
+            "因为她拒绝离开宫廷前往卢韦谢讷。",
+            "因为他原想把自己的妹妹安置在宫廷，而让娜的崛起阻碍了这一计划。",
+            "因为路易十五让他为亲王们散布的谣言负责。",
+            "因为他想保护玛丽-安托瓦内特免受这位宠妃的影响。"
+          ]
+        },
+        "q3": {
+          "prompt": "第三段在文章中起什么作用？",
+          "options": [
+            "它解释让娜如何通过与纪尧姆·杜巴里结婚获得头衔。",
+            "它讲述王太子与玛丽-安托瓦内特的婚礼以及舒瓦瑟尔被免职。",
+            "它说明宫廷的敌意并未阻止国王依恋让娜并从她那里得到消遣。",
+            "它主要解释路易十五为什么决定免去舒瓦瑟尔。"
+          ]
+        },
+        "q4": {
+          "prompt": "1774年5月3日让娜做了什么？",
+          "options": [
+            "她被关进蓬奥达姆。",
+            "她被引见给玛丽-安托瓦内特。",
+            "她被关押到圣佩拉吉监狱。",
+            "她前往吕埃。"
+          ]
+        },
+        "q5": {
+          "prompt": "大革命时期让娜为什么被列入流亡者名单？",
+          "options": [
+            "因为她前往英国试图找回被盗的珠宝。",
+            "因为她与科塞-布里萨克一起逃离恐怖统治。",
+            "因为她把珠宝卖到伦敦。",
+            "因为她拒绝离开卢韦谢讷。"
+          ]
+        },
+        "q6": {
+          "prompt": "哪一种说法符合玛丽-安托瓦内特对让娜的态度？",
+          "options": [
+            "她在王太子婚礼后立刻公开支持让娜。",
+            "她长期鄙视让娜，后来终于在1772年1月1日对她开口。",
+            "她在1769年亲自把让娜引见给宫廷。",
+            "她直到路易十五去世都不肯和让娜说话。"
+          ]
+        },
+        "q7": {
+          "prompt": "让娜被定罪后，卢韦谢讷领地迎来了什么命运？",
+          "options": [
+            "它被赐予科塞-布里萨克作为补偿。",
+            "它被归还给杜巴里家族。",
+            "它被改造成修道院。",
+            "它被没收并宣布为国家财产。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Madame du Barry",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2703937&title=Madame%20du%20Barry",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-21",
+    "revisionId": "2703937"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-22",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

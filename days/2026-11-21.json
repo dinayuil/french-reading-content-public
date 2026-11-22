@@ -8,7 +8,27 @@
       "theme": "histoire",
       "date": "2026-11-21",
       "summary": "Ce portrait retrace l’ascension de Jeanne Bécu, favorite de Louis XV, puis sa chute après la mort du roi et sous la Révolution.",
-      "path": "articles/2026-11-21-madame-du-barry.json"
+      "path": "articles/2026-11-21-madame-du-barry.json",
+      "variants": [
+        {
+          "id": "2026-11-21-madame-du-barry-b2",
+          "title": "Jeanne Bécu, comtesse du Barry : ascension et chute d’une favorite",
+          "level": "B2",
+          "theme": "histoire",
+          "date": "2026-11-21",
+          "summary": "Ce portrait retrace l’ascension de Jeanne Bécu, favorite de Louis XV, puis sa chute sous la Révolution, jusqu’à son exécution en 1793.",
+          "path": "articles/2026-11-21-madame-du-barry-b2.json"
+        },
+        {
+          "id": "2026-11-21-madame-du-barry-a2",
+          "title": "Jeanne Bécu, comtesse du Barry",
+          "level": "A2",
+          "theme": "histoire",
+          "date": "2026-11-21",
+          "summary": "Jeanne Bécu, née en 1743, devient la maîtresse officielle de Louis XV. Elle vit à la Cour, puis la Révolution la conduit à la guillotine en 1793.",
+          "path": "articles/2026-11-21-madame-du-barry-a2.json"
+        }
+      ]
     },
     {
       "id": "2026-11-21-almanach-royal",
@@ -17,7 +37,18 @@
       "theme": "histoire",
       "date": "2026-11-21",
       "summary": "L’Almanach royal, annuaire administratif fondé au XVIIe siècle, a évolué pendant plus de deux siècles avant de disparaître, tout en inspirant des reprises contemporaines.",
-      "path": "articles/2026-11-21-almanach-royal.json"
+      "path": "articles/2026-11-21-almanach-royal.json",
+      "variants": [
+        {
+          "id": "2026-11-21-almanach-royal-b1",
+          "title": "L’Almanach royal : un annuaire officiel français (1683-1919)",
+          "level": "B1",
+          "theme": "histoire",
+          "date": "2026-11-21",
+          "summary": "Cet article raconte l’histoire d’un annuaire administratif français créé au XVIIe siècle. Il explique comment ce livre officiel a évolué, changé de propriétaires et disparu au début du XXe siècle.",
+          "path": "articles/2026-11-21-almanach-royal-b1.json"
+        }
+      ]
     }
   ]
 }
