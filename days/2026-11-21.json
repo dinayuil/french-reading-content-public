@@ -47,6 +47,15 @@
           "date": "2026-11-21",
           "summary": "Cet article raconte l’histoire d’un annuaire administratif français créé au XVIIe siècle. Il explique comment ce livre officiel a évolué, changé de propriétaires et disparu au début du XXe siècle.",
           "path": "articles/2026-11-21-almanach-royal-b1.json"
+        },
+        {
+          "id": "2026-11-21-almanach-royal-a2",
+          "title": "L’Almanach royal, un annuaire officiel de 1683 à 1919",
+          "level": "A2",
+          "theme": "histoire",
+          "date": "2026-11-21",
+          "summary": "L’Almanach royal est un annuaire officiel français créé en 1683. Il liste les autorités du pays et change plusieurs fois de titre et d’éditeur jusqu’en 1919.",
+          "path": "articles/2026-11-21-almanach-royal-a2.json"
         }
       ]
     }

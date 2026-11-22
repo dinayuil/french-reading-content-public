@@ -1,0 +1,270 @@
+{
+  "id": "2026-11-21-almanach-royal-a2",
+  "title": "L’Almanach royal, un annuaire officiel de 1683 à 1919",
+  "level": "A2",
+  "theme": "histoire",
+  "date": "2026-11-21",
+  "summary": "L’Almanach royal est un annuaire officiel français créé en 1683. Il liste les autorités du pays et change plusieurs fois de titre et d’éditeur jusqu’en 1919.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "En 1683, Laurent d’Houry imagine un petit calendrier.",
+        "À partir de 1700, il porte le nom d’Almanach royal.",
+        "Il garde ce titre jusqu’en 1792, puis il change plusieurs fois de nom jusqu’en 1919."
+      ]
+    },
+    {
+      "sentences": [
+        "Chaque année, l’ouvrage donne des listes officielles.",
+        "On y trouve la famille royale, les princes, le haut clergé et les grands officiers.",
+        "Les financiers et les politiques le lisent avec attention."
+      ]
+    },
+    {
+      "sentences": [
+        "En 1699, Louis XIV demande à voir le travail de l’auteur.",
+        "La première édition sous le titre royal sort en 1700.",
+        "Un homme, Pierre Joly, est emprisonné à la Bastille à la fin du XVIIIe siècle.",
+        "Il a menti sur son métier de banquier."
+      ]
+    },
+    {
+      "sentences": [
+        "L’Almanach connaît des conflits avec d’autres annuaires.",
+        "André-François Le Breton le développe au XVIIIe siècle.",
+        "En 1774, une ligne sur un trésorier des grains cause une sanction.",
+        "Voltaire se plaint aussi d’une adresse ridicule."
+      ]
+    },
+    {
+      "sentences": [
+        "En 1814, la famille d’Houry perd pour toujours les droits.",
+        "Guyot et Testu prennent l’affaire.",
+        "En 1867, la veuve Berger-Levrault reprend l’édition.",
+        "La publication s’arrête en 1919."
+      ]
+    },
+    {
+      "sentences": [
+        "Depuis 1975, le titre sert pour la Maison de Bourbon.",
+        "Il ne donne plus la liste de tous les corps de l’État."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Almanach royal"
+    },
+    {
+      "term": "haut clergé"
+    },
+    {
+      "term": "grands officiers"
+    },
+    {
+      "term": "financiers"
+    },
+    {
+      "term": "Bastille"
+    },
+    {
+      "term": "annuaires"
+    },
+    {
+      "term": "trésorier des grains"
+    },
+    {
+      "term": "sanction"
+    },
+    {
+      "term": "veuve Berger-Levrault"
+    },
+    {
+      "term": "Maison de Bourbon"
+    },
+    {
+      "term": "corps de l’État"
+    },
+    {
+      "term": "calendrier"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q2",
+      "prompt": "Après que Louis XIV a demandé à voir le travail de l’auteur en 1699, que se passe-t-il ?",
+      "options": [
+        "Une version appelée Almanach royal est publiée l’année d’après.",
+        "L’auteur est envoyé à la Bastille pour avoir menti.",
+        "La famille d’Houry perd définitivement ses droits.",
+        "Le titre est repris par la Maison de Bourbon."
+      ],
+      "answerIndex": 0,
+      "evidence": "En 1699, Louis XIV demande à voir le travail de l’auteur.",
+      "explanation": "La phrase suivante indique que la première édition sous le titre royal paraît en 1700, donc juste après la demande du roi. Les autres événements arrivent à d’autres moments ou concernent d’autres personnes."
+    },
+    {
+      "id": "q4",
+      "prompt": "Pour quelle raison l’Almanach reçoit-il une punition en 1774 ?",
+      "options": [
+        "À cause d’une adresse que Voltaire trouve ridicule",
+        "À cause d’un passage sur un responsable du commerce des céréales",
+        "À cause d’un refus de publier les noms de la famille royale",
+        "À cause d’un changement de nom de l’ouvrage"
+      ],
+      "answerIndex": 1,
+      "evidence": "En 1774, une ligne sur un trésorier des grains cause une sanction.",
+      "explanation": "La sanction de 1774 est liée à une mention sur un trésorier des grains, c’est-à-dire une personne liée au commerce des céréales. Voltaire intervient à propos d’une adresse, mais le texte ne dit pas que cela provoque cette sanction."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que montre le dernier paragraphe de l’article ?",
+      "options": [
+        "Pourquoi la publication s’arrête en 1919",
+        "Comment Voltaire a fait changer une adresse",
+        "Que le nom de l’annuaire est encore utilisé aujourd’hui, avec un contenu plus limité",
+        "Que la famille d’Houry a retrouvé ses droits en 1814"
+      ],
+      "answerIndex": 2,
+      "evidence": "Depuis 1975, le titre sert pour la Maison de Bourbon.",
+      "explanation": "Le dernier paragraphe indique une utilisation actuelle du titre après 1975, tout en précisant qu’il ne recense plus tous les corps de l’État. Les autres options renvoient à des moments antérieurs de l’histoire de l’annuaire."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "《皇家年鉴》：1683年至1919年的官方年鉴",
+      "summary": "《皇家年鉴》是1683年创立的法国官方年鉴。它列出国家当局，并多次更换标题和出版者，直到1919年。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "1683年，洛朗·杜里构想了一本小日历。",
+            "从1700年起，它使用《皇家年鉴》这一名称。",
+            "它一直保留这个标题到1792年，之后多次改名直到1919年。"
+          ]
+        },
+        {
+          "sentences": [
+            "每年，这部作品都会提供官方名单。",
+            "其中有王室、亲王、高级神职人员和高级官员。",
+            "金融界人士和政治人物都仔细阅读它。"
+          ]
+        },
+        {
+          "sentences": [
+            "1699年，路易十四要求查看作者的工作。",
+            "以皇家标题出版的第一版于1700年问世。",
+            "18世纪末，一个叫皮埃尔·若利的人被关进巴士底狱。",
+            "他谎报了自己银行家的职业。"
+          ]
+        },
+        {
+          "sentences": [
+            "《年鉴》与其他年鉴发生过冲突。",
+            "安德烈-弗朗索瓦·勒布勒东在18世纪将它发展壮大。",
+            "1774年，一行关于粮食司库的文字招致处罚。",
+            "伏尔泰也抱怨过一个可笑的地址。"
+          ]
+        },
+        {
+          "sentences": [
+            "1814年，杜里家族永久失去了权利。",
+            "居约和泰斯图接手了这项业务。",
+            "1867年，贝尔热-勒夫罗的遗孀接手出版。",
+            "该出版物于1919年停止。"
+          ]
+        },
+        {
+          "sentences": [
+            "自1975年以来，这一名称用于波旁家族。",
+            "它不再列出国家所有机构的名单。"
+          ]
+        }
+      ],
+      "glossary": {
+        "Almanach royal": "法国官方年鉴，1683年创立，标题和出版者多次变化，1919年停刊；1975年后名称另作他用。",
+        "haut clergé": "天主教会中地位较高的神职人员群体。",
+        "grands officiers": "王国中担任高级职务的重要官员。",
+        "financiers": "从事金融、银行业或资金管理的人。",
+        "Bastille": "巴黎巴士底狱，18世纪常用于关押未经审判的人。",
+        "annuaires": "按年出版、提供名录或信息汇编的出版物。",
+        "trésorier des grains": "负责粮食事务或粮食资金的官员。",
+        "sanction": "因某内容而受到的处罚或制裁。",
+        "veuve Berger-Levrault": "指贝尔热-勒夫罗的遗孀，1867年接手出版。",
+        "Maison de Bourbon": "波旁家族。",
+        "corps de l’État": "国家机构或国家各部门的整体。",
+        "calendrier": "按日期编排的历书或日历。"
+      },
+      "questions": {
+        "q2": "1699年国王提出查看作者的工作，紧接着的句子说以皇家标题出版的第一版在1700年问世；把“下一年”与这一事件相连，才能得出正确项。巴士底狱涉及皮埃尔·若利，失权在1814年，波旁家族使用标题在1975年后，均不是紧接着发生的事。正确项是第一个选项“次年出现了以《皇家年鉴》为名的版本”。",
+        "q4": "1774年的处罚在文中被归因于关于“粮食司库”的一行文字；司库是负责粮食事务的官员，所以应选涉及粮食贸易官员记载的选项。伏尔泰的抱怨是另一件事，文中未说它导致这次处罚；拒绝刊登王室姓名和书名更改也没有依据。正确项是第二个选项“因为涉及一位负责粮食贸易的官员的记载”。",
+        "q5": "最后一段说自1975年起该标题供波旁家族使用，同时不再列出国家所有机构；这说明名称仍在使用，但收录内容比过去有限。停刊原因、伏尔泰改地址、1814年恢复权利分别属于前文或与最后一段相反。正确项是第三个选项“该名称仍被使用，但收录范围比过去窄”。"
+      },
+      "questionTexts": {
+        "q2": {
+          "prompt": "1699年路易十四要求查看作者的工作之后，紧接着发生了什么？",
+          "options": [
+            "次年出现了以《皇家年鉴》为名的版本",
+            "作者因撒谎被送进巴士底狱",
+            "杜里家族永久失去了权利",
+            "波旁家族重新采用了这个标题"
+          ]
+        },
+        "q4": {
+          "prompt": "1774年，《年鉴》因何受到处罚？",
+          "options": [
+            "因为伏尔泰认为某个地址可笑",
+            "因为涉及一位负责粮食贸易的官员的记载",
+            "因为拒绝刊登王室成员姓名",
+            "因为书名发生更改"
+          ]
+        },
+        "q5": {
+          "prompt": "最后一段主要说明1975年后的什么情况？",
+          "options": [
+            "1919年停刊的原因",
+            "伏尔泰使一个地址改变的方式",
+            "该名称仍被使用，但收录范围比过去窄",
+            "杜里家族在1814年恢复权利"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Almanach royal",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=240366521",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-21",
+    "revisionId": "240366521"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-22",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-21-almanach-royal-a2-e09ec61fffb6.png",
+    "alt": "Almanach royal de 1738, exemple de reliure classique faite par l'imprimeur",
+    "author": "FMichaud76",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Almanach1738-reliureclassique.png?oldid=789492115",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Fichier original téléchargé depuis Wikimedia Commons ; aucune modification.",
+    "width": 572,
+    "height": 431,
+    "byteLength": 613751,
+    "sha256": "e09ec61fffb62f29e50fb934a5f95af0e4b08d8897e0feae54620ac3cf02ee21",
+    "fileRevisionId": "789492115",
+    "retrievedAt": "2026-11-22"
+  }
+}
