@@ -1,0 +1,322 @@
+{
+  "id": "2026-11-23-cryolophosaure-a2",
+  "title": "Le cryolophosaure, un dinosaure du Jurassique en Antarctique",
+  "level": "A2",
+  "theme": "science",
+  "date": "2026-11-23",
+  "summary": "Un dinosaure carnivore appelé cryolophosaure a vécu en Antarctique au Jurassique. Ses fossiles aident les scientifiques à mieux comprendre l’histoire des dinosaures et des oiseaux.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Le cryolophosaure est un dinosaure carnivore.",
+        "Il a vécu au Jurassique, il y a environ 189 à 183 millions d’années.",
+        "Il avait une petite crête très spéciale sur la tête.",
+        "Aujourd’hui, il a disparu."
+      ]
+    },
+    {
+      "sentences": [
+        "Il vivait dans ce qui est aujourd’hui l’Antarctique.",
+        "Au début du Jurassique, cette région était plus au nord.",
+        "Elle faisait partie du supercontinent Gondwana.",
+        "Le site était une forêt de montagne, à 4 000 mètres d’altitude."
+      ]
+    },
+    {
+      "sentences": [
+        "Dans cette forêt, le cryolophosaure vivait avec d’autres animaux.",
+        "On a trouvé des fossiles d’un petit ptérosaure et d’un mammifère préhistorique.",
+        "Il y avait aussi le glacialisaure, peut-être une de ses proies."
+      ]
+    },
+    {
+      "sentences": [
+        "Les plaques de la Terre ont bougé.",
+        "Les fossiles ont migré avec l’Antarctique, plus de 1 000 kilomètres au sud.",
+        "Les roches se sont retrouvées à 650 kilomètres du pôle Sud.",
+        "Aujourd’hui, une épaisse couche de glace les recouvre."
+      ]
+    },
+    {
+      "sentences": [
+        "Les scientifiques cherchent ces fossiles pendant l’été, quand la glace fond.",
+        "En 1990-1991, l’équipe de William Hammer a découvert les premiers fossiles.",
+        "Le géologue David Elliot a trouvé l’animal en premier.",
+        "Le dinosaure s’appelle donc Cryolophosaurus ellioti, en son honneur."
+      ]
+    },
+    {
+      "sentences": [
+        "Le cryolophosaure est un des plus anciens théropodes.",
+        "Il appartient au groupe des tétanoures.",
+        "Ce groupe comprend les tyrannosaures, les allosaures, les vélociraptors et les oiseaux.",
+        "Son étude peut aider à mieux comprendre les oiseaux."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "cryolophosaure"
+    },
+    {
+      "term": "carnivore"
+    },
+    {
+      "term": "Jurassique"
+    },
+    {
+      "term": "crête"
+    },
+    {
+      "term": "Gondwana"
+    },
+    {
+      "term": "ptérosaure"
+    },
+    {
+      "term": "préhistorique"
+    },
+    {
+      "term": "glacialisaure"
+    },
+    {
+      "term": "fossiles"
+    },
+    {
+      "term": "géologue"
+    },
+    {
+      "term": "théropodes"
+    },
+    {
+      "term": "tétanoures"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Qu’est-ce que le cryolophosaure avait sur la tête ?",
+      "options": [
+        "De grandes ailes",
+        "Un long cou",
+        "Une petite crête très spéciale",
+        "Un bec pointu"
+      ],
+      "answerIndex": 2,
+      "evidence": "Il avait une petite crête très spéciale sur la tête.",
+      "explanation": "Le texte indique clairement que l’animal possédait une petite crête spéciale sur la tête. Les ailes, le long cou et le bec ne sont pas mentionnés pour cet animal."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi le dinosaure s’appelle-t-il Cryolophosaurus ellioti ?",
+      "options": [
+        "Parce que William Hammer l’a découvert en 1990-1991.",
+        "Parce que David Elliot a trouvé l’animal en premier.",
+        "Parce qu’il vivait près du pôle Sud.",
+        "Parce qu’il mangeait le glacialisaure."
+      ],
+      "answerIndex": 1,
+      "evidence": "Le dinosaure s’appelle donc Cryolophosaurus ellioti, en son honneur.",
+      "explanation": "Le nom ellioti est donné en l’honneur de David Elliot, qui a trouvé l’animal en premier. William Hammer dirigeait l’équipe, mais ce n’est pas la raison du nom."
+    },
+    {
+      "id": "q3",
+      "prompt": "Pourquoi les fossiles se trouvent-ils maintenant loin au sud ?",
+      "options": [
+        "Parce que les animaux ont marché vers le sud.",
+        "Parce que la glace les a poussés.",
+        "Parce que les scientifiques les ont déplacés.",
+        "Parce que les plaques de la Terre ont bougé."
+      ],
+      "answerIndex": 3,
+      "evidence": "Les plaques de la Terre ont bougé.",
+      "explanation": "Le déplacement des plaques a entraîné la migration des fossiles avec l’Antarctique vers le sud. Les autres explications ne sont pas données dans le texte."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel est le sujet principal du texte ?",
+      "options": [
+        "La vie d’un géologue en Antarctique",
+        "Un dinosaure ancien découvert en Antarctique",
+        "Les oiseaux du Jurassique",
+        "Les vacances des scientifiques en été"
+      ],
+      "answerIndex": 1,
+      "evidence": "Le cryolophosaure est un dinosaure carnivore.",
+      "explanation": "Le texte présente surtout le cryolophosaure, son époque, son milieu et sa découverte en Antarctique. Les autres propositions ne correspondent qu’à des détails ou ne sont pas le sujet du texte."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quand le cryolophosaure a-t-il vécu ?",
+      "options": [
+        "Il y a environ 189 à 183 millions d’années.",
+        "Il y a environ 650 millions d’années.",
+        "En 1990-1991.",
+        "Pendant l’été actuel."
+      ],
+      "answerIndex": 0,
+      "evidence": "Il a vécu au Jurassique, il y a environ 189 à 183 millions d’années.",
+      "explanation": "Le texte donne la période de vie du dinosaure : environ 189 à 183 millions d’années. Les autres dates concernent la découverte des fossiles ou la période de recherche."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "cryolophosaure：一种生活在南极洲的侏罗纪恐龙",
+      "summary": "一种名为cryolophosaure的食肉恐龙曾在侏罗纪生活在南极洲。它的化石帮助科学家更好地了解恐龙和鸟类的历史。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "cryolophosaure 是一种食肉恐龙。",
+            "它生活在侏罗纪，距今约1.89亿至1.83亿年。",
+            "它头上有一个非常特殊的小冠饰。",
+            "如今，它已经灭绝。"
+          ]
+        },
+        {
+          "sentences": [
+            "它生活在今天的南极洲地区。",
+            "在侏罗纪早期，这一地区更靠北。",
+            "它属于冈瓦纳超级大陆的一部分。",
+            "该地点是一片山地森林，海拔4000米。"
+          ]
+        },
+        {
+          "sentences": [
+            "在这片森林里，cryolophosaure 与其他动物共同生活。",
+            "人们发现了小型翼龙和一种史前哺乳动物的化石。",
+            "那里还有 glacialisaure，它可能是 cryolophosaure 的猎物之一。"
+          ]
+        },
+        {
+          "sentences": [
+            "地球的板块发生了移动。",
+            "化石随着南极洲向南迁移了1000多公里。",
+            "这些岩石最终位于距南极650公里处。",
+            "如今，一层厚厚的冰覆盖着它们。"
+          ]
+        },
+        {
+          "sentences": [
+            "科学家们在冰融化的夏季寻找这些化石。",
+            "1990—1991年，William Hammer 的团队发现了首批化石。",
+            "地质学家 David Elliot 最先发现了这种动物。",
+            "因此，这种恐龙被称为 Cryolophosaurus ellioti，以向他致敬。"
+          ]
+        },
+        {
+          "sentences": [
+            "cryolophosaure 是最古老的兽脚类恐龙之一。",
+            "它属于坚尾龙类（tétanoures）这一群体。",
+            "这个类群包括暴龙、异特龙、伶盗龙和鸟类。",
+            "对它的研究可能有助于更好地理解鸟类。"
+          ]
+        }
+      ],
+      "glossary": {
+        "cryolophosaure": "一种生活在侏罗纪的食肉恐龙，化石发现于南极洲，头上有特殊的小冠饰。",
+        "carnivore": "以肉类为食的动物。",
+        "Jurassique": "侏罗纪，约2.01亿至1.45亿年前的地质时期。",
+        "crête": "冠饰；这里指恐龙头顶突出的骨质或角质结构。",
+        "Gondwana": "冈瓦纳古陆，古代南半球的大型超级大陆。",
+        "ptérosaure": "翼龙，中生代能飞的爬行动物，不是恐龙。",
+        "préhistorique": "史前的，指有文字记载以前的时代。",
+        "glacialisaure": "一种史前动物名称，文中可能是 cryolophosaure 的猎物。",
+        "fossiles": "化石，保存在岩层中的古代生物遗骸或痕迹。",
+        "géologue": "地质学家，研究岩石、地层和地球历史的科学家。",
+        "théropodes": "兽脚类恐龙，多为两足行走的食肉恐龙类群。",
+        "tétanoures": "坚尾龙类，兽脚类恐龙中的一个类群，包括暴龙、异特龙、伶盗龙和鸟类等。"
+      },
+      "questions": {
+        "q1": "文本明确说它头上有一个非常特殊的小冠饰，因此正确选项是第三项“一个非常特殊的小冠饰”。第一项“大翅膀”、第二项“长脖子”和第四项“尖喙”都没有在文中提到，不能作为答案。",
+        "q2": "文中说地质学家 David Elliot 最先发现这种动物，并以“他”的荣誉命名，所以选第二项“因为 David Elliot 最先发现了这种动物”。第一项说 William Hammer 在1990—1991年发现了它，虽然其团队发现首批化石，但这不是命名原因；第三项靠近南极不是命名依据；第四项吃 glacialisaure 也不是命名原因。",
+        "q3": "文中说地球的板块移动，化石随南极洲向南迁移，因此选第四项“因为地球的板块移动了”。第一项动物走到南方、第二项冰推动、第三项科学家搬动都没有在文中作为原因。",
+        "q4": "全文主要介绍 cryolophosaure 这种食肉恐龙、其时代、环境和发现，所以选第二项“一种在南极洲发现的古老恐龙”。第一项地质学家生活、第三项侏罗纪鸟类、第四项科学家夏季度假只是细节或未作主题。",
+        "q5": "文中直接给出它生活在侏罗纪、约1.89亿至1.83亿年前，因此选第一项“约1.89亿至1.83亿年前”。第二项6.5亿年、第三项1990—1991年、第四项现在夏季都不是其生活年代。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "cryolophosaure 头上有什么？",
+          "options": [
+            "大翅膀",
+            "长脖子",
+            "一个非常特殊的小冠饰",
+            "尖喙"
+          ]
+        },
+        "q2": {
+          "prompt": "这种恐龙为什么叫 Cryolophosaurus ellioti？",
+          "options": [
+            "因为 William Hammer 在1990—1991年发现了它。",
+            "因为 David Elliot 最先发现了这种动物。",
+            "因为它生活在南极附近。",
+            "因为它吃 glacialisaure。"
+          ]
+        },
+        "q3": {
+          "prompt": "为什么这些化石现在位于遥远的南方？",
+          "options": [
+            "因为动物们向南走。",
+            "因为冰把它们推了过去。",
+            "因为科学家把它们搬走了。",
+            "因为地球的板块移动了。"
+          ]
+        },
+        "q4": {
+          "prompt": "这篇文章的主要主题是什么？",
+          "options": [
+            "一位地质学家在南极洲的生活",
+            "一种在南极洲发现的古老恐龙",
+            "侏罗纪的鸟类",
+            "科学家们在夏天的假期"
+          ]
+        },
+        "q5": {
+          "prompt": "cryolophosaure 生活在什么时候？",
+          "options": [
+            "约1.89亿至1.83亿年前。",
+            "约6.5亿年前。",
+            "1990—1991年。",
+            "现在的夏季。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Cryolophosaure",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2372204&title=Cryolophosaure",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-23",
+    "revisionId": "2372204"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-23",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-23-cryolophosaure-a2-8e0ddcbe4656.jpg",
+    "alt": "Cryolophosaurus",
+    "author": "OnFirstWhoIs",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Augustana_College_Cryolophosaurus.JPG?oldid=1084073959",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Réduite à 1280×857 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 857,
+    "byteLength": 252528,
+    "sha256": "8e0ddcbe46560f565ae3601c1d10212c096e5a1237d65ae8f2f1d9831bf7ecba",
+    "fileRevisionId": "1084073959",
+    "retrievedAt": "2026-11-23"
+  }
+}

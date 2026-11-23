@@ -1,0 +1,300 @@
+{
+  "id": "2026-11-23-almace",
+  "title": "Almace, l’épée légendaire de Turpin",
+  "level": "B2",
+  "theme": "histoire",
+  "date": "2026-11-23",
+  "summary": "Almace, épée de l’archevêque Turpin dans les chansons de geste, reste rarement décrite malgré son rôle symbolique, son origine discutée et sa présence dans le trésor de Saint-Denis.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Almace est l’épée légendaire de Turpin, archevêque de Reims, chevalier et l’un des douze pairs de Charlemagne dans plusieurs chansons de geste du cycle carolingien.",
+        "Ces œuvres, très populaires en Europe entre le XIe et le XIVe siècle, ont contribué à construire le mythe de Charlemagne, de Roland et de Turpin.",
+        "Le fait que l’épée de Turpin porte un nom propre, comme Durandal et Joyeuse, souligne l’importance de ce personnage dans ce corpus littéraire."
+      ]
+    },
+    {
+      "sentences": [
+        "Pourtant, Almace est rarement évoquée et n’est presque jamais décrite avec précision.",
+        "Sa mention principale se trouve dans la Chanson de Roland : Turpin l’utilise à la fin de la bataille de Roncevaux, alors que la défaite est certaine et qu’il va bientôt succomber.",
+        "La Chanson de Gaufrey lui attribue une origine sarrasine, et certaines analyses onomastiques proposent que son nom vienne de l’arabe, sans que ces études fassent consensus."
+      ]
+    },
+    {
+      "sentences": [
+        "La Karlamagnús saga développe davantage son origine.",
+        "L’épée aurait été forgée par Galant d’Angleterre avec Durandal et Courtain, puis offerte à Charlemagne comme rançon.",
+        "Après avoir frappé une masse d’acier, Charlemagne l’aurait nommée Almace, car elle était « bonne pour abattre les païens », avant de la remettre à Turpin lors de son adoubement."
+      ]
+    },
+    {
+      "sentences": [
+        "Son étymologie reste incertaine.",
+        "Plusieurs hypothèses ont été proposées, notamment une origine arabe, où al-mās désignerait le diamant, ou une origine latine liée à almus, qui évoque la sainteté et la noblesse.",
+        "D’autres chercheurs ont envisagé le vieux norrois ou le flamand, sans parvenir à un accord définitif."
+      ]
+    },
+    {
+      "sentences": [
+        "Au Moyen Âge tardif, une épée présentée comme Almace a été conservée dans le trésor de l’abbaye de Saint-Denis.",
+        "Les inventaires réalisés entre 1505 et 1783 la décrivent comme une arme ornée d’argent et de pierres précieuses, même si son authenticité suscitait des doutes.",
+        "Elle a ensuite disparu, probablement à l’époque de la Révolution française.",
+        "De nos jours, Almace apparaît dans plusieurs jeux vidéo de rôle, où elle peut recevoir des pouvoirs magiques."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "archevêque"
+    },
+    {
+      "term": "pairs"
+    },
+    {
+      "term": "chansons de geste"
+    },
+    {
+      "term": "cycle carolingien"
+    },
+    {
+      "term": "corpus"
+    },
+    {
+      "term": "succomber"
+    },
+    {
+      "term": "onomastiques"
+    },
+    {
+      "term": "consensus"
+    },
+    {
+      "term": "rançon"
+    },
+    {
+      "term": "adoubement"
+    },
+    {
+      "term": "norrois"
+    },
+    {
+      "term": "inventaires"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Que souligne l’article à propos du nom propre donné à l’épée de Turpin ?",
+      "options": [
+        "Il prouve que Turpin a réellement existé et combattu à Roncevaux.",
+        "Il met en valeur le rôle de Turpin dans ce corpus littéraire.",
+        "Il indique que Durandal et Joyeuse appartiennent aussi à Turpin.",
+        "Il montre que les chansons de geste nomment toutes les épées."
+      ],
+      "answerIndex": 1,
+      "evidence": "Le fait que l’épée de Turpin porte un nom propre, comme Durandal et Joyeuse, souligne l’importance de ce personnage dans ce corpus littéraire.",
+      "explanation": "Le texte relie explicitement le nom propre d’Almace à l’importance de Turpin dans le corpus ; il ne dit pas que Turpin a existé, ni que Durandal et Joyeuse lui appartiennent."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quel contraste le deuxième paragraphe établit-il au sujet d’Almace ?",
+      "options": [
+        "Elle est citée dans plusieurs textes, mais elle reste très peu décrite.",
+        "Elle est décrite avec précision, mais son nom est rarement mentionné.",
+        "Elle apparaît surtout dans les jeux vidéo, mais peu dans les chansons de geste.",
+        "Elle est attribuée à Turpin, mais forgée par Charlemagne dans toutes les versions."
+      ],
+      "answerIndex": 0,
+      "evidence": "Pourtant, Almace est rarement évoquée et n’est presque jamais décrite avec précision.",
+      "explanation": "Le connecteur « Pourtant » oppose la présence d’Almace dans plusieurs chansons de geste à sa faible description ; les autres options inversent ce rapport ou ajoutent une information absente."
+    },
+    {
+      "id": "q3",
+      "prompt": "D’après la Chanson de Roland, dans quelle situation Turpin utilise-t-il Almace ?",
+      "options": [
+        "Au moment de son adoubement, pour recevoir l’épée.",
+        "Pendant la forge de l’épée par Galant d’Angleterre.",
+        "À la fin de Roncevaux, alors que la défaite est certaine et qu’il va mourir.",
+        "Après la disparition de l’épée conservée à Saint-Denis."
+      ],
+      "answerIndex": 2,
+      "evidence": "Sa mention principale se trouve dans la Chanson de Roland : Turpin l’utilise à la fin de la bataille de Roncevaux, alors que la défaite est certaine et qu’il va bientôt succomber.",
+      "explanation": "Le texte situe cet usage à la fin de la bataille, quand Turpin est sur le point de succomber ; l’adoubement et la forge relèvent d’autres passages ou d’autres récits."
+    },
+    {
+      "id": "q4",
+      "prompt": "Selon la Karlamagnús saga, que fait Charlemagne juste après avoir nommé l’épée Almace ?",
+      "options": [
+        "Il la donne à Galant d’Angleterre comme rançon.",
+        "Il frappe une masse d’acier pour éprouver l’épée.",
+        "Il la conserve dans le trésor de Saint-Denis.",
+        "Il la remet à Turpin lors de son adoubement."
+      ],
+      "answerIndex": 3,
+      "evidence": "Après avoir frappé une masse d’acier, Charlemagne l’aurait nommée Almace, car elle était « bonne pour abattre les païens », avant de la remettre à Turpin lors de son adoubement.",
+      "explanation": "La phrase indique clairement l’ordre des actions : Charlemagne nomme l’épée, puis la remet à Turpin lors de son adoubement ; les autres options déplacent une étape du récit."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que peut-on conclure sur l’étymologie d’Almace d’après le texte ?",
+      "options": [
+        "Elle fait l’objet de plusieurs hypothèses, mais aucune ne s’impose définitivement.",
+        "Elle est définitivement expliquée par l’arabe al-mās, qui désigne le diamant.",
+        "Elle vient certainement du latin almus, lié à la sainteté.",
+        "Elle a été abandonnée par les chercheurs au profit du vieux norrois."
+      ],
+      "answerIndex": 0,
+      "evidence": "Son étymologie reste incertaine.",
+      "explanation": "Le texte présente plusieurs pistes, arabe, latine, vieux norrois ou flamande, et conclut à l’absence d’accord définitif ; aucune origine unique n’est donc établie."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "阿尔马斯：图尔潘的传奇之剑",
+      "summary": "阿尔马斯是武功歌中图尔潘大主教的剑，尽管具有象征作用、起源有争议并曾藏于圣但尼宝库，却很少被描述。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "阿尔马斯是图尔潘的传说之剑；图尔潘是兰斯大主教、骑士，也是多部加洛林系列武功歌中查理曼的十二重臣之一。",
+            "这些作品在11世纪至14世纪的欧洲非常流行，促成了查理曼、罗兰和图尔潘神话的建构。",
+            "图尔潘的剑像杜兰达尔和乔约斯一样拥有专名，这一事实凸显了该人物在这批文学文本中的重要性。"
+          ]
+        },
+        {
+          "sentences": [
+            "然而，阿尔马斯很少被提及，也几乎从未被精确描写。",
+            "它的主要提及见于《罗兰之歌》：图尔潘在龙塞斯瓦耶斯战役结束时使用它，当时败局已定，他很快就要死去。",
+            "《戈夫雷之歌》把它的起源归于撒拉森人，某些专名学分析提出其名称来自阿拉伯语，但这些研究并未形成共识。"
+          ]
+        },
+        {
+          "sentences": [
+            "《卡尔拉马格努斯萨迦》进一步展开了它的起源。",
+            "这把剑据说由英格兰的加朗与杜兰达尔和库尔坦一同锻造，随后作为赎金献给查理曼。",
+            "在击打一块钢块之后，查理曼将它命名为阿尔马斯，因为它“善于击倒异教徒”，随后在授予图尔潘骑士身份时把剑交给他。"
+          ]
+        },
+        {
+          "sentences": [
+            "它的词源仍不确定。",
+            "人们提出过多种假设，尤其是一种阿拉伯语起源，其中 al-mās 指钻石，或是一种与 almus 有关的拉丁语起源，后者让人想到神圣与高贵。",
+            "其他研究者考虑过古诺斯语或弗拉芒语，但未能达成最终一致。"
+          ]
+        },
+        {
+          "sentences": [
+            "在中世纪晚期，一把被当作阿尔马斯的剑保存在圣但尼修道院的宝库中。",
+            "1505年至1783年间编制的清单把它描述为一把饰有银和宝石的武器，尽管其真实性引起怀疑。",
+            "它后来消失了，很可能是在法国大革命时期。",
+            "如今，阿尔马斯出现在多款电子角色扮演游戏中，在那里它可以获得魔法力量。"
+          ]
+        }
+      ],
+      "glossary": {
+        "archevêque": "大主教；天主教中负责教省的高级主教。",
+        "pairs": "（查理曼的）十二重臣或十二骑士，封建史诗中的高级封臣群体。",
+        "chansons de geste": "武功歌；中世纪法语叙事史诗，多歌颂英雄与战争。",
+        "cycle carolingien": "加洛林史诗组；围绕查理曼及其骑士的武功歌群。",
+        "corpus": "文本全集、作品总集；这里指相关文学作品的整体。",
+        "succomber": "屈服、死亡；此处指图尔潘即将阵亡。",
+        "onomastiques": "专名学的；研究人名、地名等专名的学问。",
+        "consensus": "共识；学界一致意见。",
+        "rançon": "赎金；为赎回人或物支付的代价。",
+        "adoubement": "授封骑士礼；正式授予骑士身份的仪式。",
+        "norrois": "古诺斯语；中世纪斯堪的纳维亚语言。",
+        "inventaires": "清单、财产目录；此处指宝库物品登记。"
+      },
+      "questions": {
+        "q1": "证据句把图尔潘的剑拥有专名与图尔潘在这批文学文本中的重要性直接联系起来，因此正确项是第二项“它凸显了图尔潘在这批文学文本中的作用”。文本并未证明图尔潘在历史上存在或曾在龙塞斯瓦耶斯作战，也未说杜兰达尔和乔约斯属于图尔潘；说所有剑都有名字则超出文本。",
+        "q2": "第二段先用“然而”指出阿尔马斯虽出现在多部武功歌中，却很少被提及且几乎从不被精确描写；因此对比是“被提及多、被描写少”，正确项是第一项。第二项颠倒这一关系；第三项把现代电子游戏和武功歌混在一起；第四项加入“所有版本”的绝对说法，文本无此意。",
+        "q3": "证据句把主要提及定位在《罗兰之歌》，并说明图尔潘在龙塞斯瓦耶斯战役结束时、败局已定且即将死去时使用它；所以正确项是第三项。受封和锻造分别属于别的叙述段落或传说内容，不是《罗兰之歌》此处所述；圣但尼剑消失发生在后文且时代不同。",
+        "q4": "证据句按顺序说：查理曼击打钢块后命名阿尔马斯，随后在授予图尔潘骑士身份时把剑交给他；问的是命名之后紧接着的动作，所以正确项是第四项。作为赎金交给加朗、保存在圣但尼、击打钢块都在命名之前或属于其他段落，顺序不符。",
+        "q5": "证据句“词源仍不确定”统领全段；随后列出阿拉伯语 al-mās、拉丁语 almus、古诺斯语或弗拉芒语等多种假设，并以未达成最终一致收束，因此正确项是第一项。第二、第三项把某一假设说成定论；第四项说研究者放弃词源研究，文本未说。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "文章就图尔潘的剑被赋予专名一事强调了什么？",
+          "options": [
+            "它证明图尔潘确实存在并在龙塞斯瓦耶斯作战。",
+            "它凸显了图尔潘在这批文学文本中的作用。",
+            "它表明杜兰达尔和乔约斯也属于图尔潘。",
+            "它表明武功歌给所有剑都起名。"
+          ]
+        },
+        "q2": {
+          "prompt": "第二段围绕阿尔马斯建立了什么对比？",
+          "options": [
+            "它在多部文本中被提及，却仍极少被描写。",
+            "它被精确描写，但名字很少被提到。",
+            "它主要出现在电子游戏中，却很少出现在武功歌里。",
+            "它被归于图尔潘，但在所有版本中都由查理曼锻造。"
+          ]
+        },
+        "q3": {
+          "prompt": "根据《罗兰之歌》，图尔潘在什么情况下使用阿尔马斯？",
+          "options": [
+            "在他受封骑士时，为接过剑。",
+            "在英格兰的加朗锻造这把剑期间。",
+            "在龙塞斯瓦耶斯战役结束时，当时败局已定、他即将死去。",
+            "在保存在圣但尼的那把剑消失之后。"
+          ]
+        },
+        "q4": {
+          "prompt": "根据《卡尔拉马格努斯萨迦》，查理曼给剑命名为阿尔马斯之后紧接着做了什么？",
+          "options": [
+            "他把它作为赎金交给英格兰的加朗。",
+            "他击打一块钢块来检验这把剑。",
+            "他把它保存在圣但尼宝库中。",
+            "他在图尔潘受封骑士时把剑交给他。"
+          ]
+        },
+        "q5": {
+          "prompt": "根据文本，关于阿尔马斯的词源可以得出什么结论？",
+          "options": [
+            "它有多种假设，但没有一种最终确立。",
+            "它已由表示钻石的阿拉伯语 al-mās 最终解释。",
+            "它肯定来自与神圣有关的拉丁语 almus。",
+            "研究者已放弃它，转而采用古诺斯语。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Almace",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=235889554",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-23",
+    "revisionId": "235889554"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-23",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-23-almace-eb8cd359ff55.jpg",
+    "alt": "Double-edged iron sword from a grave north of the Fort in Birka, Sweden",
+    "author": "Christer Åhlin",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Double-edged_sword_from_a_grave_in_Birka.jpg?oldid=1117087854",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "changes": "Réduite à 1280×895 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 895,
+    "byteLength": 151189,
+    "sha256": "eb8cd359ff554152767b24a88796b35ee29a7c36f56529c0dec3c6c2b263e7a0",
+    "fileRevisionId": "1117087854",
+    "retrievedAt": "2026-11-23"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-23",
+  "articles": [
+    {
+      "id": "2026-11-23-cryolophosaure",
+      "title": "Le cryolophosaure, un dinosaure ancien de l’Antarctique",
+      "level": "B2",
+      "theme": "science",
+      "date": "2026-11-23",
+      "summary": "Le cryolophosaure, dinosaure carnivore du Jurassique découvert en Antarctique, témoigne de l’histoire géologique du Gondwana et aide les scientifiques à comprendre l’évolution des théropodes.",
+      "path": "articles/2026-11-23-cryolophosaure.json",
+      "variants": [
+        {
+          "id": "2026-11-23-cryolophosaure-b1",
+          "title": "Le cryolophosaure, un dinosaure du Gondwana",
+          "level": "B1",
+          "theme": "science",
+          "date": "2026-11-23",
+          "summary": "Le cryolophosaure est un dinosaure carnivore du Jurassique. Il vivait en Antarctique, dans une forêt du Gondwana, et ses fossiles aident les scientifiques à mieux comprendre l’évolution des théropodes.",
+          "path": "articles/2026-11-23-cryolophosaure-b1.json"
+        },
+        {
+          "id": "2026-11-23-cryolophosaure-a2",
+          "title": "Le cryolophosaure, un dinosaure du Jurassique en Antarctique",
+          "level": "A2",
+          "theme": "science",
+          "date": "2026-11-23",
+          "summary": "Un dinosaure carnivore appelé cryolophosaure a vécu en Antarctique au Jurassique. Ses fossiles aident les scientifiques à mieux comprendre l’histoire des dinosaures et des oiseaux.",
+          "path": "articles/2026-11-23-cryolophosaure-a2.json"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-au-niger-les-femmes-perdent-leurs-droits-avant-meme-d-entrer",
+      "title": "Au Niger, une justice encore difficile d’accès pour les femmes",
+      "level": "B2",
+      "theme": "société",
+      "date": "2026-11-23",
+      "summary": "Au Niger, de nombreuses femmes se heurtent à des obstacles pour faire valoir leurs droits, notamment sur la terre, l’héritage et la garde des enfants, malgré des dispositifs d’aide existants.",
+      "path": "articles/2026-11-23-au-niger-les-femmes-perdent-leurs-droits-avant-meme-d-entrer.json",
+      "variants": [
+        {
+          "id": "2026-11-23-au-niger-les-femmes-perdent-leurs-droits-avant-meme-d-entrer-b1",
+          "title": "Au Niger, les femmes et les obstacles à la justice",
+          "level": "B1",
+          "theme": "société",
+          "date": "2026-11-23",
+          "summary": "Au Niger, plus de la moitié de la population a rencontré un problème de justice en 2024. Les femmes font face à plus d’obstacles, surtout pour la terre, l’héritage et la garde des enfants.",
+          "path": "articles/2026-11-23-au-niger-les-femmes-perdent-leurs-droits-avant-meme-d-entrer-b1.json"
+        },
+        {
+          "id": "2026-11-23-au-niger-les-femmes-perdent-leurs-droits-avant-meme-d-entrer-a2",
+          "title": "Les femmes et la justice au Niger",
+          "level": "A2",
+          "theme": "société",
+          "date": "2026-11-23",
+          "summary": "Au Niger, beaucoup de femmes ont des problèmes de justice, surtout pour la terre, l’héritage et les enfants. Elles connaissent mal leurs droits et rencontrent des obstacles.",
+          "path": "articles/2026-11-23-au-niger-les-femmes-perdent-leurs-droits-avant-meme-d-entrer-a2.json"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-almace",
+      "title": "Almace, l’épée légendaire de Turpin",
+      "level": "B2",
+      "theme": "histoire",
+      "date": "2026-11-23",
+      "summary": "Almace, épée de l’archevêque Turpin dans les chansons de geste, reste rarement décrite malgré son rôle symbolique, son origine discutée et sa présence dans le trésor de Saint-Denis.",
+      "path": "articles/2026-11-23-almace.json",
+      "variants": [
+        {
+          "id": "2026-11-23-almace-b1",
+          "title": "Almace, l’épée légendaire de l’archevêque Turpin",
+          "level": "B1",
+          "theme": "histoire",
+          "date": "2026-11-23",
+          "summary": "Almace est l’épée légendaire de Turpin, archevêque et chevalier de Charlemagne. Elle apparaît surtout dans les chansons de geste, puis dans le trésor de Saint-Denis et des jeux vidéo.",
+          "path": "articles/2026-11-23-almace-b1.json"
+        },
+        {
+          "id": "2026-11-23-almace-a2",
+          "title": "Almace, l'épée légendaire de Turpin",
+          "level": "A2",
+          "theme": "culture",
+          "date": "2026-11-23",
+          "summary": "Almace est l'épée légendaire de l'archevêque Turpin dans les chansons de geste. Elle apparaît surtout dans la Chanson de Roland et dans quelques jeux vidéo modernes.",
+          "path": "articles/2026-11-23-almace-a2.json"
+        }
+      ]
+    }
+  ]
+}

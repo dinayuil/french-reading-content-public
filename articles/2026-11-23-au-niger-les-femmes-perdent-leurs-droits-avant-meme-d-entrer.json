@@ -1,0 +1,288 @@
+{
+  "id": "2026-11-23-au-niger-les-femmes-perdent-leurs-droits-avant-meme-d-entrer",
+  "title": "Au Niger, une justice encore difficile d’accès pour les femmes",
+  "level": "B2",
+  "theme": "société",
+  "date": "2026-11-23",
+  "summary": "Au Niger, de nombreuses femmes se heurtent à des obstacles pour faire valoir leurs droits, notamment sur la terre, l’héritage et la garde des enfants, malgré des dispositifs d’aide existants.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "En 2024, le Niger comptait plus de 27 millions d’habitants, et plus de la moitié de la population rencontrait un problème de justice.",
+        "Selon une enquête menée par l’Institut de La Haye pour l’innovation de la justice avec le ministère de la Justice, 61 % des personnes déclaraient au moins un tel problème.",
+        "Les hommes le signalaient davantage, à 70 %, contre 52 % des femmes, mais cet écart ne signifie pas que les femmes subissent moins d’injustices."
+      ]
+    },
+    {
+      "sentences": [
+        "Beaucoup de femmes ne reconnaissent pas leurs difficultés comme des problèmes de justice ou renoncent à les faire valoir.",
+        "Elles rencontrent pourtant plus d’obstacles dans les familles, les villages et les espaces de médiation, surtout pour la terre, l’héritage et la garde des enfants.",
+        "Ces décisions influencent leurs revenus, leur sécurité économique et leur capacité à investir dans l’avenir."
+      ]
+    },
+    {
+      "sentences": [
+        "Les écarts sont nets : 38 % des femmes abandonnent une démarche en cours, contre 34 % des hommes.",
+        "Environ 64 % des femmes n’ont pas d’éducation formelle, contre 47 % des hommes, et 41 % ne connaissent aucun des droits humains proposés, contre 31 % des hommes.",
+        "La violence domestique est le problème le plus rapporté par les femmes, à 29 %, et il est passé de la huitième à la troisième place entre 2022 et 2024."
+      ]
+    },
+    {
+      "sentences": [
+        "Les litiges fonciers occupent la deuxième position des problèmes les plus graves, à 17 %, derrière les crimes et délits, à 23 %.",
+        "Plus de 80 % des Nigériens vivent en zone rurale, où la terre est pour les femmes une source de nourriture, de revenus et d’autonomie, mais leur accès reste fragile.",
+        "Le droit formel reconnaît aux femmes le droit de posséder et d’hériter des terres, mais les règles coutumières peuvent les en priver.",
+        "Ainsi, Saouda, veuve, a perdu l’accès au champ de son mari avant d’être rétablie grâce à des campagnes de sensibilisation."
+      ]
+    },
+    {
+      "sentences": [
+        "Après une séparation ou un divorce, les arrangements familiaux décident souvent du lieu de vie des enfants et du lien avec la mère.",
+        "Dans un cas cité par HiiL, Amina, détenue après un conflit de garde, ignorait qu’elle pouvait obtenir légalement cette garde.",
+        "La préservation des relations familiales est la raison la plus citée par les femmes pour ne pas saisir les tribunaux, et environ 4 % invoquent le manque d’argent.",
+        "L’ANAJJ, créée par la loi de 2011, a assisté 33 394 bénéficiaires en 2025, dont 8 489 femmes, mais 56 % des problèmes de justice restent non résolus."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "médiation"
+    },
+    {
+      "term": "coutumières"
+    },
+    {
+      "term": "sensibilisation"
+    },
+    {
+      "term": "bénéficiaires"
+    },
+    {
+      "term": "fonciers"
+    },
+    {
+      "term": "autonomie"
+    },
+    {
+      "term": "rétablie"
+    },
+    {
+      "term": "invoquent"
+    },
+    {
+      "term": "abandonnent"
+    },
+    {
+      "term": "détenue"
+    },
+    {
+      "term": "litiges"
+    },
+    {
+      "term": "formelle"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Que faut-il comprendre de l’écart entre les hommes et les femmes dans les problèmes de justice déclarés ?",
+      "options": [
+        "Le moindre signalement des femmes ne prouve pas qu’elles subissent moins d’injustices.",
+        "Le moindre signalement des femmes montre qu’elles subissent effectivement moins d’injustices.",
+        "L’écart de signalement s’explique surtout par un meilleur accès des hommes aux tribunaux.",
+        "L’écart de signalement est plus important en zone rurale qu’en zone urbaine."
+      ],
+      "answerIndex": 0,
+      "evidence": "Les hommes le signalaient davantage, à 70 %, contre 52 % des femmes, mais cet écart ne signifie pas que les femmes subissent moins d’injustices.",
+      "explanation": "Le texte met en garde contre une lecture directe des chiffres : le fait que les femmes signalent moins de problèmes ne signifie pas qu’elles en rencontrent moins. Les autres options ajoutent des causes ou des comparaisons que l’article ne soutient pas."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi le nombre de problèmes de justice déclarés par les femmes peut-il sous-estimer leurs difficultés réelles ?",
+      "options": [
+        "Parce que les femmes portent leurs difficultés devant les tribunaux plus souvent que les hommes.",
+        "Parce que les femmes connaissent mieux les droits humains que les hommes.",
+        "Parce que certaines femmes ne voient pas leurs difficultés comme des problèmes de justice ou renoncent à les faire valoir.",
+        "Parce que les femmes signalent davantage les problèmes liés à la violence domestique."
+      ],
+      "answerIndex": 2,
+      "evidence": "Beaucoup de femmes ne reconnaissent pas leurs difficultés comme des problèmes de justice ou renoncent à les faire valoir.",
+      "explanation": "L’article explique que certaines femmes ne qualifient pas leurs difficultés de problèmes de justice ou choisissent de ne pas les défendre. Les options sur une meilleure connaissance des droits ou un recours plus fréquent aux tribunaux contredisent le texte."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel constat l’article fait-il sur l’abandon des démarches judiciaires ?",
+      "options": [
+        "34 % des femmes interrompent une démarche en cours, contre 38 % des hommes.",
+        "38 % des femmes interrompent une démarche déjà commencée, contre 34 % des hommes.",
+        "38 % des femmes renoncent à saisir les tribunaux, contre 34 % des hommes.",
+        "64 % des femmes abandonnent une démarche en cours, contre 47 % des hommes."
+      ],
+      "answerIndex": 1,
+      "evidence": "Les écarts sont nets : 38 % des femmes abandonnent une démarche en cours, contre 34 % des hommes.",
+      "explanation": "Le passage donne précisément 38 % pour les femmes et 34 % pour les hommes lorsqu’il s’agit d’abandonner une démarche en cours. Les autres options inversent les chiffres, remplacent l’abandon par un renoncement initial ou utilisent des pourcentages liés à l’éducation."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que montre le bilan de l’ANAJJ présenté dans l’article ?",
+      "options": [
+        "L’ANAJJ a résolu 56 % des problèmes de justice depuis sa création en 2011.",
+        "Les femmes représentent la majorité des bénéficiaires de l’ANAJJ en 2025.",
+        "Malgré l’aide apportée par l’ANAJJ, une majorité de problèmes de justice demeure non résolue.",
+        "L’ANAJJ a été créée pour aider uniquement les femmes victimes de violence domestique."
+      ],
+      "answerIndex": 2,
+      "evidence": "L’ANAJJ, créée par la loi de 2011, a assisté 33 394 bénéficiaires en 2025, dont 8 489 femmes, mais 56 % des problèmes de justice restent non résolus.",
+      "explanation": "Le texte indique que l’ANAJJ aide des bénéficiaires, mais que 56 % des problèmes de justice restent non résolus, donc une majorité. Les autres options déforment le taux, la part des femmes ou la mission de l’ANAJJ."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelle idée principale ressort du passage sur les obstacles rencontrés par les femmes ?",
+      "options": [
+        "Les femmes ont moins de problèmes de justice que les hommes parce qu’elles s’adressent davantage aux instances de médiation.",
+        "Les obstacles que rencontrent les femmes limitent surtout leur accès à la justice en matière de terre, d’héritage et de garde d’enfants.",
+        "Les litiges fonciers sont le problème le plus grave pour l’ensemble de la population nigérienne.",
+        "Les femmes abandonnent les démarches judiciaires principalement à cause du manque d’argent."
+      ],
+      "answerIndex": 1,
+      "evidence": "Elles rencontrent pourtant plus d’obstacles dans les familles, les villages et les espaces de médiation, surtout pour la terre, l’héritage et la garde des enfants.",
+      "explanation": "Le passage insiste sur des obstacles spécifiques qui pèsent sur l’accès des femmes à la justice, particulièrement dans trois domaines cités. Les autres options contredisent le texte sur le niveau des litiges, la raison principale d’abandon ou le rapport entre femmes et médiation."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "在尼日尔，女性仍难以获得司法救济",
+      "summary": "在尼日尔，尽管存在援助机制，许多女性在维护自身权利时仍遇到障碍，尤其是在土地、继承和子女监护方面。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "2024年，尼日尔有超过2700万居民，超过一半的人口遇到过司法问题。",
+            "根据海牙司法创新研究所与司法部开展的一项调查，61%的人表示至少遇到过一个此类问题。",
+            "男性报告此类问题的比例更高，为70%，女性为52%，但这并不意味着女性遭受的不公正更少。"
+          ]
+        },
+        {
+          "sentences": [
+            "许多女性不把自己的困难视为司法问题，或者放弃主张这些权利。",
+            "然而，她们在家庭、村庄和调解空间中遇到更多障碍，尤其是在土地、继承和子女监护方面。",
+            "这些决定影响她们的收入、经济安全以及为未来投资的能力。"
+          ]
+        },
+        {
+          "sentences": [
+            "差距很明显：38%的女性放弃正在进行的程序，而男性为34%。",
+            "约64%的女性没有接受过正规教育，而男性为47%；41%的女性不了解所列出的人权中的任何一项，而男性为31%。",
+            "家庭暴力是女性报告最多的问题，占29%，并且在2022年至2024年间从第八位上升到第三位。"
+          ]
+        },
+        {
+          "sentences": [
+            "土地纠纷在最严重问题中位列第二，占17%，排在占23%的犯罪和违法行为之后。",
+            "超过80%的尼日尔人生活在农村地区，在那里土地是女性获得食物、收入和自主权的来源，但她们获得土地的机会仍然脆弱。",
+            "成文法承认女性拥有和继承土地的权利，但习惯规则可能剥夺她们这些权利。",
+            "例如，寡妇萨乌达失去了使用丈夫田地的机会，后来通过宣传活动得以恢复。"
+          ]
+        },
+        {
+          "sentences": [
+            "分居或离婚后，家庭安排往往决定孩子的居住地以及与母亲的联系。",
+            "在HiiL引用的一个案例中，阿米娜在一次监护权冲突后被拘留，她不知道自己可以依法获得这项监护权。",
+            "维护家庭关系是女性不愿诉诸法院最常提到的理由，约4%的人以缺钱为由。",
+            "ANAJJ根据2011年法律设立，2025年援助了33394名受益者，其中8489名女性，但56%的司法问题仍未解决。"
+          ]
+        }
+      ],
+      "glossary": {
+        "médiation": "调解；由第三方协助争议双方协商解决的程序或空间，文中指女性在家庭、村庄和调解空间中遇到更多障碍。",
+        "coutumières": "习惯法的；依据地方习俗形成、非成文法的规则，文中指可能剥夺女性土地权利的习惯规则。",
+        "sensibilisation": "提高认识、宣传动员；通过宣传活动让公众了解权利，文中指让萨乌达恢复土地使用权的宣传活动。",
+        "bénéficiaires": "受益者、受助者；文中指ANAJJ援助的人。",
+        "fonciers": "土地的、与土地有关的；文中litiges fonciers指土地纠纷。",
+        "autonomie": "自主权、独立能力；文中指土地对女性获得食物、收入和自主权的作用。",
+        "rétablie": "被恢复、重新获得权利或状态；文中指萨乌达后来通过宣传活动恢复土地使用机会。",
+        "invoquent": "援引、提出理由；文中指约4%的人以缺钱为理由。",
+        "abandonnent": "放弃、中断；文中指女性放弃正在进行的司法程序。",
+        "détenue": "被拘留的女性；文中指阿米娜在监护权冲突后被拘留。",
+        "litiges": "纠纷、争议；文中指土地纠纷。",
+        "formelle": "正式的、正规的、成文的；文中éducation formelle指正规教育，droit formel指成文法。"
+      },
+      "questions": {
+        "q1": "文中先给出男性70%、女性52%的报告率，紧接着说明这一差距不代表女性遭受的不公正更少，因此正确选项是：女性报告较少并不能证明她们遭受的不公正较少。其他选项把报告少直接当作遭受少，或补充文中没有支持的法院准入、城乡比较原因。",
+        "q2": "文中指出许多女性不把困难视为司法问题或放弃主张，这会使她们报告的问题数低于实际困难；正确选项正是这个原因。把女性更多上法院、更懂人权或更多报告家暴当作原因，均与文中说法不符或不能解释低估。",
+        "q3": "文中明确说38%女性放弃正在进行的程序，男性34%，所以正确选项是：38%的女性中断已开始的程序，而男性为34%。其他选项有的把男女数字对调，有的把放弃已开始程序改成初始放弃起诉，有的使用64%和47%的教育数据。",
+        "q5": "文中说ANAJJ在2025年援助33394人其中8489名女性，但56%司法问题仍未解决；56%过半，说明尽管有援助多数问题仍未解决，因此正确选项。把56%说成已解决比例、说女性占多数、或说只帮助家暴女性，均不符合数据或原文。",
+        "q6": "文中强调女性在家庭、村庄和调解空间遇到更多障碍，尤其在土地、继承和子女监护方面，因此正确选项概括这一主要意思。其他选项或说女性司法问题更少并归因调解、或把土地纠纷说成全体最严重问题、或把缺钱说成主要放弃原因，均与原文不符。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "应如何理解男性和女性在报告司法问题上的差距？",
+          "options": [
+            "女性报告问题较少，并不能证明她们遭受的不公正较少。",
+            "女性报告问题较少，表明她们遭受的不公正确实较少。",
+            "报告差距主要因为男性更容易进入法院。",
+            "报告差距在农村地区比城市地区更大。"
+          ]
+        },
+        "q2": {
+          "prompt": "为什么女性报告的司法问题数量可能低估其实际困难？",
+          "options": [
+            "因为女性比男性更经常把困难提交法院。",
+            "因为女性比男性更了解人权。",
+            "因为某些女性不把自己的困难视为司法问题，或放弃主张这些权利。",
+            "因为女性更多报告与家庭暴力有关的问题。"
+          ]
+        },
+        "q3": {
+          "prompt": "文章对放弃司法程序作出了什么观察？",
+          "options": [
+            "34%的女性中断已开始的程序，而男性为38%。",
+            "38%的女性中断已开始的程序，而男性为34%。",
+            "38%的女性放弃向法院起诉，而男性为34%。",
+            "64%的女性放弃已开始的程序，而男性为47%。"
+          ]
+        },
+        "q5": {
+          "prompt": "文章介绍的ANAJJ的总结说明了什么？",
+          "options": [
+            "ANAJJ自2011年成立以来已解决56%的司法问题。",
+            "2025年女性占ANAJJ受益者的大多数。",
+            "尽管ANAJJ提供帮助，多数司法问题仍未解决。",
+            "ANAJJ成立仅为帮助家庭暴力女性受害者。"
+          ]
+        },
+        "q6": {
+          "prompt": "关于女性遇到的障碍，这段文字传达的主要观点是什么？",
+          "options": [
+            "女性司法问题比男性少，因为她们更多求助于调解机构。",
+            "女性遇到的障碍主要限制她们在土地、继承和子女监护方面获得司法救济。",
+            "土地纠纷是尼日尔全体人口最严重的问题。",
+            "女性放弃司法程序主要因为缺钱。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Au Niger, les femmes perdent leurs droits avant même d’entrer au tribunal",
+    "authors": [
+      "Jean Sovon"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/22/304374/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-23",
+    "publishedAt": "2026-11-22",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-23",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

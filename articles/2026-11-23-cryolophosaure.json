@@ -1,0 +1,312 @@
+{
+  "id": "2026-11-23-cryolophosaure",
+  "title": "Le cryolophosaure, un dinosaure ancien de l’Antarctique",
+  "level": "B2",
+  "theme": "science",
+  "date": "2026-11-23",
+  "summary": "Le cryolophosaure, dinosaure carnivore du Jurassique découvert en Antarctique, témoigne de l’histoire géologique du Gondwana et aide les scientifiques à comprendre l’évolution des théropodes.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Le cryolophosaure est un genre de dinosaures théropodes carnivores qui a vécu au Jurassique, il y a environ 189 à 183 millions d’années.",
+        "Il habitait ce qui correspond aujourd’hui à l’Antarctique, mais ce territoire se trouvait alors plus au nord.",
+        "Cet animal est facilement reconnaissable grâce à la petite crête particulière qu’il portait sur le dessus de la tête."
+      ]
+    },
+    {
+      "sentences": [
+        "À cette époque, le site faisait partie du supercontinent Gondwana et se situait dans une chaîne de hautes montagnes, à environ 4 000 mètres d’altitude.",
+        "Des troncs fossilisés prouvent que cet environnement était autrefois une forêt.",
+        "Le cryolophosaure vivait dans cette forêt de montagne avec d’autres dinosaures, dont le glacialisaure, qui faisait peut-être partie de ses proies.",
+        "Un petit ptérosaure et un mammifère préhistorique ont également été découverts sur place."
+      ]
+    },
+    {
+      "sentences": [
+        "Au fil du temps, la tectonique des plaques a créé les océans Antarctique et Indien, puis a provoqué l’éclatement du Gondwana.",
+        "Les restes fossilisés du cryolophosaure ont été enterrés dans un fragment de continent qui allait devenir l’Antarctique.",
+        "Ils ont ainsi migré avec ce continent sur plus de 1 000 kilomètres vers le sud.",
+        "Les roches fossilifères, formées sous un climat tempéré, se trouvent désormais à seulement 650 kilomètres du pôle Sud, sous une épaisse couche de glace."
+      ]
+    },
+    {
+      "sentences": [
+        "Les scientifiques savent depuis longtemps que l’Antarctique appartenait autrefois au Gondwana et que le climat y était moins froid.",
+        "Par conséquent, il est probable que de nombreux fossiles y soient encore enfouis.",
+        "Toutefois, comme ces roches sont recouvertes de glace, les recherches ne peuvent avoir lieu que pendant l’été, lorsque la glace fond."
+      ]
+    },
+    {
+      "sentences": [
+        "Les premiers fossiles de cryolophosaure ont été découverts par l’équipe du professeur William Hammer durant l’été 1990-1991.",
+        "Le géologue David Elliot a repéré l’animal en premier, et le dinosaure a donc été baptisé Cryolophosaurus ellioti en son honneur.",
+        "Les chercheurs ont rapporté une grande quantité de roches fossilifères au laboratoire pour les étudier avant le retour de la neige."
+      ]
+    },
+    {
+      "sentences": [
+        "Le cryolophosaure compte parmi les plus anciens théropodes connus, un groupe de dinosaures carnivores bipèdes.",
+        "Il appartient aux tétanoures, le plus grand groupe de théropodes, qui comprend notamment les tyrannosaures, les allosaures, les vélociraptors et tous les oiseaux.",
+        "Il est même le plus ancien tétanoure connu, ce qui pourrait aider les scientifiques à mieux comprendre l’apparition de ce groupe et, par conséquent, celle des oiseaux."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "théropodes"
+    },
+    {
+      "term": "Jurassique"
+    },
+    {
+      "term": "crête"
+    },
+    {
+      "term": "supercontinent"
+    },
+    {
+      "term": "Gondwana"
+    },
+    {
+      "term": "tectonique des plaques"
+    },
+    {
+      "term": "fossilifères"
+    },
+    {
+      "term": "tétanoures"
+    },
+    {
+      "term": "bipèdes"
+    },
+    {
+      "term": "ptérosaure"
+    },
+    {
+      "term": "glacialisaure"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q2",
+      "prompt": "Pourquoi les restes fossilisés du cryolophosaure ont-ils migré de plus de 1 000 kilomètres vers le sud ?",
+      "options": [
+        "Parce que les chercheurs les ont emportés au laboratoire avant le retour de la neige.",
+        "Parce que les océans Antarctique et Indien les ont entraînés vers le pôle Sud.",
+        "Parce que le climat tempéré de l’époque les a fait glisser sous une épaisse couche de glace.",
+        "Parce qu’ils étaient enfouis dans un fragment de continent qui s’est déplacé vers le sud."
+      ],
+      "answerIndex": 3,
+      "evidence": "Ils ont ainsi migré avec ce continent sur plus de 1 000 kilomètres vers le sud.",
+      "explanation": "La migration des fossiles est liée au déplacement du fragment continental qui allait devenir l’Antarctique. Le transport au laboratoire concerne des roches après leur découverte, pas ce déplacement géologique."
+    },
+    {
+      "id": "q3",
+      "prompt": "Pourquoi les recherches de fossiles en Antarctique ne peuvent-elles avoir lieu que pendant l’été ?",
+      "options": [
+        "Parce que les roches fossilifères sont recouvertes de glace qui doit fondre.",
+        "Parce que les fossiles sont trop nombreux pour être étudiés en une seule saison.",
+        "Parce que les scientifiques ne savent pas où se trouvait le Gondwana.",
+        "Parce que le froid empêche toute découverte, même lorsque la glace fond."
+      ],
+      "answerIndex": 0,
+      "evidence": "Toutefois, comme ces roches sont recouvertes de glace, les recherches ne peuvent avoir lieu que pendant l’été, lorsque la glace fond.",
+      "explanation": "Le texte explique la restriction des recherches par la présence de glace sur les roches. Les autres options ajoutent des causes absentes ou contredisent l’idée que la fonte estivale permet les recherches."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel rôle le géologue David Elliot a-t-il joué dans la découverte du cryolophosaure ?",
+      "options": [
+        "Il a dirigé l’équipe qui a mis au jour les premiers fossiles.",
+        "Il a transporté les roches fossilifères au laboratoire avant la neige.",
+        "Il a repéré l’animal en premier, et l’espèce a été nommée en son honneur.",
+        "Il a montré que le dinosaure appartenait aux tétanoures."
+      ],
+      "answerIndex": 2,
+      "evidence": "Le géologue David Elliot a repéré l’animal en premier, et le dinosaure a donc été baptisé Cryolophosaurus ellioti en son honneur.",
+      "explanation": "Le texte attribue à David Elliot le premier repérage de l’animal et explique que son nom a servi à baptiser l’espèce. L’équipe est dirigée par William Hammer, et le transport des roches n’est pas présenté comme son rôle personnel."
+    },
+    {
+      "id": "q5",
+      "prompt": "Pourquoi l’étude du cryolophosaure pourrait-elle être importante pour comprendre les oiseaux ?",
+      "options": [
+        "Parce qu’il est le plus ancien tétanoure connu, ce qui peut éclairer l’apparition de ce groupe et donc celle des oiseaux.",
+        "Parce qu’il est le plus ancien dinosaure carnivore, ce qui explique la disparition des théropodes.",
+        "Parce qu’il a été découvert avec des oiseaux fossiles, ce qui prouve leur évolution en Antarctique.",
+        "Parce qu’il vivait près du pôle Sud, ce qui montre que les oiseaux sont apparus dans cette région."
+      ],
+      "answerIndex": 0,
+      "evidence": "Il est même le plus ancien tétanoure connu, ce qui pourrait aider les scientifiques à mieux comprendre l’apparition de ce groupe et, par conséquent, celle des oiseaux.",
+      "explanation": "Le dernier paragraphe relie l’ancienneté du cryolophosaure parmi les tétanoures à la compréhension de l’apparition de ce groupe, puis des oiseaux. Les autres options introduisent des affirmations que le texte ne soutient pas."
+    },
+    {
+      "id": "q6",
+      "prompt": "Où se trouvait le site habité par le cryolophosaure à son époque ?",
+      "options": [
+        "À seulement 650 kilomètres du pôle Sud, sous une épaisse couche de glace.",
+        "Dans une forêt de plaine, près des océans Antarctique et Indien.",
+        "Sur un fragment de continent déjà séparé du Gondwana.",
+        "Dans une chaîne de hautes montagnes, à environ 4 000 mètres d’altitude, au sein du Gondwana."
+      ],
+      "answerIndex": 3,
+      "evidence": "À cette époque, le site faisait partie du supercontinent Gondwana et se situait dans une chaîne de hautes montagnes, à environ 4 000 mètres d’altitude.",
+      "explanation": "Le texte situe le site, à l’époque du cryolophosaure, dans de hautes montagnes du Gondwana. La distance au pôle Sud et la glace décrivent la situation actuelle, tandis que les océans se forment plus tard."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "冰脊龙：南极洲的一种古老恐龙",
+      "summary": "冰脊龙是发现于南极洲的侏罗纪肉食恐龙，见证了冈瓦纳的地质历史，并帮助科学家理解兽脚类恐龙的演化。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "冰脊龙是一属肉食性兽脚类恐龙，生活在侏罗纪，距今约1.89亿至1.83亿年。",
+            "它栖息在今天相当于南极洲的地区，但当时这片陆地更靠北。",
+            "这种动物很容易辨认，因为它的头顶有一个独特的小冠饰。"
+          ]
+        },
+        {
+          "sentences": [
+            "当时，该地点属于冈瓦纳超大陆，位于一条高山山脉中，海拔约4000米。",
+            "化石化树干证明这里曾经是一片森林。",
+            "冰脊龙与包括冰川龙在内的其他恐龙一起生活在这片山地森林中，冰川龙也许是它的猎物之一。",
+            "当地还发现了一种小型翼龙和一种史前哺乳动物。"
+          ]
+        },
+        {
+          "sentences": [
+            "随着时间推移，板块构造运动形成了南极洋和印度洋，随后导致冈瓦纳裂解。",
+            "冰脊龙的化石遗骸被埋在一块后来将成为南极洲的大陆碎片中。",
+            "它们因此随这块大陆向南迁移了1000多公里。",
+            "这些在温带气候下形成的含化石岩石，如今位于距南极点仅650公里处，覆盖在厚厚的冰层之下。"
+          ]
+        },
+        {
+          "sentences": [
+            "科学家早已知道南极洲曾经属于冈瓦纳，而且那里的气候没有现在这么寒冷。",
+            "因此，那里可能还埋藏着许多化石。",
+            "然而，由于这些岩石被冰覆盖，研究只能在夏季冰融化时进行。"
+          ]
+        },
+        {
+          "sentences": [
+            "冰脊龙的首批化石由威廉·哈默教授团队在1990—1991年夏季发现。",
+            "地质学家戴维·埃利奥特最先发现了这种动物，因此这种恐龙被命名为Cryolophosaurus ellioti以纪念他。",
+            "研究人员在积雪回归之前把大量含化石岩石带回实验室进行研究。"
+          ]
+        },
+        {
+          "sentences": [
+            "冰脊龙属于已知最古老的兽脚类恐龙之一，兽脚类是一类双足行走的肉食恐龙。",
+            "它属于坚尾龙类，这是兽脚类中最大的类群，尤其包括暴龙、异特龙、迅猛龙和所有鸟类。",
+            "它甚至是已知最古老的坚尾龙类，这可能帮助科学家更好地理解该类群的出现，并因此理解鸟类的出现。"
+          ]
+        }
+      ],
+      "glossary": {
+        "théropodes": "兽脚类恐龙，一类以双足行走为主的肉食性恐龙，鸟类也属于这一演化支。",
+        "Jurassique": "侏罗纪，约2.01亿至1.45亿年前的地质时期。",
+        "crête": "冠饰，动物头顶突出的骨质或角质结构。",
+        "supercontinent": "超大陆，由多个大陆板块拼合而成的巨大陆块。",
+        "Gondwana": "冈瓦纳，古生代和中生代位于南半球的超大陆。",
+        "tectonique des plaques": "板块构造，地球岩石圈板块运动并导致大陆漂移、海洋形成和山脉隆升的过程。",
+        "fossilifères": "含化石的，指岩层中含有化石。",
+        "tétanoures": "坚尾龙类，兽脚类恐龙中一个大型类群，包括暴龙、异特龙、迅猛龙和鸟类等。",
+        "bipèdes": "双足行走的，指用两条后腿行走。",
+        "ptérosaure": "翼龙，中生代会飞的爬行动物，与恐龙不同但关系较近。",
+        "glacialisaure": "冰川龙，文章提到的另一种恐龙，可能为冰脊龙的猎物。"
+      },
+      "questions": {
+        "q2": "原文说“它们因此随这块大陆向南迁移了1000多公里”，这里的“因此”承接前句：化石被埋在一块后来成为南极洲的大陆碎片中。所以正确选项是第四项“因为它们被埋在一块向南移动的大陆碎片中”。研究人员把岩石带回实验室是化石发现后的处理，不是地质迁移；南极洋和印度洋是后来形成的，文中并未说它们把化石带向极点；温带气候用于说明含化石岩石的形成，不是化石滑到冰层下的原因。",
+        "q3": "原文说“由于这些岩石被冰覆盖，研究只能在夏季冰融化时进行”，所以正确选项是第一项“因为含化石岩石被冰覆盖，而冰必须融化”。化石数量多、科学家不知道冈瓦纳位置都不是文中给出的限制原因；第四项说寒冷使任何发现都不可能，即使冰融化也不行，这与原文所说夏季冰融化时可以进行研究相矛盾。",
+        "q4": "原文说“地质学家戴维·埃利奥特最先发现了这种动物，因此这种恐龙被命名为Cryolophosaurus ellioti以纪念他”，所以正确选项是第三项“他最先发现了这种动物，该物种以他的名字命名”。领导团队的是威廉·哈默；把含化石岩石运回实验室是研究人员的整体行动，不是戴维·埃利奥特的个人作用；坚尾龙类归属是后文的分类信息，不是他在发现中的角色。",
+        "q5": "最后一段说冰脊龙“甚至是已知最古老的坚尾龙类”，这可能帮助科学家理解该类群的出现，并因此理解鸟类的出现。因此正确选项是第一项“因为它是已知最古老的坚尾龙类，这可能有助于理解该类群的出现，从而理解鸟类的出现”。第二项说它解释兽脚类的消失，文中没有这一说法；第三项说它与化石鸟类一起被发现，文中没有；第四项把现今靠近南极点的位置当作鸟类起源证据，也不是原文支持的推理。",
+        "q6": "原文说“当时，该地点属于冈瓦纳超大陆，位于一条高山山脉中，海拔约4000米”，直接支持第四项“在冈瓦纳内部一条高山山脉中，海拔约4000米”。距南极点650公里和厚冰层描述的是现今位置；当时是山地森林，而南极洋和印度洋后来才形成；当时该地点属于冈瓦纳，并未已经分离。"
+      },
+      "questionTexts": {
+        "q2": {
+          "prompt": "为什么冰脊龙的化石遗骸向南迁移了1000多公里？",
+          "options": [
+            "因为研究人员在积雪回归前把它们带到了实验室。",
+            "因为南极洋和印度洋把它们带向了南极点。",
+            "因为当时的温带气候使它们滑到厚厚冰层之下。",
+            "因为它们被埋在一块向南移动的大陆碎片中。"
+          ]
+        },
+        "q3": {
+          "prompt": "为什么南极洲的化石研究只能在夏季进行？",
+          "options": [
+            "因为含化石岩石被冰覆盖，而冰必须融化。",
+            "因为化石太多，一个季节研究不完。",
+            "因为科学家不知道冈瓦纳曾在哪里。",
+            "因为寒冷使任何发现都不可能，即使冰融化。"
+          ]
+        },
+        "q4": {
+          "prompt": "地质学家戴维·埃利奥特在冰脊龙的发现中起了什么作用？",
+          "options": [
+            "他领导了发掘首批化石的团队。",
+            "他在下雪前把含化石岩石运到实验室。",
+            "他最先发现了这种动物，该物种以他的名字命名。",
+            "他证明这种恐龙属于坚尾龙类。"
+          ]
+        },
+        "q5": {
+          "prompt": "为什么研究冰脊龙可能有助于理解鸟类？",
+          "options": [
+            "因为它是已知最古老的坚尾龙类，这可能有助于理解该类群的出现，从而理解鸟类的出现。",
+            "因为它是已知最古老的肉食恐龙，这解释了兽脚类的消失。",
+            "因为它与化石鸟类一起被发现，证明鸟类在南极洲演化。",
+            "因为它生活在南极点附近，表明鸟类起源于该地区。"
+          ]
+        },
+        "q6": {
+          "prompt": "冰脊龙生活的地点在它那个时代位于哪里？",
+          "options": [
+            "在距南极点仅650公里处，覆盖在厚厚冰层下。",
+            "在平原森林中，靠近南极洋和印度洋。",
+            "在一块已经与冈瓦纳分离的大陆碎片上。",
+            "在冈瓦纳内部一条高山山脉中，海拔约4000米。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Cryolophosaure",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2372204&title=Cryolophosaure",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-23",
+    "revisionId": "2372204"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-23",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-23-cryolophosaure-8e0ddcbe4656.jpg",
+    "alt": "Cryolophosaurus",
+    "author": "OnFirstWhoIs",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Augustana_College_Cryolophosaurus.JPG?oldid=1084073959",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Réduite à 1280×857 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 857,
+    "byteLength": 252528,
+    "sha256": "8e0ddcbe46560f565ae3601c1d10212c096e5a1237d65ae8f2f1d9831bf7ecba",
+    "fileRevisionId": "1084073959",
+    "retrievedAt": "2026-11-23"
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "id": "2026-11-23-au-niger-les-femmes-perdent-leurs-droits-avant-meme-d-entrer-b1",
+  "title": "Au Niger, les femmes et les obstacles à la justice",
+  "level": "B1",
+  "theme": "société",
+  "date": "2026-11-23",
+  "summary": "Au Niger, plus de la moitié de la population a rencontré un problème de justice en 2024. Les femmes font face à plus d’obstacles, surtout pour la terre, l’héritage et la garde des enfants.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "En 2024, le Niger comptait plus de 27 millions d’habitants.",
+        "Selon une enquête de HiiL avec le ministère de la Justice, 61 % des personnes ont eu au moins un problème de justice.",
+        "Les hommes le déclarent plus souvent que les femmes : 70 % contre 52 %.",
+        "Pourtant, les femmes subissent aussi des injustices, mais elles les reconnaissent moins ou renoncent à les faire valoir."
+      ]
+    },
+    {
+      "sentences": [
+        "Les femmes rencontrent des obstacles dans la famille, le village et la médiation.",
+        "Ces problèmes concernent souvent la terre, l’héritage et la garde des enfants.",
+        "Les femmes abandonnent plus souvent une démarche : 38 % contre 34 % des hommes.",
+        "De plus, 64 % des femmes n’ont pas d’éducation formelle, contre 47 % des hommes."
+      ]
+    },
+    {
+      "sentences": [
+        "La violence domestique est le problème le plus souvent cité par les femmes : 29 % disent en avoir été victimes.",
+        "Pour toute la population, ce problème est passé de la huitième à la troisième place entre 2022 et 2024.",
+        "Les litiges fonciers arrivent en deuxième position des problèmes les plus graves, avec 17 %.",
+        "Plus de 80 % des Nigériens vivent en zone rurale, et la terre est importante pour les femmes."
+      ]
+    },
+    {
+      "sentences": [
+        "Le droit nigérien reconnaît aux femmes le droit de posséder et d’hériter des terres.",
+        "Mais dans la pratique, les règles coutumières peuvent les exclure.",
+        "Par exemple, Saouda, veuve et mère de cinq enfants, a perdu l’accès au champ de son mari.",
+        "Elle a retrouvé ses terres après avoir été informée de ses droits."
+      ]
+    },
+    {
+      "sentences": [
+        "Après un divorce ou un décès, la garde des enfants se décide souvent hors du tribunal.",
+        "Les normes coutumières peuvent favoriser le père.",
+        "Amina, détenue après un conflit sur la garde, ignorait qu’elle pouvait obtenir cette garde légalement.",
+        "Beaucoup de femmes ne saisissent pas la justice pour ne pas diviser leur famille."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "renoncent"
+    },
+    {
+      "term": "faire valoir"
+    },
+    {
+      "term": "médiation"
+    },
+    {
+      "term": "héritage"
+    },
+    {
+      "term": "éducation formelle"
+    },
+    {
+      "term": "litiges fonciers"
+    },
+    {
+      "term": "coutumières"
+    },
+    {
+      "term": "saisissent"
+    },
+    {
+      "term": "détenue"
+    },
+    {
+      "term": "veuve"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Que révèle l’enquête sur la reconnaissance des problèmes de justice chez les femmes ?",
+      "options": [
+        "Elles déclarent plus souvent que les hommes avoir un problème de justice.",
+        "Elles subissent moins d’injustices que les hommes et les signalent donc rarement.",
+        "Elles reconnaissent moins les injustices qu’elles subissent ou renoncent à les faire valoir.",
+        "Elles ne rencontrent des problèmes de justice que dans la famille et au village."
+      ],
+      "answerIndex": 2,
+      "evidence": "Pourtant, les femmes subissent aussi des injustices, mais elles les reconnaissent moins ou renoncent à les faire valoir.",
+      "explanation": "Le texte indique que les femmes subissent aussi des injustices, mais qu’elles les reconnaissent moins ou renoncent à les faire valoir. Les autres options contredisent cette phrase ou limitent à tort les problèmes aux seuls cadres familial et villageois."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quelle comparaison entre les femmes et les hommes l’article établit-il à propos des démarches et de l’éducation ?",
+      "options": [
+        "Elles abandonnent moins souvent une démarche et ont plus souvent une éducation formelle.",
+        "Elles abandonnent aussi souvent une démarche que les hommes et ont moins d’éducation formelle.",
+        "Elles abandonnent plus souvent une démarche et sont moins souvent sans éducation formelle.",
+        "Elles abandonnent plus souvent une démarche et sont plus souvent sans éducation formelle."
+      ],
+      "answerIndex": 3,
+      "evidence": "Les femmes abandonnent plus souvent une démarche : 38 % contre 34 % des hommes.",
+      "explanation": "Le texte donne 38 % d’abandon chez les femmes contre 34 % chez les hommes, puis précise que 64 % des femmes n’ont pas d’éducation formelle contre 47 % des hommes. La bonne option reprend ces deux comparaisons sans en tirer de cause absente du texte."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel rôle joue l’exemple de Saouda dans le passage sur la terre ?",
+      "options": [
+        "Il montre qu’une femme peut perdre l’accès à une terre avant d’être informée de ses droits.",
+        "Il prouve que les femmes nigériennes n’ont aucun droit de posséder des terres.",
+        "Il explique pourquoi les litiges fonciers sont plus fréquents chez les hommes.",
+        "Il indique que la garde des enfants se règle toujours devant le tribunal."
+      ],
+      "answerIndex": 0,
+      "evidence": "Par exemple, Saouda, veuve et mère de cinq enfants, a perdu l’accès au champ de son mari.",
+      "explanation": "L’exemple illustre une exclusion pratique malgré les droits reconnus par le droit nigérien, puisqu’elle retrouve ses terres après avoir été informée de ses droits. Les autres options contredisent le texte ou portent sur un autre sujet."
+    },
+    {
+      "id": "q4",
+      "prompt": "Comment la place de la violence domestique parmi les problèmes cités a-t-elle évolué pour toute la population ?",
+      "options": [
+        "Elle est passée de la troisième à la huitième place entre 2022 et 2024.",
+        "Elle est restée à la troisième place entre 2022 et 2024.",
+        "Elle est passée de la huitième à la troisième place entre 2022 et 2024.",
+        "Elle est devenue le premier problème cité par toute la population en 2024."
+      ],
+      "answerIndex": 2,
+      "evidence": "Pour toute la population, ce problème est passé de la huitième à la troisième place entre 2022 et 2024.",
+      "explanation": "Le texte précise que, pour toute la population, la violence domestique est passée de la huitième à la troisième place entre 2022 et 2024. Les autres options inversent les places, suppriment l’évolution ou inventent une première place."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que dit l’article sur la décision de garde des enfants après un divorce ou un décès ?",
+      "options": [
+        "Elle est toujours prise par le tribunal selon les règles coutumières.",
+        "Elle se décide souvent hors du tribunal et les normes coutumières peuvent favoriser le père.",
+        "Elle revient automatiquement à la mère grâce au droit nigérien.",
+        "Elle est rarement liée à un conflit familial ou à une détention."
+      ],
+      "answerIndex": 1,
+      "evidence": "Après un divorce ou un décès, la garde des enfants se décide souvent hors du tribunal.",
+      "explanation": "Le texte dit que la garde se décide souvent hors du tribunal et que les normes coutumières peuvent favoriser le père. Les autres options ajoutent une automaticité ou une règle absente du texte."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "在尼日尔，女性与诉诸司法的障碍",
+      "summary": "2024年，尼日尔超过一半的人口遇到过司法问题。女性面临更多障碍，尤其是在土地、遗产和子女监护方面。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "2024年，尼日尔有超过2700万居民。",
+            "根据HiiL与司法部的一项调查，61%的人至少遇到过一个司法问题。",
+            "男性比女性更常报告这一问题：70%对52%。",
+            "然而，女性也遭受不公，但她们较少承认这些不公，或放弃维护自身权利。"
+          ]
+        },
+        {
+          "sentences": [
+            "女性在家庭、村庄和调解中遇到障碍。",
+            "这些问题常常涉及土地、遗产和子女监护。",
+            "女性更常放弃一项程序：38%，而男性为34%。",
+            "此外，64%的女性没有接受过正规教育，而男性为47%。"
+          ]
+        },
+        {
+          "sentences": [
+            "家庭暴力是女性最常提到的问题：29%表示自己曾是其受害者。",
+            "对于全体人口而言，这一问题在2022年至2024年间从第八位升至第三位。",
+            "土地纠纷在最严重的问题中位居第二，占17%。",
+            "超过80%的尼日尔人生活在农村地区，而土地对女性很重要。"
+          ]
+        },
+        {
+          "sentences": [
+            "尼日尔法律承认女性拥有和继承土地的权利。",
+            "但在实践中，习惯规则可能将她们排除在外。",
+            "例如，萨乌达是一名寡妇和五个孩子的母亲，她失去了使用丈夫田地的机会。",
+            "在被告知自己的权利后，她重新获得了自己的土地。"
+          ]
+        },
+        {
+          "sentences": [
+            "离婚或死亡后，子女监护权常常在法庭之外决定。",
+            "习惯规范可能偏向父亲。",
+            "阿米娜在一场监护权冲突后被拘留，她不知道自己可以依法获得这一监护权。",
+            "许多女性不诉诸司法，以免分裂自己的家庭。"
+          ]
+        }
+      ],
+      "glossary": {
+        "renoncent": "放弃（做某事），这里指放弃主张权利或继续程序。",
+        "faire valoir": "主张、维护（权利或诉求）。",
+        "médiation": "调解，由第三方协助解决争端。",
+        "héritage": "遗产；继承。",
+        "éducation formelle": "正规教育，指在学校等正式教育体系中所受的教育。",
+        "litiges fonciers": "土地纠纷。",
+        "coutumières": "习惯的、习俗的，这里指习惯法或传统规范。",
+        "saisissent": "诉诸、提交（司法机关），这里指把问题提交司法处理。",
+        "détenue": "被拘留的（女性）。",
+        "veuve": "寡妇。"
+      },
+      "questions": {
+        "q1": "证据句指出女性也遭受不公，但她们较少承认这些不公或放弃维护自身权利。因此第三项“她们较少承认自己遭受的不公，或放弃维护自身权利”符合文意。第一项与男性70%、女性52%的报告比例相反；第二项说女性遭受的不公少于男性，文章没有这样说；第四项把问题范围限缩为家庭和村庄，文章虽提到这些障碍，但并未说仅限于此。",
+        "q2": "证据给出女性放弃程序的比例为38%，男性为34%，说明女性更常放弃；后文又说64%的女性没有正规教育，男性为47%，说明女性没有正规教育的比例更高。因此第四项同时符合这两项比较。第一项说女性更少放弃且更常接受正规教育，方向相反；第二项说放弃频率相同，不符；第三项说女性没有正规教育的比例更低，与64%高于47%相反。",
+        "q3": "证据说萨乌达失去了使用丈夫田地的机会，后来在被告知自己的权利后重新获得土地，说明实际障碍可能使女性在知悉权利前失去土地使用权。因此第一项“它表明一名女性可能在被告知自己的权利之前失去对土地的使用权”符合。第二项说女性完全没有拥有土地的权利，与法律承认权利相反；第三项说土地纠纷在男性中更常见，文章未作此比较；第四项说监护总由法庭裁定，与后文监护常在庭外决定矛盾。",
+        "q4": "证据明确说，对于全体人口，家庭暴力在2022年至2024年间从第八位升至第三位。因此第三项“它在2022年至2024年间从第八位升至第三位”正确。第一项把方向说反；第二项说保持第三位，忽略变化；第四项说它成为全体人口最常提到的问题，文章只说女性最常提到，且全体排名为第三。",
+        "q5": "证据说离婚或死亡后，子女监护常常在法庭之外决定，并说习惯规范可能偏向父亲。因此第二项“它常常在法庭之外决定，而习惯规范可能偏向父亲”直接概括了文意。第一项说总由法庭按习惯规则作出，与“庭外决定”相反；第三项说监护自动归母亲，文章未说；第四项说监护很少与家庭冲突或被拘留有关，与阿米娜因监护冲突被拘留的例子相悖。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "关于女性对司法问题的承认情况，调查揭示了什么？",
+          "options": [
+            "她们比男性更常声明自己遇到司法问题。",
+            "她们遭受的不公少于男性，因此很少报告。",
+            "她们较少承认自己遭受的不公，或放弃维护自身权利。",
+            "她们只在家庭和村庄中遇到司法问题。"
+          ]
+        },
+        "q2": {
+          "prompt": "关于程序和受教育情况，文章在女性和男性之间作了什么比较？",
+          "options": [
+            "她们更少放弃一项程序，并且更常接受正规教育。",
+            "她们放弃一项程序的频率与男性相同，并且正规教育更少。",
+            "她们更常放弃一项程序，并且没有正规教育的比例更低。",
+            "她们更常放弃一项程序，并且更常没有正规教育。"
+          ]
+        },
+        "q3": {
+          "prompt": "在关于土地的段落中，萨乌达的例子起什么作用？",
+          "options": [
+            "它表明一名女性可能在被告知自己的权利之前失去对土地的使用权。",
+            "它证明尼日尔女性完全没有拥有土地的权利。",
+            "它解释为什么土地纠纷在男性中更常见。",
+            "它说明子女监护总是由法庭裁定。"
+          ]
+        },
+        "q4": {
+          "prompt": "对于全体人口而言，家庭暴力在所列问题中的位置如何变化？",
+          "options": [
+            "它在2022年至2024年间从第三位降至第八位。",
+            "它在2022年至2024年间保持第三位。",
+            "它在2022年至2024年间从第八位升至第三位。",
+            "它在2024年成为全体人口最常提到的问题。"
+          ]
+        },
+        "q5": {
+          "prompt": "文章如何说明离婚或死亡后的子女监护决定？",
+          "options": [
+            "它总是由法庭按照习惯规则作出。",
+            "它常常在法庭之外决定，而习惯规范可能偏向父亲。",
+            "由于尼日尔法律，它自动归母亲。",
+            "它很少与家庭冲突或被拘留有关。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Au Niger, les femmes perdent leurs droits avant même d’entrer au tribunal",
+    "authors": [
+      "Jean Sovon"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/22/304374/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-23",
+    "publishedAt": "2026-11-22",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-23",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

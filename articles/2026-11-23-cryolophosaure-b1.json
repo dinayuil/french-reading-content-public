@@ -1,0 +1,322 @@
+{
+  "id": "2026-11-23-cryolophosaure-b1",
+  "title": "Le cryolophosaure, un dinosaure du Gondwana",
+  "level": "B1",
+  "theme": "science",
+  "date": "2026-11-23",
+  "summary": "Le cryolophosaure est un dinosaure carnivore du Jurassique. Il vivait en Antarctique, dans une forêt du Gondwana, et ses fossiles aident les scientifiques à mieux comprendre l’évolution des théropodes.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Le cryolophosaure est un genre de dinosaures théropodes carnivores.",
+        "Il vivait dans ce qui est aujourd’hui l’Antarctique, au Jurassique, il y a environ 189 à 183 millions d’années.",
+        "Il avait une petite crête très particulière sur le dessus de la tête.",
+        "Il a disparu."
+      ]
+    },
+    {
+      "sentences": [
+        "Au début du Jurassique, cette région se trouvait plus au nord et faisait partie du Gondwana.",
+        "Le site était une chaîne de hautes montagnes, à 4 000 mètres d’altitude.",
+        "On y a trouvé des troncs fossilisés, donc le site était autrefois une forêt.",
+        "Le cryolophosaure vivait dans cette forêt avec d’autres dinosaures."
+      ]
+    },
+    {
+      "sentences": [
+        "Il vivait peut-être avec le glacialisaure, qui pouvait être une de ses proies.",
+        "Des fossiles d’un petit ptérosaure et d’un mammifère préhistorique ont aussi été découverts là.",
+        "La tectonique des plaques a ensuite fait éclater le Gondwana.",
+        "Elle a créé l’océan Antarctique et l’océan Indien."
+      ]
+    },
+    {
+      "sentences": [
+        "Les fossiles ont voyagé avec le continent qui est devenu l’Antarctique, plus de 1 000 kilomètres vers le sud.",
+        "Les roches formées sous un climat tempéré se sont retrouvées à 650 kilomètres du pôle Sud.",
+        "Elles ont été recouvertes par une épaisse couche de glace.",
+        "Les scientifiques les ont découvertes là."
+      ]
+    },
+    {
+      "sentences": [
+        "Les scientifiques savaient déjà que l’Antarctique faisait partie du Gondwana et qu’il y faisait moins froid.",
+        "Ils pensaient donc qu’il pouvait y avoir beaucoup de fossiles.",
+        "Mais la glace recouvre ces roches, et on ne peut chercher que pendant l’été, quand elle fond."
+      ]
+    },
+    {
+      "sentences": [
+        "Les premiers fossiles ont été découverts par l’équipe de William Hammer pendant l’été 1990-1991.",
+        "David Elliot a trouvé l’animal en premier, donc le dinosaure a été nommé Cryolophosaurus ellioti.",
+        "L’équipe a rapporté les roches au laboratoire pour les étudier.",
+        "Il est un des plus anciens théropodes et le plus ancien tétanoure connu, un groupe qui comprend les oiseaux."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "théropodes"
+    },
+    {
+      "term": "crête"
+    },
+    {
+      "term": "Gondwana"
+    },
+    {
+      "term": "fossilisés"
+    },
+    {
+      "term": "glacialisaure"
+    },
+    {
+      "term": "ptérosaure"
+    },
+    {
+      "term": "tectonique des plaques"
+    },
+    {
+      "term": "tétanoure"
+    },
+    {
+      "term": "Jurassique"
+    },
+    {
+      "term": "altitude"
+    },
+    {
+      "term": "tempéré"
+    },
+    {
+      "term": "pôle Sud"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Pourquoi le dinosaure a-t-il été nommé Cryolophosaurus ellioti ?",
+      "options": [
+        "Parce que William Hammer a dirigé l’équipe qui a découvert les premiers fossiles.",
+        "Parce que l’équipe a rapporté les roches au laboratoire pour les étudier.",
+        "Parce que David Elliot a trouvé l’animal en premier sur le site.",
+        "Parce qu’il vivait dans une forêt du Gondwana avec d’autres dinosaures."
+      ],
+      "answerIndex": 2,
+      "evidence": "David Elliot a trouvé l’animal en premier, donc le dinosaure a été nommé Cryolophosaurus ellioti.",
+      "explanation": "Le texte relie directement le nom Cryolophosaurus ellioti au fait que David Elliot a trouvé l’animal en premier. William Hammer a dirigé l’équipe, mais ce n’est pas la raison donnée pour le nom."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi ne peut-on chercher des fossiles qu’en été en Antarctique ?",
+      "options": [
+        "Parce que la glace qui recouvre les roches fond pendant cette saison.",
+        "Parce que les roches sont recouvertes par une couche de glace toute l’année.",
+        "Parce que les fossiles ont voyagé avec le continent vers le sud.",
+        "Parce que les scientifiques doivent rapporter les roches au laboratoire."
+      ],
+      "answerIndex": 0,
+      "evidence": "Mais la glace recouvre ces roches, et on ne peut chercher que pendant l’été, quand elle fond.",
+      "explanation": "Le passage indique que la recherche n’est possible que quand la glace fond, c’est-à-dire pendant l’été. Les autres options ne correspondent pas à cette contrainte."
+    },
+    {
+      "id": "q3",
+      "prompt": "Qu’est-ce qui indique que le site était autrefois une forêt ?",
+      "options": [
+        "La présence de hautes montagnes à 4 000 mètres d’altitude.",
+        "La découverte de troncs fossilisés dans le sol.",
+        "La découverte de fossiles d’un petit ptérosaure.",
+        "Le fait que les roches se trouvent à 650 kilomètres du pôle Sud."
+      ],
+      "answerIndex": 1,
+      "evidence": "On y a trouvé des troncs fossilisés, donc le site était autrefois une forêt.",
+      "explanation": "Le texte déduit l’existence d’une ancienne forêt à partir des troncs fossilisés trouvés sur le site. Les montagnes ou les autres fossiles ne prouvent pas cela."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel est le rôle du dernier paragraphe ?",
+      "options": [
+        "Il décrit le climat tempéré de l’Antarctique au Jurassique.",
+        "Il explique comment la tectonique des plaques a séparé le Gondwana.",
+        "Il montre pourquoi les chercheurs ne peuvent travailler que l’été.",
+        "Il raconte la découverte des premiers fossiles et le nom donné au dinosaure."
+      ],
+      "answerIndex": 3,
+      "evidence": "Les premiers fossiles ont été découverts par l’équipe de William Hammer pendant l’été 1990-1991.",
+      "explanation": "Le dernier paragraphe commence par la découverte des fossiles par l’équipe de William Hammer, puis explique le nom et l’importance de l’animal. Il ne traite ni du climat ni de la tectonique."
+    },
+    {
+      "id": "q5",
+      "prompt": "Pourquoi les fossiles du cryolophosaure ont-ils été retrouvés en Antarctique ?",
+      "options": [
+        "Parce qu’ils sont restés sur le continent qui est devenu l’Antarctique.",
+        "Parce que l’équipe de William Hammer les a transportés vers le sud.",
+        "Parce que la glace les a recouverts d’une épaisse couche.",
+        "Parce que le site était une chaîne de montagnes à 4 000 mètres."
+      ],
+      "answerIndex": 0,
+      "evidence": "Les fossiles ont voyagé avec le continent qui est devenu l’Antarctique, plus de 1 000 kilomètres vers le sud.",
+      "explanation": "Le texte dit que les fossiles ont suivi le continent devenu l’Antarctique. Ils n’ont pas été déplacés par les chercheurs, et la glace les a recouverts après leur arrivée."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "冰脊龙：一种冈瓦纳恐龙",
+      "summary": "冰脊龙是一种侏罗纪的肉食性恐龙。它生活在南极洲，在冈瓦纳古陆的一片森林中，其化石帮助科学家更好地理解兽脚类恐龙的演化。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "冰脊龙是兽脚类肉食性恐龙的一个属。",
+            "它生活在今天的南极洲地区，时代为侏罗纪，距今约1.89亿至1.83亿年。",
+            "它的头顶有一个非常独特的小冠饰。",
+            "它已经灭绝。"
+          ]
+        },
+        {
+          "sentences": [
+            "在侏罗纪早期，这一地区位于更北的位置，并且是冈瓦纳古陆的一部分。",
+            "该地点曾是一条海拔4000米的高山脉。",
+            "人们在那里发现了化石树干，因此该地点过去是一片森林。",
+            "冰脊龙与其它恐龙一起生活在这片森林中。"
+          ]
+        },
+        {
+          "sentences": [
+            "它也许与冰川龙生活在一起，而冰川龙可能是它的猎物之一。",
+            "那里还发现了小型翼龙和一种史前哺乳动物的化石。",
+            "随后，板块构造运动使冈瓦纳古陆分裂。",
+            "这一运动形成了南极洋和印度洋。"
+          ]
+        },
+        {
+          "sentences": [
+            "这些化石随着后来成为南极洲的大陆向南移动了1000多公里。",
+            "在温带气候下形成的岩石最终位于距南极点650公里处。",
+            "它们被一层厚厚的冰覆盖。",
+            "科学家们在那里发现了这些岩石。"
+          ]
+        },
+        {
+          "sentences": [
+            "科学家们已经知道南极洲曾是冈瓦纳古陆的一部分，而且那里没有那么寒冷。",
+            "因此他们认为那里可能有很多化石。",
+            "但是冰覆盖着这些岩石，人们只能在夏季冰融化时进行寻找。"
+          ]
+        },
+        {
+          "sentences": [
+            "首批化石由 William Hammer 的团队在1990—1991年夏季发现。",
+            "David Elliot 最先发现了这只动物，因此这种恐龙被命名为 Cryolophosaurus ellioti。",
+            "团队把岩石带回实验室进行研究。",
+            "它是最古老的兽脚类恐龙之一，也是已知最古老的坚尾龙类，而坚尾龙类是一个包括鸟类的类群。"
+          ]
+        }
+      ],
+      "glossary": {
+        "théropodes": "兽脚类恐龙，是恐龙中的一大类，多为肉食性，鸟类也属于这一演化支。",
+        "crête": "冠饰；这里指冰脊龙头顶上独特的骨质突起。",
+        "Gondwana": "冈瓦纳古陆，古代南半球的超级大陆，包括今天的南极洲、非洲、南美洲、印度、澳大利亚等地区。",
+        "fossilisés": "化石化的；指生物遗体或遗迹经过长时间地质作用变成化石。",
+        "glacialisaure": "冰川龙（Glacialisaurus），一种蜥脚类恐龙，可能为冰脊龙的猎物。",
+        "ptérosaure": "翼龙，中生代能飞行的爬行动物，不是恐龙。",
+        "tectonique des plaques": "板块构造运动，指地球岩石圈板块的运动，可导致大陆分裂和海洋形成。",
+        "tétanoure": "坚尾龙类（Tetanurae），兽脚类恐龙的一个类群，包括鸟类。",
+        "Jurassique": "侏罗纪，中生代的一个地质时期，约2.01亿至1.45亿年前。",
+        "altitude": "海拔；某地点相对于海平面的高度。",
+        "tempéré": "温带的；气候温和，四季较分明，不极冷也不极热。",
+        "pôle Sud": "南极点，地球最南端的点。"
+      },
+      "questions": {
+        "q1": "文中直接说明：David Elliot 最先发现了这只动物，因此这种恐龙被命名为 Cryolophosaurus ellioti。也就是说，命名中的 ellioti 与 David Elliot 的发现直接相关，而不是因为 William Hammer 领导团队；把岩石带回实验室只是研究步骤；生活在冈瓦纳森林也不是文中给出的命名理由。",
+        "q2": "证据句说明冰覆盖着这些岩石，只有夏季冰融化时才能寻找化石；因此“覆盖岩石的冰在这个季节融化”是限制的原因。岩石全年被冰覆盖只说明障碍存在，并未解释夏季；化石随大陆南移讲的是化石位置；把岩石带回实验室是后续研究，不是只能夏季搜寻的原因。",
+        "q3": "文中由“发现了化石树干”推出该地点过去是一片森林；因此“在土壤中发现了化石树干”是直接证据。海拔4000米的高山、翼龙化石、距南极点650公里都不能说明过去有森林。",
+        "q4": "最后一段先讲 William Hammer 团队发现首批化石，再说明 David Elliot 最先发现以及恐龙名称和重要性；因此它的作用是讲述发现与命名。温带气候和板块构造在前文，夏季工作限制在第五段，不是最后一段的主旨。",
+        "q5": "文中说化石随着后来成为南极洲的大陆向南移动了1000多公里，所以它们留在该大陆上并在南极洲被发现。不是 William Hammer 的团队把化石运到南方；冰是后来覆盖化石；海拔4000米的山脉描述的是古环境，不解释化石为何在南极洲。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "这种恐龙为什么被命名为 Cryolophosaurus ellioti？",
+          "options": [
+            "因为 William Hammer 领导了发现首批化石的团队。",
+            "因为团队把岩石带回实验室进行研究。",
+            "因为 David Elliot 最先在遗址发现了这只动物。",
+            "因为它与其它恐龙一起生活在冈瓦纳的一片森林中。"
+          ]
+        },
+        "q2": {
+          "prompt": "为什么在南极洲只能在夏季寻找化石？",
+          "options": [
+            "因为覆盖岩石的冰在这个季节融化。",
+            "因为岩石全年都被一层冰覆盖。",
+            "因为化石随大陆向南移动了。",
+            "因为科学家必须把岩石带回实验室。"
+          ]
+        },
+        "q3": {
+          "prompt": "什么表明该地点过去是一片森林？",
+          "options": [
+            "存在海拔4000米的高山。",
+            "在土壤中发现了化石树干。",
+            "发现了一只小型翼龙的化石。",
+            "岩石位于距南极点650公里处。"
+          ]
+        },
+        "q4": {
+          "prompt": "最后一段的作用是什么？",
+          "options": [
+            "它描述了侏罗纪南极洲的温带气候。",
+            "它解释了板块构造运动如何使冈瓦纳古陆分离。",
+            "它说明了研究人员为什么只能在夏季工作。",
+            "它讲述了首批化石的发现以及给这种恐龙起的名字。"
+          ]
+        },
+        "q5": {
+          "prompt": "为什么冰脊龙的化石会在南极洲被发现？",
+          "options": [
+            "因为它们留在了后来成为南极洲的那块大陆上。",
+            "因为 William Hammer 的团队把它们运到了南方。",
+            "因为冰把它们覆盖在厚厚的一层之下。",
+            "因为该地点是海拔4000米的山脉。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Cryolophosaure",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2372204&title=Cryolophosaure",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-23",
+    "revisionId": "2372204"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-23",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-23-cryolophosaure-b1-8e0ddcbe4656.jpg",
+    "alt": "Cryolophosaurus",
+    "author": "OnFirstWhoIs",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Augustana_College_Cryolophosaurus.JPG?oldid=1084073959",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Réduite à 1280×857 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 857,
+    "byteLength": 252528,
+    "sha256": "8e0ddcbe46560f565ae3601c1d10212c096e5a1237d65ae8f2f1d9831bf7ecba",
+    "fileRevisionId": "1084073959",
+    "retrievedAt": "2026-11-23"
+  }
+}

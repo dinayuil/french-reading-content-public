@@ -1,0 +1,252 @@
+{
+  "id": "2026-11-23-au-niger-les-femmes-perdent-leurs-droits-avant-meme-d-entrer-a2",
+  "title": "Les femmes et la justice au Niger",
+  "level": "A2",
+  "theme": "société",
+  "date": "2026-11-23",
+  "summary": "Au Niger, beaucoup de femmes ont des problèmes de justice, surtout pour la terre, l’héritage et les enfants. Elles connaissent mal leurs droits et rencontrent des obstacles.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Au Niger, plus de la moitié de la population a connu un problème de justice en 2024.",
+        "L’enquête HiiL montre que 61 % des personnes sont concernées.",
+        "Les hommes parlent plus souvent de ces problèmes que les femmes."
+      ]
+    },
+    {
+      "sentences": [
+        "Pourtant, les femmes ont aussi besoin de justice.",
+        "Elles rencontrent plus d’obstacles dans la famille et au village.",
+        "Beaucoup ne connaissent pas leurs droits."
+      ]
+    },
+    {
+      "sentences": [
+        "Les problèmes concernent souvent la terre, l’héritage et la garde des enfants.",
+        "La violence domestique est le problème le plus cité par les femmes.",
+        "29 % des femmes disent en avoir été victimes."
+      ]
+    },
+    {
+      "sentences": [
+        "La loi donne aux femmes le droit de posséder et d’hériter des terres.",
+        "Mais les règles coutumières peuvent les priver de leur part.",
+        "Une veuve peut perdre le champ de son mari."
+      ]
+    },
+    {
+      "sentences": [
+        "Après une séparation, la garde des enfants se décide souvent hors du tribunal.",
+        "Les normes coutumières favorisent parfois le père.",
+        "Certaines femmes ne savent pas qu’elles peuvent demander la garde."
+      ]
+    },
+    {
+      "sentences": [
+        "Pour aider, il faut informer les femmes dans les langues locales.",
+        "Il faut aussi former les chefs traditionnels et les religieux.",
+        "Des cliniques juridiques peuvent soutenir les femmes rurales."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "HiiL"
+    },
+    {
+      "term": "enquête"
+    },
+    {
+      "term": "coutumières"
+    },
+    {
+      "term": "héritage"
+    },
+    {
+      "term": "garde"
+    },
+    {
+      "term": "veuve"
+    },
+    {
+      "term": "domestique"
+    },
+    {
+      "term": "cliniques juridiques"
+    },
+    {
+      "term": "religieux"
+    },
+    {
+      "term": "rurales"
+    },
+    {
+      "term": "normes"
+    },
+    {
+      "term": "victimes"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quel est le sujet principal de l’article ?",
+      "options": [
+        "Les droits des femmes au Niger et les difficultés pour les faire respecter.",
+        "Les problèmes de justice des hommes au Niger et leurs solutions.",
+        "Le rôle des tribunaux dans la garde des enfants au Niger.",
+        "L’usage des langues locales dans les enquêtes au Niger."
+      ],
+      "answerIndex": 0,
+      "evidence": "Pourtant, les femmes ont aussi besoin de justice.",
+      "explanation": "L’article parle surtout des problèmes de justice des femmes et des obstacles qui les empêchent de faire valoir leurs droits. Les autres options portent sur des points secondaires ou sur les hommes."
+    },
+    {
+      "id": "q2",
+      "prompt": "Selon l’article, quelle part des femmes dit avoir été victime de violence domestique ?",
+      "options": [
+        "61 %",
+        "La moitié",
+        "29 %",
+        "Un quart"
+      ],
+      "answerIndex": 2,
+      "evidence": "29 % des femmes disent en avoir été victimes.",
+      "explanation": "Le texte donne clairement le chiffre de 29 % pour les femmes victimes de violence domestique. 61 % concerne les personnes ayant un problème de justice, et les autres proportions ne sont pas données."
+    },
+    {
+      "id": "q3",
+      "prompt": "Pourquoi une veuve peut-elle perdre le champ de son mari ?",
+      "options": [
+        "Parce que la loi lui interdit de posséder des terres.",
+        "Parce que les règles coutumières peuvent la priver de sa part.",
+        "Parce qu’elle ne connaît pas la langue locale.",
+        "Parce qu’après une séparation, la garde se décide hors du tribunal."
+      ],
+      "answerIndex": 1,
+      "evidence": "Mais les règles coutumières peuvent les priver de leur part.",
+      "explanation": "Le texte explique que les règles coutumières peuvent priver les femmes de leur part, ce qui peut faire perdre son champ à une veuve. La loi, au contraire, leur donne le droit de posséder des terres."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "尼日尔女性与司法",
+      "summary": "在尼日尔，许多女性遇到司法问题，尤其涉及土地、遗产和孩子。她们不太了解自己的权利，并遇到障碍。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "2024年，尼日尔超过一半的人口遇到过司法问题。",
+            "HiiL的调查显示，61%的人受到影响。",
+            "男性比女性更经常谈论这些问题。"
+          ]
+        },
+        {
+          "sentences": [
+            "然而，女性也需要司法。",
+            "她们在家庭和村庄中遇到更多障碍。",
+            "许多人不知道自己的权利。"
+          ]
+        },
+        {
+          "sentences": [
+            "这些问题常常涉及土地、遗产和子女监护。",
+            "家庭暴力是女性最常提到的问题。",
+            "29%的女性说曾是其受害者。"
+          ]
+        },
+        {
+          "sentences": [
+            "法律赋予女性拥有和继承土地的权利。",
+            "但习惯规则可能剥夺她们的份额。",
+            "寡妇可能失去丈夫的田地。"
+          ]
+        },
+        {
+          "sentences": [
+            "分居后，子女监护常常在法庭之外决定。",
+            "习惯规范有时偏向父亲。",
+            "一些女性不知道自己可以申请监护。"
+          ]
+        },
+        {
+          "sentences": [
+            "为了提供帮助，必须用当地语言告知女性。",
+            "还必须培训传统首领和宗教人士。",
+            "法律诊所可以支持农村女性。"
+          ]
+        }
+      ],
+      "glossary": {
+        "HiiL": "HiiL（海牙国际法律创新研究所）是一个开展司法相关调查的机构。",
+        "enquête": "调查；指为收集信息而进行的系统询问或研究。",
+        "coutumières": "习惯的、习俗的；这里指习惯法规则。",
+        "héritage": "继承；指继承财产或遗产。",
+        "garde": "监护；这里指对子女的照护和监护权。",
+        "veuve": "寡妇；丈夫去世的女性。",
+        "domestique": "家庭的、家内的；这里指家庭暴力。",
+        "cliniques juridiques": "法律诊所；提供法律咨询和援助的服务机构。",
+        "religieux": "宗教的；这里作名词指宗教人士或宗教领袖。",
+        "rurales": "农村的；这里指农村女性。",
+        "normes": "规范、准则；这里指习惯规范。",
+        "victimes": "受害者；遭受暴力或侵害的人。"
+      },
+      "questions": {
+        "q1": "文章重点讲尼日尔女性在司法方面的问题，以及她们在家庭、村庄等环境中遇到、妨碍其维护权利的障碍；因此正确选项是“尼日尔女性的权利以及落实这些权利的困难。”第二项讲男性的司法问题及解决办法，只是次要或偏离；第三项只涉及法院与子女监护这一具体点；第四项只涉及调查中使用当地语言，也不是主旨。",
+        "q2": "文中直接写明“29 %的女性说曾是其受害者”，因此正确选项是第三项“29%”。第一项61%指遇到司法问题的人，不是遭受家庭暴力的女性比例；第二项“一半”和第四项“四分之一”在文中没有作为该比例出现。",
+        "q3": "文中说“但习惯规则可能剥夺她们的份额”，这直接解释寡妇为何可能失去丈夫的田地，因此正确选项是第二项“因为习惯规则可能剥夺她的份额。”第一项与文意相反，法律赋予女性拥有土地的权利；第三项谈当地语言，与失去田地的原因无关；第四项谈分居后子女监护在法庭外决定，是另一个问题。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "文章的主要内容是什么？",
+          "options": [
+            "尼日尔女性的权利以及落实这些权利的困难。",
+            "尼日尔男性的司法问题及其解决办法。",
+            "尼日尔法院在子女监护中的作用。",
+            "尼日尔调查中使用当地语言。"
+          ]
+        },
+        "q2": {
+          "prompt": "根据文章，有多大比例的女性说曾遭受家庭暴力？",
+          "options": [
+            "61%",
+            "一半",
+            "29%",
+            "四分之一"
+          ]
+        },
+        "q3": {
+          "prompt": "为什么寡妇可能失去丈夫的田地？",
+          "options": [
+            "因为法律禁止她拥有土地。",
+            "因为习惯规则可能剥夺她的份额。",
+            "因为她们不懂当地语言。",
+            "因为分居后，监护常在法庭之外决定。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Au Niger, les femmes perdent leurs droits avant même d’entrer au tribunal",
+    "authors": [
+      "Jean Sovon"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/22/304374/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-23",
+    "publishedAt": "2026-11-22",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-23",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "id": "2026-11-23-almace-b1",
+  "title": "Almace, l’épée légendaire de l’archevêque Turpin",
+  "level": "B1",
+  "theme": "histoire",
+  "date": "2026-11-23",
+  "summary": "Almace est l’épée légendaire de Turpin, archevêque et chevalier de Charlemagne. Elle apparaît surtout dans les chansons de geste, puis dans le trésor de Saint-Denis et des jeux vidéo.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Almace est l’épée légendaire de Turpin.",
+        "Turpin est archevêque de Reims, chevalier et un des douze pairs de Charlemagne.",
+        "Plusieurs chansons de geste du cycle carolingien parlent de lui.",
+        "Ces œuvres ont été très populaires en Europe entre le XIe et le XIVe siècle."
+      ]
+    },
+    {
+      "sentences": [
+        "Dans ces récits, les épées des grands chevaliers ont souvent un nom.",
+        "Roland a Durandal et Charlemagne a Joyeuse.",
+        "Le nom Almace montre donc l’importance de Turpin dans ces textes.",
+        "Pourtant, les chansons de geste parlent rarement de cette épée et ne la décrivent pas beaucoup."
+      ]
+    },
+    {
+      "sentences": [
+        "La mention principale se trouve dans la Chanson de Roland.",
+        "Turpin utilise Almace à la fin de la bataille de Roncevaux.",
+        "Il est blessé et la bataille est perdue.",
+        "L’archevêque se relève encore pour frapper les Sarrasins."
+      ]
+    },
+    {
+      "sentences": [
+        "La Chanson de Gaufrey donne à Almace une origine sarrasine.",
+        "Des chercheurs pensent que son nom peut venir de l’arabe, mais il n’y a pas d’accord.",
+        "L’épée apparaît aussi dans le trésor de l’abbaye de Saint-Denis, où des inventaires la décrivent rapidement.",
+        "Elle disparaît ensuite, probablement pendant la Révolution française."
+      ]
+    },
+    {
+      "sentences": [
+        "Aujourd’hui, Almace apparaît dans plusieurs jeux vidéo de rôle.",
+        "Certains jeux lui donnent des pouvoirs magiques, comme celui de geler les ennemis.",
+        "L’épée reste donc un symbole de la culture médiévale et de la légende de Charlemagne."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "légendaire"
+    },
+    {
+      "term": "archevêque"
+    },
+    {
+      "term": "cycle carolingien"
+    },
+    {
+      "term": "chansons de geste"
+    },
+    {
+      "term": "pairs"
+    },
+    {
+      "term": "Sarrasins"
+    },
+    {
+      "term": "sarrasine"
+    },
+    {
+      "term": "inventaires"
+    },
+    {
+      "term": "abbaye"
+    },
+    {
+      "term": "Révolution française"
+    },
+    {
+      "term": "pouvoirs magiques"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q2",
+      "prompt": "Quel contraste l’article souligne-t-il à propos d’Almace dans les chansons de geste ?",
+      "options": [
+        "Le nom d’Almace est rare, mais l’épée est décrite en détail.",
+        "Almace est souvent nommée, mais Turpin n’a aucune importance.",
+        "Le nom d’Almace met Turpin en valeur, mais l’épée est rarement décrite.",
+        "L’épée est importante, mais Roland et Charlemagne n’ont pas d’épée nommée."
+      ],
+      "answerIndex": 2,
+      "evidence": "Pourtant, les chansons de geste parlent rarement de cette épée et ne la décrivent pas beaucoup.",
+      "explanation": "Le texte affirme d’abord que le nom Almace montre l’importance de Turpin, puis il ajoute que l’épée elle-même est peu racontée et peu décrite. Les autres options inversent ce contraste ou contredisent des informations du texte."
+    },
+    {
+      "id": "q3",
+      "prompt": "Dans la Chanson de Roland, dans quelle situation Turpin utilise-t-il Almace ?",
+      "options": [
+        "Il est blessé et la bataille est perdue, mais il frappe encore les Sarrasins.",
+        "Il n’est pas blessé et la bataille est gagnée, donc il range Almace.",
+        "Il utilise Almace au début de la bataille pour protéger Charlemagne.",
+        "Il donne Almace aux Sarrasins parce que la bataille est perdue."
+      ],
+      "answerIndex": 0,
+      "evidence": "Il est blessé et la bataille est perdue.",
+      "explanation": "Le texte précise que Turpin est blessé et que la bataille est perdue, puis qu’il se relève encore pour frapper les Sarrasins. La bonne réponse combine donc sa blessure, la défaite et son action."
+    },
+    {
+      "id": "q4",
+      "prompt": "Que dit l’article sur l’origine du nom Almace ?",
+      "options": [
+        "Tous les chercheurs pensent qu’il vient de l’arabe.",
+        "La Chanson de Gaufrey prouve que le nom vient du latin.",
+        "Le nom vient certainement de l’abbaye de Saint-Denis.",
+        "Des chercheurs pensent qu’il peut venir de l’arabe, mais il n’y a pas d’accord."
+      ],
+      "answerIndex": 3,
+      "evidence": "Des chercheurs pensent que son nom peut venir de l’arabe, mais il n’y a pas d’accord.",
+      "explanation": "L’article parle d’une hypothèse arabe, mais signale aussitôt un désaccord entre chercheurs. Les autres options présentent comme certaine une origine que le texte ne soutient pas."
+    },
+    {
+      "id": "q5",
+      "prompt": "Qu’arrive-t-il à Almace après sa présence dans le trésor de Saint-Denis ?",
+      "options": [
+        "Elle est donnée à Turpin à Roncevaux.",
+        "Elle est conservée aujourd’hui dans l’abbaye de Saint-Denis.",
+        "Elle disparaît, probablement pendant la Révolution française.",
+        "Elle est gelée par des pouvoirs magiques dans les jeux vidéo."
+      ],
+      "answerIndex": 2,
+      "evidence": "Elle disparaît ensuite, probablement pendant la Révolution française.",
+      "explanation": "Le texte indique qu’après les inventaires de Saint-Denis, l’épée disparaît, sans certitude sur la date exacte. Les autres réponses déplacent des éléments du texte ou contredisent sa disparition."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quel est le rôle du dernier paragraphe ?",
+      "options": [
+        "Il raconte la fin de la bataille de Roncevaux.",
+        "Il explique comment l’épée est arrivée à Saint-Denis.",
+        "Il liste les douze pairs de Charlemagne.",
+        "Il montre qu’Almace reste présente aujourd’hui dans la culture, notamment dans des jeux vidéo."
+      ],
+      "answerIndex": 3,
+      "evidence": "Aujourd’hui, Almace apparaît dans plusieurs jeux vidéo de rôle.",
+      "explanation": "Le dernier paragraphe quitte les récits médiévaux pour montrer la présence actuelle d’Almace dans des jeux vidéo. Les autres options renvoient à des passages situés avant ce paragraphe."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "阿尔马斯，图尔潘大主教的传奇之剑",
+      "summary": "阿尔马斯是图尔潘的传奇之剑，图尔潘是查理曼的大主教和骑士。它主要出现在武功歌中，随后出现在圣但尼宝藏和电子游戏中。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "阿尔马斯是图尔潘的传奇之剑。",
+            "图尔潘是兰斯大主教、骑士，也是查理曼的十二位重臣之一。",
+            "加洛林史诗组中的多部武功歌都谈到他。",
+            "这些作品在11世纪至14世纪间于欧洲非常流行。"
+          ]
+        },
+        {
+          "sentences": [
+            "在这些叙事中，伟大骑士的剑往往有一个名字。",
+            "罗兰有杜兰达尔，查理曼有茹瓦约斯。",
+            "因此，阿尔马斯之名显示了图尔潘在这些文本中的重要性。",
+            "然而，武功歌很少谈到这把剑，也不怎么描写它。"
+          ]
+        },
+        {
+          "sentences": [
+            "主要记载见于《罗兰之歌》。",
+            "图尔潘在龙塞沃战役结束时使用阿尔马斯。",
+            "他受了伤，战役已经失败。",
+            "大主教仍再次起身打击萨拉森人。"
+          ]
+        },
+        {
+          "sentences": [
+            "《戈弗雷之歌》赋予阿尔马斯萨拉森人的起源。",
+            "一些研究者认为其名字可能来自阿拉伯语，但并没有一致意见。",
+            "这把剑也出现在圣但尼修道院的珍宝中，那里的一些清单简要描述了它。",
+            "它随后消失了，可能是在法国大革命期间。"
+          ]
+        },
+        {
+          "sentences": [
+            "今天，阿尔马斯出现在多款角色扮演电子游戏中。",
+            "有些游戏赋予它魔法力量，例如冻结敌人。",
+            "因此，这把剑仍然是中世纪文化和查理曼传说的象征。"
+          ]
+        }
+      ],
+      "glossary": {
+        "légendaire": "传说性的、传说中的；指属于传说而非确证历史的事物。",
+        "archevêque": "大主教；基督教中的高级主教，负责一个教省。",
+        "cycle carolingien": "加洛林史诗组；围绕查理曼及其骑士的中世纪史诗群。",
+        "chansons de geste": "武功歌；中世纪法语叙事诗，歌颂骑士英雄事迹。",
+        "pairs": "重臣、同侪；此处指查理曼的十二位重要贵族或骑士。",
+        "Sarrasins": "萨拉森人；中世纪欧洲对阿拉伯人或穆斯林民族的称呼。",
+        "sarrasine": "萨拉森人的；源自萨拉森人或阿拉伯-穆斯林传统的。",
+        "inventaires": "清单；此处指修道院珍宝的财产或藏品清单。",
+        "abbaye": "修道院；此处指圣但尼修道院。",
+        "Révolution française": "法国大革命；1789年开始的法国政治与社会剧变。",
+        "pouvoirs magiques": "魔法力量；超自然能力。"
+      },
+      "questions": {
+        "q2": "文章先说阿尔马斯之名显示图尔潘在这些文本中的重要性，随后用“然而”转折指出武功歌很少谈这把剑、也不多描写它。正确选项把“名字凸显图尔潘”和“剑本身少被描写”合为对比；其余选项或把名字说成罕见并称剑被详写，或称图尔潘无足轻重，或否认罗兰和查理曼有具名剑，均与原文矛盾。",
+        "q3": "证据句说明图尔潘受伤、战役失败，紧接着说大主教仍起身打击萨拉森人。正确选项把受伤、战败和继续攻击三点连起来；其余选项分别改成未受伤且获胜后收剑、开战时保护查理曼、或因战败把剑交给萨拉森人，均与原文情境不符。",
+        "q4": "证据句提出“可能来自阿拉伯语”的研究假设，同时明确说没有一致意见。正确选项保留可能性和分歧两点；其余选项把阿拉伯语说成所有研究者一致、把拉丁语或圣但尼修道院说成确定来源，均超出或违背原文。",
+        "q5": "证据句紧接圣但尼珍宝和清单之后，说这把剑随后消失，并推测可能发生在法国大革命期间。正确选项复现“消失”和“可能在大革命期间”；其余选项说它被交给图尔潘、今天仍保存在圣但尼、或在游戏中被魔法冻结，均偷换时间或情节，与证据不符。",
+        "q6": "证据句以“今天”开头，指出阿尔马斯出现在多款角色扮演游戏中；该段随后谈游戏赋予的魔法和剑作为文化象征，因此作用是展示其当代文化存在。其余选项分别对应龙塞沃战役结局、剑到圣但尼的经过、十二位重臣名单，这些内容位于前文而非最后一段。"
+      },
+      "questionTexts": {
+        "q2": {
+          "prompt": "文章就武功歌中的阿尔马斯强调了什么对比？",
+          "options": [
+            "阿尔马斯之名很少见，但这把剑被详细描写。",
+            "阿尔马斯常被提及，但图尔潘毫无重要性。",
+            "阿尔马斯之名凸显图尔潘，但这把剑很少被描写。",
+            "这把剑很重要，但罗兰和查理曼没有具名的剑。"
+          ]
+        },
+        "q3": {
+          "prompt": "在《罗兰之歌》中，图尔潘在什么情况下使用阿尔马斯？",
+          "options": [
+            "他受了伤且战役失败，但仍打击萨拉森人。",
+            "他没有受伤且战役获胜，于是收起阿尔马斯。",
+            "他在战役开始时使用阿尔马斯来保护查理曼。",
+            "因为战役失败，他把阿尔马斯交给萨拉森人。"
+          ]
+        },
+        "q4": {
+          "prompt": "文章如何说明阿尔马斯之名的起源？",
+          "options": [
+            "所有研究者都认为它来自阿拉伯语。",
+            "《戈弗雷之歌》证明这个名字来自拉丁语。",
+            "这个名字肯定来自圣但尼修道院。",
+            "一些研究者认为它可能来自阿拉伯语，但没有一致意见。"
+          ]
+        },
+        "q5": {
+          "prompt": "阿尔马斯出现在圣但尼珍宝中之后发生了什么？",
+          "options": [
+            "它在龙塞沃被交给图尔潘。",
+            "它今天仍保存在圣但尼修道院。",
+            "它消失了，可能是在法国大革命期间。",
+            "它在电子游戏中被魔法力量冻结。"
+          ]
+        },
+        "q6": {
+          "prompt": "最后一段的作用是什么？",
+          "options": [
+            "它讲述龙塞沃战役的结局。",
+            "它解释这把剑如何到达圣但尼。",
+            "它列出查理曼的十二位重臣。",
+            "它表明阿尔马斯今天仍存在于文化中，尤其是在电子游戏里。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Almace",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=235889554",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-23",
+    "revisionId": "235889554"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-23",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-23-almace-b1-eb8cd359ff55.jpg",
+    "alt": "Double-edged iron sword from a grave north of the Fort in Birka, Sweden",
+    "author": "Christer Åhlin",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Double-edged_sword_from_a_grave_in_Birka.jpg?oldid=1117087854",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "changes": "Réduite à 1280×895 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 895,
+    "byteLength": 151189,
+    "sha256": "eb8cd359ff554152767b24a88796b35ee29a7c36f56529c0dec3c6c2b263e7a0",
+    "fileRevisionId": "1117087854",
+    "retrievedAt": "2026-11-23"
+  }
+}

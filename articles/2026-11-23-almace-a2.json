@@ -1,0 +1,248 @@
+{
+  "id": "2026-11-23-almace-a2",
+  "title": "Almace, l'épée légendaire de Turpin",
+  "level": "A2",
+  "theme": "culture",
+  "date": "2026-11-23",
+  "summary": "Almace est l'épée légendaire de l'archevêque Turpin dans les chansons de geste. Elle apparaît surtout dans la Chanson de Roland et dans quelques jeux vidéo modernes.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Almace est une épée légendaire.",
+        "Elle appartient à Turpin, archevêque de Reims.",
+        "Turpin est aussi un chevalier et un des douze pairs de Charlemagne.",
+        "Les chansons de geste racontent leurs exploits."
+      ]
+    },
+    {
+      "sentences": [
+        "Ces récits sont populaires en Europe entre le XIe et le XIVe siècle.",
+        "Almace a un nom, comme Durandal et Joyeuse.",
+        "Cela montre l'importance de Turpin.",
+        "Les textes parlent rarement d'Almace."
+      ]
+    },
+    {
+      "sentences": [
+        "La Chanson de Roland la cite surtout à la fin de la bataille de Roncevaux.",
+        "Turpin est blessé, mais il se relève et frappe les Sarrasins.",
+        "L'épée est décrite comme une épée d'acier bruni.",
+        "La Chanson de Gaufrey parle d'une origine sarrasine."
+      ]
+    },
+    {
+      "sentences": [
+        "La Karlamagnús saga raconte que Charlemagne donne Almace à Turpin.",
+        "Des chercheurs pensent que le nom vient peut-être de l'arabe, sans accord."
+      ]
+    },
+    {
+      "sentences": [
+        "Au Moyen Âge, une épée appelée Almace est dans le trésor de Saint-Denis.",
+        "Elle disparaît sans doute à la Révolution française.",
+        "Aujourd'hui, Almace apparaît dans des jeux vidéo et peut geler les ennemis."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "légendaire"
+    },
+    {
+      "term": "archevêque"
+    },
+    {
+      "term": "pairs"
+    },
+    {
+      "term": "chansons de geste"
+    },
+    {
+      "term": "exploits"
+    },
+    {
+      "term": "Sarrasins"
+    },
+    {
+      "term": "acier bruni"
+    },
+    {
+      "term": "Karlamagnús saga"
+    },
+    {
+      "term": "trésor"
+    },
+    {
+      "term": "Révolution française"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q4",
+      "prompt": "Quel est le sujet principal de l'article ?",
+      "options": [
+        "La vie de Charlemagne et de ses douze pairs",
+        "Les jeux vidéo au Moyen Âge et leurs héros",
+        "Le trésor de Saint-Denis pendant la Révolution",
+        "L'histoire d'une épée légendaire appelée Almace"
+      ],
+      "answerIndex": 3,
+      "evidence": "Almace est une épée légendaire.",
+      "explanation": "L'article présente d'abord Almace comme une épée légendaire, puis donne des exemples de récits et de mentions. Charlemagne, les jeux vidéo et Saint-Denis sont des éléments secondaires."
+    },
+    {
+      "id": "q5",
+      "prompt": "Selon la Karlamagnús saga, comment Turpin reçoit-il Almace ?",
+      "options": [
+        "C'est Charlemagne qui lui remet l'épée.",
+        "C'est Turpin qui offre l'épée à Charlemagne.",
+        "C'est un Sarrasin qui fabrique l'épée pour Turpin.",
+        "C'est Roland qui donne l'épée à l'archevêque."
+      ],
+      "answerIndex": 0,
+      "evidence": "La Karlamagnús saga raconte que Charlemagne donne Almace à Turpin.",
+      "explanation": "La saga attribue le don de l'épée à Charlemagne, au profit de Turpin. Les autres options inversent le don, inventent un fabricant sarrasin ou font intervenir Roland."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quand Turpin utilise-t-il Almace dans La Chanson de Roland ?",
+      "options": [
+        "Au tout début de la bataille de Roncevaux",
+        "Quand le combat est presque perdu",
+        "Après la disparition du trésor de Saint-Denis",
+        "Pendant un tournoi entre les douze pairs"
+      ],
+      "answerIndex": 1,
+      "evidence": "La Chanson de Roland la cite surtout à la fin de la bataille de Roncevaux.",
+      "explanation": "Le texte place l'usage d'Almace à la fin de la bataille, donc au moment où le combat est très avancé. Les autres options changent le moment ou le contexte."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "阿尔马斯：图尔平的传奇宝剑",
+      "summary": "阿尔马斯是武功歌中大主教图尔平的传奇宝剑。它主要出现在《罗兰之歌》和几款现代电子游戏中。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "阿尔马斯是一把传奇宝剑。",
+            "它属于兰斯大主教图尔平。",
+            "图尔平也是一名骑士，是查理曼的十二位同侪之一。",
+            "武功歌讲述他们的功绩。"
+          ]
+        },
+        {
+          "sentences": [
+            "这些故事在11世纪至14世纪之间流行于欧洲。",
+            "阿尔马斯有自己的名字，就像杜朗达尔和茹瓦约斯一样。",
+            "这显示了图尔平的重要地位。",
+            "文本很少谈到阿尔马斯。"
+          ]
+        },
+        {
+          "sentences": [
+            "《罗兰之歌》主要在龙塞沃战役结尾提到它。",
+            "图尔平受伤了，但他重新站起来，击打撒拉森人。",
+            "这把剑被描述为一把磨光的钢剑。",
+            "《戈弗雷之歌》提到其撒拉森起源。"
+          ]
+        },
+        {
+          "sentences": [
+            "《卡尔拉马格努斯萨迦》讲述查理曼把阿尔马斯交给图尔平。",
+            "研究者认为这个名字可能来自阿拉伯语，但没有一致意见。"
+          ]
+        },
+        {
+          "sentences": [
+            "在中世纪，一把名为阿尔马斯的剑存放在圣但尼的宝库中。",
+            "它很可能在法国大革命期间消失。",
+            "如今，阿尔马斯出现在电子游戏中，并且能让敌人冻结。"
+          ]
+        }
+      ],
+      "glossary": {
+        "légendaire": "传说中的；属于传说而非确证史实的。",
+        "archevêque": "大主教，基督教中地位很高的主教。",
+        "pairs": "同侪；这里指查理曼身边的十二位重要封臣或同伴。",
+        "chansons de geste": "武功歌；中世纪法语叙事诗，多歌颂英雄和战争功绩。",
+        "exploits": "功绩；英勇的事迹。",
+        "Sarrasins": "撒拉森人；中世纪欧洲基督徒对阿拉伯或穆斯林群体的称呼。",
+        "acier bruni": "磨光或擦亮的钢；形容剑身经过打磨的钢。",
+        "Karlamagnús saga": "《卡尔拉马格努斯萨迦》；一部关于查理曼的北欧萨迦。",
+        "trésor": "宝库；存放珍贵物品的地方或这些物品本身。",
+        "Révolution française": "法国大革命；18世纪末法国政治与社会剧变。"
+      },
+      "questions": {
+        "q4": "文章开篇就把阿尔马斯介绍为一把传奇宝剑，随后举出武功歌、萨迦和现代游戏中的提及。查理曼、电子游戏和圣但尼只是次要元素，因此主题是一把名为阿尔马斯的传奇宝剑的故事。",
+        "q5": "萨迦明确说查理曼把阿尔马斯交给图尔平，所以受赠者是图尔平。第二项把赠与方向反过来；第三项虚构撒拉森工匠；第四项把赠剑者换成罗兰。",
+        "q7": "《罗兰之歌》把使用阿尔马斯的场景放在龙塞沃战役的结尾；结尾意味着战斗已近失败，所以当战斗几乎失败时正确。第一项把时间说成开头；第三项把后世宝藏失踪扯进来；第四项改成同侪比武，均不符合文本。"
+      },
+      "questionTexts": {
+        "q4": {
+          "prompt": "文章的主题是什么？",
+          "options": [
+            "查理曼及其十二位同侪的生平",
+            "中世纪的电子游戏及其英雄",
+            "法国大革命期间的圣但尼宝藏",
+            "一把名为阿尔马斯的传奇宝剑的故事"
+          ]
+        },
+        "q5": {
+          "prompt": "根据《卡尔拉马格努斯萨迦》，图尔平如何得到阿尔马斯？",
+          "options": [
+            "是查理曼把剑交给他。",
+            "是图尔平把剑献给查理曼。",
+            "是一名撒拉森人为图尔平打造了这把剑。",
+            "是罗兰把剑给了大主教。"
+          ]
+        },
+        "q7": {
+          "prompt": "在《罗兰之歌》中，图尔平何时使用阿尔马斯？",
+          "options": [
+            "在龙塞沃战役刚开始时",
+            "当战斗几乎失败时",
+            "在圣但尼宝藏消失之后",
+            "在十二位同侪之间的比武中"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Almace",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=235889554",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-23",
+    "revisionId": "235889554"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-23",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-23-almace-a2-eb8cd359ff55.jpg",
+    "alt": "Double-edged iron sword from a grave north of the Fort in Birka, Sweden",
+    "author": "Christer Åhlin",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Double-edged_sword_from_a_grave_in_Birka.jpg?oldid=1117087854",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "changes": "Réduite à 1280×895 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 895,
+    "byteLength": 151189,
+    "sha256": "eb8cd359ff554152767b24a88796b35ee29a7c36f56529c0dec3c6c2b263e7a0",
+    "fileRevisionId": "1117087854",
+    "retrievedAt": "2026-11-23"
+  }
+}
