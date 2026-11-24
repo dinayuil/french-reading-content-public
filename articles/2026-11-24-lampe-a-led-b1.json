@@ -1,0 +1,271 @@
+{
+  "id": "2026-11-24-lampe-a-led-b1",
+  "title": "Les lampes à LED : une lumière plus économique",
+  "level": "B1",
+  "theme": "technologie",
+  "date": "2026-11-24",
+  "summary": "Les lampes à LED utilisent des diodes pour produire de la lumière. Elles consomment beaucoup moins d’électricité et durent plus longtemps que les anciennes lampes.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Une lampe à LED utilise des diodes électroluminescentes pour produire de la lumière.",
+        "Elle est plus efficace que les lampes à incandescence du siècle dernier.",
+        "La première diode a été créée en 1962 et émettait de la lumière infrarouge."
+      ]
+    },
+    {
+      "sentences": [
+        "Les premières LED visibles étaient rouges et ont été fabriquées en série à partir de 1968.",
+        "Elles avaient un mauvais rendement.",
+        "À partir de 1972, on a aussi trouvé des LED orange, jaunes et vertes."
+      ]
+    },
+    {
+      "sentences": [
+        "Après 1980, les LED ont atteint le rendement des lampes à incandescence.",
+        "Mais il fallait encore produire de la lumière bleue pour obtenir du blanc.",
+        "Les LED bleues ont été fabriquées à partir de 1992 ou 1993, et les premières LED blanches datent de 1995."
+      ]
+    },
+    {
+      "sentences": [
+        "Après 2010, des lampes à LED puissantes ont été proposées pour l’éclairage.",
+        "En 2013, le métro parisien a été le premier au monde à utiliser l’éclairage par LED.",
+        "En France, les ampoules à incandescence ont cessé d’être vendues en 2012.",
+        "Les lampes LED représentaient 20 % des achats en 2013, 44 % en 2016 et 70 % en 2020."
+      ]
+    },
+    {
+      "sentences": [
+        "Une lampe LED consomme environ huit fois moins d’électricité qu’une lampe à incandescence.",
+        "Elle dure de 15 000 à 50 000 heures, contre environ 1 000 heures pour une lampe à incandescence.",
+        "Pour produire du blanc, on utilise souvent une LED bleue recouverte d’une peinture phosphorescente.",
+        "On trouve des lumières blanc chaud, blanc neutre et blanc froid."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "diodes électroluminescentes"
+    },
+    {
+      "term": "incandescence"
+    },
+    {
+      "term": "infrarouge"
+    },
+    {
+      "term": "rendement"
+    },
+    {
+      "term": "série"
+    },
+    {
+      "term": "puissantes"
+    },
+    {
+      "term": "éclairage"
+    },
+    {
+      "term": "ampoules"
+    },
+    {
+      "term": "consomme"
+    },
+    {
+      "term": "phosphorescente"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q2",
+      "prompt": "À quel moment les LED ont-elles atteint le rendement des lampes à incandescence ?",
+      "options": [
+        "À partir de 1968.",
+        "En 1972.",
+        "Après 1980.",
+        "En 1995."
+      ],
+      "answerIndex": 2,
+      "evidence": "Après 1980, les LED ont atteint le rendement des lampes à incandescence.",
+      "explanation": "Le texte indique clairement que ce niveau de rendement est atteint après 1980 ; les autres dates correspondent à d’autres étapes de l’histoire des LED."
+    },
+    {
+      "id": "q3",
+      "prompt": "Pourquoi devait-on produire de la lumière bleue dans les LED ?",
+      "options": [
+        "Pour remplacer les LED rouges fabriquées en série.",
+        "Pour obtenir de la lumière blanche.",
+        "Pour augmenter la durée des ampoules à incandescence.",
+        "Pour éclairer le métro parisien en 2013."
+      ],
+      "answerIndex": 1,
+      "evidence": "Mais il fallait encore produire de la lumière bleue pour obtenir du blanc.",
+      "explanation": "La lumière bleue est présentée comme nécessaire à l’obtention du blanc ; les autres options concernent d’autres éléments de l’article ou ne sont pas données comme cause."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quelle phrase résume le mieux le contenu de l’article ?",
+      "options": [
+        "L’article raconte l’évolution des LED et montre pourquoi elles sont économiques.",
+        "L’article explique surtout comment fabriquer une peinture phosphorescente.",
+        "L’article décrit uniquement les couleurs des lampes utilisées dans le métro.",
+        "L’article compare les différents métros du monde."
+      ],
+      "answerIndex": 0,
+      "evidence": "Une lampe à LED utilise des diodes électroluminescentes pour produire de la lumière.",
+      "explanation": "Le texte retrace les étapes des LED, leurs dates et leurs usages, puis donne leur faible consommation et leur durée ; les autres options réduisent l’article à un détail absent ou secondaire."
+    },
+    {
+      "id": "q5",
+      "prompt": "En 2013, quelle part des achats de lampes représentait les LED ?",
+      "options": [
+        "8 %.",
+        "44 %.",
+        "70 %.",
+        "20 %."
+      ],
+      "answerIndex": 3,
+      "evidence": "Les lampes LED représentaient 20 % des achats en 2013, 44 % en 2016 et 70 % en 2020.",
+      "explanation": "Le pourcentage de 2013 est 20 % ; 44 % et 70 % correspondent aux années suivantes, et 8 renvoie au rapport de consommation, non à la part des achats."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "LED灯：更经济的光",
+      "summary": "LED灯使用二极管来发光。它们消耗的电量远少于旧式灯泡，使用寿命也更长。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "LED灯使用发光二极管来发光。",
+            "它比上世纪的白炽灯更高效。",
+            "第一只二极管于1962年制成，发出红外光。"
+          ]
+        },
+        {
+          "sentences": [
+            "最早的可见LED是红色的，从1968年起开始批量生产。",
+            "它们的效率很差。",
+            "从1972年起，人们还发现了橙色、黄色和绿色的LED。"
+          ]
+        },
+        {
+          "sentences": [
+            "1980年以后，LED达到了白炽灯的能效。",
+            "但还需要产生蓝光才能获得白光。",
+            "蓝色LED从1992年或1993年起开始制造，而第一批白光LED可追溯到1995年。"
+          ]
+        },
+        {
+          "sentences": [
+            "2010年以后，人们推出了用于照明的高功率LED灯。",
+            "2013年，巴黎地铁成为世界上第一个使用LED照明的地铁。",
+            "在法国，白炽灯泡于2012年停止销售。",
+            "LED灯在2013年占购买量的20%，2016年占44%，2020年占70%。"
+          ]
+        },
+        {
+          "sentences": [
+            "一只LED灯的耗电量约为白炽灯的八分之一。",
+            "它的使用寿命为15000到50000小时，而白炽灯约为1000小时。",
+            "为了产生白光，通常使用覆盖着磷光涂层的蓝色LED。",
+            "有暖白光、中性白光和冷白光。"
+          ]
+        }
+      ],
+      "glossary": {
+        "diodes électroluminescentes": "一种半导体器件，通电时能发光，是LED灯的核心元件。",
+        "incandescence": "通过加热灯丝至高温而发光的方式，传统白炽灯即采用这种原理。",
+        "infrarouge": "波长比可见光长的不可见光，人眼看不到。",
+        "rendement": "这里指把电能转化为光能的效率，即同样电能能产生多少光。",
+        "série": "指工业化批量生产，而不是单个制作。",
+        "puissantes": "指发光能力或功率较强，适合照明用途。",
+        "éclairage": "指为空间提供光线、使其可见的照明系统或行为。",
+        "ampoules": "指电灯中可更换的发光部件，常指传统白炽灯泡或LED灯泡。",
+        "consomme": "指设备使用电能，这里指耗电量。",
+        "phosphorescente": "指能吸收光并在激发后发光的涂料，用于把蓝光转换成白光的成分。"
+      },
+      "questions": {
+        "q2": "原文句子直接说明LED在1980年以后达到白炽灯的效率，因此正确项是“1980年以后”。1968年是首批可见红光LED批量生产，1972年出现橙黄绿LED，1995年是首批白光LED，这些都不是达到白炽灯效率的时间，所以其他日期不对。",
+        "q3": "原文说还需要产生蓝光才能获得白光，说明蓝光是为了得到白光，因此正确项是“为了获得白光”。第一项把蓝光说成取代批量生产的红色LED，原文没有这种因果；第三项涉及白炽灯寿命，与蓝光无关；第四项是巴黎地铁照明的用途，不是产生蓝光的原因。",
+        "q4": "文章从第一只二极管、红光LED、效率提升、蓝光与白光，讲到2010年后的照明应用以及耗电量和寿命，整体是在讲LED的演变及其经济性，因此第一项最全面。第二项只涉及文中一个细节“磷光涂料”；第三项把巴黎地铁和颜色当成全文唯一内容；第四项“比较世界各地地铁”文中没有，所以都不合适。",
+        "q5": "原文列出LED灯在2013年占购买量的20%，2016年占44%，2020年占70%，因此2013年对应第四项“20%”。44%是2016年，70%是2020年；8不是购买占比，而是文中耗电量约为白炽灯八分之一的倍数，所以其他选项不对。"
+      },
+      "questionTexts": {
+        "q2": {
+          "prompt": "LED何时达到白炽灯的能效？",
+          "options": [
+            "从1968年起。",
+            "1972年。",
+            "1980年以后。",
+            "1995年。"
+          ]
+        },
+        "q3": {
+          "prompt": "为什么LED中需要产生蓝光？",
+          "options": [
+            "为了取代批量生产的红色LED。",
+            "为了获得白光。",
+            "为了延长白炽灯泡的寿命。",
+            "为了在2013年照亮巴黎地铁。"
+          ]
+        },
+        "q4": {
+          "prompt": "哪句话最能概括文章内容？",
+          "options": [
+            "文章讲述LED的发展演变，并说明它们为什么经济省电。",
+            "文章主要解释如何制造磷光涂料。",
+            "文章只描述巴黎地铁所用灯的颜色。",
+            "文章比较世界各地的不同地铁。"
+          ]
+        },
+        "q5": {
+          "prompt": "2013年，LED占灯泡购买量的多少？",
+          "options": [
+            "8%。",
+            "44%。",
+            "70%。",
+            "20%。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Lampe à LED",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2567731&title=Lampe%20%C3%A0%20LED",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-24",
+    "revisionId": "2567731"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-24",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-24-lampe-a-led-b1-068c7c5ba47d.jpg",
+    "alt": "Light Emitting Diode (LED) light bulb, 800 lumen (60 watt equivalent) 120 volt, 8.8 watt, dimmable, soft white 2700K, E26 Edison base, purchased in September 2024. Suitable for damp or enclosed places, FEIT Electric brand",
+    "author": "ArnoldReinhold",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:LED_bulb_800_Lm_Soft_white_2024.agr.jpg?oldid=1159220879",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Réduite à 960×1344 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 960,
+    "height": 1344,
+    "byteLength": 170472,
+    "sha256": "068c7c5ba47df2c502efe8af2d52647bb53be73d7864a95ff57525b734bef55e",
+    "fileRevisionId": "1159220879",
+    "retrievedAt": "2026-11-24"
+  }
+}

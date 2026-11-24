@@ -1,0 +1,323 @@
+{
+  "id": "2026-11-24-adaev",
+  "title": "L'Adaev, un cheval des déserts kazakhs",
+  "level": "B2",
+  "theme": "culture",
+  "date": "2026-11-24",
+  "summary": "L'Adaev, ou Adaï, est un cheval de selle et de trait léger du sud du Kazakhstan, reconnu comme race distincte en 2023 après une longue adaptation au désert.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "L'Adaev, aussi appelé Adaï, est un cheval de selle et de trait léger originaire des régions désertiques du sud du Kazakhstan.",
+        "Il constitue l'un des deux types de la race kazakhe avec le Jabe, tout en étant plus fin et moins rustique que lui.",
+        "Son nom vient de la tribu kazakhe des Adaï, et la race a subi l'influence de chevaux turkmènes, du Don, du Pur-sang et du trotteur d'Orlov."
+      ]
+    },
+    {
+      "sentences": [
+        "Des croisements incontrôlés ont fait décliner la population, ce qui a conduit à un plan d'élevage à la fin du XXe siècle pour améliorer la taille et la fertilité du cheptel.",
+        "En 2011, dans l'oblys de Manguistaou, trente-six chevaux sélectionnés parmi des milliers ont passé des tests d'État de 90 kilomètres, avec des contrôles vétérinaires tous les 15 kilomètres.",
+        "En novembre 2023, des juges équestres internationaux des Émirats arabes unis ont officiellement reconnu l'Adaev comme une race distincte sous le nom d'« Adaï »."
+      ]
+    },
+    {
+      "sentences": [
+        "Les spécialistes distinguent trois types d'Adaev, massif, moyen et léger, dont le modèle général est plutôt léger et sec.",
+        "Sa taille varie de 1,32 m à 1,44 m selon les sources, pour un poids moyen d'environ 360 kg chez les femelles et 370 kg chez les mâles.",
+        "La tête a souvent un profil romain, l'encolure est longue et fine, et les robes sont variées.",
+        "Élevé en hardes, il pâture toute l'année dans les déserts du sud du Kazakhstan et peut passer plusieurs jours sans boire, avec une endurance jugée exceptionnelle."
+      ]
+    },
+    {
+      "sentences": [
+        "Il sert surtout aux sports équestres locaux, au travail du bétail et à la garde des troupeaux, et peut tirer des attelages légers.",
+        "Certains chevaux sont abattus pour leur viande, notamment dans le type massif, tandis que le lait des juments est très réputé et transformé en kumiz.",
+        "Sa fertilité dépasse 90 %, les juments commencent à se reproduire à deux ans et les naissances ont surtout lieu en avril et en mai."
+      ]
+    },
+    {
+      "sentences": [
+        "La race vit entre la mer Caspienne et la mer d'Aral, surtout dans l'oblys de Manguistaou, au Turkménistan et en Ouzbékistan.",
+        "En 1990, le Kazakhstan comptait 28 949 chevaux Adaev, dont 772 étalons en activité et 12 772 juments reproductrices.",
+        "En 2006, elle était l'une des deux races les plus répandues du Kazakhstan, et une étude de 2010 la juge non menacée."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "trait léger"
+    },
+    {
+      "term": "rustique"
+    },
+    {
+      "term": "oblys"
+    },
+    {
+      "term": "tests d'État"
+    },
+    {
+      "term": "contrôles vétérinaires"
+    },
+    {
+      "term": "juges équestres"
+    },
+    {
+      "term": "hardes"
+    },
+    {
+      "term": "profil romain"
+    },
+    {
+      "term": "encolure"
+    },
+    {
+      "term": "kumiz"
+    },
+    {
+      "term": "étalons"
+    },
+    {
+      "term": "juments reproductrices"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Pourquoi un plan d'élevage a-t-il été mis en place à la fin du XXe siècle ?",
+      "options": [
+        "Pour faire reconnaître officiellement l'Adaev comme race distincte par des juges des Émirats arabes unis.",
+        "Pour organiser des tests d'État de 90 kilomètres dans l'oblys de Manguistaou.",
+        "Parce que des croisements non maîtrisés avaient réduit le cheptel et qu'il fallait améliorer sa taille et sa fertilité.",
+        "Parce que la race était devenue l'une des deux plus répandues du Kazakhstan en 2006."
+      ],
+      "answerIndex": 2,
+      "evidence": "Des croisements incontrôlés ont fait décliner la population, ce qui a conduit à un plan d'élevage à la fin du XXe siècle pour améliorer la taille et la fertilité du cheptel.",
+      "explanation": "Le texte relie directement le déclin causé par les croisements incontrôlés au plan d'élevage, dont les objectifs sont la taille et la fertilité. Les autres options renvoient à des événements ou à des constats qui ne sont pas présentés comme la raison de ce plan."
+    },
+    {
+      "id": "q2",
+      "prompt": "Que nous apprend le passage sur les tests d'État de 2011 ?",
+      "options": [
+        "Trente-six chevaux choisis parmi des milliers ont parcouru 90 km avec des contrôles vétérinaires réguliers.",
+        "Tous les chevaux de l'oblys de Manguistaou ont subi un test de 15 km avec un contrôle vétérinaire à l'arrivée.",
+        "Des juges internationaux ont fait passer un test de 90 km à trente-six étalons en activité.",
+        "Les chevaux sélectionnés ont été contrôlés tous les 90 km pendant un test de 15 kilomètres."
+      ],
+      "answerIndex": 0,
+      "evidence": "En 2011, dans l'oblys de Manguistaou, trente-six chevaux sélectionnés parmi des milliers ont passé des tests d'État de 90 kilomètres, avec des contrôles vétérinaires tous les 15 kilomètres.",
+      "explanation": "La phrase indique à la fois le nombre de chevaux sélectionnés, la distance parcourue et la fréquence des contrôles vétérinaires. Les distracteurs inversent ou déplacent ces données, notamment la distance et l'intervalle des contrôles."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel effet la reconnaissance de novembre 2023 a-t-elle eu sur l'Adaev ?",
+      "options": [
+        "Elle a lancé un plan d'élevage destiné à augmenter la fertilité du cheptel.",
+        "Elle a confirmé que l'Adaev ne figurait plus parmi les races menacées au Kazakhstan.",
+        "Elle a permis aux Émirats arabes unis d'imposer le nom Adaev à la place d'Adaï.",
+        "Elle a officialisé son statut de race distincte sous le nom d'« Adaï »."
+      ],
+      "answerIndex": 3,
+      "evidence": "En novembre 2023, des juges équestres internationaux des Émirats arabes unis ont officiellement reconnu l'Adaev comme une race distincte sous le nom d'« Adaï ».",
+      "explanation": "Le texte précise que des juges internationaux ont reconnu l'Adaev comme race distincte et sous le nom « Adaï ». Les autres propositions attribuent à cette reconnaissance des effets qui relèvent d'autres passages, comme le plan d'élevage ou le statut de menace."
+    },
+    {
+      "id": "q4",
+      "prompt": "Que retient-on de la description des types et de la morphologie générale de l'Adaev ?",
+      "options": [
+        "La race se divise en deux types, Jabe et Adaï, de taille identique.",
+        "Il existe plusieurs types, mais le modèle d'ensemble est plutôt léger et sec.",
+        "Les trois types sont massifs et rustiques, avec une taille uniforme.",
+        "Le type léger est réservé aux tests d'État, tandis que les autres servent au trait."
+      ],
+      "answerIndex": 1,
+      "evidence": "Les spécialistes distinguent trois types d'Adaev, massif, moyen et léger, dont le modèle général est plutôt léger et sec.",
+      "explanation": "Le passage mentionne trois types tout en insistant sur un modèle général léger et sec. Les options qui uniformisent la taille, confondent les types avec Jabe ou attribuent un usage précis à un type ne sont pas soutenues par le texte."
+    },
+    {
+      "id": "q5",
+      "prompt": "Comment l'Adaev est-il élevé dans son milieu désertique ?",
+      "options": [
+        "En écurie, avec un abreuvement quotidien et une pâture limitée au printemps.",
+        "En hardes, mais il ne peut rester qu'un jour sans boire.",
+        "En troupeaux, il pâture toute l'année et peut supporter plusieurs jours sans boire.",
+        "Seul ou en petits groupes, il est nourri dans les déserts du sud du Kazakhstan."
+      ],
+      "answerIndex": 2,
+      "evidence": "Élevé en hardes, il pâture toute l'année dans les déserts du sud du Kazakhstan et peut passer plusieurs jours sans boire, avec une endurance jugée exceptionnelle.",
+      "explanation": "Le texte décrit un élevage en hardes, une pâture continue toute l'année et une capacité à rester plusieurs jours sans boire. Les distracteurs réduisent cette autonomie ou contredisent le mode d'élevage indiqué."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quel usage alimentaire l'article mentionne-t-il pour l'Adaev ?",
+      "options": [
+        "Tous les chevaux sont abattus pour leur viande, et le lait des juments est peu utilisé.",
+        "Certains chevaux, surtout du type massif, sont abattus pour leur viande, et le lait des juments sert au kumiz.",
+        "Seuls les chevaux du type léger sont abattus, tandis que le lait des étalons est transformé en kumiz.",
+        "La viande provient des juments reproductrices, et le lait des mâles est réservé aux sports équestres."
+      ],
+      "answerIndex": 1,
+      "evidence": "Certains chevaux sont abattus pour leur viande, notamment dans le type massif, tandis que le lait des juments est très réputé et transformé en kumiz.",
+      "explanation": "L'article limite l'abattage à certains chevaux, en particulier du type massif, et associe le lait des juments au kumiz. Les autres options généralisent l'abattage ou attribuent le kumiz au lait des mâles."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "阿达耶夫马，哈萨克沙漠中的马",
+      "summary": "阿达耶夫马（又称阿代马）是哈萨克斯坦南部的一种乘用及轻型役用马，经过长期适应沙漠后于2023年被认定为一个独立品种。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "阿达耶夫马，又称阿代马，是原产于哈萨克斯坦南部沙漠地区的一种乘用及轻型役用马。",
+            "它与贾贝马一起构成哈萨克马品种的两个类型之一，但比贾贝马更纤细、更不耐粗放饲养。",
+            "其名称来自哈萨克斯坦的阿达伊部落，该品种还受到土库曼马、顿河马、纯血马和奥尔洛夫快步马的影响。"
+          ]
+        },
+        {
+          "sentences": [
+            "不受控制的杂交使种群数量下降，这促使人们在20世纪末实施育种计划，以提高马群的体型和繁殖力。",
+            "2011年，在曼格斯套州，从数千匹马中选出的三十六匹马参加了90公里的国家测试，每15公里进行一次兽医检查。",
+            "2023年11月，来自阿拉伯联合酋长国的国际马匹评审正式承认阿达耶夫马为独立品种，名称为“Adaï”。"
+          ]
+        },
+        {
+          "sentences": [
+            "专家将阿达耶夫马分为三种类型：粗壮型、中型和轻型，其总体体型偏轻、偏干燥。",
+            "根据资料来源不同，其体高在1.32米至1.44米之间，雌马平均体重约360公斤，雄马约370公斤。",
+            "头部常呈罗马鼻轮廓，颈项长而细，毛色多样。",
+            "它成群放牧，全年在哈萨克斯坦南部沙漠中啃食牧草，能数天不饮水，耐力被认为异常出色。"
+          ]
+        },
+        {
+          "sentences": [
+            "它主要用于当地马术运动、牲畜劳作和看护畜群，也能拉轻型挽车。",
+            "某些马会被宰杀取肉，尤其是粗壮型，而母马奶非常有名，被制成马奶酒。",
+            "其繁殖力超过90%，母马两岁开始繁殖，产驹主要集中在四月和五月。"
+          ]
+        },
+        {
+          "sentences": [
+            "该品种生活在里海与咸海之间，主要在曼格斯套州、土库曼斯坦和乌兹别克斯坦。",
+            "1990年，哈萨克斯坦有28 949匹阿达耶夫马，其中772匹在役种公马和12 772匹繁殖母马。",
+            "2006年，它是哈萨克斯坦分布最广的两个品种之一，2010年的一项研究认为它未受威胁。"
+          ]
+        }
+      ],
+      "glossary": {
+        "trait léger": "轻型役用，指用于轻量挽曳或载运的马匹用途。",
+        "rustique": "耐粗饲、适应艰苦环境的。",
+        "oblys": "哈萨克斯坦的州级行政区。",
+        "tests d'État": "由国家组织的马匹性能测试。",
+        "contrôles vétérinaires": "兽医检查。",
+        "juges équestres": "马术裁判或马匹评审。",
+        "hardes": "成群放牧的马群。",
+        "profil romain": "罗马鼻，指马头侧面轮廓呈凸起状。",
+        "encolure": "马的颈项。",
+        "kumiz": "马奶酒，一种发酵马奶饮品。",
+        "étalons": "种公马。",
+        "juments reproductrices": "繁殖母马。"
+      },
+      "questions": {
+        "q1": "证据句说明不受控制的杂交导致种群下降，因此20世纪末实施育种计划，目标是提高马群体型和繁殖力。第三项选项正是这一因果链。第一项选项涉及2023年阿联酋裁判的承认，是后来的事件；第二项选项涉及2011年的90公里国家测试，并非该计划的原因；第四项选项是2006年分布广泛的情况，也不是计划实施的缘由。",
+        "q2": "证据句给出2011年曼格斯套州从数千匹马中选出三十六匹，完成90公里国家测试，并且每15公里做一次兽医检查。第一项选项准确复现这些数量、距离和检查频率。第二项选项错误地说所有马都参加且距离为15公里；第三项选项把裁判和种公马混入测试；第四项选项把15公里和90公里以及检查间隔颠倒。",
+        "q3": "证据句说2023年11月阿联酋国际马匹评审正式承认阿达耶夫马为独立品种，名称为“Adaï”。第四项选项正是这一结果。第一项选项把20世纪末的育种计划移到这里；第二项选项把2010年研究中未受威胁的判断当成此次承认的效果；第三项选项把名称说成用“Adaev”取代“Adaï”，与证据中的承认为“Adaï”相反。",
+        "q4": "证据句指出专家区分粗壮型、中型和轻型三种类型，但总体体型偏轻、偏干燥。第二项选项概括了这一描述。第一项选项把哈萨克马的两个类型（与贾贝马并列）与阿达耶夫马内部类型混淆；第三项选项说三种类型都粗壮且体型一致，与总体偏轻偏干不符；第四项选项给轻型指定国家测试用途、给其他类型指定役用，文中没有这种对应。",
+        "q5": "证据句说明它成群放牧，全年在南部沙漠啃食牧草，并且能数天不喝水，耐力异常出色。第三项选项完整对应这些特征。第一项选项说马厩饲养、每日饮水和春季限牧，与全年放牧相反；第二项选项把不喝水能力缩短为一天；第四项选项说单独或小群饲养并喂食，与成群放牧不符。",
+        "q6": "证据句说某些马被宰杀取肉，尤其是粗壮型，而母马奶很有名并制成马奶酒。第二项选项同时保留了“某些马/粗壮型”和“母马奶制马奶酒”。第一项选项把宰杀扩大到所有马并贬低母马奶；第三项选项把宰杀限于轻型并把马奶酒说成种公马的奶；第四项选项把肉说成来自繁殖母马、把公马奶用于马术，均与证据不符。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "为什么在20世纪末实施了一项育种计划？",
+          "options": [
+            "为了让阿联酋的裁判正式承认阿达耶夫马为独立品种。",
+            "为了在曼格斯套州组织90公里的国家测试。",
+            "因为不受控制的杂交使马群数量下降，且需要提高其体型和繁殖力。",
+            "因为该品种在2006年成为哈萨克斯坦分布最广的两个品种之一。"
+          ]
+        },
+        "q2": {
+          "prompt": "关于2011年的国家测试，文段告诉了我们什么？",
+          "options": [
+            "从数千匹马中选出的三十六匹马完成了90公里，并接受了定期兽医检查。",
+            "曼格斯套州所有马都接受了15公里测试，并在到达时接受兽医检查。",
+            "国际裁判让三十六匹在役种公马参加了90公里测试。",
+            "被选中的马在15公里测试中每90公里接受一次检查。"
+          ]
+        },
+        "q3": {
+          "prompt": "2023年11月的认定对阿达耶夫马产生了什么影响？",
+          "options": [
+            "它启动了一项旨在提高马群繁殖力的育种计划。",
+            "它确认阿达耶夫马不再属于哈萨克斯坦的濒危品种。",
+            "它使阿联酋得以用“Adaev”这个名称取代“Adaï”。",
+            "它正式确认了其作为独立品种、以“Adaï”为名称的地位。"
+          ]
+        },
+        "q4": {
+          "prompt": "关于阿达耶夫马的类型和总体形态描述，可以得出什么？",
+          "options": [
+            "该品种分为Jabe和Adaï两种类型，体型相同。",
+            "存在多个类型，但总体体型偏轻、偏干燥。",
+            "三种类型都粗壮耐苦，且体型一致。",
+            "轻型只用于国家测试，其他类型用于役用。"
+          ]
+        },
+        "q5": {
+          "prompt": "阿达耶夫马在其沙漠环境中如何饲养？",
+          "options": [
+            "在马厩中饲养，每日饮水，春季限牧。",
+            "成群放牧，但只能一天不喝水。",
+            "成群放牧，全年啃食牧草，并能忍受数天不喝水。",
+            "单独或小群饲养，在哈萨克斯坦南部沙漠中喂食。"
+          ]
+        },
+        "q6": {
+          "prompt": "文章提到了阿达耶夫马的哪些食用用途？",
+          "options": [
+            "所有马都被宰杀取肉，母马奶很少使用。",
+            "某些马，尤其是粗壮型，被宰杀取肉，母马奶用于制作马奶酒。",
+            "只有轻型马被宰杀，而种公马的奶被制成马奶酒。",
+            "肉来自繁殖母马，公马奶专用于马术运动。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Adaev",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=234275423",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-24",
+    "revisionId": "234275423"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-24",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-24-adaev-01d42e7a716e.jpg",
+    "alt": "Сайрам-Угамский национальный парк: Туркестанская область",
+    "author": "Levdikan",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sairamsilbeli-130.jpg?oldid=1098267925",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Réduite à 1280×853 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 853,
+    "byteLength": 244528,
+    "sha256": "01d42e7a716eb027149e6f2d24c3fcf24dfaca25fb25946b4dc80127ce9de228",
+    "fileRevisionId": "1098267925",
+    "retrievedAt": "2026-11-24"
+  }
+}

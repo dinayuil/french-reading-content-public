@@ -1,0 +1,279 @@
+{
+  "id": "2026-11-22-comment-l-equateur-lutte-t-il-contre-la-presence-d-acides-gr-a2",
+  "title": "Manger sans acides gras trans : un défi de santé en Équateur",
+  "level": "A2",
+  "theme": "santé",
+  "date": "2026-11-22",
+  "summary": "En Équateur, des experts ont parlé des acides gras trans dans la nourriture. Ils veulent mieux protéger la santé des consommateurs.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Le 7 septembre, Eliana Estrella a parlé à Quito, en Équateur.",
+        "Elle a posé une question sur la nourriture et la santé.",
+        "Elle parlait lors d'un colloque sur les graisses trans."
+      ]
+    },
+    {
+      "sentences": [
+        "Les graisses trans industrielles viennent souvent d'huiles transformées.",
+        "L'OMS dit qu'elles peuvent causer des maladies du cœur et des AVC.",
+        "Plus de 278 000 personnes meurent chaque année à cause de ces graisses."
+      ]
+    },
+    {
+      "sentences": [
+        "En Équateur, la décision ministérielle 4439 limite ces graisses dans les aliments.",
+        "La limite est de 2 grammes pour 100 grammes de matière grasse.",
+        "Mais les contrôles ne sont pas toujours clairs."
+      ]
+    },
+    {
+      "sentences": [
+        "Des experts veulent une meilleure protection pour tous.",
+        "Beatriz Champagne dit que le choix personnel ne suffit pas.",
+        "Elle demande une politique pour protéger toute la population."
+      ]
+    },
+    {
+      "sentences": [
+        "Eliana Estrella veut changer les habitudes des consommateurs.",
+        "Elle souhaite faire ses courses sans vérifier toutes les étiquettes.",
+        "Pour elle, la santé doit passer avant les produits bon marché."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "colloque"
+    },
+    {
+      "term": "graisses trans industrielles"
+    },
+    {
+      "term": "huiles transformées"
+    },
+    {
+      "term": "AVC"
+    },
+    {
+      "term": "décision ministérielle"
+    },
+    {
+      "term": "matière grasse"
+    },
+    {
+      "term": "contrôles"
+    },
+    {
+      "term": "consommateurs"
+    },
+    {
+      "term": "étiquettes"
+    },
+    {
+      "term": "bon marché"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quand Eliana Estrella a-t-elle parlé à Quito ?",
+      "options": [
+        "Le 7 octobre",
+        "Le 17 septembre",
+        "Le 7 septembre",
+        "Le 7 novembre"
+      ],
+      "answerIndex": 2,
+      "evidence": "Le 7 septembre, Eliana Estrella a parlé à Quito, en Équateur.",
+      "explanation": "La phrase donne explicitement la date du 7 septembre. Les autres dates ne sont pas mentionnées dans le texte."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quels problèmes les graisses trans peuvent-elles causer, selon l'OMS ?",
+      "options": [
+        "Des maladies du cœur et des AVC",
+        "Des problèmes de vue et d'audition",
+        "Des maladies de la peau et des allergies",
+        "Des troubles du sommeil et de la mémoire"
+      ],
+      "answerIndex": 0,
+      "evidence": "L'OMS dit qu'elles peuvent causer des maladies du cœur et des AVC.",
+      "explanation": "Le texte attribue à l'OMS les maladies du cœur et les AVC comme conséquences possibles. Les autres problèmes de santé ne sont pas cités dans l'article."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quelle limite la décision ministérielle 4439 fixe-t-elle en Équateur ?",
+      "options": [
+        "2 grammes pour 100 grammes d'aliment",
+        "20 grammes pour 100 grammes de matière grasse",
+        "2 grammes pour 100 grammes de matière grasse",
+        "2 grammes pour 1 000 grammes de matière grasse"
+      ],
+      "answerIndex": 2,
+      "evidence": "La limite est de 2 grammes pour 100 grammes de matière grasse.",
+      "explanation": "La phrase précise la quantité et l'unité de référence : 2 grammes pour 100 grammes de matière grasse. Les options qui changent le nombre ou l'unité ne correspondent pas au texte."
+    },
+    {
+      "id": "q4",
+      "prompt": "Pourquoi Beatriz Champagne demande-t-elle une politique pour toute la population ?",
+      "options": [
+        "Parce que les contrôles ne sont pas toujours clairs.",
+        "Parce que le choix personnel ne suffit pas.",
+        "Parce que les produits bon marché sont interdits.",
+        "Parce que les étiquettes sont difficiles à lire."
+      ],
+      "answerIndex": 1,
+      "evidence": "Beatriz Champagne dit que le choix personnel ne suffit pas.",
+      "explanation": "Le texte relie la demande de Beatriz Champagne au fait que le choix personnel ne suffit pas. Les contrôles peu clairs sont mentionnés ailleurs, et les autres options ne sont pas présentées comme sa raison."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quel est le thème du colloque dont parle l'article ?",
+      "options": [
+        "Les produits bon marché",
+        "Les maladies du cœur",
+        "Les étiquettes des aliments",
+        "Les graisses trans"
+      ],
+      "answerIndex": 3,
+      "evidence": "Elle parlait lors d'un colloque sur les graisses trans.",
+      "explanation": "Le colloque est présenté comme consacré aux graisses trans. Les autres éléments apparaissent dans l'article, mais ils ne définissent pas le thème du colloque."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "无反式脂肪酸饮食：厄瓜多尔的一项健康挑战",
+      "summary": "在厄瓜多尔，专家们谈论了食物中的反式脂肪酸。他们希望更好地保护消费者的健康。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "9月7日，Eliana Estrella在厄瓜多尔的基多发表了讲话。",
+            "她提出了一个关于食物与健康的问题。",
+            "她是在一场关于反式脂肪的研讨会上发言的。"
+          ]
+        },
+        {
+          "sentences": [
+            "工业反式脂肪通常来自经过加工的油脂。",
+            "世界卫生组织表示，它们可能导致心脏病和中风。",
+            "每年有超过278 000人因这些脂肪而死亡。"
+          ]
+        },
+        {
+          "sentences": [
+            "在厄瓜多尔，第4439号部长决定限制了食品中的这些脂肪。",
+            "限量是每100克脂肪含2克。",
+            "但检查并不总是明确。"
+          ]
+        },
+        {
+          "sentences": [
+            "专家们希望为所有人提供更好的保护。",
+            "Beatriz Champagne说，个人选择并不足够。",
+            "她要求制定一项保护全体人口的政策。"
+          ]
+        },
+        {
+          "sentences": [
+            "Eliana Estrella希望改变消费者的习惯。",
+            "她希望购物时不必检查所有标签。",
+            "对她来说，健康必须优先于廉价产品。"
+          ]
+        }
+      ],
+      "glossary": {
+        "colloque": "研讨会，专家就某一主题进行讨论的会议。",
+        "graisses trans industrielles": "工业反式脂肪，通常通过工业加工油脂产生并用于食品的脂肪。",
+        "huiles transformées": "经过工业加工的油脂，例如部分氢化油。",
+        "AVC": "中风，即脑血管意外，脑部血液供应受阻或血管破裂导致的疾病。",
+        "décision ministérielle": "部长决定，由政府部门部长发布的行政规定。",
+        "matière grasse": "脂肪物质，食品中油脂成分的总称。",
+        "contrôles": "检查或监管措施，用于确认食品是否符合规定。",
+        "consommateurs": "消费者，购买和使用食品的人。",
+        "étiquettes": "标签，食品包装上标明成分、营养等信息的部分。",
+        "bon marché": "廉价的，价格低的。"
+      },
+      "questions": {
+        "q1": "文本明确给出日期为9月7日，所以正确项是第三项“9月7日”。其他日期“10月7日”“9月17日”“11月7日”都没有在文中出现，因此不能选。",
+        "q2": "文本把“心脏病和中风”列为世界卫生组织所说反式脂肪可能造成的后果，因此正确项是第一项“心脏病和中风”。文中没有提到视力、听力、皮肤、过敏、睡眠或记忆方面的问题，所以其他选项缺乏依据。",
+        "q3": "句子同时给出数量和参照单位：每100克脂肪含2克，因此正确项是第三项“每100克脂肪含2克”。改变数字或单位的选项，如“每100克食品含2克”“每100克脂肪含20克”“每1000克脂肪含2克”，都与文本不符。",
+        "q4": "文本把Beatriz Champagne要求制定政策与“个人选择并不足够”直接联系起来，所以正确项是第二项“因为个人选择并不足够”。检查不明确是在别处提到的，而“廉价产品被禁止”和“标签难以阅读”并不是她提出该要求的理由。",
+        "q5": "文本说她在“一场关于反式脂肪的研讨会上”发言，因此研讨会主题是第四项“反式脂肪”。廉价产品、心脏病和食品标签虽然出现在文章中，但并不定义这场研讨会的主题。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "Eliana Estrella什么时候在基多发表了讲话？",
+          "options": [
+            "10月7日",
+            "9月17日",
+            "9月7日",
+            "11月7日"
+          ]
+        },
+        "q2": {
+          "prompt": "根据世界卫生组织，反式脂肪可能导致哪些问题？",
+          "options": [
+            "心脏病和中风",
+            "视力和听力问题",
+            "皮肤病和过敏",
+            "睡眠和记忆障碍"
+          ]
+        },
+        "q3": {
+          "prompt": "第4439号部长决定在厄瓜多尔规定了什么限量？",
+          "options": [
+            "每100克食品含2克",
+            "每100克脂肪含20克",
+            "每100克脂肪含2克",
+            "每1000克脂肪含2克"
+          ]
+        },
+        "q4": {
+          "prompt": "Beatriz Champagne为什么要求制定一项面向全体人口的政策？",
+          "options": [
+            "因为检查并不总是明确。",
+            "因为个人选择并不足够。",
+            "因为廉价产品被禁止。",
+            "因为标签难以阅读。"
+          ]
+        },
+        "q5": {
+          "prompt": "文章谈到的研讨会主题是什么？",
+          "options": [
+            "廉价产品",
+            "心脏病",
+            "食品标签",
+            "反式脂肪"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Comment l'Équateur lutte-t-il contre la présence d'acides gras trans industriels dans les rayons de supermarchés ?",
+    "authors": [
+      "Carlos E. Flores"
+    ],
+    "translators": [
+      "Corinne Molton"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/18/304203/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-24",
+    "publishedAt": "2026-11-18",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-24",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

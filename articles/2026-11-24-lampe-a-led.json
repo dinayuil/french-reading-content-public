@@ -1,0 +1,316 @@
+{
+  "id": "2026-11-24-lampe-a-led",
+  "title": "Les lampes à LED : une révolution de l’éclairage",
+  "level": "B2",
+  "theme": "technologie",
+  "date": "2026-11-24",
+  "summary": "Les lampes à LED, apparues progressivement depuis 1962, sont aujourd’hui la source d’éclairage la plus économe et la plus durable pour les bâtiments.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Une lampe à LED utilise des diodes électroluminescentes pour produire de la lumière visible.",
+        "Grâce à un rendement énergétique supérieur, elle remplace peu à peu les lampes à incandescence du siècle dernier.",
+        "La première diode électroluminescente fut créée en 1962 et émettait dans le proche infrarouge.",
+        "Les premières LED visibles, rouges, furent fabriquées en série à partir de 1968, mais leur rendement restait faible."
+      ]
+    },
+    {
+      "sentences": [
+        "À partir de 1972, des LED orange, jaunes et vertes sont apparues.",
+        "Après 1980, les LED ont atteint le rendement des lampes à incandescence.",
+        "Toutefois, produire de la lumière blanche exigeait des LED bleues, plus difficiles à fabriquer.",
+        "Les premières LED bleues ont été réalisées vers 1992 ou 1993, et les premières LED blanches datent de 1995."
+      ]
+    },
+    {
+      "sentences": [
+        "Après 2010, des lampes à LED de forte puissance ont été proposées pour l’éclairage.",
+        "En 2013, le métro parisien fut le premier au monde à adopter l’éclairage par LED afin d’économiser l’énergie.",
+        "En France, les ampoules à incandescence ont cessé d’être vendues en 2012.",
+        "La part des LED dans les lampes achetées est passée de 20 % en 2013 à 44 % en 2016, puis à 70 % en 2020."
+      ]
+    },
+    {
+      "sentences": [
+        "À l’intérieur, une lampe à LED contient plusieurs diodes branchées en série.",
+        "Avec une source alternative de 220 V, il faut d’abord abaisser la tension, puis utiliser un pont redresseur.",
+        "La tension nécessaire dépend de la couleur émise par la diode.",
+        "Pour obtenir du blanc, on recouvre souvent des LED bleues d’une peinture phosphorescente qui transforme une partie de la lumière en jaune."
+      ]
+    },
+    {
+      "sentences": [
+        "Pour un même éclairement, une lampe LED consomme environ huit fois moins d’électricité qu’une lampe à incandescence.",
+        "Elle utilise aussi un peu moins des deux tiers de l’électricité d’une lampe fluorescente.",
+        "Sa durée de vie annoncée va de 15 000 à 50 000 heures, contre environ 1 000 heures pour une lampe à incandescence.",
+        "Les allumer et les éteindre souvent ne pose pas de problème, contrairement aux lampes fluorescentes."
+      ]
+    },
+    {
+      "sentences": [
+        "Les lampes à LED existent en blanc chaud, blanc neutre et blanc froid, selon leur température de couleur.",
+        "Leur spectre émet presque uniquement de la lumière visible, sans ultraviolet et avec beaucoup moins d’infrarouge.",
+        "Certaines lampes sont dimmables ou capables de changer de couleur, tandis que d’autres sont colorées.",
+        "En Europe, seules les lampes à LED sont désormais vendues pour éclairer les bâtiments."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "électroluminescentes"
+    },
+    {
+      "term": "rendement énergétique"
+    },
+    {
+      "term": "proche infrarouge"
+    },
+    {
+      "term": "fabriquées en série"
+    },
+    {
+      "term": "pont redresseur"
+    },
+    {
+      "term": "phosphorescente"
+    },
+    {
+      "term": "dimmables"
+    },
+    {
+      "term": "température de couleur"
+    },
+    {
+      "term": "spectre"
+    },
+    {
+      "term": "ultraviolet"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q2",
+      "prompt": "Pourquoi les LED bleues étaient-elles nécessaires ?",
+      "options": [
+        "Pour remplacer les ampoules à incandescence dès 1968.",
+        "Pour abaisser la tension du secteur avec un pont redresseur.",
+        "Pour obtenir de la lumière blanche.",
+        "Pour allonger la durée de vie des lampes fluorescentes."
+      ],
+      "answerIndex": 2,
+      "evidence": "Toutefois, produire de la lumière blanche exigeait des LED bleues, plus difficiles à fabriquer.",
+      "explanation": "L’article lie explicitement la lumière blanche à l’usage de LED bleues. Les autres options concernent l’histoire, l’alimentation ou la durée de vie, sans ce lien."
+    },
+    {
+      "id": "q3",
+      "prompt": "Qu’a fait le métro parisien en 2013 selon l’article ?",
+      "options": [
+        "Il a cessé de vendre des ampoules à incandescence.",
+        "Il a été le premier au monde à adopter l’éclairage par LED.",
+        "Il a proposé des lampes LED de forte puissance.",
+        "Il a porté la part des LED à 44 % dans ses lampes achetées."
+      ],
+      "answerIndex": 1,
+      "evidence": "En 2013, le métro parisien fut le premier au monde à adopter l’éclairage par LED afin d’économiser l’énergie.",
+      "explanation": "Le texte attribue au métro parisien une première mondiale en 2013 pour économiser l’énergie. Les autres choix renvoient à la vente française, à l’offre après 2010 ou au taux de 2016."
+    },
+    {
+      "id": "q4",
+      "prompt": "Que dit l’article sur le fait d’allumer et d’éteindre souvent une lampe LED ?",
+      "options": [
+        "Cela use la lampe plus vite qu’une lampe fluorescente.",
+        "Cela réduit sa durée de vie à 1 000 heures.",
+        "Cela nécessite un pont redresseur supplémentaire.",
+        "Cela ne pose pas de problème, contrairement aux fluorescentes."
+      ],
+      "answerIndex": 3,
+      "evidence": "Les allumer et les éteindre souvent ne pose pas de problème, contrairement aux lampes fluorescentes.",
+      "explanation": "Le texte oppose sur ce point les LED aux lampes fluorescentes. Il ne signale ni usure accélérée ni besoin d’un pont supplémentaire pour cet usage."
+    },
+    {
+      "id": "q5",
+      "prompt": "Pour un même éclairement, quelle est la consommation d’une lampe LED face à une lampe à incandescence ?",
+      "options": [
+        "Elle consomme environ huit fois moins d’électricité.",
+        "Elle consomme environ deux tiers de moins d’électricité.",
+        "Elle consomme environ huit fois plus d’électricité.",
+        "Elle consomme environ 1 000 fois moins d’électricité."
+      ],
+      "answerIndex": 0,
+      "evidence": "Pour un même éclairement, une lampe LED consomme environ huit fois moins d’électricité qu’une lampe à incandescence.",
+      "explanation": "Le texte donne un rapport d’environ huit fois moins pour l’incandescence. Les deux tiers concernent la comparaison avec une lampe fluorescente."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quel est le rôle principal du passage sur l’intérieur d’une lampe à LED ?",
+      "options": [
+        "Comparer la durée de vie des LED et des lampes fluorescentes.",
+        "Raconter l’histoire des premières LED visibles.",
+        "Expliquer comment une lampe LED est constituée et alimentée.",
+        "Indiquer la part des LED dans les lampes achetées."
+      ],
+      "answerIndex": 2,
+      "evidence": "À l’intérieur, une lampe à LED contient plusieurs diodes branchées en série.",
+      "explanation": "Ce passage décrit les composants internes, la tension et le pont redresseur. Les autres choix correspondent à d’autres paragraphes de l’article."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "LED灯：一场照明革命",
+      "summary": "自1962年起逐步出现的LED灯，如今是建筑物最节能、最耐用的照明光源。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "LED灯利用发光二极管来产生可见光。",
+            "由于具有更高的能效，它正逐渐取代上个世纪的白炽灯。",
+            "第一只发光二极管于1962年制成，发出近红外光。",
+            "最早的可见光LED是红色的，从1968年起批量生产，但其效率仍然很低。"
+          ]
+        },
+        {
+          "sentences": [
+            "从1972年起，橙色、黄色和绿色LED相继出现。",
+            "1980年以后，LED达到了白炽灯的能效水平。",
+            "然而，产生白光需要蓝色LED，而蓝色LED更难制造。",
+            "最早的蓝色LED约在1992年或1993年实现，而最早的白色LED可追溯到1995年。"
+          ]
+        },
+        {
+          "sentences": [
+            "2010年以后，高功率LED灯被用于照明。",
+            "2013年，巴黎地铁成为世界上第一个采用LED照明以节约能源的地铁系统。",
+            "在法国，白炽灯泡于2012年停止销售。",
+            "在所购灯具中，LED所占比例从2013年的20%上升到2016年的44%，随后在2020年达到70%。"
+          ]
+        },
+        {
+          "sentences": [
+            "在内部，一只LED灯包含多个串联的二极管。",
+            "使用220伏交流电源时，必须先降低电压，然后使用桥式整流器。",
+            "所需电压取决于二极管发出的颜色。",
+            "为了获得白光，人们常常在蓝色LED上覆盖一层磷光涂料，把一部分光转化为黄光。"
+          ]
+        },
+        {
+          "sentences": [
+            "在相同照度下，LED灯的耗电量约为白炽灯的八分之一。",
+            "它所用的电量也略少于荧光灯用电量的三分之二。",
+            "其标称寿命为15000至50000小时，而白炽灯约为1000小时。",
+            "经常开关它们不会造成问题，而荧光灯则不同。"
+          ]
+        },
+        {
+          "sentences": [
+            "LED灯按色温分为暖白光、中性白光和冷白光。",
+            "其光谱几乎只发出可见光，不含紫外线，红外线也少得多。",
+            "有些灯可调光或能够改变颜色，而另一些则是有色的。",
+            "在欧洲，如今用于建筑物照明的灯只销售LED灯。"
+          ]
+        }
+      ],
+      "glossary": {
+        "électroluminescentes": "指通过电流激发半导体材料而发光的特性；发光二极管即利用这一效应。",
+        "rendement énergétique": "把输入能量转化为有用光能的效率；效率越高，同样照明越省电。",
+        "proche infrarouge": "波长略长于可见红光、肉眼不可见的电磁辐射，常用于遥控等。",
+        "fabriquées en série": "按标准化流程批量生产，而不是单件制造。",
+        "pont redresseur": "由二极管组成的电路，把交流电转换为直流电。",
+        "phosphorescente": "指能吸收光并在之后发光的材料；这里把蓝光部分转换为黄光以混合成白光。",
+        "dimmables": "可调光的，能调节亮度。",
+        "température de couleur": "描述光源光色偏暖或偏冷的数值，单位通常为开尔文。",
+        "spectre": "光按波长分布的范围；光谱显示各颜色成分及不可见辐射。",
+        "ultraviolet": "波长比可见紫光更短、肉眼不可见的电磁辐射，可能有害。"
+      },
+      "questions": {
+        "q2": "文中说产生白光需要蓝色LED，因此“为了获得白光”正确。第一项把1968年与可见红光LED批量生产相混；第二项说桥式整流器降压，但整流器用于整流，降压是另一环节；第四项涉及荧光灯寿命，与蓝色LED的必要性无关。",
+        "q3": "证据句明确说2013年巴黎地铁成为世界上第一个采用LED照明以节能的，因此第二项正确。第一项是法国停售白炽灯，第三项是2010年后出现高功率LED灯，第四项是2016年所购灯具中LED占44%的数据，均非巴黎地铁2013年的行动。",
+        "q4": "证据句指出经常开关LED灯不会造成问题，并明确与荧光灯对比，所以第四项正确。第一项说比荧光灯更快损耗，与原文相反；第二项中的1000小时是白炽灯寿命的参照，不是开关LED的结果；第三项把内部供电部件桥式整流器与开关操作混在一起，原文没有说需要额外整流器。",
+        "q5": "证据句给出相同照度下LED灯耗电约为白炽灯的八分之一，因此第一项正确。第二项把与荧光灯比较时的“用电量略少于荧光灯的三分之二”误解成“少三分之二”，而且并非与白炽灯比较；第三项把八分之一倒成八倍；第四项把1000小时寿命误当成耗电比例。",
+        "q6": "该段开头说LED灯内部有多个串联二极管，接着讲220伏交流电下先降压再使用桥式整流器，以及电压与颜色、白光转换，因此主旨是说明LED灯的组成和供电，第三项正确。第一项寿命比较在下一段，第二项历史在前文，第四项购买比例也在前文数据段。"
+      },
+      "questionTexts": {
+        "q2": {
+          "prompt": "为什么需要蓝色LED？",
+          "options": [
+            "为了从1968年起取代白炽灯泡。",
+            "为了用桥式整流器降低市电电压。",
+            "为了获得白光。",
+            "为了延长荧光灯的寿命。"
+          ]
+        },
+        "q3": {
+          "prompt": "根据文章，巴黎地铁在2013年做了什么？",
+          "options": [
+            "它停止销售白炽灯泡。",
+            "它是世界上第一个采用LED照明的。",
+            "它推出了高功率LED灯。",
+            "它把所购灯具中LED的比例提高到44%。"
+          ]
+        },
+        "q4": {
+          "prompt": "文章如何说明经常开关LED灯？",
+          "options": [
+            "这比荧光灯更快损耗灯具。",
+            "这会把其寿命缩短到1000小时。",
+            "这需要额外的桥式整流器。",
+            "这不会造成问题，而荧光灯则不同。"
+          ]
+        },
+        "q5": {
+          "prompt": "在相同照度下，LED灯相对于白炽灯的耗电量如何？",
+          "options": [
+            "它的耗电量约为白炽灯的八分之一。",
+            "它消耗的电量约少三分之二。",
+            "它消耗的电量约为白炽灯的八倍。",
+            "它消耗的电量约为白炽灯的千分之一。"
+          ]
+        },
+        "q6": {
+          "prompt": "关于LED灯内部的那一段主要起什么作用？",
+          "options": [
+            "比较LED灯和荧光灯的寿命。",
+            "讲述最早可见光LED的历史。",
+            "解释LED灯如何构成和供电。",
+            "指出LED在所购灯具中的比例。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Lampe à LED",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2567731&title=Lampe%20%C3%A0%20LED",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-24",
+    "revisionId": "2567731"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-24",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-24-lampe-a-led-068c7c5ba47d.jpg",
+    "alt": "Light Emitting Diode (LED) light bulb, 800 lumen (60 watt equivalent) 120 volt, 8.8 watt, dimmable, soft white 2700K, E26 Edison base, purchased in September 2024. Suitable for damp or enclosed places, FEIT Electric brand",
+    "author": "ArnoldReinhold",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:LED_bulb_800_Lm_Soft_white_2024.agr.jpg?oldid=1159220879",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Réduite à 960×1344 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 960,
+    "height": 1344,
+    "byteLength": 170472,
+    "sha256": "068c7c5ba47df2c502efe8af2d52647bb53be73d7864a95ff57525b734bef55e",
+    "fileRevisionId": "1159220879",
+    "retrievedAt": "2026-11-24"
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "id": "2026-11-24-adaev-a2",
+  "title": "L’Adaev, un cheval du Kazakhstan",
+  "level": "A2",
+  "theme": "science",
+  "date": "2026-11-24",
+  "summary": "Ce cheval kazakh est utilisé pour le travail et les sports. En 2023, il est devenu une race reconnue à part.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "L’Adaev est aussi appelé Adaï.",
+        "C’est un cheval du sud du Kazakhstan.",
+        "Il fait partie de la race kazakhe avec le Jabe.",
+        "Il est plus fin et moins rustique que le Jabe."
+      ]
+    },
+    {
+      "sentences": [
+        "On l’utilise surtout pour les sports équestres locaux.",
+        "Il garde aussi les troupeaux.",
+        "Les juments donnent du lait.",
+        "Parfois, on abat l’Adaev pour sa viande, mais c’est secondaire."
+      ]
+    },
+    {
+      "sentences": [
+        "La race a reçu le nom d’une tribu kazakhe, les Adaï.",
+        "Elle a connu l’influence de plusieurs chevaux.",
+        "Un plan d’élevage a été mis en place à la fin du XXe siècle.",
+        "En 2011, des tests d’État ont eu lieu à Akbastau."
+      ]
+    },
+    {
+      "sentences": [
+        "Trente-six chevaux ont participé aux tests.",
+        "Ils ont parcouru 90 kilomètres dans la journée.",
+        "Tous les 15 kilomètres, un jury et des vétérinaires les ont examinés."
+      ]
+    },
+    {
+      "sentences": [
+        "En novembre 2023, l’Adaev est reconnu comme une race distincte.",
+        "Des juges équestres internationaux des Émirats arabes unis ont pris cette décision.",
+        "Le nom officiel est alors « Adaï »."
+      ]
+    },
+    {
+      "sentences": [
+        "L’Adaev mesure environ 1,32 m à 1,44 m.",
+        "Il pèse environ 360 à 370 kg.",
+        "Il vit dans les déserts du sud du Kazakhstan.",
+        "Il peut rester plusieurs jours sans boire."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "rustique"
+    },
+    {
+      "term": "troupeaux"
+    },
+    {
+      "term": "juments"
+    },
+    {
+      "term": "abat"
+    },
+    {
+      "term": "équestres"
+    },
+    {
+      "term": "influence"
+    },
+    {
+      "term": "élevage"
+    },
+    {
+      "term": "jury"
+    },
+    {
+      "term": "vétérinaires"
+    },
+    {
+      "term": "distincte"
+    },
+    {
+      "term": "déserts"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q4",
+      "prompt": "Quel est le sujet principal de ce texte ?",
+      "options": [
+        "Les chevaux des Émirats arabes unis.",
+        "La vie des tribus kazakhes.",
+        "Les tests d’État de 2011 seulement.",
+        "L’Adaev, un cheval du Kazakhstan."
+      ],
+      "answerIndex": 3,
+      "evidence": "L’Adaev est aussi appelé Adaï.",
+      "explanation": "Le texte présente d’abord l’Adaev, puis son utilisation, son histoire et ses caractéristiques ; les autres choix ne sont que des détails ou ne correspondent pas au sujet."
+    },
+    {
+      "id": "q1",
+      "prompt": "Comment est l’Adaev par rapport au Jabe ?",
+      "options": [
+        "Il est plus mince et supporte moins bien les conditions difficiles.",
+        "Il est plus grand et supporte mieux les conditions difficiles.",
+        "Il est plus lourd et vit plus longtemps dans les déserts.",
+        "Il est plus rapide et donne plus de lait que le Jabe."
+      ],
+      "answerIndex": 0,
+      "evidence": "Il est plus fin et moins rustique que le Jabe.",
+      "explanation": "La comparaison avec le Jabe indique que l’Adaev est moins robuste et de constitution plus légère ; les autres options inversent ce rapport ou ajoutent des détails absents."
+    },
+    {
+      "id": "q2",
+      "prompt": "Dans quel but tue-t-on parfois un Adaev ?",
+      "options": [
+        "Pour obtenir une peau pour l’artisanat.",
+        "Pour obtenir de la nourriture.",
+        "Pour obtenir un animal pour les sports équestres.",
+        "Pour obtenir du lait pour les familles."
+      ],
+      "answerIndex": 1,
+      "evidence": "Parfois, on abat l’Adaev pour sa viande, mais c’est secondaire.",
+      "explanation": "Le texte précise que l’abattage sert à récupérer de la viande, même si cette pratique reste marginale. Les autres buts proposés ne sont pas mentionnés pour l’abattage."
+    },
+    {
+      "id": "q3",
+      "prompt": "Que font le jury et les vétérinaires tous les 15 kilomètres ?",
+      "options": [
+        "Ils mesurent la taille et le poids des chevaux.",
+        "Ils donnent à boire et à manger aux chevaux.",
+        "Ils vérifient l’état de santé des chevaux.",
+        "Ils choisissent les chevaux pour la course suivante."
+      ],
+      "answerIndex": 2,
+      "evidence": "Tous les 15 kilomètres, un jury et des vétérinaires les ont examinés.",
+      "explanation": "Après chaque étape de 15 km, le jury et les vétérinaires contrôlent les chevaux ; l’option correcte reformule ce contrôle en suivi sanitaire. Les autres actions ne correspondent pas à ce passage."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "阿达耶夫马，一种哈萨克斯坦的马",
+      "summary": "这种哈萨克马用于劳作和运动。2023年，它成为被单独认可的品种。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "阿达耶夫马也被称为阿代。",
+            "它是哈萨克斯坦南部的马。",
+            "它与扎贝马同属哈萨克马品种。",
+            "它比扎贝马更纤细，也更不耐粗放。"
+          ]
+        },
+        {
+          "sentences": [
+            "它主要用于当地的马术运动。",
+            "它也看守畜群。",
+            "母马产奶。",
+            "有时人们会宰杀阿达耶夫马取肉，但这是次要用途。"
+          ]
+        },
+        {
+          "sentences": [
+            "该品种得名于一个哈萨克部落——阿代。",
+            "它受到多种马匹的影响。",
+            "20世纪末实施了一项育种计划。",
+            "2011年，在阿克巴斯陶进行了国家测试。"
+          ]
+        },
+        {
+          "sentences": [
+            "三十六匹马参加了测试。",
+            "它们一天内跑了90公里。",
+            "每隔15公里，一个评审团和兽医会对它们进行检查。"
+          ]
+        },
+        {
+          "sentences": [
+            "2023年11月，阿达耶夫马被认定为一个独立品种。",
+            "来自阿拉伯联合酋长国的国际马术评委作出了这一决定。",
+            "当时的正式名称是“阿代”。"
+          ]
+        },
+        {
+          "sentences": [
+            "阿达耶夫马身高约1.32米至1.44米。",
+            "体重约360至370公斤。",
+            "它生活在哈萨克斯坦南部的沙漠中。",
+            "它可以连续数天不喝水。"
+          ]
+        }
+      ],
+      "glossary": {
+        "rustique": "指家畜耐粗放、抗逆性强，能适应较艰苦的饲养条件。",
+        "troupeaux": "成群饲养的牲畜，如牛、羊、马等。",
+        "juments": "母马。",
+        "abat": "这里指为取肉等目的而宰杀牲畜。",
+        "équestres": "与骑马、马术或马匹运动有关的。",
+        "influence": "对某事物产生的作用或影响。",
+        "élevage": "饲养和繁殖家畜的活动或过程。",
+        "jury": "负责评审、检查或评分的评判小组。",
+        "vétérinaires": "给动物看病、检查动物健康的兽医。",
+        "distincte": "与其他类别分开的、独立的。",
+        "déserts": "干旱少雨、植被稀少的荒漠地区。"
+      },
+      "questions": {
+        "q4": "文章先介绍阿达耶夫马，再讲它的用途、历史和特征；其他选项只是细节，或者不符合主题。正确选项“哈萨克斯坦的一种马——阿达耶夫马”概括了全文对象。",
+        "q1": "与扎贝马的比较表明，阿达耶夫马体格更轻、对恶劣环境的耐受性较差；正确选项“它更轻，对恶劣环境的耐受性较差”正是这一比较的改写。其他选项颠倒这一关系，或加入文中没有的细节。",
+        "q2": "文中说明，宰杀是为了取得肉，尽管这是次要做法；正确选项“为了获得食物”概括了取肉这一目的。其他目的并未在宰杀语境中提到。",
+        "q3": "每跑完15公里，评审团和兽医都会检查马匹；正确选项“他们检查马匹的健康状况”把这种检查表述为健康监测。其他动作与该段内容不符。"
+      },
+      "questionTexts": {
+        "q4": {
+          "prompt": "这篇文章的主题是什么？",
+          "options": [
+            "阿拉伯联合酋长国的马。",
+            "哈萨克部落的生活。",
+            "仅2011年的国家测试。",
+            "哈萨克斯坦的一种马——阿达耶夫马。"
+          ]
+        },
+        "q1": {
+          "prompt": "与扎贝马相比，阿达耶夫马怎么样？",
+          "options": [
+            "它更轻，对恶劣环境的耐受性较差。",
+            "它更高大，对恶劣环境的耐受性更好。",
+            "它更重，在沙漠中活得更久。",
+            "它更快，产奶比扎贝马多。"
+          ]
+        },
+        "q2": {
+          "prompt": "有时人们宰杀阿达耶夫马是为了什么？",
+          "options": [
+            "为了获得用于手工艺的皮。",
+            "为了获得食物。",
+            "为了得到一匹用于马术运动的马。",
+            "为了给家庭获得奶。"
+          ]
+        },
+        "q3": {
+          "prompt": "每隔15公里，评审团和兽医会做什么？",
+          "options": [
+            "他们测量马匹的身高和体重。",
+            "他们给马匹喂水喂食。",
+            "他们检查马匹的健康状况。",
+            "他们挑选马匹参加下一场比赛。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Adaev",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=234275423",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-24",
+    "revisionId": "234275423"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-24",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-24-adaev-a2-01d42e7a716e.jpg",
+    "alt": "Сайрам-Угамский национальный парк: Туркестанская область",
+    "author": "Levdikan",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sairamsilbeli-130.jpg?oldid=1098267925",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Réduite à 1280×853 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 853,
+    "byteLength": 244528,
+    "sha256": "01d42e7a716eb027149e6f2d24c3fcf24dfaca25fb25946b4dc80127ce9de228",
+    "fileRevisionId": "1098267925",
+    "retrievedAt": "2026-11-24"
+  }
+}

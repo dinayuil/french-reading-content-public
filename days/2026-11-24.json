@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-24",
+  "articles": [
+    {
+      "id": "2026-11-24-lampe-a-led",
+      "title": "Les lampes à LED : une révolution de l’éclairage",
+      "level": "B2",
+      "theme": "technologie",
+      "date": "2026-11-24",
+      "summary": "Les lampes à LED, apparues progressivement depuis 1962, sont aujourd’hui la source d’éclairage la plus économe et la plus durable pour les bâtiments.",
+      "path": "articles/2026-11-24-lampe-a-led.json",
+      "variants": [
+        {
+          "id": "2026-11-24-lampe-a-led-b1",
+          "title": "Les lampes à LED : une lumière plus économique",
+          "level": "B1",
+          "theme": "technologie",
+          "date": "2026-11-24",
+          "summary": "Les lampes à LED utilisent des diodes pour produire de la lumière. Elles consomment beaucoup moins d’électricité et durent plus longtemps que les anciennes lampes.",
+          "path": "articles/2026-11-24-lampe-a-led-b1.json"
+        },
+        {
+          "id": "2026-11-24-lampe-a-led-a2",
+          "title": "Les lampes à LED",
+          "level": "A2",
+          "theme": "technologie",
+          "date": "2026-11-24",
+          "summary": "Les lampes à LED sont très économes en électricité. Elles durent longtemps et remplacent peu à peu les autres lampes.",
+          "path": "articles/2026-11-24-lampe-a-led-a2.json"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-adaev",
+      "title": "L'Adaev, un cheval des déserts kazakhs",
+      "level": "B2",
+      "theme": "culture",
+      "date": "2026-11-24",
+      "summary": "L'Adaev, ou Adaï, est un cheval de selle et de trait léger du sud du Kazakhstan, reconnu comme race distincte en 2023 après une longue adaptation au désert.",
+      "path": "articles/2026-11-24-adaev.json",
+      "variants": [
+        {
+          "id": "2026-11-24-adaev-b1",
+          "title": "L’Adaï, un cheval des déserts du Kazakhstan",
+          "level": "B1",
+          "theme": "société",
+          "date": "2026-11-24",
+          "summary": "Ce cheval des déserts kazakhs sert aux sports locaux, au travail avec les troupeaux et à la production de lait. Les juges internationaux l’ont reconnu comme une race à part en 2023.",
+          "path": "articles/2026-11-24-adaev-b1.json"
+        },
+        {
+          "id": "2026-11-24-adaev-a2",
+          "title": "L’Adaev, un cheval du Kazakhstan",
+          "level": "A2",
+          "theme": "science",
+          "date": "2026-11-24",
+          "summary": "Ce cheval kazakh est utilisé pour le travail et les sports. En 2023, il est devenu une race reconnue à part.",
+          "path": "articles/2026-11-24-adaev-a2.json"
+        }
+      ]
+    }
+  ]
+}

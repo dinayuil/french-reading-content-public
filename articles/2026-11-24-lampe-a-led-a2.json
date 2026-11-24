@@ -1,0 +1,260 @@
+{
+  "id": "2026-11-24-lampe-a-led-a2",
+  "title": "Les lampes à LED",
+  "level": "A2",
+  "theme": "technologie",
+  "date": "2026-11-24",
+  "summary": "Les lampes à LED sont très économes en électricité. Elles durent longtemps et remplacent peu à peu les autres lampes.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Une lampe à LED utilise des diodes électroluminescentes pour produire de la lumière.",
+        "Elle consomme moins d’électricité qu’une lampe à incandescence.",
+        "La première diode électroluminescente date de 1962 et émettait de l’infrarouge."
+      ]
+    },
+    {
+      "sentences": [
+        "Les premières LED visibles étaient rouges et ont été fabriquées en série dès 1968.",
+        "À partir de 1972, on a trouvé des LED oranges, jaunes et vertes.",
+        "Après 1980, leur rendement a atteint celui des lampes à incandescence."
+      ]
+    },
+    {
+      "sentences": [
+        "Les LED bleues ont été réussies vers 1992 ou 1993, et les premières LED blanches datent de 1995.",
+        "Après 2010, des lampes à LED puissantes sont arrivées pour l’éclairage.",
+        "En 2013, le métro parisien a été le premier au monde à utiliser des LED."
+      ]
+    },
+    {
+      "sentences": [
+        "En France, les ampoules à incandescence ont cessé d’être vendues en 2012.",
+        "En 2013, 20 % des lampes achetées étaient des LED.",
+        "En 2016, c’était 44 %, et en 2020, 70 %.",
+        "Les lampes fluorescentes ont disparu des supermarchés vers 2019."
+      ]
+    },
+    {
+      "sentences": [
+        "Une lampe à LED contient plusieurs diodes branchées en série.",
+        "Sur une prise de 220 V, il faut baisser la tension et redresser le courant.",
+        "Pour la lumière blanche, on utilise souvent une LED bleue et une peinture phosphorescente.",
+        "Une lampe LED consomme huit fois moins qu’une lampe à incandescence."
+      ]
+    },
+    {
+      "sentences": [
+        "Elle dure de 15 000 à 50 000 heures.",
+        "Il existe des lampes blanc chaud, blanc neutre et blanc froid."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "électroluminescentes"
+    },
+    {
+      "term": "incandescence"
+    },
+    {
+      "term": "infrarouge"
+    },
+    {
+      "term": "rendement"
+    },
+    {
+      "term": "phosphorescente"
+    },
+    {
+      "term": "redresser"
+    },
+    {
+      "term": "tension"
+    },
+    {
+      "term": "fluorescentes"
+    },
+    {
+      "term": "diodes"
+    },
+    {
+      "term": "série"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Que produisait la première diode électroluminescente de 1962 ?",
+      "options": [
+        "De l’infrarouge",
+        "De la lumière blanche",
+        "De la lumière rouge",
+        "De la lumière verte"
+      ],
+      "answerIndex": 0,
+      "evidence": "La première diode électroluminescente date de 1962 et émettait de l’infrarouge.",
+      "explanation": "Le texte indique que cette première diode émettait de l’infrarouge. Les lumières rouge, verte et blanche concernent des LED visibles venues plus tard."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel est le sujet principal de cet article ?",
+      "options": [
+        "Les lampes à incandescence en France",
+        "Le métro parisien et ses transports",
+        "L’histoire et le fonctionnement des lampes à LED",
+        "La fabrication des peintures phosphorescentes"
+      ],
+      "answerIndex": 2,
+      "evidence": "Une lampe à LED utilise des diodes électroluminescentes pour produire de la lumière.",
+      "explanation": "Le texte présente d’abord ce qu’est une lampe à LED, puis son histoire, son fonctionnement et sa diffusion. Les autres options ne portent que sur un détail de l’article."
+    },
+    {
+      "id": "q4",
+      "prompt": "En 2016, quelle part des lampes achetées en France était des LED ?",
+      "options": [
+        "20 %",
+        "70 %",
+        "80 %",
+        "44 %"
+      ],
+      "answerIndex": 3,
+      "evidence": "En 2016, c’était 44 %, et en 2020, 70 %.",
+      "explanation": "Le texte donne 44 % pour l’année 2016. Le chiffre de 20 % correspond à 2013 et celui de 70 % à 2020."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "LED灯",
+      "summary": "LED灯非常省电。它们使用寿命长，并逐渐取代其他灯。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "LED灯使用发光二极管来产生光。",
+            "它比白炽灯耗电更少。",
+            "第一个发光二极管可追溯到1962年，发出的是红外线。"
+          ]
+        },
+        {
+          "sentences": [
+            "最早的可见LED是红色的，并从1968年起开始批量生产。",
+            "从1972年起，人们发现了橙色、黄色和绿色LED。",
+            "1980年后，它们的效率达到了白炽灯的水平。"
+          ]
+        },
+        {
+          "sentences": [
+            "蓝色LED在1992年或1993年左右研制成功，而最早的白色LED可追溯到1995年。",
+            "2010年后，用于照明的强大LED灯出现了。",
+            "2013年，巴黎地铁成为世界上第一个使用LED的地铁。"
+          ]
+        },
+        {
+          "sentences": [
+            "在法国，白炽灯泡于2012年停止销售。",
+            "2013年，购买的灯中有20%是LED灯。",
+            "2016年，这一比例为44%，2020年为70%。",
+            "荧光灯约在2019年从超市中消失。"
+          ]
+        },
+        {
+          "sentences": [
+            "一只LED灯包含多个串联的二极管。",
+            "在220 V的插座上，需要降低电压并整流电流。",
+            "为了获得白光，人们常使用蓝色LED和磷光涂料。",
+            "一只LED灯的耗电量是白炽灯的八分之一。"
+          ]
+        },
+        {
+          "sentences": [
+            "它的使用寿命为15 000至50 000小时。",
+            "有暖白光、中性白光和冷白光灯。"
+          ]
+        }
+      ],
+      "glossary": {
+        "électroluminescentes": "电致发光的；指通电时发光的二极管。",
+        "incandescence": "白炽发光；通过加热灯丝发光的方式。",
+        "infrarouge": "红外线；人眼不可见、波长较长的辐射。",
+        "rendement": "效率；这里指灯把电能转化为光的效率。",
+        "phosphorescente": "磷光的；能吸收能量并在之后发光的（涂料）。",
+        "redresser": "整流；把交流电转换为直流电。",
+        "tension": "电压；电势差。",
+        "fluorescentes": "荧光的；指荧光灯。",
+        "diodes": "二极管；允许电流单向通过的电子元件。",
+        "série": "串联；多个元件首尾相接在同一电路中。"
+      },
+      "questions": {
+        "q1": "证据句明确指出第一个发光二极管可追溯到1962年，发出的是红外线，因此正确选项是“红外线”。白光、红光和绿光对应的是后来出现的可见LED，不是1962年那个二极管。",
+        "q3": "文章开头说明LED灯用发光二极管发光，随后介绍其历史、工作原理和普及情况，因此主要主题是“LED灯的历史和工作原理”。法国的白炽灯、巴黎地铁及其交通、磷光涂料的制造都只是文中提到的局部细节，不能概括全文。",
+        "q4": "证据句给出2016年的比例是44%，所以正确选项是“44 %”。20 %对应2013年，70 %对应2020年，80 %在文中没有作为2016年的比例出现。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "1962年的第一个发光二极管产生的是什么？",
+          "options": [
+            "红外线",
+            "白光",
+            "红光",
+            "绿光"
+          ]
+        },
+        "q3": {
+          "prompt": "这篇文章的主要主题是什么？",
+          "options": [
+            "法国的白炽灯",
+            "巴黎地铁及其交通",
+            "LED灯的历史和工作原理",
+            "磷光涂料的制造"
+          ]
+        },
+        "q4": {
+          "prompt": "2016年，法国购买的灯中LED灯占多大比例？",
+          "options": [
+            "20 %",
+            "70 %",
+            "80 %",
+            "44 %"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Lampe à LED",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2567731&title=Lampe%20%C3%A0%20LED",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-24",
+    "revisionId": "2567731"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-24",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-24-lampe-a-led-a2-068c7c5ba47d.jpg",
+    "alt": "Light Emitting Diode (LED) light bulb, 800 lumen (60 watt equivalent) 120 volt, 8.8 watt, dimmable, soft white 2700K, E26 Edison base, purchased in September 2024. Suitable for damp or enclosed places, FEIT Electric brand",
+    "author": "ArnoldReinhold",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:LED_bulb_800_Lm_Soft_white_2024.agr.jpg?oldid=1159220879",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "Réduite à 960×1344 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 960,
+    "height": 1344,
+    "byteLength": 170472,
+    "sha256": "068c7c5ba47df2c502efe8af2d52647bb53be73d7864a95ff57525b734bef55e",
+    "fileRevisionId": "1159220879",
+    "retrievedAt": "2026-11-24"
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "id": "2026-11-24-adaev-b1",
+  "title": "L’Adaï, un cheval des déserts du Kazakhstan",
+  "level": "B1",
+  "theme": "société",
+  "date": "2026-11-24",
+  "summary": "Ce cheval des déserts kazakhs sert aux sports locaux, au travail avec les troupeaux et à la production de lait. Les juges internationaux l’ont reconnu comme une race à part en 2023.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "L’Adaï, ou Adaev, est un cheval de selle et de trait léger.",
+        "Il vient des régions désertiques du sud du Kazakhstan.",
+        "C’est l’un des deux types de la race kazakhe, avec le Jabe.",
+        "Il est plus fin et moins rustique que le Jabe."
+      ]
+    },
+    {
+      "sentences": [
+        "On l’utilise surtout pour les sports équestres locaux et la garde des troupeaux.",
+        "Les juments donnent du lait.",
+        "Parfois, on abat ces chevaux pour leur viande, mais c’est secondaire.",
+        "La race est connue au Turkménistan et en Ouzbékistan.",
+        "En 1990, on a compté près de 29 000 individus."
+      ]
+    },
+    {
+      "sentences": [
+        "Le nom « Adaev » vient d’une tribu kazakhe militaire, les Adaï.",
+        "La race a peut-être reçu l’influence du cheval turkmène.",
+        "Plus tard, elle a connu celle du cheval du Don, du Pur-sang et du trotteur d’Orlov.",
+        "Des croisements non contrôlés ont fait baisser sa population.",
+        "À la fin du XXe siècle, un plan d’élevage a cherché à améliorer la taille et la fertilité."
+      ]
+    },
+    {
+      "sentences": [
+        "En 2011, des tests d’État ont eu lieu dans l’oblys de Manguistaou.",
+        "Trente-six chevaux ont été choisis parmi des milliers d’animaux.",
+        "Ils ont dû parcourir 90 kilomètres en une journée.",
+        "Tous les 15 km, des juges et des vétérinaires ont contrôlé le pouls et la transpiration."
+      ]
+    },
+    {
+      "sentences": [
+        "En novembre 2023, des juges internationaux des Émirats arabes unis ont reconnu l’Adaï comme une race distincte.",
+        "Localement, on le voit plutôt comme un type de cheval kazakh adapté à la selle.",
+        "Il existe trois types : massif, moyen et léger ; sa taille va de 1,32 m à 1,44 m.",
+        "Son poids moyen est de 360 kg chez les femelles et de 370 kg chez les mâles."
+      ]
+    },
+    {
+      "sentences": [
+        "Ce cheval vit souvent en groupes et reste dehors toute l’année.",
+        "Il peut passer plusieurs jours sans boire.",
+        "Son endurance est très bonne, mais il résiste moins bien que le cheval kazakh et le Jabe.",
+        "Sa fertilité dépasse 90 % et les juments ont leurs poulains en avril ou en mai."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "trait"
+    },
+    {
+      "term": "rustique"
+    },
+    {
+      "term": "équestres"
+    },
+    {
+      "term": "troupeaux"
+    },
+    {
+      "term": "juments"
+    },
+    {
+      "term": "croisements"
+    },
+    {
+      "term": "fertilité"
+    },
+    {
+      "term": "oblys"
+    },
+    {
+      "term": "endurance"
+    },
+    {
+      "term": "poulains"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "D’après le texte, quelle différence est indiquée entre l’Adaï et le Jabe ?",
+      "options": [
+        "L’Adaï est plus fin et moins rustique que le Jabe.",
+        "L’Adaï est plus massif et plus rustique que le Jabe.",
+        "L’Adaï vient du Turkménistan, tandis que le Jabe vient du Kazakhstan.",
+        "L’Adaï est utilisé pour le lait, alors que le Jabe est utilisé pour la viande."
+      ],
+      "answerIndex": 0,
+      "evidence": "Il est plus fin et moins rustique que le Jabe.",
+      "explanation": "La phrase compare directement les deux types et attribue à l’Adaï plus de finesse et moins de rusticité. Les options inverses ou portant sur l’origine ou l’usage ne sont pas soutenues par le passage."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quel est l’usage principal de l’Adaï selon le texte ?",
+      "options": [
+        "La production de lait et l’abattage pour la viande.",
+        "Les sports équestres locaux et la garde des troupeaux.",
+        "Le transport des marchandises et les travaux agricoles.",
+        "Les courses internationales et l’élevage de Pur-sang."
+      ],
+      "answerIndex": 1,
+      "evidence": "On l’utilise surtout pour les sports équestres locaux et la garde des troupeaux.",
+      "explanation": "Le mot « surtout » indique que le lait et la viande ne sont pas les usages principaux, même s’ils sont mentionnés ensuite. Les autres usages proposés ne correspondent pas à ce que dit le texte."
+    },
+    {
+      "id": "q4",
+      "prompt": "Lors des tests d’État de 2011, quelle obligation est donnée aux trente-six chevaux choisis ?",
+      "options": [
+        "Parcourir 15 kilomètres en une journée.",
+        "Rester dehors toute l’année sans boire.",
+        "Être contrôlés seulement au départ et à l’arrivée.",
+        "Parcourir 90 kilomètres en une journée."
+      ],
+      "answerIndex": 3,
+      "evidence": "Ils ont dû parcourir 90 kilomètres en une journée.",
+      "explanation": "Le texte indique une distance de 90 km sur une journée et des contrôles tous les 15 km. Les autres options modifient la distance, le moment des contrôles ou mélangent avec une caractéristique générale."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quel est le rôle principal du paragraphe consacré aux tests de 2011 ?",
+      "options": [
+        "Il explique l’origine du nom « Adaev » et les influences reçues par la race.",
+        "Il présente les trois types de l’Adaï et leurs mesures.",
+        "Il décrit une épreuve officielle de 2011 et les contrôles subis par les chevaux.",
+        "Il indique comment les juments donnent naissance au printemps."
+      ],
+      "answerIndex": 2,
+      "evidence": "En 2011, des tests d’État ont eu lieu dans l’oblys de Manguistaou.",
+      "explanation": "Ce paragraphe donne la date, le lieu, le nombre de chevaux et le déroulement de l’épreuve. Les autres options renvoient à d’autres paragraphes de l’article."
+    },
+    {
+      "id": "q6",
+      "prompt": "Que dit le texte de l’endurance de l’Adaï ?",
+      "options": [
+        "Elle est très bonne et meilleure que celle du cheval kazakh et du Jabe.",
+        "Elle est très bonne, mais moins bonne que celle du cheval kazakh et du Jabe.",
+        "Elle est faible, mais meilleure que celle du Jabe.",
+        "Elle est bonne seulement pendant les tests d’État."
+      ],
+      "answerIndex": 1,
+      "evidence": "Son endurance est très bonne, mais il résiste moins bien que le cheval kazakh et le Jabe.",
+      "explanation": "Le texte oppose une bonne endurance à une résistance inférieure à celle du cheval kazakh et du Jabe. Il ne la dit ni supérieure, ni faible, ni limitée aux tests."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "阿达伊马，一种哈萨克斯坦沙漠中的马",
+      "summary": "这种哈萨克沙漠马用于当地运动、放牧工作和产奶。国际评委于2023年承认它是一个独立品种。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "阿达伊马，或称阿达耶夫马，是一种乘用和轻挽用马。",
+            "它来自哈萨克斯坦南部的沙漠地区。",
+            "它是哈萨克马品种的两个类型之一，另一个是贾贝马。",
+            "它比贾贝马更纤细，也更不耐粗饲。"
+          ]
+        },
+        {
+          "sentences": [
+            "它主要用于当地马术运动和看管畜群。",
+            "母马产奶。",
+            "有时人们会宰杀这些马取肉，但这是次要用途。",
+            "该品种在土库曼斯坦和乌兹别克斯坦为人所知。",
+            "1990年，统计到近29000匹马。"
+          ]
+        },
+        {
+          "sentences": [
+            "“Adaev”这一名称来自一个哈萨克军事部落——阿代部落。",
+            "该品种可能受到土库曼马的影响。",
+            "后来，它又受到顿河马、纯血马和奥尔洛夫快步马的影响。",
+            "不受控制的杂交使其数量下降。",
+            "20世纪末，一项育种计划试图改善其体型和繁殖力。"
+          ]
+        },
+        {
+          "sentences": [
+            "2011年，在曼吉斯套州进行了国家测试。",
+            "从数千匹马中选出了三十六匹马。",
+            "它们必须在一日内行进90公里。",
+            "每15公里，评委和兽医检查脉搏和出汗情况。"
+          ]
+        },
+        {
+          "sentences": [
+            "2023年11月，来自阿拉伯联合酋长国的国际评委承认阿达伊马为一个独立品种。",
+            "在当地，它更被视为一种适合乘骑的哈萨克马类型。",
+            "它有三种类型：重型、中型和轻型；其身高从1.32米到1.44米。",
+            "雌性平均体重为360公斤，雄性为370公斤。"
+          ]
+        },
+        {
+          "sentences": [
+            "这种马常常群居，并且全年待在户外。",
+            "它可以连续几天不喝水。",
+            "它的耐力很好，但耐受力不如哈萨克马和贾贝马。",
+            "其繁殖力超过90%，母马在四月或五月产驹。"
+          ]
+        }
+      ],
+      "glossary": {
+        "trait": "指挽马、役用马；在“cheval de trait léger”中指轻挽型马。",
+        "rustique": "指牲畜耐粗饲、适应艰苦环境、强健。",
+        "équestres": "与骑马、马术运动有关的。",
+        "troupeaux": "成群饲养的牲畜，这里指牧群、畜群。",
+        "juments": "成年母马。",
+        "croisements": "不同品种或个体之间的杂交、交配。",
+        "fertilité": "繁殖力、生育能力。",
+        "oblys": "哈萨克斯坦的一级行政区，相当于州。",
+        "endurance": "长时间持续运动或劳作的能力，耐力。",
+        "poulains": "幼马，马驹。"
+      },
+      "questions": {
+        "q1": "文中句子直接比较两个类型：阿达伊马“比贾贝马更纤细，也更不耐粗饲”，因此与第一项“阿达伊马比贾贝马更纤细，也更不耐粗饲”相符。把特征说反的选项，以及谈来源或用途的选项，都不被该段支持。",
+        "q2": "“surtout（尤其）”表明产奶和取肉不是主要用途，尽管后文提到它们；证据直接指向第二项“当地马术运动和看管畜群”。其余选项所说的运输、农业劳动、国际赛马或纯血马育种都不符合文本。",
+        "q4": "证据说这些马必须“在一日内行进90公里”，因此对应第四项“在一日内行进90公里”。文中还说到每15公里检查一次，而不是只检查起终点；其他选项改动了距离或把一般特征混入测试要求。",
+        "q5": "这一段给出2011年国家测试的日期、地点、马匹数量和测试过程，因此主要作用是描述一次2011年的正式测试及马匹所受检查，即第三项。名称来源、三种类型与尺寸、春季产驹分别属于其他段落。",
+        "q6": "文本一方面说耐力“很好”，另一方面说它“不如哈萨克马和贾贝马那样耐受力好”，所以第二项“耐力很好，但不如哈萨克马和贾贝马”符合。文本没有说它更强、很弱或只在国家测试中表现好。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "根据文本，阿达伊马与贾贝马之间指出了什么不同？",
+          "options": [
+            "阿达伊马比贾贝马更纤细，也更不耐粗饲。",
+            "阿达伊马比贾贝马更粗壮，也更耐粗饲。",
+            "阿达伊马来自土库曼斯坦，而贾贝马来自哈萨克斯坦。",
+            "阿达伊马用于产奶，而贾贝马用于取肉。"
+          ]
+        },
+        "q2": {
+          "prompt": "根据文本，阿达伊马的主要用途是什么？",
+          "options": [
+            "产奶和宰杀取肉。",
+            "当地马术运动和看管畜群。",
+            "运输货物和农业劳动。",
+            "国际赛马和纯血马育种。"
+          ]
+        },
+        "q4": {
+          "prompt": "在2011年的国家测试中，被选出的三十六匹马有什么义务？",
+          "options": [
+            "在一日内行进15公里。",
+            "全年待在户外且不喝水。",
+            "只在出发和到达时接受检查。",
+            "在一日内行进90公里。"
+          ]
+        },
+        "q5": {
+          "prompt": "专门讲2011年测试的那一段的主要作用是什么？",
+          "options": [
+            "解释“Adaev”名称的来源以及该品种受到的影响。",
+            "介绍阿达伊马的三种类型及其尺寸。",
+            "描述2011年的一次正式测试以及马匹所受的检查。",
+            "说明母马如何在春季产驹。"
+          ]
+        },
+        "q6": {
+          "prompt": "文本如何说阿达伊马的耐力？",
+          "options": [
+            "它很好，并且比哈萨克马和贾贝马更好。",
+            "它很好，但不如哈萨克马和贾贝马。",
+            "它很弱，但比贾贝马好。",
+            "它只在国家测试期间才好。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Adaev",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=234275423",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-24",
+    "revisionId": "234275423"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-24",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-24-adaev-b1-01d42e7a716e.jpg",
+    "alt": "Сайрам-Угамский национальный парк: Туркестанская область",
+    "author": "Levdikan",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sairamsilbeli-130.jpg?oldid=1098267925",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Réduite à 1280×853 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 853,
+    "byteLength": 244528,
+    "sha256": "01d42e7a716eb027149e6f2d24c3fcf24dfaca25fb25946b4dc80127ce9de228",
+    "fileRevisionId": "1098267925",
+    "retrievedAt": "2026-11-24"
+  }
+}
