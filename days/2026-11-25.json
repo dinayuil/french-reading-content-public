@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-25",
+  "articles": [
+    {
+      "id": "2026-11-25-championnat-d-europe-de-football-2004",
+      "title": "L’Euro 2004 au Portugal : la Grèce surprend le pays hôte",
+      "level": "B1",
+      "theme": "sport",
+      "date": "2026-11-25",
+      "summary": "En 2004, le Portugal a organisé l’Euro de football, mais il a perdu la finale contre la Grèce, qui a été sacrée championne.",
+      "path": "articles/2026-11-25-championnat-d-europe-de-football-2004.json",
+      "variants": [
+        {
+          "id": "2026-11-25-championnat-d-europe-de-football-2004-a2",
+          "title": "L'Euro 2004 : la Grèce gagne au Portugal",
+          "level": "A2",
+          "theme": "sport",
+          "date": "2026-11-25",
+          "summary": "En 2004, le Portugal organise l'Euro de football. La Grèce bat le Portugal en finale et devient championne d'Europe.",
+          "path": "articles/2026-11-25-championnat-d-europe-de-football-2004-a2.json"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-bataille-de-cerisoles",
+      "title": "La bataille de Cérisoles (1544)",
+      "level": "B2",
+      "theme": "histoire",
+      "date": "2026-11-25",
+      "summary": "Le 14 avril 1544, les Français du comte d’Enghien remportent une victoire coûteuse et peu exploitée sur les troupes impériales à Cérisoles, lors de la neuvième guerre d’Italie.",
+      "path": "articles/2026-11-25-bataille-de-cerisoles.json",
+      "variants": [
+        {
+          "id": "2026-11-25-bataille-de-cerisoles-b1",
+          "title": "La bataille de Cérisoles (1544)",
+          "level": "B1",
+          "theme": "histoire",
+          "date": "2026-11-25",
+          "summary": "Le 14 avril 1544, près de Cérisoles, les Français du comte d’Enghien battent les troupes de Charles Quint, mais cette victoire n’a pas de grand effet stratégique en Italie.",
+          "path": "articles/2026-11-25-bataille-de-cerisoles-b1.json"
+        },
+        {
+          "id": "2026-11-25-bataille-de-cerisoles-a2",
+          "title": "La bataille de Cérisoles",
+          "level": "A2",
+          "theme": "histoire",
+          "date": "2026-11-25",
+          "summary": "En avril 1544, les Français gagnent une grande bataille près de Cérisoles, en Italie. Pourtant, cette victoire ne change pas vraiment la situation dans la région.",
+          "path": "articles/2026-11-25-bataille-de-cerisoles-a2.json"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-azerbaidjan-la-lettre-d-un-prisonnier-politique-revele-les-c",
+      "title": "Azerbaïdjan : Bahruz Samadov, prisonnier de la paix",
+      "level": "B2",
+      "theme": "politique",
+      "date": "2026-11-25",
+      "summary": "Le politologue azerbaïdjanais Bahruz Samadov, arrêté en 2024 et condamné à quinze ans de prison pour haute trahison, dénonce depuis sa cellule une justice instrumentalisée et le silence des États-Unis.",
+      "path": "articles/2026-11-25-azerbaidjan-la-lettre-d-un-prisonnier-politique-revele-les-c.json",
+      "variants": [
+        {
+          "id": "2026-11-25-azerbaidjan-la-lettre-d-un-prisonnier-politique-revele-les-c-b1",
+          "title": "Azerbaïdjan : Bahruz Samadov, prisonnier de la paix",
+          "level": "B1",
+          "theme": "politique",
+          "date": "2026-11-25",
+          "summary": "Bahruz Samadov, universitaire azerbaïdjanais et militant pour la paix, a été condamné à 15 ans de prison. Sa lettre dénonce la répression des voix critiques et le silence des États-Unis.",
+          "path": "articles/2026-11-25-azerbaidjan-la-lettre-d-un-prisonnier-politique-revele-les-c-b1.json"
+        },
+        {
+          "id": "2026-11-25-azerbaidjan-la-lettre-d-un-prisonnier-politique-revele-les-c-a2",
+          "title": "Azerbaïdjan : un politologue condamné à 15 ans de prison",
+          "level": "A2",
+          "theme": "politique",
+          "date": "2026-11-25",
+          "summary": "Bahruz Samadov, politologue azerbaïdjanais, est en prison depuis 2024. Il a été condamné à 15 ans pour haute trahison après avoir critiqué la guerre et défendu la paix.",
+          "path": "articles/2026-11-25-azerbaidjan-la-lettre-d-un-prisonnier-politique-revele-les-c-a2.json"
+        }
+      ]
+    }
+  ]
+}

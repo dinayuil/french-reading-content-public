@@ -1,0 +1,289 @@
+{
+  "id": "2026-11-25-championnat-d-europe-de-football-2004",
+  "title": "L’Euro 2004 au Portugal : la Grèce surprend le pays hôte",
+  "level": "B1",
+  "theme": "sport",
+  "date": "2026-11-25",
+  "summary": "En 2004, le Portugal a organisé l’Euro de football, mais il a perdu la finale contre la Grèce, qui a été sacrée championne.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Le championnat d’Europe de football 2004 a eu lieu au Portugal, du 12 juin au 4 juillet 2004.",
+        "Le Portugal a éliminé l’Espagne, l’Angleterre et les Pays-Bas.",
+        "Mais en finale, le Portugal a perdu 1 à 0 contre la Grèce, qui est devenue championne d’Europe."
+      ]
+    },
+    {
+      "sentences": [
+        "La chanson Força de la chanteuse portugaise Nelly Furtado était l’hymne officiel de la compétition.",
+        "Les matchs ont eu lieu à Porto, Lisbonne, Faro-Loulé, Braga, Coimbra, Leiria, Guimarães et Aveiro.",
+        "Chaque ville a accueilli les matchs dans un ou plusieurs stades, comme l’Estádio da Luz et l’Estádio José Alvalade XXI à Lisbonne."
+      ]
+    },
+    {
+      "sentences": [
+        "Les qualifications ont eu lieu entre septembre 2002 et novembre 2003.",
+        "Cinquante équipes ont été divisées en dix groupes, et chaque équipe a affronté les autres deux fois.",
+        "Les premiers de chaque groupe sont allés directement à l’Euro, et les deuxièmes ont joué des barrages."
+      ]
+    },
+    {
+      "sentences": [
+        "Seize équipes ont participé, dont le Portugal, qualifié comme pays hôte, et elles étaient séparées en quatre groupes.",
+        "Le groupe A comprenait le Portugal, l’Espagne, la Russie et la Grèce ; le groupe B comprenait la France, l’Angleterre, la Suisse et la Croatie.",
+        "Les groupes C et D comprenaient la Suède, le Danemark, l’Italie, la Bulgarie, la République tchèque, les Pays-Bas, l’Allemagne et la Lettonie."
+      ]
+    },
+    {
+      "sentences": [
+        "En quarts de finale, le Portugal a affronté l’Angleterre, la Suède a joué contre les Pays-Bas, la France contre la Grèce et la République tchèque contre le Danemark.",
+        "Le Portugal, les Pays-Bas, la Grèce et le Danemark sont allés en demi-finales.",
+        "Le Portugal, pays organisateur, s’est retrouvé en finale contre la Grèce."
+      ]
+    },
+    {
+      "sentences": [
+        "La finale a eu lieu le 4 juillet 2004 à Lisbonne, à l’Estádio da Luz.",
+        "Le Portugal a encaissé un but à la 57e minute, marqué par le Grec Ángelos Charistéas.",
+        "Le Portugal n’a donc pas gagné la compétition, et la Grèce a été sacrée championne d’Europe."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "hymne"
+    },
+    {
+      "term": "barrages"
+    },
+    {
+      "term": "organisateur"
+    },
+    {
+      "term": "encaissé"
+    },
+    {
+      "term": "sacrée"
+    },
+    {
+      "term": "compétition"
+    },
+    {
+      "term": "qualifié"
+    },
+    {
+      "term": "demi-finales"
+    },
+    {
+      "term": "divisées"
+    },
+    {
+      "term": "affronté"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quelle phrase présente le résultat final qui constitue la surprise de l’Euro 2004 ?",
+      "options": [
+        "Le Portugal, pays hôte, a été battu en finale par la Grèce, qui a remporté le tournoi.",
+        "La Grèce a éliminé le Portugal dès la phase de groupes avant de gagner la compétition.",
+        "Le Portugal a gagné la finale contre la Grèce après avoir éliminé l’Espagne.",
+        "La Grèce a perdu la finale contre le Portugal, mais elle a surpris le pays hôte."
+      ],
+      "answerIndex": 0,
+      "evidence": "Mais en finale, le Portugal a perdu 1 à 0 contre la Grèce, qui est devenue championne d’Europe.",
+      "explanation": "Le texte indique clairement que le Portugal s’incline en finale et que la Grèce devient championne. Les autres options inversent le résultat ou placent l’élimination du Portugal au mauvais moment."
+    },
+    {
+      "id": "q2",
+      "prompt": "Lors des qualifications, quelle était la différence entre les premiers et les deuxièmes de chaque groupe ?",
+      "options": [
+        "Les deuxièmes obtenaient leur billet directement, et les premiers devaient jouer des barrages.",
+        "Les vainqueurs de groupe entraient directement à l’Euro, alors que les deuxièmes passaient par une phase de barrages.",
+        "Les premiers et les deuxièmes étaient qualifiés d’office, sans rencontre supplémentaire.",
+        "Les premiers devaient disputer des barrages, tandis que les deuxièmes étaient repêchés directement."
+      ],
+      "answerIndex": 1,
+      "evidence": "Les premiers de chaque groupe sont allés directement à l’Euro, et les deuxièmes ont joué des barrages.",
+      "explanation": "Le passage oppose deux sorts : qualification directe pour les premiers, barrages pour les deuxièmes. Les autres options inversent ce traitement ou suppriment les barrages."
+    },
+    {
+      "id": "q3",
+      "prompt": "Que montre le but de la 57e minute dans la finale ?",
+      "options": [
+        "Le Portugal a marqué par Ángelos Charistéas et a pris l’avantage.",
+        "La Grèce a encaissé un but marqué par un joueur portugais.",
+        "Ángelos Charistéas a marqué pour la Grèce, et le Portugal a encaissé ce but.",
+        "Le match a été interrompu après un but portugais à la 57e minute."
+      ],
+      "answerIndex": 2,
+      "evidence": "Le Portugal a encaissé un but à la 57e minute, marqué par le Grec Ángelos Charistéas.",
+      "explanation": "Le but est attribué à un joueur grec et le Portugal le subit. Les autres options attribuent le but au mauvais camp ou inventent une interruption du match."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quand et où s’est déroulée la dernière rencontre de l’Euro 2004 ?",
+      "options": [
+        "La finale s’est jouée à Porto le 12 juin 2004.",
+        "La dernière rencontre a été organisée à Lisbonne le 4 juin 2004.",
+        "La finale a eu lieu à Faro-Loulé le 4 juillet 2004.",
+        "La dernière rencontre s’est jouée le 4 juillet 2004 dans la capitale portugaise."
+      ],
+      "answerIndex": 3,
+      "evidence": "La finale a eu lieu le 4 juillet 2004 à Lisbonne, à l’Estádio da Luz.",
+      "explanation": "La phrase situe la finale au 4 juillet 2004 à Lisbonne, qui est la capitale du Portugal. Les autres options modifient la date ou la ville."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que révèle le texte sur les stades utilisés à Lisbonne ?",
+      "options": [
+        "Lisbonne n’a accueilli les matchs que dans un seul stade, l’Estádio da Luz.",
+        "Les deux stades lisboètes cités ont servi pour d’autres villes pendant la compétition.",
+        "Lisbonne disposait de plusieurs stades pour le tournoi, parmi lesquels l’Estádio da Luz et l’Estádio José Alvalade XXI.",
+        "Tous les matchs de l’Euro ont été joués à Lisbonne, dans deux stades différents."
+      ],
+      "answerIndex": 2,
+      "evidence": "Chaque ville a accueilli les matchs dans un ou plusieurs stades, comme l’Estádio da Luz et l’Estádio José Alvalade XXI à Lisbonne.",
+      "explanation": "Le passage dit qu’une ville peut avoir un ou plusieurs stades et cite deux enceintes à Lisbonne. Les distracteurs limitent à un stade, déplacent les stades ou généralisent à tous les matchs."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "2004年葡萄牙欧洲杯：希腊令东道主意外",
+      "summary": "2004年，葡萄牙主办了欧洲足球锦标赛，但在决赛中输给了希腊，希腊被加冕为冠军。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "2004年欧洲足球锦标赛于2004年6月12日至7月4日在葡萄牙举行。",
+            "葡萄牙淘汰了西班牙、英格兰和荷兰。",
+            "但在决赛中，葡萄牙以0比1输给希腊，希腊成为欧洲冠军。"
+          ]
+        },
+        {
+          "sentences": [
+            "葡萄牙歌手内莉·费塔朵的歌曲《Força》是该赛事的官方会歌。",
+            "比赛在波尔图、里斯本、法鲁-洛莱、布拉加、科英布拉、莱里亚、吉马良斯和阿威罗举行。",
+            "每座城市在一个或多个体育场承办比赛，例如里斯本的光明球场和若泽·阿尔瓦拉德二十一世纪球场。"
+          ]
+        },
+        {
+          "sentences": [
+            "预选赛于2002年9月至2003年11月举行。",
+            "五十支球队被分成十个小组，每支球队与其他球队交手两次。",
+            "每个小组的第一名直接晋级欧洲杯，第二名参加附加赛。"
+          ]
+        },
+        {
+          "sentences": [
+            "十六支球队参赛，其中包括作为东道主获得资格的葡萄牙，它们被分成四个小组。",
+            "A组包括葡萄牙、西班牙、俄罗斯和希腊；B组包括法国、英格兰、瑞士和克罗地亚。",
+            "C组和D组包括瑞典、丹麦、意大利、保加利亚、捷克共和国、荷兰、德国和拉脱维亚。"
+          ]
+        },
+        {
+          "sentences": [
+            "在四分之一决赛中，葡萄牙对阵英格兰，瑞典对阵荷兰，法国对阵希腊，捷克对阵丹麦。",
+            "葡萄牙、荷兰、希腊和丹麦进入半决赛。",
+            "东道主葡萄牙进入决赛，与希腊对阵。"
+          ]
+        },
+        {
+          "sentences": [
+            "决赛于2004年7月4日在里斯本的光明球场举行。",
+            "葡萄牙在第57分钟失球，进球者是希腊人安杰洛斯·查理斯特亚斯。",
+            "因此葡萄牙没有赢得赛事，希腊被加冕为欧洲冠军。"
+          ]
+        }
+      ],
+      "glossary": {
+        "hymne": "会歌或官方颂歌；文中指赛事的官方歌曲。",
+        "barrages": "附加赛；用于决定晋级名额的淘汰性比赛阶段。",
+        "organisateur": "主办者或东道主；文中指主办赛事的葡萄牙。",
+        "encaissé": "失球或被攻入；文中指葡萄牙被希腊进球。",
+        "sacrée": "被授予冠军称号或加冕。",
+        "compétition": "赛事或比赛。",
+        "qualifié": "获得参赛资格。",
+        "demi-finales": "半决赛。",
+        "divisées": "被分成小组。",
+        "affronté": "对阵或交锋。"
+      },
+      "questions": {
+        "q1": "文中说葡萄牙在决赛中以0比1输给希腊，希腊成为欧洲冠军；这正对应“东道主葡萄牙在决赛中被希腊击败，希腊赢得了赛事”。第二项把葡萄牙被淘汰说成发生在小组赛阶段，第三项把决赛胜负说反，第四项也说希腊决赛失利，均与原文不符。",
+        "q2": "原文区分了两种去向：小组第一名直接进入欧洲杯，第二名则要踢附加赛。也就是说，头名无需再通过附加赛即可晋级，次名必须多打一轮资格赛。第二项正确表达这一区别；第一项和第四项把两种待遇颠倒，第三项则取消了附加赛。",
+        "q3": "文中说葡萄牙在第57分钟失球，进球者是希腊人安杰洛斯·查理斯特亚斯；因此是希腊球员得分、葡萄牙失掉此球。第一项把进球者归给葡萄牙并说葡萄牙领先，第二项把得分方弄反，第四项虚构比赛因葡萄牙进球而中断。",
+        "q4": "文中明确决赛于2004年7月4日在里斯本的光明球场举行；里斯本是葡萄牙首都，所以“收官战安排在2004年7月4日，地点是葡萄牙首都”正确。第一项日期和城市都不对，第二项月份不对，第三项城市不对。",
+        "q5": "文中说每座城市在一个或多个体育场承办比赛，并以里斯本的光明球场和若泽·阿尔瓦拉德二十一世纪球场为例；这说明里斯本有多个比赛场地，而不是只有一个或所有比赛都在那里。第一项限制为一个球场，第二项把球场说成用于其他城市，第四项把全部比赛都归到里斯本。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "哪一句陈述了构成2004年欧洲杯惊喜的最终结果？",
+          "options": [
+            "东道主葡萄牙在决赛中被希腊击败，希腊赢得了赛事。",
+            "希腊在小组赛阶段就淘汰了葡萄牙，随后赢得赛事。",
+            "葡萄牙在淘汰西班牙后，于决赛中战胜希腊。",
+            "希腊在决赛中输给葡萄牙，但它令东道主感到意外。"
+          ]
+        },
+        "q2": {
+          "prompt": "在预选赛中，每个小组第一和第二名有什么区别？",
+          "options": [
+            "第二名直接拿到门票，而第一名必须参加附加赛。",
+            "小组头名无需再踢附加赛即可进入欧洲杯，排名第二的球队则要多打一轮淘汰性质的资格赛。",
+            "第一和第二名都自动晋级，不需要再进行任何额外比赛。",
+            "第一名要去打附加赛，而第二名则被直接递补晋级。"
+          ]
+        },
+        "q3": {
+          "prompt": "决赛第57分钟的进球说明了什么？",
+          "options": [
+            "葡萄牙由安杰洛斯·查理斯特亚斯进球并取得领先。",
+            "希腊被一名葡萄牙球员攻入一球。",
+            "安杰洛斯·查理斯特亚斯为希腊进球，葡萄牙失掉此球。",
+            "比赛在第57分钟葡萄牙进球后被中断。"
+          ]
+        },
+        "q4": {
+          "prompt": "2004年欧洲杯的最后一场比赛在何时何地举行？",
+          "options": [
+            "决赛于2004年6月12日在波尔图进行。",
+            "最后一场比赛于2004年6月4日在里斯本举办。",
+            "决赛于2004年7月4日在法鲁-洛莱举行。",
+            "收官战安排在2004年7月4日，地点是葡萄牙首都。"
+          ]
+        },
+        "q5": {
+          "prompt": "关于里斯本使用的体育场，文章透露了什么？",
+          "options": [
+            "里斯本只有一个球场承办比赛，即光明球场。",
+            "文中提到的两座里斯本球场在赛事期间被用于其他城市。",
+            "里斯本为赛事提供了多个场地，文中举出的就包括光明球场和若泽·阿尔瓦拉德二十一世纪球场。",
+            "欧洲杯所有比赛都在里斯本的两座不同球场进行。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Championnat d'Europe de football 2004",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2550205&title=Championnat%20d'Europe%20de%20football%202004",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-25",
+    "revisionId": "2550205"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-25",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

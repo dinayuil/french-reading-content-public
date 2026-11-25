@@ -1,0 +1,287 @@
+{
+  "id": "2026-11-25-azerbaidjan-la-lettre-d-un-prisonnier-politique-revele-les-c-a2",
+  "title": "Azerbaïdjan : un politologue condamné à 15 ans de prison",
+  "level": "A2",
+  "theme": "politique",
+  "date": "2026-11-25",
+  "summary": "Bahruz Samadov, politologue azerbaïdjanais, est en prison depuis 2024. Il a été condamné à 15 ans pour haute trahison après avoir critiqué la guerre et défendu la paix.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Bahruz Samadov est un politologue azerbaïdjanais qui défend la paix.",
+        "Il étudie à Prague, mais le 21 août 2024, les services de sécurité l’arrêtent à Bakou.",
+        "Ce jour-là, il rend visite à sa grand-mère dans sa ville natale."
+      ]
+    },
+    {
+      "sentences": [
+        "Samadov critique la guerre du Karabakh de 2020 et il défend le dialogue avec l’Arménie.",
+        "Les procureurs l’accusent de haute trahison à cause de ses échanges avec des militants arméniens.",
+        "Il rejette les accusations et il se qualifie de « prisonnier de la paix »."
+      ]
+    },
+    {
+      "sentences": [
+        "Le 23 juin 2025, un tribunal de Bakou le condamne à 15 ans de prison.",
+        "Le procès se fait à huis clos.",
+        "En septembre 2025, la cour d’appel confirme le verdict, puis la Cour suprême le confirme en septembre 2026."
+      ]
+    },
+    {
+      "sentences": [
+        "Amnesty International dit que sa détention est arbitraire et que Samadov est à l’isolement.",
+        "L’organisation parle aussi d’un manque de soins médicaux.",
+        "Samadov a essayé de se suicider deux fois, la dernière fois devant la Cour suprême."
+      ]
+    },
+    {
+      "sentences": [
+        "Dans une lettre de prison, Samadov critique le régime azerbaïdjanais et appelle à la libération des prisonniers politiques.",
+        "Il demande aux États-Unis et à l’Europe de défendre les droits humains.",
+        "Il écrit que les appels internationaux n’ont pas encore changé sa situation."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "politologue"
+    },
+    {
+      "term": "services de sécurité"
+    },
+    {
+      "term": "haute trahison"
+    },
+    {
+      "term": "militants"
+    },
+    {
+      "term": "huis clos"
+    },
+    {
+      "term": "verdict"
+    },
+    {
+      "term": "cour d’appel"
+    },
+    {
+      "term": "Cour suprême"
+    },
+    {
+      "term": "arbitraire"
+    },
+    {
+      "term": "isolement"
+    },
+    {
+      "term": "droits humains"
+    },
+    {
+      "term": "régime azerbaïdjanais"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Que fait Bahruz Samadov le jour de son arrestation ?",
+      "options": [
+        "Il passe voir sa grand-mère dans sa ville d’origine.",
+        "Il donne un cours à l’université de Prague.",
+        "Il rencontre des militants arméniens à Bakou.",
+        "Il écrit une lettre pour Amnesty International."
+      ],
+      "answerIndex": 0,
+      "evidence": "Ce jour-là, il rend visite à sa grand-mère dans sa ville natale.",
+      "explanation": "Le texte situe l’arrestation pendant une visite familiale ; les autres actions ne sont pas données comme activité de ce jour-là."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi les procureurs accusent-ils Bahruz Samadov de haute trahison ?",
+      "options": [
+        "Parce qu’il critique la guerre du Karabakh de 2020.",
+        "Parce qu’il étudie à Prague.",
+        "À cause de ses contacts avec des militants arméniens.",
+        "Parce qu’il demande l’aide des États-Unis et de l’Europe."
+      ],
+      "answerIndex": 2,
+      "evidence": "Les procureurs l’accusent de haute trahison à cause de ses échanges avec des militants arméniens.",
+      "explanation": "Le texte donne les échanges avec des militants arméniens comme raison de l’accusation ; les critiques et les appels internationaux sont d’autres éléments."
+    },
+    {
+      "id": "q3",
+      "prompt": "Que décide le tribunal de Bakou le 23 juin 2025 ?",
+      "options": [
+        "Il fixe une peine de quinze ans de prison pour Samadov.",
+        "Il annule toutes les accusations contre Samadov.",
+        "Il renvoie Samadov dans sa ville natale.",
+        "Il organise un procès public avec Amnesty International."
+      ],
+      "answerIndex": 0,
+      "evidence": "Le 23 juin 2025, un tribunal de Bakou le condamne à 15 ans de prison.",
+      "explanation": "Le tribunal prononce une condamnation longue ; le texte précise aussi que le procès se fait à huis clos, donc pas public avec Amnesty."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel est le sujet principal de l’article ?",
+      "options": [
+        "La guerre du Karabakh de 2020.",
+        "Les échanges entre militants arméniens et azerbaïdjanais.",
+        "Le travail d’Amnesty International en Arménie.",
+        "La condamnation et la détention de Bahruz Samadov."
+      ],
+      "answerIndex": 3,
+      "evidence": "Bahruz Samadov est un politologue azerbaïdjanais qui défend la paix.",
+      "explanation": "L’article suit l’arrestation, le procès et la détention de Samadov ; la guerre et les réactions sont des éléments secondaires."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que fait la Cour suprême en septembre 2026 ?",
+      "options": [
+        "Elle libère Samadov pour des raisons de santé.",
+        "Elle garde la décision de la cour d’appel.",
+        "Elle organise un nouveau procès à huis clos.",
+        "Elle demande l’avis d’Amnesty International."
+      ],
+      "answerIndex": 1,
+      "evidence": "En septembre 2025, la cour d’appel confirme le verdict, puis la Cour suprême le confirme en septembre 2026.",
+      "explanation": "La Cour suprême confirme à son tour le verdict ; elle ne libère pas Samadov et ne demande pas l’avis d’Amnesty."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "阿塞拜疆：一名政治学家被判处15年监禁",
+      "summary": "阿塞拜疆政治学家巴赫鲁兹·萨马多夫自2024年起入狱。他因批评战争并捍卫和平，以叛国罪被判处15年监禁。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "巴赫鲁兹·萨马多夫是一位捍卫和平的阿塞拜疆政治学家。",
+            "他在布拉格学习，但2024年8月21日，安全部门在巴库逮捕了他。",
+            "那天，他在故乡探望他的祖母。"
+          ]
+        },
+        {
+          "sentences": [
+            "萨马多夫批评2020年卡拉巴赫战争，并主张与亚美尼亚对话。",
+            "检察官因他与亚美尼亚活动人士的往来而指控他犯有叛国罪。",
+            "他否认这些指控，并自称“和平囚徒”。"
+          ]
+        },
+        {
+          "sentences": [
+            "2025年6月23日，巴库一家法院判处他15年监禁。",
+            "审判以闭门方式进行。",
+            "2025年9月，上诉法院维持判决，随后最高法院于2026年9月也予以维持。"
+          ]
+        },
+        {
+          "sentences": [
+            "国际特赦组织称他的拘留是任意的，并表示萨马多夫被隔离关押。",
+            "该组织还提到他缺乏医疗护理。",
+            "萨马多夫曾两次试图自杀，最后一次是在最高法院前。"
+          ]
+        },
+        {
+          "sentences": [
+            "在一封狱中来信中，萨马多夫批评阿塞拜疆政权，并呼吁释放政治犯。",
+            "他要求美国和欧洲捍卫人权。",
+            "他写道，国际呼吁尚未改变他的处境。"
+          ]
+        }
+      ],
+      "glossary": {
+        "politologue": "研究政治制度、政治行为和国际关系的学者。",
+        "services de sécurité": "负责国内安全、情报和反间谍事务的国家机构。",
+        "haute trahison": "严重背叛国家的罪行，通常涉及与外国势力合作或危害国家安全。",
+        "militants": "积极从事政治或社会活动、推动某一事业的人。",
+        "huis clos": "审判不向公众开放，只有诉讼参与人等在场的审理方式。",
+        "verdict": "法院或陪审团对案件作出的正式裁决。",
+        "cour d’appel": "审理对初审判决不服而上诉的案件的法院。",
+        "Cour suprême": "一国司法体系中的最高级别法院，通常审理终审上诉。",
+        "arbitraire": "缺乏法律依据或正当程序、由权力随意决定的。",
+        "isolement": "将囚犯单独关押、限制其与他人接触的羁押方式。",
+        "droits humains": "每个人固有的基本权利和自由，如生命、自由、公正审判等。",
+        "régime azerbaïdjanais": "阿塞拜疆的执政当局或政治制度。"
+      },
+      "questions": {
+        "q1": "原文说被捕当天他“在故乡探望祖母”，所以第一项正确；第二项在布拉格大学授课、第三项在巴库会见亚美尼亚活动人士、第四项为国际特赦组织写信，都不是原文所述的当天活动。",
+        "q2": "原文把“与亚美尼亚活动人士的往来”列为叛国罪指控的原因，因此第三项正确；批评战争、在布拉格学习、请求美欧帮助虽在文中出现，却不是检察官给出该指控的理由。",
+        "q3": "原文说巴库法院判他15年监禁，所以第一项正确；第二项撤销指控、第三项送回故乡、第四项与国际特赦组织举行公开审判都不符合原文，且原文明确审判闭门进行。",
+        "q4": "文章围绕萨马多夫被捕、受审和关押展开，因此第四项正确；战争、活动人士往来和国际特赦组织的内容只是次要背景或反应，不是主线。",
+        "q5": "原文说上诉法院维持判决，随后最高法院也予以维持，因此第二项正确；第一项释放、第三项重新闭门审判、第四项征求国际特赦组织意见都未在原文出现。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "巴赫鲁兹·萨马多夫在被捕当天做了什么？",
+          "options": [
+            "他正在故乡探望祖母。",
+            "他在布拉格大学授课。",
+            "他在巴库会见亚美尼亚活动人士。",
+            "他为国际特赦组织写信。"
+          ]
+        },
+        "q2": {
+          "prompt": "检察官为什么指控巴赫鲁兹·萨马多夫犯有叛国罪？",
+          "options": [
+            "因为他批评2020年卡拉巴赫战争。",
+            "因为他在布拉格学习。",
+            "因为他与亚美尼亚活动人士有接触。",
+            "因为他请求美国和欧洲提供帮助。"
+          ]
+        },
+        "q3": {
+          "prompt": "巴库法院在2025年6月23日决定了什么？",
+          "options": [
+            "它给萨马多夫定下15年监禁的刑罚。",
+            "它撤销了对萨马多夫的所有指控。",
+            "它把萨马多夫送回故乡。",
+            "它与国际特赦组织组织一场公开审判。"
+          ]
+        },
+        "q4": {
+          "prompt": "文章的主题是什么？",
+          "options": [
+            "2020年卡拉巴赫战争。",
+            "亚美尼亚与阿塞拜疆活动人士之间的往来。",
+            "国际特赦组织在亚美尼亚的工作。",
+            "巴赫鲁兹·萨马多夫的判刑和拘留。"
+          ]
+        },
+        "q5": {
+          "prompt": "最高法院在2026年9月做了什么？",
+          "options": [
+            "它因健康原因释放了萨马多夫。",
+            "它维持了上诉法院的裁决。",
+            "它组织了一次新的闭门审判。",
+            "它征求了国际特赦组织的意见。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Azerbaïdjan : la lettre d’un prisonnier politique révèle les conséquences mortelle du silence",
+    "authors": [
+      "Global Voices Eurasia"
+    ],
+    "translators": [
+      "Hitantsoa Fortunat"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/25/304391/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-25",
+    "publishedAt": "2026-11-25",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-25",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

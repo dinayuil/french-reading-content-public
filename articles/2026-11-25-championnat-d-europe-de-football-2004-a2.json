@@ -1,0 +1,272 @@
+{
+  "id": "2026-11-25-championnat-d-europe-de-football-2004-a2",
+  "title": "L'Euro 2004 : la Grèce gagne au Portugal",
+  "level": "A2",
+  "theme": "sport",
+  "date": "2026-11-25",
+  "summary": "En 2004, le Portugal organise l'Euro de football. La Grèce bat le Portugal en finale et devient championne d'Europe.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Le championnat d'Europe de football 2004 a lieu au Portugal.",
+        "Il commence le 12 juin et finit le 4 juillet.",
+        "La chanson officielle est Força de Nelly Furtado."
+      ]
+    },
+    {
+      "sentences": [
+        "Les matchs se jouent dans huit villes.",
+        "Il y a Porto, Lisbonne, Braga, Coimbra, Leiria, Guimarães, Aveiro et Faro-Loulé.",
+        "Chaque ville a un stade."
+      ]
+    },
+    {
+      "sentences": [
+        "Les qualifications ont lieu entre septembre 2002 et novembre 2003.",
+        "Cinquante équipes jouent dans dix groupes.",
+        "Les premiers sont qualifiés.",
+        "Les deuxièmes jouent des barrages."
+      ]
+    },
+    {
+      "sentences": [
+        "Seize équipes participent, avec le Portugal comme hôte.",
+        "Le groupe A a le Portugal, l'Espagne, la Russie et la Grèce.",
+        "Le groupe B a la France, l'Angleterre, la Suisse et la Croatie."
+      ]
+    },
+    {
+      "sentences": [
+        "Le groupe C a la Suède, le Danemark, l'Italie et la Bulgarie.",
+        "Le groupe D a la République tchèque, les Pays-Bas, l'Allemagne et la Lettonie.",
+        "En quarts, le Portugal joue l'Angleterre et la Suède les Pays-Bas.",
+        "La France joue la Grèce et la République tchèque joue le Danemark."
+      ]
+    },
+    {
+      "sentences": [
+        "Le Portugal, les Pays-Bas, la Grèce et le Danemark sont en demi-finales.",
+        "Le Portugal et la Grèce vont en finale.",
+        "En finale, le 4 juillet 2004 à Lisbonne, Charistéas marque à la 57e minute.",
+        "La Grèce gagne 1 à 0 et est championne d'Europe."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "championnat"
+    },
+    {
+      "term": "officielle"
+    },
+    {
+      "term": "qualifications"
+    },
+    {
+      "term": "barrages"
+    },
+    {
+      "term": "hôte"
+    },
+    {
+      "term": "quarts"
+    },
+    {
+      "term": "demi-finales"
+    },
+    {
+      "term": "finale"
+    },
+    {
+      "term": "championne"
+    },
+    {
+      "term": "Charistéas"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quand commence le championnat d'Europe de football 2004 ?",
+      "options": [
+        "Le 12 juin",
+        "Le 4 juillet",
+        "Le 12 juillet",
+        "Le 4 juin"
+      ],
+      "answerIndex": 0,
+      "evidence": "Il commence le 12 juin et finit le 4 juillet.",
+      "explanation": "La date de début est le 12 juin ; le 4 juillet est la date de fin, et les autres dates ne correspondent pas au début."
+    },
+    {
+      "id": "q2",
+      "prompt": "Que doivent faire les deuxièmes des groupes pendant les qualifications ?",
+      "options": [
+        "Ils sont directement qualifiés.",
+        "Ils organisent les matchs.",
+        "Ils jouent des barrages.",
+        "Ils sont éliminés."
+      ],
+      "answerIndex": 2,
+      "evidence": "Les deuxièmes jouent des barrages.",
+      "explanation": "Après les premiers, directement qualifiés, les deuxièmes doivent passer par des barrages ; ils ne sont donc ni qualifiés ni éliminés à ce stade."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel est le sujet principal de cet article ?",
+      "options": [
+        "Les villes qui accueillent des matchs au Portugal.",
+        "La victoire de la Grèce à l'Euro 2004.",
+        "La chanson officielle de Nelly Furtado.",
+        "Les groupes de qualification pour l'Euro."
+      ],
+      "answerIndex": 1,
+      "evidence": "La Grèce gagne 1 à 0 et est championne d'Europe.",
+      "explanation": "L'article donne des détails sur le tournoi, mais son titre et sa fin insistent sur le sacre de la Grèce ; les autres choix ne sont que des éléments secondaires."
+    },
+    {
+      "id": "q4",
+      "prompt": "Pourquoi la Grèce gagne-t-elle la finale de l'Euro 2004 ?",
+      "options": [
+        "Parce que le Portugal marque à la 57e minute.",
+        "Parce que la finale se joue à Lisbonne.",
+        "Parce que la finale a lieu le 4 juillet.",
+        "Parce que Charistéas marque à la 57e minute."
+      ],
+      "answerIndex": 3,
+      "evidence": "En finale, le 4 juillet 2004 à Lisbonne, Charistéas marque à la 57e minute.",
+      "explanation": "La victoire grecque est liée au but de Charistéas ; le lieu et la date de la finale ne sont que des circonstances."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "2004年欧洲杯：希腊在葡萄牙夺冠",
+      "summary": "2004年，葡萄牙主办欧洲足球锦标赛。希腊在决赛中击败葡萄牙，成为欧洲冠军。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "2004年欧洲足球锦标赛在葡萄牙举行。",
+            "它于6月12日开始，于7月4日结束。",
+            "官方歌曲是Nelly Furtado的《Força》。"
+          ]
+        },
+        {
+          "sentences": [
+            "比赛在八座城市举行。",
+            "有波尔图、里斯本、布拉加、科英布拉、莱里亚、吉马良斯、阿威罗和法鲁-洛莱。",
+            "每座城市有一座体育场。"
+          ]
+        },
+        {
+          "sentences": [
+            "预选赛于2002年9月至2003年11月之间进行。",
+            "五十支球队在十个小组中比赛。",
+            "小组第一获得资格。",
+            "小组第二参加附加赛。"
+          ]
+        },
+        {
+          "sentences": [
+            "十六支球队参赛，葡萄牙作为东道主。",
+            "A组有葡萄牙、西班牙、俄罗斯和希腊。",
+            "B组有法国、英格兰、瑞士和克罗地亚。"
+          ]
+        },
+        {
+          "sentences": [
+            "C组有瑞典、丹麦、意大利和保加利亚。",
+            "D组有捷克共和国、荷兰、德国和拉脱维亚。",
+            "四分之一决赛中，葡萄牙对阵英格兰，瑞典对阵荷兰。",
+            "法国对阵希腊，捷克共和国对阵丹麦。"
+          ]
+        },
+        {
+          "sentences": [
+            "葡萄牙、荷兰、希腊和丹麦进入半决赛。",
+            "葡萄牙和希腊进入决赛。",
+            "2004年7月4日在里斯本举行的决赛中，查理斯特亚斯在第57分钟进球。",
+            "希腊以1比0获胜，成为欧洲冠军。"
+          ]
+        }
+      ],
+      "glossary": {
+        "championnat": "指由多个球队参加、通过比赛决出冠军的赛事；这里指欧洲足球锦标赛。",
+        "officielle": "官方的，指由赛事组织方正式选定或认可的；这里指官方歌曲。",
+        "qualifications": "预选赛，指正赛前为确定参赛资格而进行的比赛。",
+        "barrages": "附加赛或淘汰赛，指未直接晋级者通过额外比赛争夺名额。",
+        "hôte": "东道主，指主办并接待赛事的一方；这里指葡萄牙。",
+        "quarts": "四分之一决赛，八支球队争夺四个半决赛名额的阶段。",
+        "demi-finales": "半决赛，四支球队争夺两个决赛名额的阶段。",
+        "finale": "决赛，决定冠军的最后一场比赛。",
+        "championne": "冠军（阴性，指球队或队伍），指赛事最终获胜者。",
+        "Charistéas": "希腊球员安格洛斯·查理斯特亚斯（Angelos Charisteas），在2004年欧洲杯决赛中打入制胜球。"
+      },
+      "questions": {
+        "q1": "证据句“它于6月12日开始，于7月4日结束”直接给出开始日期是6月12日；7月4日是结束日期，其他两个日期与开始日期不符，因此正确选项是第一个选项“6月12日”。",
+        "q2": "证据句“小组第二参加附加赛”说明第二名要通过附加赛争取名额；直接晋级的是小组第一，组织比赛不是第二名的任务，而在此阶段也未被最终淘汰，因此正确选项是第三个选项“他们参加附加赛”。",
+        "q3": "文章虽介绍城市、歌曲和预选赛等细节，但标题点出希腊在葡萄牙夺冠，结尾“希腊以1比0获胜，成为欧洲冠军”也落在希腊夺冠上；其他选项只是次要细节，因此主要主题是第二个选项“希腊在2004年欧洲杯上的胜利”。",
+        "q4": "证据句说决赛中查理斯特亚斯在第57分钟进球，随后希腊以1比0获胜；进球者是希腊球员，所以希腊获胜的直接原因是第四个选项“因为查理斯特亚斯在第57分钟进球”。葡萄牙进球、比赛地点和日期只是背景或错误说法，不能解释希腊获胜。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "2004年欧洲足球锦标赛何时开始？",
+          "options": [
+            "6月12日",
+            "7月4日",
+            "7月12日",
+            "6月4日"
+          ]
+        },
+        "q2": {
+          "prompt": "预选赛期间，各小组第二名必须做什么？",
+          "options": [
+            "他们直接获得资格。",
+            "他们组织比赛。",
+            "他们参加附加赛。",
+            "他们被淘汰。"
+          ]
+        },
+        "q3": {
+          "prompt": "这篇文章的主要主题是什么？",
+          "options": [
+            "葡萄牙承办比赛的各个城市。",
+            "希腊在2004年欧洲杯上的胜利。",
+            "Nelly Furtado的官方歌曲。",
+            "欧洲杯的预选赛小组。"
+          ]
+        },
+        "q4": {
+          "prompt": "为什么希腊赢得2004年欧洲杯决赛？",
+          "options": [
+            "因为葡萄牙在第57分钟进球。",
+            "因为决赛在里斯本举行。",
+            "因为决赛于7月4日举行。",
+            "因为查理斯特亚斯在第57分钟进球。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Championnat d'Europe de football 2004",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2550205&title=Championnat%20d'Europe%20de%20football%202004",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-25",
+    "revisionId": "2550205"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-25",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

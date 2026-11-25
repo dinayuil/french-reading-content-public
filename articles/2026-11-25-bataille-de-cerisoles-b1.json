@@ -1,0 +1,300 @@
+{
+  "id": "2026-11-25-bataille-de-cerisoles-b1",
+  "title": "La bataille de Cérisoles (1544)",
+  "level": "B1",
+  "theme": "histoire",
+  "date": "2026-11-25",
+  "summary": "Le 14 avril 1544, près de Cérisoles, les Français du comte d’Enghien battent les troupes de Charles Quint, mais cette victoire n’a pas de grand effet stratégique en Italie.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "La bataille de Cérisoles a lieu le 14 avril 1544, près du village piémontais de Ceresole Alba.",
+        "Elle fait partie de la neuvième guerre d’Italie.",
+        "Les Français sont commandés par François de Bourbon, comte d’Enghien.",
+        "En face, les troupes de Charles Quint sont dirigées par Alfonso de Ávalos, marquis del Vasto."
+      ]
+    },
+    {
+      "sentences": [
+        "Parmi les Français se trouve le jeune Gaspard II de Coligny.",
+        "Blaise de Monluc joue aussi un rôle important.",
+        "Les deux armées prennent position sur des crêtes parallèles.",
+        "Le terrain gêne la coordination et rend les combats confus."
+      ]
+    },
+    {
+      "sentences": [
+        "La bataille commence par des escarmouches et des tirs d’artillerie peu efficaces.",
+        "Ensuite, Ávalos ordonne à ses troupes d’avancer sur tout le front.",
+        "Au centre, les lansquenets attaquent les mercenaires suisses et subissent de très lourdes pertes.",
+        "Au nord, les charges de cavalerie française sont coûteuses et difficiles."
+      ]
+    },
+    {
+      "sentences": [
+        "Malgré ces difficultés, les Français remportent la victoire.",
+        "Les Suisses vainqueurs au centre menacent d’encercler les troupes impériales.",
+        "Les pertes sont exceptionnellement élevées pour l’époque, surtout chez les Impériaux.",
+        "Beaucoup d’officiers sont tués ou faits prisonniers."
+      ]
+    },
+    {
+      "sentences": [
+        "Cette victoire reste cependant sans grand résultat stratégique en Italie.",
+        "Les Français ne profitent pas de leur avantage et n’attaquent pas Milan.",
+        "Enghien doit ensuite envoyer des soldats en Picardie, envahie par Charles Quint.",
+        "La situation en Italie revient donc à un statu quo."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "piémontais"
+    },
+    {
+      "term": "commandés"
+    },
+    {
+      "term": "marquis"
+    },
+    {
+      "term": "crêtes"
+    },
+    {
+      "term": "coordination"
+    },
+    {
+      "term": "escarmouches"
+    },
+    {
+      "term": "lansquenets"
+    },
+    {
+      "term": "mercenaires"
+    },
+    {
+      "term": "encercler"
+    },
+    {
+      "term": "statu quo"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Qui commande les troupes françaises à Cérisoles ?",
+      "options": [
+        "Alfonso de Ávalos, marquis del Vasto",
+        "François de Bourbon, comte d’Enghien",
+        "Gaspard II de Coligny",
+        "Blaise de Monluc"
+      ],
+      "answerIndex": 1,
+      "evidence": "Les Français sont commandés par François de Bourbon, comte d’Enghien.",
+      "explanation": "Le texte attribue le commandement français à François de Bourbon, comte d’Enghien. Ávalos commande les Impériaux, tandis que Coligny et Monluc sont seulement cités parmi les Français."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi les combats sont-ils confus selon le texte ?",
+      "options": [
+        "Parce que le terrain nuit à la coordination des armées.",
+        "Parce que l’artillerie impériale est particulièrement efficace.",
+        "Parce que les Français attaquent Milan avant Cérisoles.",
+        "Parce que les mercenaires suisses refusent de combattre."
+      ],
+      "answerIndex": 0,
+      "evidence": "Le terrain gêne la coordination et rend les combats confus.",
+      "explanation": "Le texte relie directement la confusion des combats à la difficulté de coordination causée par le terrain. Les autres options introduisent des faits absents ou contraires au récit."
+    },
+    {
+      "id": "q3",
+      "prompt": "Que se passe-t-il au centre de la bataille ?",
+      "options": [
+        "Les mercenaires suisses attaquent les lansquenets sans subir de pertes.",
+        "La cavalerie française charge au centre avec facilité.",
+        "Les lansquenets attaquent les mercenaires suisses et perdent beaucoup d’hommes.",
+        "L’artillerie impériale arrête les combats au centre."
+      ],
+      "answerIndex": 2,
+      "evidence": "Au centre, les lansquenets attaquent les mercenaires suisses et subissent de très lourdes pertes.",
+      "explanation": "Le passage indique que les lansquenets prennent l’initiative au centre, mais qu’ils subissent de très lourdes pertes. Les autres réponses inversent les rôles ou déplacent cavalerie et artillerie."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel est le résultat stratégique de la victoire française en Italie ?",
+      "options": [
+        "Les Français prennent Milan et profitent de leur avantage.",
+        "La neuvième guerre d’Italie se termine immédiatement.",
+        "Charles Quint doit abandonner la Picardie.",
+        "La situation en Italie reste largement inchangée."
+      ],
+      "answerIndex": 3,
+      "evidence": "La situation en Italie revient donc à un statu quo.",
+      "explanation": "Le texte précise que les Français ne profitent pas de leur avantage et que la situation revient à un statu quo. Les autres options contredisent ce bilan ou ajoutent des conséquences non mentionnées."
+    },
+    {
+      "id": "q5",
+      "prompt": "Pourquoi Enghien envoie-t-il des soldats en Picardie ?",
+      "options": [
+        "Pour attaquer Milan par le nord.",
+        "Parce que Charles Quint a envahi la Picardie.",
+        "Pour renforcer les mercenaires suisses en Italie.",
+        "Parce que la Picardie menace les États du pape."
+      ],
+      "answerIndex": 1,
+      "evidence": "Enghien doit ensuite envoyer des soldats en Picardie, envahie par Charles Quint.",
+      "explanation": "Le texte indique que la Picardie est envahie par Charles Quint, ce qui explique l’envoi de soldats. Les autres options ne sont pas soutenues par l’article."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "切里索勒战役（1544年）",
+      "summary": "1544年4月14日，在切里索勒附近，昂吉安伯爵率领的法国人击败查理五世的军队，但这场胜利在意大利没有重大战略效果。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "切里索勒战役发生于1544年4月14日，地点在皮埃蒙特村庄切雷索莱阿尔巴附近。",
+            "它属于第九次意大利战争。",
+            "法国军队由弗朗索瓦·德·波旁，昂吉安伯爵指挥。",
+            "对面，查理五世的军队由阿方索·德·阿瓦洛斯，德尔瓦斯托侯爵率领。"
+          ]
+        },
+        {
+          "sentences": [
+            "法国人中包括年轻的加斯帕尔二世·德·科利尼。",
+            "布莱斯·德·蒙吕克也发挥重要作用。",
+            "两支军队在平行的山脊上占据阵地。",
+            "地形妨碍协调，并使战斗变得混乱。"
+          ]
+        },
+        {
+          "sentences": [
+            "战斗以小规模冲突和效果不大的炮击开始。",
+            "随后，阿瓦洛斯命令他的部队在整个战线上前进。",
+            "在中部，德国雇佣步兵进攻瑞士雇佣兵，并遭受极其惨重的损失。",
+            "在北部，法国骑兵的冲锋代价高昂且困难重重。"
+          ]
+        },
+        {
+          "sentences": [
+            "尽管有这些困难，法国人仍取得胜利。",
+            "在中部获胜的瑞士人威胁要包围帝国军队。",
+            "伤亡对当时而言异常高，尤其是在帝国军队一方。",
+            "许多军官被杀或被俘。"
+          ]
+        },
+        {
+          "sentences": [
+            "然而，这场胜利在意大利仍未产生重大战略结果。",
+            "法国人没有利用他们的优势，也没有进攻米兰。",
+            "昂吉安随后必须派遣士兵前往被查理五世入侵的皮卡第。",
+            "因此，意大利的局势又回到现状。"
+          ]
+        }
+      ],
+      "glossary": {
+        "piémontais": "皮埃蒙特的；指意大利皮埃蒙特地区。",
+        "commandés": "被指挥；文中指法国军队由昂吉安伯爵指挥。",
+        "marquis": "侯爵，贵族头衔。",
+        "crêtes": "山脊；此处指两军占据的平行山脊。",
+        "coordination": "协调；指军队之间配合行动。",
+        "escarmouches": "小规模冲突、前哨战。",
+        "lansquenets": "德国雇佣步兵（16世纪常见雇佣兵）。",
+        "mercenaires": "雇佣兵；为报酬作战的士兵。",
+        "encercler": "包围；从四周封锁或攻击。",
+        "statu quo": "现状；局势保持不变。"
+      },
+      "questions": {
+        "q1": "文本说法国军队由弗朗索瓦·德·波旁、昂吉安伯爵指挥，因此正确选项是‘弗朗索瓦·德·波旁，昂吉安伯爵’。‘阿方索·德·阿瓦洛斯，德尔瓦斯托侯爵’指挥的是查理五世一方；‘加斯帕尔二世·德·科利尼’和‘布莱斯·德·蒙吕克’只是在法国人一方被提及，并非法军统帅。",
+        "q2": "文本直接说地形妨碍协调并使战斗混乱，所以正确选项是‘因为地形妨碍军队协调。’。文中说炮击效果不大，因此‘因为帝国炮兵特别有效。’不对；法国人胜利后没有进攻米兰，因此‘因为法国人在切里索勒之前进攻米兰。’不对；瑞士雇佣兵在中部获胜，因此‘因为瑞士雇佣兵拒绝作战。’也不对。",
+        "q3": "文本说在中部，德国雇佣步兵进攻瑞士雇佣兵并遭受极重损失，因此正确选项是‘德国雇佣步兵攻击瑞士雇佣兵并损失大量人员。’。‘瑞士雇佣兵攻击德国雇佣步兵而没有损失。’颠倒了攻守和损失；‘法国骑兵轻松在中部冲锋。’与文中骑兵在北部且冲锋代价高不符；‘帝国炮兵阻止中部战斗。’与炮击效果不大的叙述不符。",
+        "q4": "文本说法国人没有利用优势、没有进攻米兰，意大利局势回到现状，因此正确选项是‘意大利局势基本保持不变。’。‘法国人攻占米兰并利用优势。’与文本相反；‘第九次意大利战争立即结束。’文中没有说；‘查理五世必须放弃皮卡第。’与皮卡第被查理五世入侵的叙述不符。",
+        "q5": "文本明确说皮卡第被查理五世入侵，所以昂吉安必须派兵去皮卡第，正确选项是‘因为查理五世入侵了皮卡第。’。‘为了从北方进攻米兰。’与法国人未进攻米兰不符；‘为了增援意大利的瑞士雇佣兵。’文中没有提到；‘因为皮卡第威胁教皇国。’文中也没有提到。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "在切里索勒，谁指挥法国军队？",
+          "options": [
+            "阿方索·德·阿瓦洛斯，德尔瓦斯托侯爵",
+            "弗朗索瓦·德·波旁，昂吉安伯爵",
+            "加斯帕尔二世·德·科利尼",
+            "布莱斯·德·蒙吕克"
+          ]
+        },
+        "q2": {
+          "prompt": "根据文本，为什么战斗混乱？",
+          "options": [
+            "因为地形妨碍军队协调。",
+            "因为帝国炮兵特别有效。",
+            "因为法国人在切里索勒之前进攻米兰。",
+            "因为瑞士雇佣兵拒绝作战。"
+          ]
+        },
+        "q3": {
+          "prompt": "战斗中部发生了什么？",
+          "options": [
+            "瑞士雇佣兵攻击德国雇佣步兵而没有遭受损失。",
+            "法国骑兵轻松地在中部冲锋。",
+            "德国雇佣步兵攻击瑞士雇佣兵并损失大量人员。",
+            "帝国炮兵阻止了中部的战斗。"
+          ]
+        },
+        "q4": {
+          "prompt": "法国在意大利的胜利有什么战略结果？",
+          "options": [
+            "法国人攻占米兰并利用他们的优势。",
+            "第九次意大利战争立即结束。",
+            "查理五世必须放弃皮卡第。",
+            "意大利局势基本保持不变。"
+          ]
+        },
+        "q5": {
+          "prompt": "为什么昂吉安派士兵去皮卡第？",
+          "options": [
+            "为了从北方进攻米兰。",
+            "因为查理五世入侵了皮卡第。",
+            "为了增援意大利的瑞士雇佣兵。",
+            "因为皮卡第威胁教皇国。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Bataille de Cérisoles",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=240915832",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-25",
+    "revisionId": "240915832"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-25",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-25-bataille-de-cerisoles-b1-102325e26319.jpg",
+    "alt": "Enghien at the end of the battle of Cérisoles fought between a French army and a Spanish Imperial army in 1544",
+    "author": "Victor Schnetz",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:C%C3%A9risoles.jpg?oldid=1157231016",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Réduite à 1280×848 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 848,
+    "byteLength": 231364,
+    "sha256": "102325e2631989618e2e9235748534f1794846c31f92e04a3fa58ed157870ba9",
+    "fileRevisionId": "1157231016",
+    "retrievedAt": "2026-11-25"
+  }
+}

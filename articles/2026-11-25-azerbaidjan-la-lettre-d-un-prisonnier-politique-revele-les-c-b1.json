@@ -1,0 +1,285 @@
+{
+  "id": "2026-11-25-azerbaidjan-la-lettre-d-un-prisonnier-politique-revele-les-c-b1",
+  "title": "Azerbaïdjan : Bahruz Samadov, prisonnier de la paix",
+  "level": "B1",
+  "theme": "politique",
+  "date": "2026-11-25",
+  "summary": "Bahruz Samadov, universitaire azerbaïdjanais et militant pour la paix, a été condamné à 15 ans de prison. Sa lettre dénonce la répression des voix critiques et le silence des États-Unis.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Bahruz Samadov est un politologue azerbaïdjanais et un militant pour la paix.",
+        "Il faisait un doctorat à l’Université Charles de Prague.",
+        "Le 21 août 2024, le Service de sécurité de l’État l’a arrêté à Bakou, chez sa grand-mère, avant la COP29."
+      ]
+    },
+    {
+      "sentences": [
+        "Samadov était l’une des rares voix à s’opposer à la guerre du Karabakh de 2020.",
+        "Il défendait le dialogue avec l’Arménie et critiquait l’expulsion des Arméniens du Karabakh.",
+        "Les procureurs l’ont accusé de haute trahison à cause de ses échanges WhatsApp avec des militants arméniens.",
+        "Il a rejeté ces accusations et s’est décrit comme un « prisonnier de la paix »."
+      ]
+    },
+    {
+      "sentences": [
+        "Le 23 juin 2025, le tribunal des crimes graves de Bakou l’a condamné à 15 ans de prison après un procès à huis clos.",
+        "La Cour d’appel a confirmé le verdict en septembre 2025, puis la Cour suprême en septembre 2026.",
+        "Amnesty International parle d’une détention arbitraire, d’un isolement, d’un manque de soins et de deux tentatives de suicide."
+      ]
+    },
+    {
+      "sentences": [
+        "Dans sa lettre depuis la prison d’Umbaku, Samadov dénonce la répression contre la société civile, les médias et les universitaires.",
+        "Il critique aussi le silence des États-Unis et note que des prisonniers politiques, dont Anar Mammadli, ont reçu des peines pouvant atteindre 15 ans."
+      ]
+    },
+    {
+      "sentences": [
+        "Il estime que l’administration Trump n’a pris aucune mesure publique sur ces violations.",
+        "Pour lui, l’arrestation et la détention montrent les défauts du système judiciaire azerbaïdjanais, et sa lettre est datée du 27 octobre 2026."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "politologue"
+    },
+    {
+      "term": "militant pour la paix"
+    },
+    {
+      "term": "haute trahison"
+    },
+    {
+      "term": "huis clos"
+    },
+    {
+      "term": "détention arbitraire"
+    },
+    {
+      "term": "isolement"
+    },
+    {
+      "term": "manque de soins"
+    },
+    {
+      "term": "répression"
+    },
+    {
+      "term": "société civile"
+    },
+    {
+      "term": "violations"
+    },
+    {
+      "term": "administration Trump"
+    },
+    {
+      "term": "verdict"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q5",
+      "prompt": "Quel est le sujet principal de l’article ?",
+      "options": [
+        "Le parcours et la détention de Bahruz Samadov, militant pour la paix condamné en Azerbaïdjan.",
+        "Les raisons pour lesquelles l’Azerbaïdjan a organisé la COP29 à Bakou.",
+        "Le rôle de l’Université Charles de Prague dans la formation des politologues azerbaïdjanais.",
+        "Les échanges WhatsApp entre militants arméniens pendant la guerre du Karabakh de 2020."
+      ],
+      "answerIndex": 0,
+      "evidence": "Bahruz Samadov est un politologue azerbaïdjanais et un militant pour la paix.",
+      "explanation": "L’article suit principalement Samadov, de son arrestation à sa condamnation et à sa lettre. Les autres options portent sur des éléments secondaires ou ne correspondent pas au propos central du texte."
+    },
+    {
+      "id": "q2",
+      "prompt": "Que révèle l’article sur l’ordre des décisions de justice après la condamnation de 2025 ?",
+      "options": [
+        "La Cour suprême a annulé la condamnation avant que la Cour d’appel ne la rétablisse.",
+        "La Cour d’appel a d’abord maintenu le verdict, puis la Cour suprême a fait de même l’année suivante.",
+        "La Cour d’appel a réduit la peine, puis la Cour suprême a confirmé cette réduction.",
+        "La Cour suprême a confirmé le verdict en 2025, avant la Cour d’appel en 2026."
+      ],
+      "answerIndex": 1,
+      "evidence": "La Cour d’appel a confirmé le verdict en septembre 2025, puis la Cour suprême en septembre 2026.",
+      "explanation": "Le texte indique une confirmation successive : d’abord par la Cour d’appel en 2025, ensuite par la Cour suprême en 2026. Les autres options inversent les juridictions ou modifient leur décision."
+    },
+    {
+      "id": "q3",
+      "prompt": "Que dénonce Amnesty International dans le cas de Samadov ?",
+      "options": [
+        "Un procès trop rapide et une peine trop légère pour les faits reprochés.",
+        "Une condamnation fondée uniquement sur des messages WhatsApp avec des Arméniens.",
+        "Un manque de preuves lors du procès à huis clos et l’absence des médias.",
+        "Une détention injustifiée, des conditions d’isolement et de soins insuffisantes, avec deux tentatives de suicide."
+      ],
+      "answerIndex": 3,
+      "evidence": "Amnesty International parle d’une détention arbitraire, d’un isolement, d’un manque de soins et de deux tentatives de suicide.",
+      "explanation": "L’organisation dénonce la privation de liberté, l’isolement, l’insuffisance des soins et les tentatives de suicide. Les autres options concernent le procès ou l’accusation, pas les critiques d’Amnesty International."
+    },
+    {
+      "id": "q6",
+      "prompt": "Pourquoi les procureurs ont-ils accusé Samadov de haute trahison ?",
+      "options": [
+        "Parce qu’il avait organisé des manifestations contre la COP29 à Bakou.",
+        "Parce qu’il avait critiqué l’expulsion des Arméniens du Karabakh.",
+        "Parce que des conversations privées avec des militants arméniens ont servi de base à l’accusation.",
+        "Parce qu’il avait publié une lettre dénonçant la répression depuis la prison d’Umbaku."
+      ],
+      "answerIndex": 2,
+      "evidence": "Les procureurs l’ont accusé de haute trahison à cause de ses échanges WhatsApp avec des militants arméniens.",
+      "explanation": "L’accusation repose sur les messages échangés avec des militants arméniens. Les autres motifs cités sont présents dans l’article, mais ne sont pas présentés comme la base de l’accusation."
+    },
+    {
+      "id": "q7",
+      "prompt": "Que reproche Samadov à l’administration Trump ?",
+      "options": [
+        "Elle a demandé publiquement sa libération, mais sans obtenir de résultat.",
+        "Selon lui, elle n’a rien dit ni fait publiquement à ce sujet.",
+        "Elle a appuyé la décision de la Cour suprême de confirmer le verdict.",
+        "Elle a critiqué Amnesty International pour ses accusations de détention arbitraire."
+      ],
+      "answerIndex": 1,
+      "evidence": "Il estime que l’administration Trump n’a pris aucune mesure publique sur ces violations.",
+      "explanation": "Samadov lui reproche son absence de réaction publique face aux violations dénoncées. Les autres options lui prêtent des actions ou des prises de position que le texte ne mentionne pas."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "阿塞拜疆：巴鲁兹·萨马多夫，和平的囚徒",
+      "summary": "阿塞拜疆学者、和平活动人士巴鲁兹·萨马多夫被判处15年监禁。他的信谴责对批评声音的镇压以及美国的沉默。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "巴鲁兹·萨马多夫是阿塞拜疆政治学家和和平活动人士。",
+            "他当时正在布拉格查理大学攻读博士学位。",
+            "2024年8月21日，国家安全局在COP29之前于巴库他祖母家中逮捕了他。"
+          ]
+        },
+        {
+          "sentences": [
+            "萨马多夫是少数反对2020年卡拉巴赫战争的声音之一。",
+            "他主张与亚美尼亚对话，并批评将亚美尼亚人驱逐出卡拉巴赫。",
+            "检察官因他与亚美尼亚活动人士的WhatsApp交流而指控他犯有叛国罪。",
+            "他否认这些指控，并称自己是“和平的囚徒”。"
+          ]
+        },
+        {
+          "sentences": [
+            "2025年6月23日，巴库重罪法庭在闭门审判后判处他15年监禁。",
+            "上诉法院于2025年9月确认了判决，随后最高法院于2026年9月也予以确认。",
+            "国际特赦组织称这是任意拘留，并提到隔离、缺乏医疗照护以及两次自杀未遂。"
+          ]
+        },
+        {
+          "sentences": [
+            "在从乌姆巴库监狱发出的信中，萨马多夫谴责对公民社会、媒体和学者的镇压。",
+            "他还批评美国的沉默，并指出包括阿纳尔·马马德利在内的政治犯被判处最高可达15年的刑罚。"
+          ]
+        },
+        {
+          "sentences": [
+            "他认为特朗普政府没有就这些侵权行为采取任何公开措施。",
+            "在他看来，逮捕和拘押显示了阿塞拜疆司法制度的缺陷，而他的信日期为2026年10月27日。"
+          ]
+        }
+      ],
+      "glossary": {
+        "politologue": "政治学家，研究政治制度和政治行为的学者。",
+        "militant pour la paix": "和平活动人士，积极推动和平、反对战争的人。",
+        "haute trahison": "叛国罪，严重背叛国家的罪行。",
+        "huis clos": "闭门审理，不对外公开的庭审。",
+        "détention arbitraire": "任意拘留，缺乏合法依据或正当程序的关押。",
+        "isolement": "隔离，单独关押或与外界隔绝的状态。",
+        "manque de soins": "缺乏医疗照护。",
+        "répression": "镇压，对批评或反对声音的打压。",
+        "société civile": "公民社会，独立于政府的组织与公众活动领域。",
+        "violations": "侵权行为，违反权利的行为。",
+        "administration Trump": "特朗普政府。",
+        "verdict": "裁决，法院作出的判决。"
+      },
+      "questions": {
+        "q5": "文章主要围绕萨马多夫展开：从他在COP29前被捕，到被判处15年监禁，再到他从乌姆巴库监狱写信谴责镇压和美国沉默。第一个选项概括了这一主线；其余选项只涉及文章中的次要元素，或并非文章中心。",
+        "q2": "原文的时间顺序是：上诉法院在2025年9月先确认判决，随后最高法院在2026年9月也予以确认。第二个选项正确复述了“先上诉法院、后最高法院”的连续确认；其余选项颠倒法院顺序或改变法院所作决定。",
+        "q3": "国际特赦组织批评的是关押本身及关押条件：任意拘留、隔离、缺乏医疗照护和两次自杀未遂。第四个选项概括了这些内容；其余选项谈的是审判速度、刑罚轻重、证据或媒体缺席，并不是国际特赦组织在此案中的谴责重点。",
+        "q6": "原文的锚点是：检察官因萨马多夫与亚美尼亚活动人士的WhatsApp往来而指控他叛国。第三个选项把这一因果关系概括为“私下交谈被当作指控的基础”，因此正确；第一个选项提到COP29示威，第二个选项提到批评驱逐亚美尼亚人，第四个选项提到狱中来信，这些虽出现在文章中，却都不是检察官指控叛国的依据。",
+        "q7": "原文说，萨马多夫认为特朗普政府没有就这些侵权行为采取任何公开措施。第二个选项用“既没有公开表态，也没有公开行动”概括这种不作为，因此正确；第一个选项说美方公开要求释放他但无果，第三个选项说美方支持最高法院确认判决，第四个选项说美方批评国际特赦组织，这些说法都没有在文章中出现。"
+      },
+      "questionTexts": {
+        "q5": {
+          "prompt": "文章的主题是什么？",
+          "options": [
+            "巴鲁兹·萨马多夫——一名在阿塞拜疆被定罪的和平活动人士——的经历与拘押。",
+            "阿塞拜疆为什么在巴库举办COP29。",
+            "布拉格查理大学在培养阿塞拜疆政治学家方面的作用。",
+            "2020年卡拉巴赫战争期间亚美尼亚活动人士之间的WhatsApp交流。"
+          ]
+        },
+        "q2": {
+          "prompt": "文章揭示了2025年定罪之后司法裁决的什么顺序？",
+          "options": [
+            "最高法院在上诉法院恢复定罪之前撤销了定罪。",
+            "上诉法院先维持了判决，随后最高法院在第二年也予以维持。",
+            "上诉法院减轻了刑罚，随后最高法院确认了这一减刑。",
+            "最高法院在2025年确认了判决，早于2026年的上诉法院。"
+          ]
+        },
+        "q3": {
+          "prompt": "国际特赦组织在萨马多夫案中谴责什么？",
+          "options": [
+            "审判过快，且相对于被指控事实刑罚过轻。",
+            "仅依据与亚美尼亚人的WhatsApp信息作出的定罪。",
+            "闭门审判中缺乏证据以及媒体缺席。",
+            "不合理的拘留、隔离和医疗不足等条件，以及两次自杀未遂。"
+          ]
+        },
+        "q6": {
+          "prompt": "检察官为什么指控萨马多夫犯有叛国罪？",
+          "options": [
+            "因为他曾组织反对巴库COP29的示威活动。",
+            "因为他曾批评将亚美尼亚人驱逐出卡拉巴赫。",
+            "因为他与亚美尼亚活动人士的私下交谈被当作指控的基础。",
+            "因为他从乌姆巴库监狱发出了一封谴责镇压的信。"
+          ]
+        },
+        "q7": {
+          "prompt": "萨马多夫对特朗普政府有什么不满？",
+          "options": [
+            "它公开要求释放他，但没有取得结果。",
+            "他认为，美方对此事既没有公开表态，也没有公开行动。",
+            "它支持最高法院确认判决的决定。",
+            "它批评国际特赦组织关于任意拘留的指控。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Azerbaïdjan : la lettre d’un prisonnier politique révèle les conséquences mortelle du silence",
+    "authors": [
+      "Global Voices Eurasia"
+    ],
+    "translators": [
+      "Hitantsoa Fortunat"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/25/304391/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-25",
+    "publishedAt": "2026-11-25",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-25",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

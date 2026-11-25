@@ -1,0 +1,341 @@
+{
+  "id": "2026-11-25-azerbaidjan-la-lettre-d-un-prisonnier-politique-revele-les-c",
+  "title": "Azerbaïdjan : Bahruz Samadov, prisonnier de la paix",
+  "level": "B2",
+  "theme": "politique",
+  "date": "2026-11-25",
+  "summary": "Le politologue azerbaïdjanais Bahruz Samadov, arrêté en 2024 et condamné à quinze ans de prison pour haute trahison, dénonce depuis sa cellule une justice instrumentalisée et le silence des États-Unis.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Bahruz Samadov était un politologue azerbaïdjanais, un militant pour la paix et un doctorant à l’Université Charles de Prague.",
+        "Le 21 août 2024, le Service de sécurité de l’État l’a arrêté alors qu’il rendait visite à sa grand-mère à Bakou.",
+        "Cette arrestation s’inscrivait dans une répression plus large contre les voix critiques, à l’approche de la COP29 organisée par l’Azerbaïdjan en novembre 2024."
+      ]
+    },
+    {
+      "sentences": [
+        "Samadov était l’une des rares voix azerbaïdjanaises à s’opposer à la guerre du Karabakh de 2020.",
+        "Dans ses articles, il défendait le dialogue avec l’Arménie et dénonçait l’expulsion des Arméniens de souche du Karabakh.",
+        "Les procureurs l’ont accusé de haute trahison en s’appuyant sur ses échanges WhatsApp avec des militants arméniens pour la paix et sur des informations publiques.",
+        "Il a rejeté ces accusations et s’est présenté comme un « prisonnier de la paix »."
+      ]
+    },
+    {
+      "sentences": [
+        "Le 23 juin 2025, après un procès à huis clos, le tribunal des crimes graves de Bakou l’a condamné à quinze ans de prison.",
+        "En septembre 2025, la Cour d’appel de Bakou a confirmé le verdict, puis la Cour suprême a fait de même en septembre 2026.",
+        "Amnesty International considère sa détention comme arbitraire et signale qu’il est maintenu à l’isolement, privé de soins médicaux.",
+        "L’organisation rapporte aussi qu’il a tenté de se suicider à deux reprises, la dernière fois lors de son audience devant la Cour suprême."
+      ]
+    },
+    {
+      "sentences": [
+        "Dans une lettre écrite depuis sa prison, Samadov explique que son arrestation a transformé les vacances d’été 2024 en cauchemar.",
+        "Il affirme avoir établi un lien entre la survie du régime hégémonique de son pays et le conflit entre l’Azerbaïdjan et l’Arménie.",
+        "Selon lui, le régime construit des récits d’« unité nationale » autour de l’« homme fort providentiel ».",
+        "Il critique aussi le recours à la force militaire pendant et après la guerre du Karabakh de 2020."
+      ]
+    },
+    {
+      "sentences": [
+        "Samadov dénonce une répression qui cible particulièrement les universitaires, les médias indépendants et la société civile.",
+        "Il rappelle que plusieurs prisonniers politiques ont lié cette offensive à la détérioration des relations avec l’administration Biden, très critique envers les violations des droits humains.",
+        "Il estime que le silence des États-Unis face aux lourdes condamnations récentes affaiblit les idéaux démocratiques et l’image internationale du pays.",
+        "Il appelle Washington à saisir toutes les occasions pour exprimer ses préoccupations sur le bilan azerbaïdjanais en matière de droits humains."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "politologue"
+    },
+    {
+      "term": "répression"
+    },
+    {
+      "term": "haute trahison"
+    },
+    {
+      "term": "huis clos"
+    },
+    {
+      "term": "arbitraire"
+    },
+    {
+      "term": "isolement"
+    },
+    {
+      "term": "hégémonique"
+    },
+    {
+      "term": "providentiel"
+    },
+    {
+      "term": "offensive"
+    },
+    {
+      "term": "détérioration"
+    },
+    {
+      "term": "bilan"
+    },
+    {
+      "term": "saisir"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon l’article, à quel moment Bahruz Samadov a-t-il été arrêté ?",
+      "options": [
+        "Lors de la COP29, alors qu’il participait à une réunion internationale à Bakou.",
+        "Après son procès à huis clos, au moment où le tribunal des crimes graves rendait son verdict.",
+        "Pendant une visite à sa grand-mère à Bakou, le 21 août 2024.",
+        "À l’Université Charles de Prague, alors qu’il y terminait son doctorat."
+      ],
+      "answerIndex": 2,
+      "evidence": "Le 21 août 2024, le Service de sécurité de l’État l’a arrêté alors qu’il rendait visite à sa grand-mère à Bakou.",
+      "explanation": "Le texte situe l’arrestation le 21 août 2024 pendant une visite familiale à Bakou, et non lors de la COP29 ni après le procès."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quel contexte l’article donne-t-il à l’arrestation de Samadov ?",
+      "options": [
+        "Une répression plus large contre les voix critiques, à l’approche de la COP29 en novembre 2024.",
+        "Une opération de sécurité déclenchée par la COP29, après novembre 2024.",
+        "Une mesure liée uniquement à ses échanges avec des militants arméniens, sans autre contexte.",
+        "Une campagne contre les universitaires menée après la confirmation du verdict en 2025."
+      ],
+      "answerIndex": 0,
+      "evidence": "Cette arrestation s’inscrivait dans une répression plus large contre les voix critiques, à l’approche de la COP29 organisée par l’Azerbaïdjan en novembre 2024.",
+      "explanation": "L’article présente l’arrestation comme partie d’une répression plus vaste avant la COP29 ; les autres options déplacent le moment ou réduisent à tort la portée du contexte."
+    },
+    {
+      "id": "q3",
+      "prompt": "Que dit l’article de la suite judiciaire après la condamnation à quinze ans ?",
+      "options": [
+        "La Cour suprême a annulé le verdict avant que la Cour d’appel ne le confirme.",
+        "La Cour d’appel a acquitté Samadov, puis la Cour suprême a rétabli la condamnation.",
+        "Le procès initial a été rouvert publiquement devant la Cour suprême en septembre 2026.",
+        "La Cour d’appel a confirmé le verdict en septembre 2025, puis la Cour suprême en septembre 2026."
+      ],
+      "answerIndex": 3,
+      "evidence": "En septembre 2025, la Cour d’appel de Bakou a confirmé le verdict, puis la Cour suprême a fait de même en septembre 2026.",
+      "explanation": "Le texte indique une confirmation successive par l’appel puis la Cour suprême ; il ne mentionne ni acquittement ni annulation."
+    },
+    {
+      "id": "q4",
+      "prompt": "Sur quels éléments les procureurs ont-ils fondé l’accusation de haute trahison ?",
+      "options": [
+        "Ses articles défendant le dialogue avec l’Arménie et dénonçant l’expulsion des Arméniens.",
+        "Ses échanges WhatsApp avec des militants arméniens pour la paix et des informations publiques.",
+        "Sa lettre de prison sur le régime hégémonique et l’homme fort providentiel.",
+        "Ses appels à Washington pour que les États-Unis expriment leurs préoccupations."
+      ],
+      "answerIndex": 1,
+      "evidence": "Les procureurs l’ont accusé de haute trahison en s’appuyant sur ses échanges WhatsApp avec des militants arméniens pour la paix et sur des informations publiques.",
+      "explanation": "L’article précise explicitement que l’accusation repose sur ces échanges et sur des informations publiques ; les autres éléments relèvent des positions ou des écrits de Samadov, non de la base de l’accusation indiquée."
+    },
+    {
+      "id": "q5",
+      "prompt": "Dans sa lettre, quel lien Samadov affirme-t-il avoir établi ?",
+      "options": [
+        "Un lien entre sa détention à l’isolement et la confirmation du verdict par la Cour suprême.",
+        "Un lien entre la COP29 et la détérioration des relations avec l’administration Biden.",
+        "Un lien entre la survie du régime hégémonique de son pays et le conflit entre l’Azerbaïdjan et l’Arménie.",
+        "Un lien entre l’expulsion des Arméniens du Karabakh et les accusations de haute trahison."
+      ],
+      "answerIndex": 2,
+      "evidence": "Il affirme avoir établi un lien entre la survie du régime hégémonique de son pays et le conflit entre l’Azerbaïdjan et l’Arménie.",
+      "explanation": "La lettre de Samadov associe la persistance du régime à la perpétuation du conflit ; les autres options renvoient à des passages différents ou à des rapprochements non faits par lui."
+    },
+    {
+      "id": "q6",
+      "prompt": "Que critique Samadov au sujet de la position américaine ?",
+      "options": [
+        "Le fait que Washington ait organisé la COP29 malgré les violations des droits humains.",
+        "Le silence des États-Unis face aux lourdes condamnations récentes, qui affaiblit selon lui les idéaux démocratiques et l’image du pays.",
+        "La décision de l’administration Biden de soutenir ouvertement le régime azerbaïdjanais.",
+        "L’absence de réaction de Washington aux échanges WhatsApp avec les militants arméniens."
+      ],
+      "answerIndex": 1,
+      "evidence": "Il estime que le silence des États-Unis face aux lourdes condamnations récentes affaiblit les idéaux démocratiques et l’image internationale du pays.",
+      "explanation": "Samadov reproche aux États-Unis leur silence et ses effets sur les idéaux démocratiques et l’image du pays ; il n’est pas question d’une organisation américaine de la COP29 ni d’un soutien ouvert au régime."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quel rôle joue le dernier paragraphe dans l’ensemble de l’article ?",
+      "options": [
+        "Il résume uniquement les accusations judiciaires portées contre Samadov.",
+        "Il décrit les conditions de détention signalées par Amnesty International.",
+        "Il revient sur le déroulement du procès à huis clos et des appels.",
+        "Il élargit la dénonciation de Samadov à la société civile et aux réactions internationales, notamment américaines."
+      ],
+      "answerIndex": 3,
+      "evidence": "Samadov dénonce une répression qui cible particulièrement les universitaires, les médias indépendants et la société civile.",
+      "explanation": "Le dernier paragraphe dépasse le cas personnel de Samadov pour évoquer les cibles de la répression et la position américaine ; les autres options concernent des passages antérieurs."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "阿塞拜疆：巴赫鲁兹·萨马多夫，和平的囚徒",
+      "summary": "阿塞拜疆政治学家巴赫鲁兹·萨马多夫于2024年被捕，因严重叛国罪被判处十五年监禁，他在狱中谴责被工具化的司法以及美国的沉默。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "巴赫鲁兹·萨马多夫曾是一名阿塞拜疆政治学家、和平活动人士，也是布拉格查理大学的博士生。",
+            "2024年8月21日，国家安全局在他在巴库探望祖母时将他逮捕。",
+            "这次逮捕属于在阿塞拜疆于2024年11月主办COP29前夕，对批评声音更广泛镇压的一部分。"
+          ]
+        },
+        {
+          "sentences": [
+            "萨马多夫是少数反对2020年卡拉巴赫战争的阿塞拜疆声音之一。",
+            "在他的文章中，他主张与亚美尼亚对话，并谴责对卡拉巴赫世居亚美尼亚人的驱逐。",
+            "检察官依据他与亚美尼亚和平活动人士的WhatsApp交流以及公开信息，指控他犯有叛国罪。",
+            "他否认这些指控，并称自己是“和平的囚徒”。"
+          ]
+        },
+        {
+          "sentences": [
+            "2025年6月23日，在经过闭门审判后，巴库重罪法庭判处他十五年监禁。",
+            "2025年9月，巴库上诉法院维持判决，随后最高法院于2026年9月也维持原判。",
+            "国际特赦组织认为他的拘留是任意的，并指出他被隔离关押、得不到医疗照护。",
+            "该组织还报告，他曾两次试图自杀，最近一次是在最高法院庭审期间。"
+          ]
+        },
+        {
+          "sentences": [
+            "在一封从监狱写出的信中，萨马多夫解释说，他的被捕把2024年暑假变成了噩梦。",
+            "他声称，他建立了其国家霸权政权的存续与阿塞拜疆和亚美尼亚之间冲突之间的联系。",
+            "据他所说，该政权围绕“天赐强人”构建“民族团结”的叙事。",
+            "他还批评在2020年卡拉巴赫战争期间及之后使用军事力量。"
+          ]
+        },
+        {
+          "sentences": [
+            "萨马多夫谴责一场尤其针对学者、独立媒体和公民社会的镇压。",
+            "他回顾说，多名政治犯将这次攻势与同拜登政府关系的恶化联系起来，而拜登政府对侵犯人权行为持强烈批评态度。",
+            "他认为，美国面对近期重判的沉默削弱了民主理想和该国的国际形象。",
+            "他呼吁华盛顿抓住一切机会，表达对阿塞拜疆人权记录的关切。"
+          ]
+        }
+      ],
+      "glossary": {
+        "politologue": "研究政治学、分析政治制度和政治现象的学者。",
+        "répression": "当局以强制手段镇压批评者、反对派或社会运动的行为。",
+        "haute trahison": "严重危害国家安全的罪行，通常指叛国或通敌等重罪。",
+        "huis clos": "审判不公开进行，旁听者和媒体不得在场。",
+        "arbitraire": "缺乏法律依据或正当程序、由权力任意决定的。",
+        "isolement": "将囚犯单独关押、减少或断绝其与外界接触的拘禁方式。",
+        "hégémonique": "试图在政治、地区或思想上建立并维持支配地位的。",
+        "providentiel": "被描述为上天赐予、在危机中拯救国家的；文中含讽刺意味。",
+        "offensive": "此处指当局发起的一系列镇压行动或攻势。",
+        "détérioration": "关系、状况等变坏、恶化的过程。",
+        "bilan": "对某方面表现、状况或记录的总结性评估。",
+        "saisir": "抓住、利用（机会）；此处指把握时机。"
+      },
+      "questions": {
+        "q1": "原文明确说，2024年8月21日他在巴库探望祖母时被国家安全局逮捕；因此正确内容是第三项“2024年8月21日，在巴库探望祖母期间”。第一项说他在COP29期间参加国际会议时被捕，与原文的时间地点不符；第二项说在闭门审判后、重罪法庭作出判决时被捕，混淆了逮捕与审判；第四项说他在布拉格查理大学完成博士学业时被捕，也不符合原文。",
+        "q2": "原文说这次逮捕属于在2024年11月阿塞拜疆主办COP29前夕对批评声音更广泛镇压的一部分；因此正确内容是第一项“在2024年11月COP29临近之际，对批评声音更广泛的镇压”。第二项把时间说成COP29之后且由COP29触发，颠倒并误因；第三项说仅与亚美尼亚活动人士交流有关、没有其他背景，缩小了原文；第四项说2025年判决确认后针对学者的运动，时间与对象都不符。",
+        "q3": "原文按顺序说明：2025年9月巴库上诉法院维持判决，随后最高法院于2026年9月也维持；正确内容是第四项“上诉法院于2025年9月维持判决，随后最高法院于2026年9月维持原判”。第一项说最高法院在上诉法院确认前撤销判决，顺序相反且无依据；第二项说上诉法院无罪释放、最高法院恢复定罪，原文没有；第三项说2026年9月最高法院公开重审，与原文闭门审判及维持判决不符。",
+        "q4": "原文明确说检察官依据他与亚美尼亚和平活动人士的WhatsApp交流以及公开信息指控叛国；正确内容是第二项“他与亚美尼亚和平活动人士的WhatsApp交流以及公开信息”。第一项提到他主张对话和谴责驱逐的文章，这是他的立场，不是原文所列指控依据；第三项是狱中信件内容，出现在后文；第四项是他呼吁华盛顿表达关切，也不是指控依据。",
+        "q5": "原文说他在信中声称建立了其国家霸权政权的存续与阿塞拜疆和亚美尼亚之间冲突的联系；正确内容是第三项“其国家霸权政权的存续与阿塞拜疆和亚美尼亚之间冲突之间的联系”。第一项把隔离关押与最高法院维持判决相连，非信中所说；第二项把COP29与美方关系恶化相连，原文未如此表述；第四项把驱逐亚美尼亚人与叛国指控相连，也不是他信中声称建立的联系。",
+        "q6": "原文说他认为美国面对近期重判的沉默削弱民主理想和该国国际形象；正确内容是第二项“美国面对近期重判的沉默，他认为这削弱了民主理想和国家形象”。第一项说华盛顿主办COP29，原文说阿塞拜疆主办；第三项说拜登政府公开支持阿塞拜疆政权，原文反而称其强烈批评侵犯人权；第四项说华盛顿对WhatsApp交流无反应，原文未提。",
+        "q7": "最后一段从萨马多夫个人案件扩展到镇压针对学者、独立媒体和公民社会，并谈到美国及国际反应；因此正确内容是第四项“把萨马多夫的谴责扩展到公民社会和国际反应，尤其是美国”。第一项说只总结司法指控，最后一段并非如此；第二项说描述国际特赦组织报告的拘留条件，那在上一段；第三项说回顾闭门审判和上诉过程，也在前文。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "根据文章，巴赫鲁兹·萨马多夫是在什么时候被捕的？",
+          "options": [
+            "在COP29期间，当时他正在巴库参加一场国际会议。",
+            "在闭门审判之后，重罪法庭作出判决时。",
+            "2024年8月21日，在巴库探望祖母期间。",
+            "在布拉格查理大学，当时他正在那里完成博士学业。"
+          ]
+        },
+        "q2": {
+          "prompt": "文章为萨马多夫的被捕提供了什么背景？",
+          "options": [
+            "在2024年11月COP29临近之际，对批评声音更广泛的镇压。",
+            "由COP29引发的一次安全行动，发生在2024年11月之后。",
+            "仅与他同亚美尼亚活动人士的交流有关的一项措施，没有其他背景。",
+            "2025年判决确认后针对学者发起的一场运动。"
+          ]
+        },
+        "q3": {
+          "prompt": "关于十五年判决后的司法后续，文章说了什么？",
+          "options": [
+            "最高法院在上诉法院确认之前撤销了判决。",
+            "上诉法院宣告萨马多夫无罪，随后最高法院恢复了定罪。",
+            "初审审判于2026年9月在最高法院公开重新开庭。",
+            "上诉法院于2025年9月维持判决，随后最高法院于2026年9月维持原判。"
+          ]
+        },
+        "q4": {
+          "prompt": "检察官依据哪些要素提出叛国罪指控？",
+          "options": [
+            "他主张与亚美尼亚对话并谴责驱逐亚美尼亚人的文章。",
+            "他与亚美尼亚和平活动人士的WhatsApp交流以及公开信息。",
+            "他从监狱写的关于霸权政权和天赐强人的信。",
+            "他向华盛顿发出的、要求美国表达关切的呼吁。"
+          ]
+        },
+        "q5": {
+          "prompt": "在信中，萨马多夫声称他建立了什么联系？",
+          "options": [
+            "他的隔离关押与最高法院维持判决之间的联系。",
+            "COP29与同拜登政府关系恶化之间的联系。",
+            "其国家霸权政权的存续与阿塞拜疆和亚美尼亚之间冲突之间的联系。",
+            "卡拉巴赫亚美尼亚人被驱逐与叛国罪指控之间的联系。"
+          ]
+        },
+        "q6": {
+          "prompt": "关于美国的立场，萨马多夫批评什么？",
+          "options": [
+            "华盛顿尽管存在侵犯人权行为仍主办了COP29。",
+            "美国面对近期重判的沉默，他认为这削弱了民主理想和国家形象。",
+            "拜登政府公开支持阿塞拜疆政权的决定。",
+            "华盛顿对与亚美尼亚活动人士WhatsApp交流缺乏反应。"
+          ]
+        },
+        "q7": {
+          "prompt": "最后一段在整篇文章中起什么作用？",
+          "options": [
+            "它只总结针对萨马多夫的司法指控。",
+            "它描述国际特赦组织报告的拘留条件。",
+            "它回顾闭门审判和上诉的经过。",
+            "它把萨马多夫的谴责扩展到公民社会和国际反应，尤其是美国。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Azerbaïdjan : la lettre d’un prisonnier politique révèle les conséquences mortelle du silence",
+    "authors": [
+      "Global Voices Eurasia"
+    ],
+    "translators": [
+      "Hitantsoa Fortunat"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/25/304391/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-25",
+    "publishedAt": "2026-11-25",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-25",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

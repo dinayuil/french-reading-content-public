@@ -1,0 +1,333 @@
+{
+  "id": "2026-11-25-bataille-de-cerisoles",
+  "title": "La bataille de Cérisoles (1544)",
+  "level": "B2",
+  "theme": "histoire",
+  "date": "2026-11-25",
+  "summary": "Le 14 avril 1544, les Français du comte d’Enghien remportent une victoire coûteuse et peu exploitée sur les troupes impériales à Cérisoles, lors de la neuvième guerre d’Italie.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "La bataille de Cérisoles se déroule le 14 avril 1544, près du village piémontais de Ceresole Alba, pendant la neuvième guerre d’Italie.",
+        "Elle oppose les Français, commandés par François de Bourbon, comte d’Enghien, aux troupes de Charles Quint dirigées par Alfonso de Ávalos, marquis del Vasto.",
+        "Le jeune Gaspard II de Coligny figure parmi les Français, tandis que Rodolfo Baglioni et Charles Gonzague servent dans le camp impérial."
+      ]
+    },
+    {
+      "sentences": [
+        "Les combats, d’une durée inhabituelle, aboutissent à une victoire française, mais celle-ci n’est pas exploitée malgré les pertes ennemies.",
+        "Milan se trouve alors sans défense, comme le remarque Blaise de Monluc.",
+        "Les deux armées sont déployées sur deux crêtes parallèles, ce qui complique la coordination des actions et favorise des affrontements dispersés."
+      ]
+    },
+    {
+      "sentences": [
+        "La bataille commence par plusieurs heures d’escarmouches et de tirs d’artillerie dont l’efficacité reste limitée.",
+        "Au centre, les lansquenets attaquent les mercenaires suisses au service de la France et subissent de lourdes pertes.",
+        "Au sud, l’infanterie piémontaise recule seulement lorsque le centre allemand est enfoncé ; au nord, les charges de cavalerie du comte d’Enghien sont coûteuses et peu utiles."
+      ]
+    },
+    {
+      "sentences": [
+        "Finalement, les Impériaux se retirent sous la menace d’un encerclement par les Suisses victorieux au centre.",
+        "Cérisoles est l’une des rares batailles rangées des dernières guerres d’Italie.",
+        "Elle montre que la cavalerie lourde conserve encore un rôle important, même si les fantassins armés d’arquebuses et de piques dominent désormais les combats.",
+        "Imbert de La Platière, seigneur de Bourdillon, s’y distingue."
+      ]
+    },
+    {
+      "sentences": [
+        "Dans le contexte, François Ier juge que Charles Quint a rompu la trêve d’Aigues-Mortes en léguant le Milanais à son fils Philippe.",
+        "La neuvième guerre d’Italie commence par le siège de Nice en août 1543, puis les forces impériales avancent depuis la Lombardie vers Turin.",
+        "Pendant l’hiver 1543-1544, les deux camps tiennent le Piémont et attaquent leurs places frontières."
+      ]
+    },
+    {
+      "sentences": [
+        "François Ier remplace Boutières par le comte d’Enghien, un prince sans expérience militaire, et lui envoie des renforts.",
+        "En janvier 1544, Enghien assiège Carignan, tandis qu’Ávalos marche depuis Asti pour secourir la ville.",
+        "Les effectifs impériaux comptent environ 12 500 à 18 000 fantassins, mais seulement 800 à 1 000 cavaliers ; les Français alignent environ 11 000 à 13 000 fantassins et 900 à 1 250 cavaliers lourds."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "escarmouches"
+    },
+    {
+      "term": "lansquenets"
+    },
+    {
+      "term": "mercenaires"
+    },
+    {
+      "term": "arquebuses"
+    },
+    {
+      "term": "piques"
+    },
+    {
+      "term": "rangées"
+    },
+    {
+      "term": "trêve"
+    },
+    {
+      "term": "léguant"
+    },
+    {
+      "term": "renforts"
+    },
+    {
+      "term": "effectifs"
+    },
+    {
+      "term": "encerclement"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Que précise l’article sur les suites de la victoire française à Cérisoles ?",
+      "options": [
+        "Les Français ne profitent pas de leur victoire, bien que les Impériaux aient subi des pertes.",
+        "Les Impériaux transforment leur retraite en victoire décisive.",
+        "Milan est prise par les Français grâce à cette victoire.",
+        "La victoire met immédiatement fin à la neuvième guerre d’Italie."
+      ],
+      "answerIndex": 0,
+      "evidence": "Les combats, d’une durée inhabituelle, aboutissent à une victoire française, mais celle-ci n’est pas exploitée malgré les pertes ennemies.",
+      "explanation": "Le texte oppose la victoire française à l’absence d’exploitation, tout en signalant les pertes ennemies. Les autres options ajoutent une prise de Milan, une victoire impériale ou une fin de guerre que l’article ne mentionne pas."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi les actions des deux armées sont-elles difficiles à coordonner ?",
+      "options": [
+        "Parce que l’artillerie impériale domine dès les premières heures.",
+        "Parce que les Suisses refusent de combattre au centre.",
+        "Parce que les armées sont installées sur deux crêtes parallèles.",
+        "Parce que la cavalerie française est trop nombreuse."
+      ],
+      "answerIndex": 2,
+      "evidence": "Les deux armées sont déployées sur deux crêtes parallèles, ce qui complique la coordination des actions et favorise des affrontements dispersés.",
+      "explanation": "Le texte relie directement la difficulté de coordination au dispositif sur deux crêtes. L’artillerie, le refus des Suisses et le nombre de cavaliers ne sont pas présentés comme causes de ce problème."
+    },
+    {
+      "id": "q3",
+      "prompt": "Que font les lansquenets lors des affrontements au centre ?",
+      "options": [
+        "Ils attaquent la cavalerie du comte d’Enghien.",
+        "Ils reculent dès que l’infanterie piémontaise cède.",
+        "Ils servent la France comme mercenaires suisses.",
+        "Ils attaquent les mercenaires suisses de France et perdent beaucoup d’hommes."
+      ],
+      "answerIndex": 3,
+      "evidence": "Au centre, les lansquenets attaquent les mercenaires suisses au service de la France et subissent de lourdes pertes.",
+      "explanation": "Le passage situe les lansquenets face aux Suisses au service de la France et précise leurs pertes importantes. Les autres options confondent les camps ou attribuent aux lansquenets le recul des Piémontais."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quelle leçon militaire l’article tire-t-il de la bataille de Cérisoles ?",
+      "options": [
+        "La cavalerie lourde a perdu tout rôle au profit de l’artillerie.",
+        "La cavalerie lourde reste importante, mais l’infanterie équipée d’arquebuses et de piques domine désormais.",
+        "Les mercenaires suisses déterminent seuls l’issue de la bataille.",
+        "Les batailles rangées deviennent la forme normale des guerres d’Italie."
+      ],
+      "answerIndex": 1,
+      "evidence": "Elle montre que la cavalerie lourde conserve encore un rôle important, même si les fantassins armés d’arquebuses et de piques dominent désormais les combats.",
+      "explanation": "Le texte maintient un rôle à la cavalerie lourde tout en donnant la domination aux fantassins munis d’arquebuses et de piques. Il ne dit pas que l’artillerie remplace tout, que les Suisses décident seuls, ni que ces batailles deviennent habituelles."
+    },
+    {
+      "id": "q5",
+      "prompt": "Pour quelle raison François Ier estime-t-il que Charles Quint a rompu la trêve d’Aigues-Mortes ?",
+      "options": [
+        "Parce que les Impériaux ont commencé le siège de Nice.",
+        "Parce qu’Ávalos a marché depuis Asti vers Carignan.",
+        "Parce que Charles Quint a légué le Milanais à son fils Philippe.",
+        "Parce que Boutières a été remplacé par le comte d’Enghien."
+      ],
+      "answerIndex": 2,
+      "evidence": "Dans le contexte, François Ier juge que Charles Quint a rompu la trêve d’Aigues-Mortes en léguant le Milanais à son fils Philippe.",
+      "explanation": "La rupture est rattachée explicitement au legs du Milanais à Philippe. Le siège de Nice, la marche d’Ávalos et le remplacement de Boutières relèvent d’autres épisodes du récit."
+    },
+    {
+      "id": "q6",
+      "prompt": "Que se passe-t-il en janvier 1544 selon l’article ?",
+      "options": [
+        "Les Impériaux avancent depuis la Lombardie vers Turin.",
+        "Enghien assiège Carignan tandis qu’Ávalos quitte Asti pour secourir la ville.",
+        "François Ier envoie des renforts au comte d’Enghien.",
+        "Les deux camps attaquent leurs places frontières pendant l’hiver."
+      ],
+      "answerIndex": 1,
+      "evidence": "En janvier 1544, Enghien assiège Carignan, tandis qu’Ávalos marche depuis Asti pour secourir la ville.",
+      "explanation": "La phrase datée associe le siège de Carignan par Enghien à la marche d’Ávalos depuis Asti. Les autres faits sont mentionnés sans cette datation ou pour un autre moment."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "切里索莱战役（1544年）",
+      "summary": "1544年4月14日，昂吉安伯爵率领的法军在第九次意大利战争期间于切里索莱对帝国军队取得一场代价高昂却未加利用的胜利。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "切里索莱战役发生在1544年4月14日，地点在第九次意大利战争期间皮埃蒙特村庄切雷索莱阿尔巴附近。",
+            "它使由弗朗索瓦·德·波旁，昂吉安伯爵指挥的法军与查理五世麾下由阿方索·德·阿瓦洛斯，德尔瓦斯托侯爵率领的军队对阵。",
+            "年轻的加斯帕尔二世·德·科利尼在法军一方，而鲁道夫·巴廖尼和夏尔·贡扎格则在帝国阵营服役。"
+          ]
+        },
+        {
+          "sentences": [
+            "战斗持续时间不同寻常，最终以法国获胜告终，但尽管敌方遭受损失，这一胜利并未被利用。",
+            "正如布莱兹·德·蒙吕克所指出的，米兰当时毫无防御。",
+            "两支军队部署在两道平行的山脊上，这使行动协调变得困难，并促成了分散的冲突。"
+          ]
+        },
+        {
+          "sentences": [
+            "战斗以数小时的小规模冲突和炮火射击开始，其效果仍然有限。",
+            "在中央，德意志长矛雇佣兵攻击为法国效力的瑞士雇佣兵，并遭受重大损失。",
+            "在南面，皮埃蒙特步兵只有在德意志中央部队被击溃后才后退；在北面，昂吉安伯爵的骑兵冲锋代价高昂且用处不大。"
+          ]
+        },
+        {
+          "sentences": [
+            "最终，帝国军队在中央获胜的瑞士人形成包围威胁下撤退。",
+            "切里索莱是意大利最后几场战争中罕见的列阵会战之一。",
+            "它表明重骑兵仍然发挥重要作用，尽管装备火绳枪和长矛的步兵如今已主导战斗。",
+            "安贝尔·德·拉普拉蒂耶尔，布尔迪永领主，在此战中表现突出。"
+          ]
+        },
+        {
+          "sentences": [
+            "在此背景下，弗朗索瓦一世认为查理五世将米兰公国遗赠给其子菲利普，从而破坏了艾格莫尔特停战协定。",
+            "第九次意大利战争以1543年8月围攻尼斯开始，随后帝国军队从伦巴第向都灵推进。",
+            "在1543-1544年冬季，双方控制皮埃蒙特并攻击彼此的边境据点。"
+          ]
+        },
+        {
+          "sentences": [
+            "弗朗索瓦一世用毫无军事经验的亲王昂吉安伯爵取代布蒂耶尔，并给他派去增援。",
+            "1544年1月，昂吉安围攻卡里尼昂，而阿瓦洛斯从阿斯蒂进军以救援该城。",
+            "帝国军队的兵力约有12 500至18 000名步兵，但只有800至1 000名骑兵；法国人则部署约11 000至13 000名步兵和900至1 250名重骑兵。"
+          ]
+        }
+      ],
+      "glossary": {
+        "escarmouches": "小规模冲突、前哨战，通常指主力交战前零散而短暂的战斗。",
+        "lansquenets": "德意志长矛雇佣步兵，常见于15至16世纪的欧洲军队。",
+        "mercenaires": "为报酬而受雇作战的士兵，不属于本国常备军。",
+        "arquebuses": "火绳枪，早期手持火器，需用火绳点火发射。",
+        "piques": "长矛，步兵用于刺击和抵御骑兵的长柄武器。",
+        "rangées": "在此指“列阵的、正规的”；“batailles rangées”即双方列阵进行的大规模会战。",
+        "trêve": "停战协定，交战方约定暂时停止军事行动的安排。",
+        "léguant": "遗赠、传给；此处指查理五世把米兰公国传给其子菲利普。",
+        "renforts": "增援部队，用于加强已有军队的人员或兵力。",
+        "effectifs": "兵力、人员数量，指军队实际拥有的人数。",
+        "encerclement": "包围，指从四周合围敌军以切断其退路或迫使投降。"
+      },
+      "questions": {
+        "q1": "原文明确把法国获胜与“未被利用”并置，同时点出敌方遭受损失，因此正确项是“法国人没有利用他们的胜利，尽管帝国军队遭受了损失”。第二项说撤退变成决定性胜利、第三项说米兰被攻占、第四项说战争立即结束，文章均未提及，且与原文相反或无关。",
+        "q2": "原文直接说两军部署在两道平行山脊上，这使协调困难并导致冲突分散；因此正确项是“军队驻扎在两道平行的山脊上”。炮兵优势、瑞士人拒绝在中央作战和法国骑兵人数过多都不是原文给出的原因。",
+        "q3": "原文把德意志长矛雇佣兵放在中央，说他们攻击为法国效力的瑞士雇佣兵并遭受重大损失，所以正确项是第四项。第一项把对象换成昂吉安伯爵的骑兵，第二项把皮埃蒙特人的后退归给他们，第三项则混淆了阵营，均不符合原文。",
+        "q4": "原文说重骑兵仍保留重要角色，同时装备火绳枪和长矛的步兵如今主导战斗，因此正确项是第二项。它没有说炮兵取代一切、瑞士人单独决定结局，也没有说这类会战成为常态；第一、第三、第四项均超出或曲解原文。",
+        "q5": "原文在背景中明确把破坏停战协定与查理五世将米兰公国遗赠给其子菲利普相连，所以正确项是第三项。围攻尼斯、阿瓦洛斯从阿斯蒂进军以及布蒂耶尔被取代都属于叙述中的其他事件，不是弗朗索瓦一世给出的这一理由。",
+        "q6": "带日期的句子说1544年1月昂吉安围攻卡里尼昂，同时阿瓦洛斯从阿斯蒂进军救援该城，因此正确项是第二项。帝国军队从伦巴第向都灵推进、弗朗索瓦一世派增援、冬季攻击边境据点都在文中出现，但不是这句所标注的1544年1月事件。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "关于法国在切里索莱获胜后的后续发展，文章具体说明了什么？",
+          "options": [
+            "法国人没有利用他们的胜利，尽管帝国军队遭受了损失。",
+            "帝国军队把他们的撤退转变为决定性胜利。",
+            "由于这场胜利，米兰被法国人攻占。",
+            "这场胜利立即结束了第九次意大利战争。"
+          ]
+        },
+        "q2": {
+          "prompt": "为什么两支军队的行动难以协调？",
+          "options": [
+            "因为帝国炮兵从最初几小时起就占据优势。",
+            "因为瑞士人拒绝在中央作战。",
+            "因为军队驻扎在两道平行的山脊上。",
+            "因为法国骑兵人数过多。"
+          ]
+        },
+        "q3": {
+          "prompt": "在中央的交战中，德意志长矛雇佣兵做了什么？",
+          "options": [
+            "他们攻击昂吉安伯爵的骑兵。",
+            "皮埃蒙特步兵一退却，他们就后退。",
+            "他们作为瑞士雇佣兵为法国效力。",
+            "他们攻击法国的瑞士雇佣兵并损失大量人员。"
+          ]
+        },
+        "q4": {
+          "prompt": "文章从切里索莱战役中得出什么军事教训？",
+          "options": [
+            "重骑兵已完全失去作用，让位于炮兵。",
+            "重骑兵仍然重要，但装备火绳枪和长矛的步兵如今占主导。",
+            "瑞士雇佣兵单独决定了战役结局。",
+            "列阵会战成为意大利战争的常态形式。"
+          ]
+        },
+        "q5": {
+          "prompt": "弗朗索瓦一世认为查理五世破坏了艾格莫尔特停战协定的原因是什么？",
+          "options": [
+            "因为帝国军队开始围攻尼斯。",
+            "因为阿瓦洛斯从阿斯蒂进军卡里尼昂。",
+            "因为查理五世将米兰公国遗赠给其子菲利普。",
+            "因为布蒂耶尔被昂吉安伯爵取代。"
+          ]
+        },
+        "q6": {
+          "prompt": "根据文章，1544年1月发生了什么？",
+          "options": [
+            "帝国军队从伦巴第向都灵推进。",
+            "昂吉安围攻卡里尼昂，而阿瓦洛斯离开阿斯蒂去救援该城。",
+            "弗朗索瓦一世向昂吉安伯爵派遣增援。",
+            "双方在冬季攻击彼此的边境据点。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Bataille de Cérisoles",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=240915832",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-25",
+    "revisionId": "240915832"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-25",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-25-bataille-de-cerisoles-102325e26319.jpg",
+    "alt": "Enghien at the end of the battle of Cérisoles fought between a French army and a Spanish Imperial army in 1544",
+    "author": "Victor Schnetz",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:C%C3%A9risoles.jpg?oldid=1157231016",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Réduite à 1280×848 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 848,
+    "byteLength": 231364,
+    "sha256": "102325e2631989618e2e9235748534f1794846c31f92e04a3fa58ed157870ba9",
+    "fileRevisionId": "1157231016",
+    "retrievedAt": "2026-11-25"
+  }
+}

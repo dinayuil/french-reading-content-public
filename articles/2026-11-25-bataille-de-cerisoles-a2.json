@@ -1,0 +1,271 @@
+{
+  "id": "2026-11-25-bataille-de-cerisoles-a2",
+  "title": "La bataille de Cérisoles",
+  "level": "A2",
+  "theme": "histoire",
+  "date": "2026-11-25",
+  "summary": "En avril 1544, les Français gagnent une grande bataille près de Cérisoles, en Italie. Pourtant, cette victoire ne change pas vraiment la situation dans la région.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "La bataille de Cérisoles a lieu le 14 avril 1544.",
+        "Elle se passe près de Ceresole Alba, en Italie.",
+        "Les Français combattent contre les troupes de Charles Quint."
+      ]
+    },
+    {
+      "sentences": [
+        "Le comte d'Enghien commande les Français.",
+        "Le marquis del Vasto commande les soldats de Charles Quint.",
+        "Les deux armées ont beaucoup de fantassins et de cavaliers."
+      ]
+    },
+    {
+      "sentences": [
+        "La bataille commence par des tirs et des petites attaques.",
+        "Elle dure longtemps.",
+        "Au centre, les Suisses et les lansquenets se battent très durement.",
+        "Les pertes sont très nombreuses."
+      ]
+    },
+    {
+      "sentences": [
+        "Les Français gagnent la bataille.",
+        "Mais ils ne profitent pas assez de leur victoire.",
+        "Milan reste sans défense, mais ils ne l'attaquent pas.",
+        "Ensuite, ils doivent envoyer des soldats en Picardie."
+      ]
+    },
+    {
+      "sentences": [
+        "Cette bataille montre encore l'importance de la cavalerie lourde.",
+        "Elle montre aussi la violence des combats entre fantassins.",
+        "Cérisoles reste une victoire française importante, mais sans grand résultat en Italie."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Cérisoles"
+    },
+    {
+      "term": "Ceresole Alba"
+    },
+    {
+      "term": "Charles Quint"
+    },
+    {
+      "term": "comte d'Enghien"
+    },
+    {
+      "term": "marquis del Vasto"
+    },
+    {
+      "term": "fantassins"
+    },
+    {
+      "term": "lansquenets"
+    },
+    {
+      "term": "cavalerie lourde"
+    },
+    {
+      "term": "Picardie"
+    },
+    {
+      "term": "Milan"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quand la bataille de Cérisoles a-t-elle lieu ?",
+      "options": [
+        "Le 14 avril 1544.",
+        "Le 14 avril 1545.",
+        "Le 14 mai 1544.",
+        "Le 24 avril 1544."
+      ],
+      "answerIndex": 0,
+      "evidence": "La bataille de Cérisoles a lieu le 14 avril 1544.",
+      "explanation": "La date est donnée directement au début du texte ; les autres options modifient le jour, le mois ou l’année."
+    },
+    {
+      "id": "q2",
+      "prompt": "Après la victoire, que font les Français à Milan ?",
+      "options": [
+        "Ils prennent Milan rapidement.",
+        "Ils envoient toute l’armée en Picardie.",
+        "Ils laissent Milan tranquille.",
+        "Ils retournent à Cérisoles pour combattre."
+      ],
+      "answerIndex": 2,
+      "evidence": "Milan reste sans défense, mais ils ne l'attaquent pas.",
+      "explanation": "Le texte dit que Milan reste sans défense et que les Français ne l’attaquent pas : ils ne profitent donc pas de la victoire pour prendre la ville. Les autres options ajoutent une prise de Milan ou déplacent l’envoi de soldats en Picardie."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quelle idée résume le mieux le résultat de la bataille de Cérisoles ?",
+      "options": [
+        "C’est une défaite française qui oblige les soldats à quitter l’Italie.",
+        "C’est une victoire française importante, mais elle ne donne pas beaucoup de résultats en Italie.",
+        "C’est une victoire de Charles Quint qui prend Milan.",
+        "C’est une bataille sans importance pour la cavalerie et les fantassins."
+      ],
+      "answerIndex": 1,
+      "evidence": "Cérisoles reste une victoire française importante, mais sans grand résultat en Italie.",
+      "explanation": "Le passage final oppose la victoire française à l’absence de grand résultat en Italie ; les options fausses changent le vainqueur ou exagèrent la conséquence."
+    },
+    {
+      "id": "q4",
+      "prompt": "Qu’est-ce que la bataille de Cérisoles montre encore, selon la dernière partie du texte ?",
+      "options": [
+        "Que les fantassins se battent peu.",
+        "Que la Picardie est plus importante que Milan.",
+        "Que les Suisses gagnent seuls la bataille.",
+        "Que la cavalerie lourde reste importante."
+      ],
+      "answerIndex": 3,
+      "evidence": "Cette bataille montre encore l'importance de la cavalerie lourde.",
+      "explanation": "La dernière partie indique que la bataille montre encore l’importance de la cavalerie lourde. Les autres options contredisent le texte ou ajoutent une idée absente."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "塞里索勒战役",
+      "summary": "1544年4月，法国人在意大利塞里索勒附近赢得一场大战。然而，这场胜利并没有真正改变该地区的局势。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "塞里索勒战役发生于1544年4月14日。",
+            "它发生在意大利的切雷索莱阿尔巴附近。",
+            "法国人与查理五世的军队作战。"
+          ]
+        },
+        {
+          "sentences": [
+            "昂吉安伯爵指挥法国人。",
+            "德尔瓦斯托侯爵指挥查理五世的士兵。",
+            "两支军队都有大量步兵和骑兵。"
+          ]
+        },
+        {
+          "sentences": [
+            "战役以射击和小规模攻击开始。",
+            "战役持续了很长时间。",
+            "在中部，瑞士人和德意志雇佣长枪兵打得非常激烈。",
+            "伤亡人数非常多。"
+          ]
+        },
+        {
+          "sentences": [
+            "法国人赢得了战役。",
+            "但他们没有充分利用自己的胜利。",
+            "米兰仍然没有防御，但他们没有进攻它。",
+            "随后，他们必须把士兵派往皮卡第。"
+          ]
+        },
+        {
+          "sentences": [
+            "这场战役再次显示了重骑兵的重要性。",
+            "它也显示了步兵之间战斗的激烈。",
+            "塞里索勒仍然是一场重要的法国胜利，但在意大利没有重大结果。"
+          ]
+        }
+      ],
+      "glossary": {
+        "Cérisoles": "意大利地名，本文指塞里索勒战役发生地附近地区。",
+        "Ceresole Alba": "意大利皮埃蒙特大区城镇，塞里索勒战役发生地附近。",
+        "Charles Quint": "神圣罗马帝国皇帝查理五世，16世纪欧洲重要君主，法国在此战中与其军队作战。",
+        "comte d'Enghien": "昂吉安伯爵，法国贵族将领，本文中指挥法军。",
+        "marquis del Vasto": "德尔瓦斯托侯爵，查理五世军队的指挥官。",
+        "fantassins": "步兵，徒步作战的士兵。",
+        "lansquenets": "16世纪德意志雇佣步兵，常使用长矛等武器。",
+        "cavalerie lourde": "重骑兵，装备较重的骑兵部队。",
+        "Picardie": "法国北部地区皮卡第，文中指法军后来需派兵前往之地。",
+        "Milan": "意大利城市米兰，文中指法军胜利后未进攻的无防御城市。"
+      },
+      "questions": {
+        "q1": "文本开头直接给出日期是1544年4月14日；其他选项分别把年份改成1545、月份改成5月或日期改成24日，均与原文不符。",
+        "q2": "证据句说米兰仍无防御，但法军不进攻它，因此他们让米兰城不受打扰；第一项说迅速攻占米兰与原文相反，第二项说把全军派往皮卡第不准确，原文只说随后必须派兵，第四项说返回塞里索勒再战没有依据。",
+        "q3": "最后一段把“法国的重要胜利”与“在意大利没有重大结果”并列，因此第二项最准确；第一项把胜利说成失败，第三项把胜利者说成查理五世并称其夺取米兰，第四项说战役对骑兵和步兵不重要，与原文强调其重要性相反。",
+        "q4": "最后部分明确说这场战役仍显示重骑兵的重要性，因此第四项正确；第一项说步兵作战很少与原文“步兵间战斗激烈”相反，第二项比较皮卡第和米兰的重要性，原文没有，第三项说瑞士人单独获胜，原文没有。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "塞里索勒战役发生在什么时候？",
+          "options": [
+            "1544年4月14日。",
+            "1545年4月14日。",
+            "1544年5月14日。",
+            "1544年4月24日。"
+          ]
+        },
+        "q2": {
+          "prompt": "胜利之后，法国人在米兰做了什么？",
+          "options": [
+            "他们迅速攻占了米兰。",
+            "他们把整支军队派往皮卡第。",
+            "他们让这座城市保持安宁。",
+            "他们返回塞里索勒继续作战。"
+          ]
+        },
+        "q3": {
+          "prompt": "哪一观点最能概括塞里索勒战役的结果？",
+          "options": [
+            "这是一场法国失败，迫使士兵离开意大利。",
+            "这是一场法国的重要胜利，但它在意大利没有带来很多结果。",
+            "这是查理五世的胜利，他夺取了米兰。",
+            "这是一场对骑兵和步兵都不重要的战役。"
+          ]
+        },
+        "q4": {
+          "prompt": "根据文本最后一部分，塞里索勒战役还显示了什么？",
+          "options": [
+            "步兵很少作战。",
+            "皮卡第比米兰更重要。",
+            "瑞士人独自赢得了战役。",
+            "重骑兵仍然重要。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Bataille de Cérisoles",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=240915832",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-25",
+    "revisionId": "240915832"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-25",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-25-bataille-de-cerisoles-a2-102325e26319.jpg",
+    "alt": "Enghien at the end of the battle of Cérisoles fought between a French army and a Spanish Imperial army in 1544",
+    "author": "Victor Schnetz",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:C%C3%A9risoles.jpg?oldid=1157231016",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Réduite à 1280×848 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 848,
+    "byteLength": 231364,
+    "sha256": "102325e2631989618e2e9235748534f1794846c31f92e04a3fa58ed157870ba9",
+    "fileRevisionId": "1157231016",
+    "retrievedAt": "2026-11-25"
+  }
+}
