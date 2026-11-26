@@ -1,0 +1,327 @@
+{
+  "id": "2026-11-26-haiti-une-entrepreneuse-connait-le-succes-grace-a-la-promoti",
+  "title": "REB Lokal : transformer les produits haïtiens malgré les obstacles",
+  "level": "B2",
+  "theme": "économie",
+  "date": "2026-11-26",
+  "summary": "En Haïti, malgré une forte dépendance aux importations et des obstacles sécuritaires, l’entrepreneuse Rébetha Charles transforme des produits agricoles locaux avec REB Lokal pour soutenir les petits producteurs.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Depuis plusieurs décennies, Haïti dépend largement des produits importés pour sa consommation locale, car les barrières douanières ont été fortement réduites, notamment avec les États-Unis et la République dominicaine.",
+        "Cette ouverture s’est inscrite dans des programmes d’ajustement structurel négociés entre 1994 et 1995 avec le FMI et la Banque mondiale.",
+        "Depuis, les importations ont envahi le marché, créant une concurrence déloyale pour les agriculteurs et affaiblissant considérablement la production nationale."
+      ]
+    },
+    {
+      "sentences": [
+        "À ces difficultés économiques s’ajoutent la violence des gangs, l’instabilité politique et le manque d’infrastructures.",
+        "Pourtant, certains Haïtiens lancent des projets ambitieux, à l’image de Rébetha Charles, une entrepreneuse de 38 ans originaire de Jérémie.",
+        "Formée en agronomie, elle travaille dans le département de Grand’Anse et a créé l’entreprise agroalimentaire REB Lokal."
+      ]
+    },
+    {
+      "sentences": [
+        "REB renvoie à son nom, tandis que Lokal exprime la fierté de fabriquer des produits locaux à partir de récoltes achetées à de petits agriculteurs.",
+        "Dans sa petite usine, elle transforme ces produits en aliments sains, durables et savoureux, tout en garantissant aux producteurs qu’ils risquent moins de perdre leurs récoltes.",
+        "Lors d’un entretien WhatsApp, Charles précise que le réseau compte presque 2 000 fournisseurs et plus de 20 employés."
+      ]
+    },
+    {
+      "sentences": [
+        "La vision de REB Lokal est de proposer des aliments sûrs et frais, conformes aux normes actuelles, tout en mettant en valeur les traditions culinaires haïtiennes.",
+        "L’entreprise évite les additifs chimiques et les ingrédients artificiels afin d’offrir des produits sains, abordables et respectueux de la communauté.",
+        "Avant de devenir entrepreneuse, Charles travaillait pour une organisation humanitaire internationale, mais elle a démissionné le 31 août 2020 en raison d’une culture de harcèlement sexuel, puis a lancé REB Lokal dès le lendemain."
+      ]
+    },
+    {
+      "sentences": [
+        "Au début, l’entreprise a produit de la papita à base de fruit à pain et de banane, mais il a fallu plus de cinq mois de travail quotidien pour trouver la bonne recette.",
+        "Ce n’est qu’au sixième mois que le produit a pu être vendu dans les supermarchés, alors que l’entreprise avait démarré avec 8,50 dollars.",
+        "Aujourd’hui, REB Lokal vend une gamme variée dans plusieurs départements du pays, ainsi qu’aux États-Unis et au Canada, malgré les gangs qui contrôlent les routes et ralentissent les livraisons.",
+        "Charles persévère et croit que Haïti peut avoir un avenir grâce à la vision et à la volonté."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "barrières douanières"
+    },
+    {
+      "term": "ajustement structurel"
+    },
+    {
+      "term": "concurrence déloyale"
+    },
+    {
+      "term": "agroalimentaire"
+    },
+    {
+      "term": "additifs chimiques"
+    },
+    {
+      "term": "ingrédients artificiels"
+    },
+    {
+      "term": "papita"
+    },
+    {
+      "term": "fruit à pain"
+    },
+    {
+      "term": "démissionné"
+    },
+    {
+      "term": "persévère"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Pourquoi les importations ont-elles pris une place importante sur le marché haïtien, selon le premier paragraphe ?",
+      "options": [
+        "Parce que les droits de douane ont été fortement abaissés, en particulier avec les États-Unis et la République dominicaine.",
+        "Parce que le FMI et la Banque mondiale ont exigé une hausse des barrières douanières entre 1994 et 1995.",
+        "Parce que les agriculteurs haïtiens ont choisi de vendre leurs récoltes uniquement à l’étranger.",
+        "Parce que les gangs ont pris le contrôle des routes et ont empêché les livraisons locales."
+      ],
+      "answerIndex": 0,
+      "evidence": "Depuis plusieurs décennies, Haïti dépend largement des produits importés pour sa consommation locale, car les barrières douanières ont été fortement réduites, notamment avec les États-Unis et la République dominicaine.",
+      "explanation": "Le texte relie l’ouverture du marché à la réduction des barrières douanières avec ces partenaires. La deuxième option contredit cette baisse, la troisième n’est pas évoquée et la quatrième concerne les transports à la fin de l’article."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quel effet la concurrence des importations a-t-elle eu sur la production nationale ?",
+      "options": [
+        "Elle a permis aux agriculteurs de mieux écouler leurs récoltes.",
+        "Elle a obligé l’État à augmenter les droits de douane.",
+        "Elle a affaibli la production nationale et pénalisé les agriculteurs.",
+        "Elle a poussé REB Lokal à s’installer aux États-Unis."
+      ],
+      "answerIndex": 2,
+      "evidence": "Depuis, les importations ont envahi le marché, créant une concurrence déloyale pour les agriculteurs et affaiblissant considérablement la production nationale.",
+      "explanation": "Le passage décrit une concurrence déloyale qui affaiblit la production et désavantage les agriculteurs. La première option inverse cet effet, la deuxième ajoute une réaction de l’État absente du texte et la quatrième déplace une information sur les ventes de REB Lokal."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quelle est la fonction principale du deuxième paragraphe ?",
+      "options": [
+        "Expliquer en détail les programmes d’ajustement structurel des années 1990.",
+        "Présenter Rébetha Charles comme un exemple de projet ambitieux malgré les difficultés.",
+        "Décrire les normes de fabrication des aliments vendus par REB Lokal.",
+        "Comparer les ventes de REB Lokal en Haïti et au Canada."
+      ],
+      "answerIndex": 1,
+      "evidence": "Pourtant, certains Haïtiens lancent des projets ambitieux, à l’image de Rébetha Charles, une entrepreneuse de 38 ans originaire de Jérémie.",
+      "explanation": "Ce paragraphe rappelle des obstacles puis introduit une entrepreneuse comme illustration concrète. La première option renvoie au premier paragraphe, tandis que les deux dernières portent sur des passages suivants."
+    },
+    {
+      "id": "q4",
+      "prompt": "Que signifie le mot « Lokal » dans le nom de l’entreprise ?",
+      "options": [
+        "Le nom de famille de la fondatrice, Rébetha Charles.",
+        "La volonté de vendre uniquement dans la région de Grand’Anse.",
+        "L’obligation d’utiliser des additifs chimiques pour conserver les aliments.",
+        "La fierté de fabriquer des produits locaux avec des récoltes de petits agriculteurs."
+      ],
+      "answerIndex": 3,
+      "evidence": "REB renvoie à son nom, tandis que Lokal exprime la fierté de fabriquer des produits locaux à partir de récoltes achetées à de petits agriculteurs.",
+      "explanation": "Le texte associe « Lokal » à la fabrication locale et à l’achat auprès de petits producteurs. La première option confond avec « REB », la deuxième réduit la portée géographique et la troisième contredit l’absence d’additifs chimiques."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que s’est-il passé le 31 août 2020 dans le parcours de Rébetha Charles ?",
+      "options": [
+        "Elle a démissionné de son poste dans une organisation humanitaire internationale.",
+        "Elle a lancé REB Lokal après avoir quitté son travail.",
+        "Elle a commencé à vendre la papita dans les supermarchés.",
+        "Elle a créé son entreprise avec un capital de 8,50 dollars."
+      ],
+      "answerIndex": 0,
+      "evidence": "Avant de devenir entrepreneuse, Charles travaillait pour une organisation humanitaire internationale, mais elle a démissionné le 31 août 2020 en raison d’une culture de harcèlement sexuel, puis a lancé REB Lokal dès le lendemain.",
+      "explanation": "La date correspond à la démission de son poste humanitaire. Le lancement a lieu le lendemain, donc la deuxième option est décalée, tandis que les deux dernières renvoient à d’autres étapes de l’entreprise."
+    },
+    {
+      "id": "q6",
+      "prompt": "Combien de temps a-t-il fallu pour trouver la bonne recette de la papita ?",
+      "options": [
+        "Exactement cinq mois de travail quotidien.",
+        "Moins de cinq mois, avant le lancement de l’entreprise.",
+        "Plus de cinq mois de travail quotidien.",
+        "Six mois après la vente en supermarché."
+      ],
+      "answerIndex": 2,
+      "evidence": "Au début, l’entreprise a produit de la papita à base de fruit à pain et de banane, mais il a fallu plus de cinq mois de travail quotidien pour trouver la bonne recette.",
+      "explanation": "Le texte parle de plus de cinq mois, et non d’une durée fixée à cinq mois. La deuxième option contredit cette durée et la quatrième confond avec le sixième mois, moment où le produit a pu être vendu en supermarché."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quelle information l’article donne-t-il sur les ventes actuelles de REB Lokal ?",
+      "options": [
+        "L’entreprise vend dans plusieurs départements et à l’étranger, mais les gangs ralentissent les livraisons.",
+        "L’entreprise a cessé toute vente à l’étranger à cause du contrôle des routes par les gangs.",
+        "L’entreprise ne vend qu’en Haïti, dans le département de Grand’Anse.",
+        "L’entreprise vend surtout aux États-Unis et au Canada, sans difficulté de transport."
+      ],
+      "answerIndex": 0,
+      "evidence": "Aujourd’hui, REB Lokal vend une gamme variée dans plusieurs départements du pays, ainsi qu’aux États-Unis et au Canada, malgré les gangs qui contrôlent les routes et ralentissent les livraisons.",
+      "explanation": "Le passage mentionne des ventes nationales et étrangères tout en signalant un ralentissement dû aux gangs. La deuxième et la troisième option contredisent cette double présence, et la quatrième nie la difficulté de transport."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "REB Lokal：尽管障碍重重，仍加工海地产品",
+      "summary": "在海地，尽管严重依赖进口且面临安全障碍，女企业家雷贝塔·夏尔（Rébetha Charles）仍通过 REB Lokal 加工当地农产品，以支持小生产者。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "几十年来，海地当地消费在很大程度上依赖进口产品，因为关税壁垒已大幅降低，尤其是与美国和多米尼加共和国之间的关税壁垒。",
+            "这一开放属于1994年至1995年间与国际货币基金组织和世界银行谈判达成的结构调整计划。",
+            "此后，进口商品涌入市场，给农民造成不公平竞争，并大大削弱了国内生产。"
+          ]
+        },
+        {
+          "sentences": [
+            "除了这些经济困难之外，还有帮派暴力、政治不稳定和基础设施缺乏。",
+            "然而，一些海地人仍启动雄心勃勃的项目，例如38岁、来自热雷米（Jérémie）的女企业家雷贝塔·夏尔。",
+            "她接受过农学培训，在大湾行政区（Grand’Anse）工作，并创办了农产品食品企业 REB Lokal。"
+          ]
+        },
+        {
+          "sentences": [
+            "REB 指她的名字，而 Lokal 表达的是用从小农那里购买的收成制造本地产品的自豪感。",
+            "在她的小工厂里，她把这些产品加工成健康、可持续且美味的食品，同时向生产者保证他们失去收成的风险更小。",
+            "在一次 WhatsApp 采访中，夏尔指出该网络有近2000名供应商和20多名员工。"
+          ]
+        },
+        {
+          "sentences": [
+            "REB Lokal 的愿景是提供符合现行标准的安全、新鲜食品，同时彰显海地烹饪传统。",
+            "该企业避免使用化学添加剂和人工配料，以提供健康、价格可负担且尊重社区的产品。",
+            "在成为企业家之前，夏尔曾为一家国际人道主义组织工作，但由于一种性骚扰文化，她于2020年8月31日辞职，并在第二天创办了 REB Lokal。"
+          ]
+        },
+        {
+          "sentences": [
+            "起初，该企业生产以面包果和香蕉为原料的 papita，但花了五个多月的日常工作才找到正确配方。",
+            "直到第六个月，产品才得以在超市销售，而企业起步时只有8.50美元。",
+            "如今，REB Lokal 在该国多个行政区（départements）以及美国和加拿大销售多种产品，尽管帮派控制道路并拖慢交货。",
+            "夏尔坚持不懈，并相信凭借愿景和意志，海地可以拥有未来。"
+          ]
+        }
+      ],
+      "glossary": {
+        "barrières douanières": "关税壁垒；指国家对进口商品征收的税费或设置的限制。",
+        "ajustement structurel": "结构调整；文中指与国际货币基金组织和世界银行谈判的经济改革计划。",
+        "concurrence déloyale": "不公平竞争；指进口产品使本地农民处于不利竞争地位。",
+        "agroalimentaire": "农产品食品加工业；指把农产品加工成食品的行业。",
+        "additifs chimiques": "化学添加剂；为改善食品保存或外观等而加入的化学物质。",
+        "ingrédients artificiels": "人工配料；非天然来源的食品成分。",
+        "papita": "文中指一种以面包果和香蕉为原料制成的加工食品。",
+        "fruit à pain": "面包果；一种热带果实，常可作食物。",
+        "démissionné": "辞职；主动离开工作岗位。",
+        "persévère": "坚持不懈；面对困难仍继续努力。"
+      },
+      "questions": {
+        "q1": "该段把海地大量进口与关税壁垒大幅降低直接联系起来，尤其提到美国和多米尼加共和国，所以第一项“关税被大幅降低……”符合原文。第二项说1994—1995年要求提高关税壁垒，与原文的降低相反；第三项称农民只把收成卖到国外，原文未提；第四项讲帮派控制道路，是文末关于交货受阻的信息，不能解释进口为何占据市场。",
+        "q2": "该句说进口涌入造成不公平竞争，导致国内生产被大大削弱，并使农民处于不利地位，所以第三项“削弱国内生产并损害农民利益”正确。第一项说农民更容易销售收成，与原文相反；第二项说国家被迫提高关税，原文没有提到，且与关税已降低的背景不符；第四项把 REB Lokal 迁往美国说成进口竞争的结果，原文只说该企业在美国销售，并未说迁址。",
+        "q3": "该段先列举帮派暴力、政治不稳定和基础设施缺乏等困难，随后以“然而”引出雷贝塔·夏尔，把她作为困难中仍开展雄心项目的具体例子，因此第二项正确。第一项详细解释结构调整计划，属于第一段内容；第三项谈食品生产标准，出现在后文；第四项比较海地与加拿大销售，也属于后文销售信息。",
+        "q4": "原文明确说 REB 指她的名字，而 Lokal 表达用从小农购买的收成制造本地产品的自豪感，因此第四项正确。第一项把 REB 的含义误当成 Lokal；第二项把 Lokal 缩成只在大湾地区销售，原文说的是本地制造；第三项要求使用化学添加剂，与后文避免化学添加剂相矛盾。",
+        "q5": "原文说夏尔在2020年8月31日辞去国际人道主义组织的工作，原因是性骚扰文化，因此第一项正确。第二项说离职后创办 REB Lokal，但原文说她在第二天创办，日期对应的是辞职而非创办；第三项超市销售和第四项8.50美元起步资本都是后文其他阶段的信息，不是8月31日发生的事。",
+        "q6": "原文说需要“五个多月的日常工作”才找到正确配方，因此第三项正确。第一项把“超过五个月”说成正好五个月；第二项说不到五个月，与原文相反；第四项把第六个月（产品得以在超市销售之时）误解为超市销售之后的六个月。",
+        "q7": "原文说 REB Lokal 在该国多个行政区以及美国和加拿大销售，同时提到帮派控制道路、拖慢交货，因此第一项正确。第二项说已停止所有国外销售，第三项说只在大湾行政区销售，都与原文的国内外销售相矛盾；第四项说在美国和加拿大销售没有运输困难，否认了原文提到的交货被拖慢。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "根据第一段，为什么进口在海地市场上占据了重要地位？",
+          "options": [
+            "因为关税被大幅降低，尤其是与美国和多米尼加共和国之间。",
+            "因为国际货币基金组织和世界银行在1994年至1995年间要求提高关税壁垒。",
+            "因为海地农民选择只把收成卖到国外。",
+            "因为帮派控制了道路并阻止了当地交货。"
+          ]
+        },
+        "q2": {
+          "prompt": "进口竞争对国内生产产生了什么影响？",
+          "options": [
+            "它使农民更容易销售收成。",
+            "它迫使国家提高关税。",
+            "它削弱了国内生产并损害了农民利益。",
+            "它促使 REB Lokal 迁往美国。"
+          ]
+        },
+        "q3": {
+          "prompt": "第二段的主要作用是什么？",
+          "options": [
+            "详细解释20世纪90年代的结构调整计划。",
+            "把雷贝塔·夏尔作为尽管困难重重仍开展雄心项目的例子。",
+            "描述 REB Lokal 所售食品的生产标准。",
+            "比较 REB Lokal 在海地和加拿大的销售。"
+          ]
+        },
+        "q4": {
+          "prompt": "企业名称中的“Lokal”一词是什么意思？",
+          "options": [
+            "创始人雷贝塔·夏尔的姓氏。",
+            "只在大湾地区（Grand’Anse）销售的意愿。",
+            "必须使用化学添加剂来保存食品。",
+            "用小农的收成制造本地产品的自豪感。"
+          ]
+        },
+        "q5": {
+          "prompt": "2020年8月31日，雷贝塔·夏尔的经历中发生了什么？",
+          "options": [
+            "她从一家国际人道主义组织的工作中辞职。",
+            "她离职后创办了 REB Lokal。",
+            "她开始向超市销售 papita。",
+            "她以8.50美元资本创办了自己的企业。"
+          ]
+        },
+        "q6": {
+          "prompt": "找到 papita 的正确配方花了多长时间？",
+          "options": [
+            "正好五个月的日常工作。",
+            "不到五个月，在公司创立之前。",
+            "五个多月的日常工作。",
+            "在超市销售之后的六个月。"
+          ]
+        },
+        "q7": {
+          "prompt": "关于 REB Lokal 目前的销售，文章提供了什么信息？",
+          "options": [
+            "该企业在多个行政区（départements）和国外销售，但帮派拖慢了交货。",
+            "由于帮派控制道路，该企业已停止所有国外销售。",
+            "该企业只在海地大湾行政区（Grand’Anse）销售。",
+            "该企业主要在美国和加拿大销售，运输没有困难。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Haïti : une entrepreneuse connait le succès grâce à la promotion des produits locaux",
+    "authors": [
+      "Jude Pierre Louis"
+    ],
+    "translators": [
+      "Guillaume Cottin"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/25/304396/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-26",
+    "publishedAt": "2026-11-25",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-26",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

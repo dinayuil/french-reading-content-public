@@ -1,0 +1,316 @@
+{
+  "id": "2026-11-26-camillo-cavour-b1",
+  "title": "Camillo Cavour et l’unité de l’Italie",
+  "level": "B1",
+  "theme": "histoire",
+  "date": "2026-11-26",
+  "summary": "Camillo Cavour, homme d’État piémontais, a joué un rôle central dans l’unité italienne et est devenu le premier président du Conseil du royaume d’Italie en 1861.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Camillo Benso, comte de Cavour, est né le 10 août 1810 à Turin.",
+        "Il est mort le 6 juin 1861 dans la même ville.",
+        "C’est un homme d’État italien important.",
+        "Il a joué un grand rôle dans l’unité de l’Italie.",
+        "Avec Garibaldi, Victor-Emmanuel II et Mazzini, il est considéré comme un « père de la patrie » italienne."
+      ]
+    },
+    {
+      "sentences": [
+        "Cavour est une figure principale du Risorgimento.",
+        "Il n’avait pas de plan complet pour l’unité italienne.",
+        "Mais il a réussi à rassembler beaucoup de patriotes autour du royaume de Sardaigne.",
+        "Il s’opposait aux idées républicaines de Mazzini.",
+        "Il était aussi souvent en conflit avec Garibaldi, dont il craignait les actions révolutionnaires."
+      ]
+    },
+    {
+      "sentences": [
+        "Il a été ministre du royaume de Sardaigne de 1850 à 1852.",
+        "Il a dirigé le gouvernement de 1852 à 1859, puis de 1860 à 1861.",
+        "En 1861, il est devenu le premier président du Conseil du nouveau royaume d’Italie.",
+        "Il est mort du paludisme deux mois et treize jours après avoir pris ses fonctions."
+      ]
+    },
+    {
+      "sentences": [
+        "En politique intérieure, Cavour défendait des idées libérales et réformatrices.",
+        "Il a soutenu le Statut albertin et a signé un accord avec la gauche monarchique de Rattazzi.",
+        "Il a supprimé beaucoup de congrégations religieuses, ce qui lui a attiré l’hostilité du pape Pie IX.",
+        "Il a aussi développé le libre-échange, les impôts et les investissements dans l’industrie et les chemins de fer."
+      ]
+    },
+    {
+      "sentences": [
+        "En politique étrangère, il a cherché l’amitié du Royaume-Uni et de la France de Napoléon III.",
+        "Grâce à l’aide française, le Piémont a obtenu des territoires dans le Nord de l’Italie contre l’Autriche.",
+        "En 1860, la Savoie et Nice ont été cédées à la France.",
+        "La même année, Garibaldi a conquis le royaume des Deux-Siciles.",
+        "Le 17 mars 1861, le royaume d’Italie a été proclamé.",
+        "Cavour voulait aussi faire de Rome la capitale."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Risorgimento"
+    },
+    {
+      "term": "patriotes"
+    },
+    {
+      "term": "républicaines"
+    },
+    {
+      "term": "révolutionnaires"
+    },
+    {
+      "term": "paludisme"
+    },
+    {
+      "term": "congrégations"
+    },
+    {
+      "term": "libre-échange"
+    },
+    {
+      "term": "Statut albertin"
+    },
+    {
+      "term": "monarchique"
+    },
+    {
+      "term": "proclamé"
+    },
+    {
+      "term": "hostilité"
+    },
+    {
+      "term": "investissements"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Que devient Camillo Cavour en 1861 ?",
+      "options": [
+        "Il a été ministre du royaume de Sardaigne de 1850 à 1852.",
+        "Il a dirigé le gouvernement de 1852 à 1859.",
+        "Il est devenu le premier président du Conseil du nouveau royaume d’Italie.",
+        "Il a cédé la Savoie et Nice à la France."
+      ],
+      "answerIndex": 2,
+      "evidence": "En 1861, il est devenu le premier président du Conseil du nouveau royaume d’Italie.",
+      "explanation": "La date de 1861 correspond à sa nomination à la tête du Conseil du nouveau royaume. Les autres choix renvoient à d’autres périodes ou à un autre événement."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi le pape Pie IX est-il devenu hostile à Cavour ?",
+      "options": [
+        "Parce qu’il a supprimé beaucoup de congrégations religieuses.",
+        "Parce qu’il a soutenu le Statut albertin.",
+        "Parce qu’il a signé un accord avec la gauche monarchique de Rattazzi.",
+        "Parce qu’il a cherché l’amitié du Royaume-Uni et de la France."
+      ],
+      "answerIndex": 0,
+      "evidence": "Il a supprimé beaucoup de congrégations religieuses, ce qui lui a attiré l’hostilité du pape Pie IX.",
+      "explanation": "Le texte relie directement la suppression des congrégations à l’hostilité du pape. Les autres actions sont mentionnées dans l’article, mais elles ne sont pas présentées comme la cause de cette hostilité."
+    },
+    {
+      "id": "q3",
+      "prompt": "Combien de temps après avoir pris ses fonctions Cavour est-il mort ?",
+      "options": [
+        "Deux ans et treize jours après.",
+        "Deux mois et treize jours après.",
+        "Deux mois et trente jours après.",
+        "Le jour même de sa prise de fonctions."
+      ],
+      "answerIndex": 1,
+      "evidence": "Il est mort du paludisme deux mois et treize jours après avoir pris ses fonctions.",
+      "explanation": "Le texte donne une durée précise de deux mois et treize jours. Les autres options modifient cette durée ou suppriment le délai."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quelle phrase résume le mieux le rôle de Cavour dans l’article ?",
+      "options": [
+        "Il a voulu imposer les idées républicaines de Mazzini.",
+        "Il a dirigé toutes les troupes de Garibaldi.",
+        "Il a consacré sa carrière à la défense du pape Pie IX.",
+        "Il a joué un rôle majeur dans l’unité de l’Italie."
+      ],
+      "answerIndex": 3,
+      "evidence": "Il a joué un grand rôle dans l’unité de l’Italie.",
+      "explanation": "L’article présente Cavour comme un acteur central de l’unification italienne. Les autres choix contredisent ses positions ou lui attribuent un rôle qui n’est pas le sien."
+    },
+    {
+      "id": "q5",
+      "prompt": "Qu’obtient le Piémont grâce à l’aide française ?",
+      "options": [
+        "Des territoires dans le Nord de l’Italie contre l’Autriche.",
+        "La cession de la Savoie et Nice au Royaume-Uni.",
+        "La conquête du royaume des Deux-Siciles par Garibaldi.",
+        "La proclamation du royaume d’Italie le 17 mars 1861."
+      ],
+      "answerIndex": 0,
+      "evidence": "Grâce à l’aide française, le Piémont a obtenu des territoires dans le Nord de l’Italie contre l’Autriche.",
+      "explanation": "Le texte associe l’aide française à l’obtention de territoires du Nord contre l’Autriche. Les autres événements sont mentionnés ailleurs, mais ne sont pas présentés comme le résultat de cette aide."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "卡米洛·卡富尔与意大利统一",
+      "summary": "卡米洛·卡富尔是皮埃蒙特政治家，在意大利统一中发挥了核心作用，并于1861年成为意大利王国的首任首相。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "卡米洛·本索，卡富尔伯爵，于1810年8月10日出生在都灵。",
+            "他于1861年6月6日在同一座城市去世。",
+            "他是一位重要的意大利政治家。",
+            "他在意大利统一中发挥了重要作用。",
+            "与加里波第、维托里奥·埃马努埃莱二世和马志尼一起，他被视为意大利的“祖国之父”。"
+          ]
+        },
+        {
+          "sentences": [
+            "卡富尔是复兴运动的主要人物。",
+            "他并没有一套完整的意大利统一计划。",
+            "但他成功地把许多爱国者团结在撒丁王国周围。",
+            "他反对马志尼的共和主义思想。",
+            "他也经常与加里波第发生冲突，因为他担心加里波第的革命行动。"
+          ]
+        },
+        {
+          "sentences": [
+            "他曾于1850年至1852年担任撒丁王国的大臣。",
+            "他于1852年至1859年，随后于1860年至1861年领导政府。",
+            "1861年，他成为新成立的意大利王国的首任首相。",
+            "他在就职两个月零十三天后死于疟疾。"
+          ]
+        },
+        {
+          "sentences": [
+            "在内政方面，卡富尔捍卫自由主义和改革思想。",
+            "他支持阿尔贝蒂诺宪章，并与拉塔齐的君主派左翼签署了一项协议。",
+            "他取缔了许多宗教修会，这使他招致教皇庇护九世的敌意。",
+            "他还发展了自由贸易、税收以及工业和铁路方面的投资。"
+          ]
+        },
+        {
+          "sentences": [
+            "在外交政策上，他寻求与英国和拿破仑三世治下的法国建立友好关系。",
+            "由于法国的援助，皮埃蒙特在对抗奥地利的过程中获得了意大利北部的领土。",
+            "1860年，萨伏依和尼斯被割让给法国。",
+            "同年，加里波第征服了两西西里王国。",
+            "1861年3月17日，意大利王国宣告成立。",
+            "卡富尔还想让罗马成为首都。"
+          ]
+        }
+      ],
+      "glossary": {
+        "Risorgimento": "意大利复兴运动，指19世纪意大利统一和民族复兴的政治文化运动。",
+        "patriotes": "爱国者，指关心并致力于祖国统一或独立的人。",
+        "républicaines": "共和主义的，指主张以共和国取代君主制的政治理念。",
+        "révolutionnaires": "革命的，指以激烈、非常规手段推翻现有秩序的行动或主张。",
+        "paludisme": "疟疾，一种由蚊虫传播的传染病。",
+        "congrégations": "修会或宗教团体，这里指天主教的修道团体和组织。",
+        "libre-échange": "自由贸易，指减少关税和贸易壁垒、促进商品自由流通的经济政策。",
+        "Statut albertin": "阿尔贝蒂诺宪章，撒丁王国于1848年颁布的宪法。",
+        "monarchique": "君主派的，指支持君主制或与君主制相关的。",
+        "proclamé": "被宣告、被宣布，这里指正式宣布王国的成立。",
+        "hostilité": "敌意、反对态度。",
+        "investissements": "投资，指投入资金以发展产业、基础设施等。"
+      },
+      "questions": {
+        "q1": "文中直接说“1861年，他成为新成立的意大利王国的首任首相”，因此1861年对应的是被任命为新王国政府首脑。第一项和第二项分别对应1850—1852年和1852—1859年的经历；第四项是1860年萨伏依和尼斯被割让给法国，并非1861年卡富尔成为的职务。",
+        "q2": "文中把“取缔许多宗教修会”与“招致教皇庇护九世的敌意”直接联系起来，因此原因是第一项。支持阿尔贝蒂诺宪章、与拉塔齐的君主派左翼签约、寻求英法友好虽然都出现在文中，但并未被说成是教皇敌意的原因。",
+        "q3": "文中明确说“他在就职两个月零十三天后死于疟疾”，所以正确时长是第二项“两个月零十三天后”。第一项把“月”改成“年”，第三项把“十三天”改成“三十天”，第四项则说当天去世，都与原文不符。",
+        "q4": "文章开头和整体都把卡富尔呈现为意大利统一的核心人物，并直接说“他在意大利统一中发挥了重要作用”，所以第四项最准确。第一项与卡富尔反对马志尼共和思想相反；第二项把加里波第的军队说成由卡富尔指挥，文中没有依据；第三项与卡富尔取缔修会、招致教皇敌意相矛盾，也不是文章对他的概括。",
+        "q5": "文中说“借助法国的援助，皮埃蒙特在对抗奥地利的过程中获得了意大利北部的领土”，因此直接结果是第一项。第二项把受让方说成英国且与萨伏依、尼斯割让给法国的事实不符；第三项是加里波第的征服，不是法国援助给皮埃蒙特带来的结果；第四项是1861年宣告意大利王国成立，文中并未把它说成法国援助的直接结果。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "1861年，卡米洛·卡富尔成为什么？",
+          "options": [
+            "他于1850年至1852年担任撒丁王国的大臣。",
+            "他于1852年至1859年领导政府。",
+            "他成为新成立的意大利王国的首任首相。",
+            "他把萨伏依和尼斯割让给法国。"
+          ]
+        },
+        "q2": {
+          "prompt": "为什么教皇庇护九世对卡富尔产生敌意？",
+          "options": [
+            "因为他取缔了许多宗教修会。",
+            "因为他支持阿尔贝蒂诺宪章。",
+            "因为他与拉塔齐的君主派左翼签署了一项协议。",
+            "因为他寻求与英国和法国建立友好关系。"
+          ]
+        },
+        "q3": {
+          "prompt": "卡富尔就职后多久去世？",
+          "options": [
+            "两年零十三天后。",
+            "两个月零十三天后。",
+            "两个月零三十天后。",
+            "就在他就职当天。"
+          ]
+        },
+        "q4": {
+          "prompt": "哪句话最能概括卡富尔在文章中的作用？",
+          "options": [
+            "他想强加马志尼的共和主义思想。",
+            "他指挥了加里波第的所有军队。",
+            "他把整个职业生涯都用于捍卫教皇庇护九世。",
+            "他在意大利统一中发挥了重大作用。"
+          ]
+        },
+        "q5": {
+          "prompt": "借助法国援助，皮埃蒙特获得了什么？",
+          "options": [
+            "在对抗奥地利的过程中获得意大利北部的领土。",
+            "将萨伏依和尼斯割让给英国。",
+            "由加里波第征服两西西里王国。",
+            "于1861年3月17日宣告意大利王国成立。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Camillo Cavour",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=241473530",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-26",
+    "revisionId": "241473530"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-26",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-26-camillo-cavour-b1-35ea199c2690.jpg",
+    "alt": "Camillo Benso count of Cavour by Antonio Ciseri",
+    "author": "Antonio Ciseri",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Camillo_Benso_Cavour_di_Ciseri.jpg?oldid=1030293662",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Fichier original téléchargé depuis Wikimedia Commons ; aucune modification.",
+    "width": 1165,
+    "height": 1600,
+    "byteLength": 351694,
+    "sha256": "35ea199c2690bac0e0883f17c5993f39db898b172ab1f8d18b90c26b3252f5bc",
+    "fileRevisionId": "1030293662",
+    "retrievedAt": "2026-11-26"
+  }
+}

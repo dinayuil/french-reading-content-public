@@ -1,0 +1,300 @@
+{
+  "id": "2026-11-26-crocodile",
+  "title": "Les crocodiles : mode de vie, reproduction et rapports avec l’homme",
+  "level": "B2",
+  "theme": "science",
+  "date": "2026-11-26",
+  "summary": "Ce texte présente les crocodiles, leur mode de vie et de chasse, leur reproduction, leurs prédateurs et leur place dans l’imaginaire et les équilibres écologiques.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Les crocodiles, ou crocodilidés, sont des reptiles de l’ordre des crocodiliens, comme les alligators, les caïmans et les gavials.",
+        "Une vingtaine d’espèces vivent dans les rivières et fleuves tropicaux d’Afrique, d’Amérique, d’Asie et d’Australie, et certaines fréquentent les eaux salées des estuaires et des mers.",
+        "Les plus grands atteignent 6 mètres ; ils se déplacent difficilement sur terre, mais sont très agiles dans l’eau et vivent généralement seuls."
+      ]
+    },
+    {
+      "sentences": [
+        "Redoutables prédateurs, ils capturent de grandes proies avec de larges mâchoires, tandis que le gavial du Gange, au museau étroit, se nourrit surtout de poissons.",
+        "Ils mangent aussi des cadavres, peuvent jeûner longtemps et attendre les migrations ; ils avalent les petites proies, mais font tourner leur corps pour arracher des morceaux des grandes carcasses.",
+        "Comme ils n’ont ni incisives ni molaires, ils ne mâchent pas : leur estomac digère les os et la peau.",
+        "Dans l’eau, ils se camouflent avec les herbes ; leurs yeux en haut de la tête et leur vision nocturne les laissent voir sans être vus, et ils détectent les vibrations."
+      ]
+    },
+    {
+      "sentences": [
+        "Les crocodiles sont ovipares : la femelle fécondée pond entre 40 et 60 œufs de la taille d’un œuf de poule dans un nid.",
+        "Elle ne couve pas mais surveille le nid jour et nuit, souvent sans manger, pendant 80 jours.",
+        "La température du nid détermine le sexe : à 31,5 °C le petit est mâle, sinon il est femelle.",
+        "La mère protège les petits pendant plusieurs mois, mais ils se nourrissent seuls ; 99 % meurent jeunes, mangés par des hérons, varans, mangoustes, serpents, poissons ou crocodiles adultes, et les survivants deviennent adultes à 12 ans."
+      ]
+    },
+    {
+      "sentences": [
+        "Le seul prédateur du crocodile est l’Homme, qui le chasse pour son cuir, mais en Floride on compte un million d’alligators, soit un pour quatorze habitants.",
+        "Il n’y a pas de crocodiles en Floride, seulement des alligators, parfois dans les jardins et piscines ; des panneaux demandent de ne pas les nourrir, car un animal nourri par l’Homme devient dangereux.",
+        "En Inde, les hommes ont presque exterminé les crocodiles pour protéger les poissons, mais cela a favorisé les loutres, plus voraces, et réduit les poissons ; on cherche désormais à les sauver."
+      ]
+    },
+    {
+      "sentences": [
+        "Dans l’Égypte antique, Sobek, dieu à tête de crocodile, était lié à la fertilité et au Nil ; la ville de Crocodilopolis lui était consacrée et un crocodile décoré d’or y était momifié à sa mort.",
+        "L’expression « larmes de crocodiles », qui désigne des larmes hypocrites, remonte à un mythe médiéval repris vers 1355 par Jehan Mandeville : le crocodile aurait pleuré après avoir dévoré sa proie."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "crocodilidés"
+    },
+    {
+      "term": "estuaires"
+    },
+    {
+      "term": "agiles"
+    },
+    {
+      "term": "carcasses"
+    },
+    {
+      "term": "incisives"
+    },
+    {
+      "term": "ovipares"
+    },
+    {
+      "term": "fécondée"
+    },
+    {
+      "term": "varans"
+    },
+    {
+      "term": "mangoustes"
+    },
+    {
+      "term": "hypocrites"
+    },
+    {
+      "term": "momifié"
+    },
+    {
+      "term": "fertilité"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Que dit le texte sur l’habitat des crocodiles ?",
+      "options": [
+        "Toutes les espèces vivent exclusivement dans les eaux salées des estuaires et des mers.",
+        "Les crocodiles habitent uniquement les fleuves tropicaux d’Afrique et d’Amérique.",
+        "Une vingtaine d’espèces fréquentent des rivières et fleuves tropicaux de plusieurs continents, certaines aussi des eaux salées.",
+        "Les crocodiles se rencontrent surtout dans les jardins et piscines de Floride."
+      ],
+      "answerIndex": 2,
+      "evidence": "Une vingtaine d’espèces vivent dans les rivières et fleuves tropicaux d’Afrique, d’Amérique, d’Asie et d’Australie, et certaines fréquentent les eaux salées des estuaires et des mers.",
+      "explanation": "Le passage indique à la fois les rivières et fleuves tropicaux de quatre continents et la fréquentation possible des estuaires et des mers par certaines espèces. Les options 0 et 1 réduisent à tort l’habitat, et l’option 3 prend un cas local pour l’ensemble."
+    },
+    {
+      "id": "q3",
+      "prompt": "D’après le texte, qu’est-ce qui détermine le sexe du petit crocodile ?",
+      "options": [
+        "Le nombre d’œufs pondus dans le nid.",
+        "L’âge de la femelle au moment de la ponte.",
+        "La taille de l’œuf, comparable à celle d’un œuf de poule.",
+        "La température du nid."
+      ],
+      "answerIndex": 3,
+      "evidence": "La température du nid détermine le sexe : à 31,5 °C le petit est mâle, sinon il est femelle.",
+      "explanation": "Le texte attribue clairement le sexe à la température du nid, avec un seuil précis. Les autres éléments sont mentionnés à propos de la ponte ou de la taille des œufs, mais pas comme cause du sexe."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel rôle joue le passage sur la Floride dans le paragraphe consacré aux rapports entre l’Homme et les crocodiles ?",
+      "options": [
+        "Il montre que les alligators sont absents des zones habitées par l’Homme.",
+        "Il illustre une cohabitation possible avec de nombreux alligators, qui impose de ne pas les nourrir.",
+        "Il prouve que les crocodiles sont plus nombreux que les habitants dans toutes les régions.",
+        "Il explique pourquoi l’Homme chasse les alligators pour leur cuir en Floride."
+      ],
+      "answerIndex": 1,
+      "evidence": "Il n’y a pas de crocodiles en Floride, seulement des alligators, parfois dans les jardins et piscines ; des panneaux demandent de ne pas les nourrir, car un animal nourri par l’Homme devient dangereux.",
+      "explanation": "Le passage décrit une présence fréquente d’alligators près des habitations et justifie les panneaux par le risque de nourrir ces animaux. Il ne dit ni qu’ils sont absents des zones habitées, ni qu’ils dépassent partout la population, ni que la chasse pour le cuir concerne la Floride."
+    },
+    {
+      "id": "q5",
+      "prompt": "Pourquoi cherche-t-on désormais à sauver les crocodiles en Inde ?",
+      "options": [
+        "Parce que leur cuir est devenu plus recherché qu’auparavant.",
+        "Parce que leur quasi-extermination a favorisé des loutres plus voraces et fait diminuer les poissons.",
+        "Parce qu’ils sont devenus le principal danger pour les loutres.",
+        "Parce qu’ils permettent de protéger les poissons contre les oiseaux."
+      ],
+      "answerIndex": 1,
+      "evidence": "En Inde, les hommes ont presque exterminé les crocodiles pour protéger les poissons, mais cela a favorisé les loutres, plus voraces, et réduit les poissons ; on cherche désormais à les sauver.",
+      "explanation": "Le texte indique que l’élimination des crocodiles pour protéger les poissons a eu l’effet inverse en favorisant les loutres. La décision de les sauver découle de cette conséquence inattendue, non d’une demande de cuir ou d’un rôle protecteur envers les loutres."
+    },
+    {
+      "id": "q6",
+      "prompt": "Que désigne l’expression « larmes de crocodiles » selon le texte ?",
+      "options": [
+        "Des larmes sincères versées après avoir mangé.",
+        "Un rituel funéraire de l’Égypte antique.",
+        "Des larmes hypocrites.",
+        "Les pleurs d’un crocodile momifié à Crocodilopolis."
+      ],
+      "answerIndex": 2,
+      "evidence": "L’expression « larmes de crocodiles », qui désigne des larmes hypocrites, remonte à un mythe médiéval repris vers 1355 par Jehan Mandeville : le crocodile aurait pleuré après avoir dévoré sa proie.",
+      "explanation": "Le texte définit l’expression comme des larmes hypocrites et la rattache à un mythe médiéval. Les autres options mélangent des éléments du passage sur l’Égypte ou inversent le sens de l’expression."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "鳄鱼：生活方式、繁殖及其与人类的关系",
+      "summary": "本文介绍鳄鱼，其生活方式与捕猎、繁殖、天敌，以及它们在想象和生态平衡中的地位。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "鳄鱼，即鳄科动物，是鳄目爬行动物，如同短吻鳄、凯门鳄和恒河鳄。",
+            "大约二十种生活在非洲、美洲、亚洲和澳大利亚的热带河流与大河中，其中一些也常出现在河口和海洋的咸水里。",
+            "最大的可达6米；它们在陆地上行动困难，但在水中非常敏捷，通常独自生活。"
+          ]
+        },
+        {
+          "sentences": [
+            "它们是可怕的捕食者，用宽大的颌部捕捉大型猎物，而吻部狭窄的恒河鳄主要吃鱼。",
+            "它们也吃尸体，能长时间禁食并等待迁徙；它们吞下小猎物，但会转动身体从大型尸体上撕下碎块。",
+            "由于既没有门齿也没有臼齿，它们不咀嚼：它们的胃能消化骨头和皮。",
+            "在水中，它们借助水草伪装；头顶的眼睛和夜视能力使它们能看见而不被看见，它们还能察觉振动。"
+          ]
+        },
+        {
+          "sentences": [
+            "鳄鱼是卵生动物：受精的雌鳄在巢中产下40到60枚鸡蛋大小的卵。",
+            "它不孵卵，而是昼夜看守巢穴，常常不吃东西，持续80天。",
+            "巢的温度决定性别：在31.5 °C时幼鳄为雄性，否则为雌性。",
+            "母亲保护幼鳄数月，但幼鳄自己觅食；99%在幼年死亡，被鹭、巨蜥、獴、蛇、鱼或成年鳄鱼吃掉，幸存者到12岁成为成体。"
+          ]
+        },
+        {
+          "sentences": [
+            "鳄鱼唯一的天敌是人类，人类为取其皮而捕猎鳄鱼，但在佛罗里达有100万只短吻鳄，相当于每14名居民一只。",
+            "佛罗里达没有鳄鱼，只有短吻鳄，它们有时出现在花园和游泳池里；告示牌要求人们不要喂它们，因为被人喂过的动物会变得危险。",
+            "在印度，人们为了保护鱼类几乎灭绝了鳄鱼，但这反而有利于更贪食的水獭，并减少了鱼类；如今人们正设法拯救鳄鱼。"
+          ]
+        },
+        {
+          "sentences": [
+            "在古埃及，鳄鱼头神索贝克与丰产和尼罗河有关；克罗科迪洛波利斯城专门供奉他，一条饰有黄金的鳄鱼在死后被制成木乃伊。",
+            "“鳄鱼的眼泪”这一说法指虚伪的眼泪，源自一个中世纪神话，约1355年由让·曼德维尔转述：据说鳄鱼在吞食猎物后会哭泣。"
+          ]
+        }
+      ],
+      "glossary": {
+        "crocodilidés": "鳄科动物，鳄鱼分类中的一个科。",
+        "estuaires": "河口湾，河流与海洋交汇的咸淡水区域。",
+        "agiles": "动作灵活、敏捷的。",
+        "carcasses": "大型动物尸体或残骸。",
+        "incisives": "门齿，位于口腔前部的牙齿。",
+        "ovipares": "卵生的，即通过产卵繁殖。",
+        "fécondée": "已受精的，指卵子已与精子结合。",
+        "varans": "巨蜥，一种大型蜥蜴。",
+        "mangoustes": "獴，一种小型食肉哺乳动物。",
+        "hypocrites": "虚伪的，假装真诚的。",
+        "momifié": "制成木乃伊的，经防腐处理保存的尸体。",
+        "fertilité": "生育能力或丰产、肥沃。"
+      },
+      "questions": {
+        "q1": "文中说大约二十种鳄鱼生活在非洲、美洲、亚洲和澳大利亚的热带河流与大河中，并且有些也常出现在河口和海洋的咸水里，因此第三项选项“大约二十种鳄鱼生活在多个大陆的热带河流与大河中，其中一些也出现在咸水中”最完整。第一项选项说所有物种都只生活在咸水，第二项选项说只生活在非洲和美洲的热带河流，都缩小了范围；第四项选项把佛罗里达的局部情况当成全部栖息地。",
+        "q3": "文中说巢的温度决定性别，31.5 °C时幼鳄为雄性，否则为雌性，因此第四项选项“巢的温度”是答案。产卵数量、雌鳄年龄和卵的大小虽在附近提到，却没有被说成决定性别的原因。",
+        "q4": "佛罗里达段落说那里没有鳄鱼、只有短吻鳄，它们有时出现在花园和游泳池，告示牌要求不要喂，因为被人喂过的动物会危险；这说明在大量短吻鳄附近可以共处，但必须避免投喂，所以第二项选项“它说明可以与大量短吻鳄共处，但必须不喂它们”正确。第一项选项说短吻鳄不出现在人类居住区，与“花园和游泳池”矛盾；第三项选项把佛罗里达的百万只短吻鳄说成所有地区都超过居民，过度推广；第四项选项说佛罗里达为取皮而捕猎短吻鳄，文中没有这样说。",
+        "q5": "文中说印度人为了保护鱼类几乎灭绝鳄鱼，但这反而有利于更贪食的水獭并减少了鱼类，因此现在设法拯救鳄鱼；所以第二项选项“因为几乎灭绝鳄鱼反而有利于更贪食的水獭，并使鱼类减少”正确。第一项选项说鳄鱼皮更受追捧，文中未提；第三项选项说鳄鱼成为水獭的主要危险，与“有利于水獭”相反；第四项选项说鳄鱼保护鱼免受鸟类捕食，文中没有这一作用。",
+        "q6": "文中直接定义“鳄鱼的眼泪”指虚伪的眼泪，并说它源自中世纪神话；所以第三项选项“虚伪的眼泪”正确。第一项选项说真诚的眼泪，正好相反；第二项选项把它说成古埃及葬礼仪式，文中只提到古埃及的索贝克和木乃伊鳄鱼，并未这样定义；第四项选项把克罗科迪洛波利斯被制成木乃伊的鳄鱼与这一说法混在一起，也不是文中定义。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "关于鳄鱼的栖息地，文中说了什么？",
+          "options": [
+            "所有物种都只生活在河口和海洋的咸水中。",
+            "鳄鱼只生活在非洲和美洲的热带河流中。",
+            "大约二十种鳄鱼生活在多个大陆的热带河流与大河中，其中一些也出现在咸水中。",
+            "鳄鱼主要出现在佛罗里达的花园和游泳池里。"
+          ]
+        },
+        "q3": {
+          "prompt": "根据文本，什么决定幼鳄的性别？",
+          "options": [
+            "巢中产下的卵的数量。",
+            "雌鳄产卵时的年龄。",
+            "卵的大小，和鸡蛋差不多。",
+            "巢的温度。"
+          ]
+        },
+        "q4": {
+          "prompt": "在关于人类与鳄鱼关系的段落中，佛罗里达部分起什么作用？",
+          "options": [
+            "它表明短吻鳄不出现在人类居住区。",
+            "它说明可以与大量短吻鳄共处，但必须不喂它们。",
+            "它证明在所有地区鳄鱼都比居民多。",
+            "它解释为什么佛罗里达的人类为取皮而捕猎短吻鳄。"
+          ]
+        },
+        "q5": {
+          "prompt": "为什么印度现在设法拯救鳄鱼？",
+          "options": [
+            "因为鳄鱼皮比以前更受追捧。",
+            "因为几乎灭绝鳄鱼反而有利于更贪食的水獭，并使鱼类减少。",
+            "因为鳄鱼已成为水獭的主要危险。",
+            "因为鳄鱼能保护鱼类免受鸟类捕食。"
+          ]
+        },
+        "q6": {
+          "prompt": "根据文本，“鳄鱼的眼泪”这一说法指什么？",
+          "options": [
+            "吃掉猎物后流下的真诚眼泪。",
+            "古埃及的一种葬礼仪式。",
+            "虚伪的眼泪。",
+            "在克罗科迪洛波利斯被制成木乃伊的鳄鱼的哭泣。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Crocodile",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2346827&title=Crocodile",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-26",
+    "revisionId": "2346827"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-26",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-26-crocodile-3179f44de9f3.jpg",
+    "alt": "Crocodile du Nil à Yamoussoukro, Côte d'Ivoire.",
+    "author": "Clément Bucco-Lechat",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crocodile_du_Nil.jpg?oldid=1141529265",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Réduite à 1280×960 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 960,
+    "byteLength": 174219,
+    "sha256": "3179f44de9f32875931fc52e3501ccffdd5e7d54236d9274241c6900436e8334",
+    "fileRevisionId": "1141529265",
+    "retrievedAt": "2026-11-26"
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "id": "2026-11-26-haiti-une-entrepreneuse-connait-le-succes-grace-a-la-promoti-b1",
+  "title": "REB Lokal transforme les produits agricoles haïtiens",
+  "level": "B1",
+  "theme": "économie",
+  "date": "2026-11-26",
+  "summary": "En Haïti, malgré les importations et l’insécurité, Rébetha Charles a créé REB Lokal. Son entreprise transforme des produits locaux et aide les petits agriculteurs à vendre leurs récoltes.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Depuis des années, Haïti achète beaucoup de produits étrangers, surtout aux États-Unis et en République dominicaine.",
+        "Ces importations ont augmenté après des accords avec le FMI et la Banque mondiale entre 1994 et 1995.",
+        "Elles créent une forte concurrence pour les agriculteurs locaux.",
+        "La production nationale est donc plus faible."
+      ]
+    },
+    {
+      "sentences": [
+        "Malgré les gangs, l’instabilité politique et le manque d’infrastructures, certains Haïtiens lancent des projets.",
+        "Rébetha Charles, 38 ans, vient de Jérémie.",
+        "Elle a étudié l’agronomie et travaille dans le département de Grand’Anse.",
+        "Elle a créé l’entreprise agroalimentaire REB Lokal."
+      ]
+    },
+    {
+      "sentences": [
+        "REB Lokal achète des récoltes à des petits agriculteurs.",
+        "Dans sa petite usine, l’entreprise transforme ces produits locaux en aliments sains et durables.",
+        "Elle travaille avec presque 2000 fournisseurs et plus de 20 employés.",
+        "Elle veut éviter les additifs chimiques et les ingrédients artificiels."
+      ]
+    },
+    {
+      "sentences": [
+        "Avant, Rébetha Charles ne pensait pas devenir entrepreneuse.",
+        "Elle a quitté une organisation humanitaire à cause du harcèlement sexuel.",
+        "Elle a démissionné le 31 août 2020 et a lancé REB Lokal le lendemain.",
+        "Au début, elle a eu des difficultés avec la recette de la « papita »."
+      ]
+    },
+    {
+      "sentences": [
+        "Après cinq mois d’essais, la « papita » a réussi et a été vendue dans des supermarchés.",
+        "L’entreprise avait commencé avec 8,50 dollars.",
+        "Aujourd’hui, elle vend ses produits dans plusieurs départements, aux États-Unis et au Canada.",
+        "Malgré l’insécurité, Rébetha Charles croit en l’avenir d’Haïti."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "importations"
+    },
+    {
+      "term": "concurrence"
+    },
+    {
+      "term": "infrastructures"
+    },
+    {
+      "term": "agronomie"
+    },
+    {
+      "term": "agroalimentaire"
+    },
+    {
+      "term": "récoltes"
+    },
+    {
+      "term": "fournisseurs"
+    },
+    {
+      "term": "additifs"
+    },
+    {
+      "term": "harcèlement"
+    },
+    {
+      "term": "démissionné"
+    },
+    {
+      "term": "insécurité"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon l’article, pourquoi la production nationale est-elle plus faible ?",
+      "options": [
+        "Parce que les importations font une forte concurrence aux agriculteurs locaux.",
+        "Parce que les agriculteurs locaux refusent les accords avec le FMI et la Banque mondiale.",
+        "Parce que les produits étrangers sont moins chers et plus nombreux sur le marché.",
+        "Parce que les gangs et l’instabilité politique empêchent les récoltes."
+      ],
+      "answerIndex": 0,
+      "evidence": "Elles créent une forte concurrence pour les agriculteurs locaux.",
+      "explanation": "Le texte relie directement les importations à une concurrence forte pour les agriculteurs locaux, puis à la baisse de la production nationale. Les autres options ajoutent des causes qui ne sont pas présentées ainsi dans l’article."
+    },
+    {
+      "id": "q2",
+      "prompt": "Que fait REB Lokal avec les récoltes achetées ?",
+      "options": [
+        "Elle revend les récoltes aux petits agriculteurs sans les transformer.",
+        "Elle utilise les récoltes pour fabriquer des additifs chimiques.",
+        "Elle transforme les récoltes en aliments sains et durables dans sa petite usine.",
+        "Elle exporte les récoltes brutes vers les États-Unis et le Canada."
+      ],
+      "answerIndex": 2,
+      "evidence": "Dans sa petite usine, l’entreprise transforme ces produits locaux en aliments sains et durables.",
+      "explanation": "Le passage décrit la transformation des produits locaux dans la petite usine de l’entreprise. Il ne dit pas que REB Lokal revend les récoltes brutes ou fabrique des additifs."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quand Rébetha Charles a-t-elle lancé REB Lokal ?",
+      "options": [
+        "Le 31 août 2020, avant de quitter son organisation.",
+        "Le lendemain de sa démission de l’organisation humanitaire.",
+        "Cinq mois après avoir réussi la recette de la « papita ».",
+        "Après avoir travaillé plusieurs années dans les supermarchés."
+      ],
+      "answerIndex": 1,
+      "evidence": "Elle a démissionné le 31 août 2020 et a lancé REB Lokal le lendemain.",
+      "explanation": "Le texte indique une démission le 31 août 2020 et la création de REB Lokal le lendemain. Les autres dates ou circonstances ne correspondent pas à cet enchaînement."
+    },
+    {
+      "id": "q4",
+      "prompt": "Pourquoi Rébetha Charles a-t-elle quitté son organisation humanitaire ?",
+      "options": [
+        "Parce qu’elle voulait étudier l’agronomie à Jérémie.",
+        "Parce que REB Lokal avait déjà réussi à vendre aux États-Unis.",
+        "Parce qu’elle refusait de travailler avec des petits agriculteurs.",
+        "À cause du harcèlement sexuel dans cette organisation."
+      ],
+      "answerIndex": 3,
+      "evidence": "Elle a quitté une organisation humanitaire à cause du harcèlement sexuel.",
+      "explanation": "L’article donne le harcèlement sexuel comme raison du départ de l’organisation humanitaire. Les autres motifs ne sont pas mentionnés."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle idée résume le mieux l’article ?",
+      "options": [
+        "Une Haïtienne crée une entreprise qui transforme des produits agricoles locaux malgré des difficultés.",
+        "Les importations étrangères ont fortement diminué grâce à une nouvelle usine.",
+        "Une organisation humanitaire aide presque 2000 agriculteurs à vendre aux États-Unis.",
+        "La « papita » est le seul produit que REB Lokal vend en Haïti et au Canada."
+      ],
+      "answerIndex": 0,
+      "evidence": "Malgré les gangs, l’instabilité politique et le manque d’infrastructures, certains Haïtiens lancent des projets.",
+      "explanation": "L’article présente le parcours de Rébetha Charles et son entreprise de transformation de produits locaux, malgré un contexte difficile. Les autres options réduisent l’article à un détail faux ou exagéré."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "REB Lokal 加工海地农产品",
+      "summary": "在海地，尽管有进口和不安全因素，雷贝塔·查尔斯创办了REB Lokal。她的企业加工本地产品，并帮助小农户销售收成。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "多年来，海地购买大量外国产品，尤其是从美国和多米尼加共和国进口。",
+            "1994年至1995年间，在与国际货币基金组织和世界银行达成协议后，这些进口增加了。",
+            "它们给当地农民带来激烈竞争。",
+            "因此，国内生产更弱。"
+          ]
+        },
+        {
+          "sentences": [
+            "尽管有帮派、政治不稳定和基础设施缺乏，一些海地人仍启动项目。",
+            "38岁的雷贝塔·查尔斯来自热雷米。",
+            "她学过农学，并在格朗当斯省工作。",
+            "她创办了农产品加工企业REB Lokal。"
+          ]
+        },
+        {
+          "sentences": [
+            "REB Lokal向小农户购买收成。",
+            "在其小工厂里，企业将这些本地产品加工成健康且可持续的食品。",
+            "它与近2000家供应商和20多名员工合作。",
+            "它希望避免化学添加剂和人工成分。"
+          ]
+        },
+        {
+          "sentences": [
+            "以前，雷贝塔·查尔斯并不想成为企业家。",
+            "她因性骚扰离开了一家人道主义组织。",
+            "她于2020年8月31日辞职，并在第二天创办了REB Lokal。",
+            "起初，她在“papita”的配方上遇到困难。"
+          ]
+        },
+        {
+          "sentences": [
+            "经过五个月的试验，“papita”成功了，并在超市销售。",
+            "企业起初只有8.50美元。",
+            "如今，它在多个省、美国和加拿大销售产品。",
+            "尽管治安不稳，雷贝塔·查尔斯仍相信海地的未来。"
+          ]
+        }
+      ],
+      "glossary": {
+        "importations": "从国外购买并输入的商品；文中指海地大量购买外国产品。",
+        "concurrence": "同一市场中不同生产者或销售者之间的竞争；文中指进口产品给当地农民带来的压力。",
+        "infrastructures": "社会运行所需的基础设施，如道路、水电、交通等；文中指海地缺乏这些设施。",
+        "agronomie": "研究农业生产和管理的科学，即农学。",
+        "agroalimentaire": "与农产品加工和食品生产有关的行业。",
+        "récoltes": "农作物收获的成果；文中指小农户收获后出售的农产品。",
+        "fournisseurs": "向企业提供商品或原料的个人或组织。",
+        "additifs": "为改善食品性状或保存等而加入的物质；文中指企业希望避免的化学添加剂。",
+        "harcèlement": "反复冒犯、威胁或骚扰他人的行为；文中特指性骚扰。",
+        "démissionné": "主动辞去职务或工作。",
+        "insécurité": "缺乏安全、治安不稳定的状态。"
+      },
+      "questions": {
+        "q1": "文章先说明进口增加，并直接指出这些进口给当地农民造成激烈竞争，随后得出国内生产因此更弱的结论。第一项复现了这一因果链；第二项说农民拒绝协议，文中没有这样说；第三项虽然提到外国产品，但文章强调的是进口带来的竞争，而不是以“更便宜且更多”作为国内生产下降的直接原因；第四项把帮派和政治不稳定说成阻碍收成，文中这些是创办项目面临的背景，并未这样解释国内生产下降。",
+        "q2": "文中说，在它的小工厂里，企业把这些本地产品加工成健康且可持续的食品，所以第三项正确。第一项说转卖且不加工，与“加工”相反；第二项说制造化学添加剂，文中反而说希望避免化学添加剂；第四项说出口未加工收成，文中出口的是产品，不是未加工收成。",
+        "q3": "文中说她在2020年8月31日辞职，并在第二天创办REB Lokal，因此第二项正确。第一项把创办说成辞职之前，时间顺序相反；第三项把“五个月试验后成功”与创办时间混淆；第四项提到在超市工作多年，文中没有这一经历。",
+        "q4": "文章明确说，她因性骚扰离开了一家人道主义组织，所以第四项正确。第一项把学习农学当成离职原因，文中只说她学过农学；第二项把后来的销售成功提前为离职原因；第三项说拒绝与小农户合作，与文章说她向小农户购买收成相矛盾。",
+        "q5": "文章以雷贝塔·查尔斯在困难背景下创办并经营加工本地产品的企业为主线，因此第一项最能概括。第二项说外国进口大幅减少，文中反而说进口很多且增加；第三项把人道主义组织与近2000名农民、向美国销售混在一起，文中近2000是供应商数量，组织也不是销售主体；第四项说“papita”是唯一产品，文中说产品销往多个省、美国和加拿大，并未说它是唯一产品。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "根据文章，为什么国内生产更弱？",
+          "options": [
+            "因为进口给当地农民带来激烈竞争。",
+            "因为当地农民拒绝与国际货币基金组织和世界银行达成协议。",
+            "因为外国产品更便宜且市场上更多。",
+            "因为帮派和政治不稳定阻碍收成。"
+          ]
+        },
+        "q2": {
+          "prompt": "REB Lokal如何处理购买来的收成？",
+          "options": [
+            "它不加工就把收成转卖给小农户。",
+            "它用收成制造化学添加剂。",
+            "它在其小工厂里把收成加工成健康且可持续的食品。",
+            "它把未加工的收成出口到美国和加拿大。"
+          ]
+        },
+        "q3": {
+          "prompt": "雷贝塔·查尔斯何时创办了REB Lokal？",
+          "options": [
+            "2020年8月31日，在离开她的组织之前。",
+            "在她从人道主义组织辞职的第二天。",
+            "在成功做出“papita”配方五个月后。",
+            "在超市工作多年之后。"
+          ]
+        },
+        "q4": {
+          "prompt": "雷贝塔·查尔斯为什么离开她的人道主义组织？",
+          "options": [
+            "因为她想在热雷米学习农学。",
+            "因为REB Lokal已经成功向美国销售。",
+            "因为她拒绝与小农户合作。",
+            "因为该组织中的性骚扰。"
+          ]
+        },
+        "q5": {
+          "prompt": "哪个想法最能概括文章？",
+          "options": [
+            "一名海地女性尽管困难重重，创办了一家企业来加工本地农产品。",
+            "由于一家新工厂，外国进口大幅减少。",
+            "一家人道主义组织帮助近2000名农民向美国销售。",
+            "“papita”是REB Lokal在海地和加拿大销售的唯一产品。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Haïti : une entrepreneuse connait le succès grâce à la promotion des produits locaux",
+    "authors": [
+      "Jude Pierre Louis"
+    ],
+    "translators": [
+      "Guillaume Cottin"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/25/304396/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-26",
+    "publishedAt": "2026-11-25",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-26",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

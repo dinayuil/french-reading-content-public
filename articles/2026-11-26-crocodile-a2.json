@@ -1,0 +1,282 @@
+{
+  "id": "2026-11-26-crocodile-a2",
+  "title": "Les crocodiles : des reptiles fascinants",
+  "level": "A2",
+  "theme": "science",
+  "date": "2026-11-26",
+  "summary": "Les crocodiles sont des reptiles carnivores qui vivent dans les eaux tropicales. Ils chassent, se cachent et élèvent leurs petits avec des méthodes étonnantes.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Les crocodiles sont des reptiles.",
+        "Ils vivent dans les rivières et les fleuves des régions tropicales.",
+        "On trouve une vingtaine d’espèces en Afrique, en Amérique, en Asie et en Australie.",
+        "Certains vivent aussi dans l’eau salée."
+      ]
+    },
+    {
+      "sentences": [
+        "Ce sont des carnivores chasseurs.",
+        "Les plus grands mesurent jusqu’à 6 mètres de long.",
+        "Sur terre, ils bougent difficilement.",
+        "Dans l’eau, ils sont très agiles grâce à leur queue puissante.",
+        "Ils vivent souvent seuls."
+      ]
+    },
+    {
+      "sentences": [
+        "Ils attrapent de grandes proies avec leurs mâchoires.",
+        "D’autres crocodiles pêchent des poissons.",
+        "Ils mangent aussi des cadavres trouvés sur les berges.",
+        "Ils peuvent attendre plusieurs mois sans nourriture."
+      ]
+    },
+    {
+      "sentences": [
+        "Leurs yeux sont en haut de la tête.",
+        "Ils voient très bien la nuit.",
+        "Une membrane protège leurs yeux quand ils plongent.",
+        "Ils sentent aussi les vibrations dans l’eau."
+      ]
+    },
+    {
+      "sentences": [
+        "La femelle pond entre 40 et 60 œufs.",
+        "Elle surveille le nid pendant 80 jours.",
+        "La température décide du sexe des petits.",
+        "À 31,5 °C, le petit est un mâle.",
+        "Les petits restent avec leur mère plusieurs mois."
+      ]
+    },
+    {
+      "sentences": [
+        "Beaucoup de petits meurent jeunes.",
+        "Les crocodiles deviennent adultes à 12 ans.",
+        "L’homme est leur seul prédateur principal.",
+        "Il les chasse pour leur cuir."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "reptiles"
+    },
+    {
+      "term": "tropicales"
+    },
+    {
+      "term": "espèces"
+    },
+    {
+      "term": "carnivores"
+    },
+    {
+      "term": "agiles"
+    },
+    {
+      "term": "puissante"
+    },
+    {
+      "term": "mâchoires"
+    },
+    {
+      "term": "cadavres"
+    },
+    {
+      "term": "berges"
+    },
+    {
+      "term": "membrane"
+    },
+    {
+      "term": "vibrations"
+    },
+    {
+      "term": "prédateur"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Pourquoi les crocodiles sont-ils très agiles dans l’eau ?",
+      "options": [
+        "Parce qu’ils ont une queue puissante.",
+        "Parce qu’ils ont de grandes mâchoires.",
+        "Parce qu’ils vivent souvent seuls.",
+        "Parce qu’ils peuvent attendre sans nourriture."
+      ],
+      "answerIndex": 0,
+      "evidence": "Dans l’eau, ils sont très agiles grâce à leur queue puissante.",
+      "explanation": "Le texte indique que l’agilité dans l’eau vient de la queue. Les autres options parlent des mâchoires, de la vie solitaire ou du jeûne, pas de cette cause."
+    },
+    {
+      "id": "q2",
+      "prompt": "Selon l’article, qu’est-ce qui décide du sexe des petits crocodiles ?",
+      "options": [
+        "Le nombre d’œufs.",
+        "La température du nid.",
+        "La taille de la mère.",
+        "La durée de surveillance."
+      ],
+      "answerIndex": 1,
+      "evidence": "La température décide du sexe des petits.",
+      "explanation": "Le texte dit clairement que c’est la température qui détermine le sexe. Les autres choix concernent la ponte, la taille ou la surveillance, pas le sexe des petits."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel est le sujet principal de l’article ?",
+      "options": [
+        "L’alimentation des crocodiles seulement.",
+        "La reproduction des crocodiles seulement.",
+        "La vie et les caractéristiques des crocodiles.",
+        "Les animaux qui vivent dans l’eau salée."
+      ],
+      "answerIndex": 2,
+      "evidence": "Les crocodiles sont des reptiles.",
+      "explanation": "L’article donne des informations sur plusieurs aspects des crocodiles : l’habitat, la nourriture, les yeux et la reproduction. Il ne parle donc pas d’un seul aspect ni surtout des animaux de l’eau salée."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "鳄鱼：迷人的爬行动物",
+      "summary": "鳄鱼是生活在热带水域的肉食性爬行动物。它们以惊人的方式捕猎、躲藏和养育幼崽。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "鳄鱼是爬行动物。",
+            "它们生活在热带地区的河流和江河中。",
+            "在非洲、美洲、亚洲和澳大利亚可以发现大约二十种。",
+            "有些也生活在咸水中。"
+          ]
+        },
+        {
+          "sentences": [
+            "它们是捕猎的肉食动物。",
+            "最大的体长可达6米。",
+            "在陆地上，它们行动困难。",
+            "在水中，它们凭借强有力的尾巴非常敏捷。",
+            "它们通常独自生活。"
+          ]
+        },
+        {
+          "sentences": [
+            "它们用颌部抓住大型猎物。",
+            "其他鳄鱼捕鱼。",
+            "它们也吃在河岸上找到的尸体。",
+            "它们可以几个月不吃东西等待。"
+          ]
+        },
+        {
+          "sentences": [
+            "它们的眼睛位于头顶。",
+            "它们在夜间看得非常清楚。",
+            "当它们潜水时，一层膜保护它们的眼睛。",
+            "它们也能感觉到水中的振动。"
+          ]
+        },
+        {
+          "sentences": [
+            "雌鳄产40到60枚卵。",
+            "它守护巢穴80天。",
+            "温度决定幼崽的性别。",
+            "在31.5°C时，幼崽是雄性。",
+            "幼崽和母亲一起待好几个月。"
+          ]
+        },
+        {
+          "sentences": [
+            "许多幼崽在年幼时死亡。",
+            "鳄鱼在12岁时成年。",
+            "人类是它们唯一的主要捕食者。",
+            "人类为了它们的皮革而捕猎它们。"
+          ]
+        }
+      ],
+      "glossary": {
+        "reptiles": "爬行动物，体表有鳞片、体温随环境变化的脊椎动物。",
+        "tropicales": "热带的，指炎热潮湿的地区。",
+        "espèces": "物种，生物分类的基本单位。",
+        "carnivores": "食肉的，以动物性食物为主。",
+        "agiles": "敏捷的，动作灵活迅速。",
+        "puissante": "强有力的，力量大的。",
+        "mâchoires": "颌，口腔上下部的骨骼和肌肉结构，用于咬合。",
+        "cadavres": "尸体，死去的动物身体。",
+        "berges": "河岸，河流两侧的陆地边缘。",
+        "membrane": "膜，覆盖或保护器官的薄层组织。",
+        "vibrations": "振动，物体快速往复运动产生的波动。",
+        "prédateur": "捕食者，捕杀其他动物为食的动物。"
+      },
+      "questions": {
+        "q1": "文中明确指出，鳄鱼在水中的敏捷来自其强有力的尾巴。第一项“有一条强有力的尾巴”与这一因果关系直接对应；第二项“有大颌”用于抓猎物，第三项“通常独自生活”是生活习性，第四项“可以不吃食物等待”是耐饥能力，都不能解释水中的敏捷。",
+        "q2": "文中说“温度决定幼崽的性别”，因此决定性别的是巢穴的温度。第二项“巢穴的温度”直接对应证据；第一项“卵的数量”讲产卵数量，第三项“母亲的大小”文中未作为性别决定因素，第四项“守护的时长”讲守护巢穴的时间，均不决定性别。",
+        "q3": "证据句“鳄鱼是爬行动物”是全文对鳄鱼的一般性介绍，随后文章从栖息地、食物、眼睛和繁殖等多个方面展开，因此主题是鳄鱼的生活和特征。第三项“鳄鱼的生活和特征”概括了这些多个方面；第一项“仅仅是鳄鱼的食物”和第二项“仅仅是鳄鱼的繁殖”都只覆盖一个方面，第四项“生活在咸水中的动物”只是文中一句提及的内容，不是全文主题。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "为什么鳄鱼在水中非常敏捷？",
+          "options": [
+            "因为它们有一条强有力的尾巴。",
+            "因为它们有大颌。",
+            "因为它们通常独自生活。",
+            "因为它们可以不吃食物等待。"
+          ]
+        },
+        "q2": {
+          "prompt": "根据文章，什么决定小鳄鱼的性别？",
+          "options": [
+            "卵的数量。",
+            "巢穴的温度。",
+            "母亲的大小。",
+            "守护的时长。"
+          ]
+        },
+        "q3": {
+          "prompt": "文章的主要主题是什么？",
+          "options": [
+            "仅仅是鳄鱼的食物。",
+            "仅仅是鳄鱼的繁殖。",
+            "鳄鱼的生活和特征。",
+            "生活在咸水中的动物。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Crocodile",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2346827&title=Crocodile",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-26",
+    "revisionId": "2346827"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-26",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-26-crocodile-a2-3179f44de9f3.jpg",
+    "alt": "Crocodile du Nil à Yamoussoukro, Côte d'Ivoire.",
+    "author": "Clément Bucco-Lechat",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crocodile_du_Nil.jpg?oldid=1141529265",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Réduite à 1280×960 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 960,
+    "byteLength": 174219,
+    "sha256": "3179f44de9f32875931fc52e3501ccffdd5e7d54236d9274241c6900436e8334",
+    "fileRevisionId": "1141529265",
+    "retrievedAt": "2026-11-26"
+  }
+}

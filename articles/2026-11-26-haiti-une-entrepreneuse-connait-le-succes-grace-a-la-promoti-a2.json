@@ -1,0 +1,317 @@
+{
+  "id": "2026-11-26-haiti-une-entrepreneuse-connait-le-succes-grace-a-la-promoti-a2",
+  "title": "Une entreprise haïtienne transforme les produits locaux",
+  "level": "A2",
+  "theme": "économie",
+  "date": "2026-11-26",
+  "summary": "En Haïti, Rébetha Charles a créé REB Lokal. Son entreprise achète les récoltes des petits agriculteurs et fabrique des produits locaux.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Depuis les années 1990, Haïti achète beaucoup de produits étrangers.",
+        "En 1994 et 1995, le pays a fait des accords avec le FMI et la Banque mondiale.",
+        "Ces accords ont ouvert le marché.",
+        "Les agriculteurs haïtiens ont alors plus de concurrence."
+      ]
+    },
+    {
+      "sentences": [
+        "Haïti connaît aussi la violence des gangs et des problèmes politiques.",
+        "Beaucoup d’infrastructures manquent.",
+        "Malgré cela, des Haïtiens lancent des projets.",
+        "Rébetha Charles, 38 ans, vient de Jérémie.",
+        "Elle a étudié l’agronomie et travaille dans le Grand’Anse."
+      ]
+    },
+    {
+      "sentences": [
+        "En 2020, elle a quitté son travail dans une organisation humanitaire.",
+        "Elle a créé REB Lokal le 1er septembre 2020.",
+        "Cette entreprise achète des produits aux petits agriculteurs.",
+        "Elle transforme ces récoltes en aliments sains et locaux."
+      ]
+    },
+    {
+      "sentences": [
+        "REB Lokal travaille avec presque 2 000 fournisseurs.",
+        "L’entreprise a plus de 20 employés.",
+        "Elle veut éviter les produits chimiques.",
+        "Ses produits sont naturels et abordables."
+      ]
+    },
+    {
+      "sentences": [
+        "Au début, l’entreprise a eu des difficultés.",
+        "Rébetha Charles a mis plus de cinq mois pour trouver une recette de papita.",
+        "Elle a commencé avec 8,50 dollars.",
+        "Puis les commandes ont augmenté."
+      ]
+    },
+    {
+      "sentences": [
+        "Aujourd’hui, REB Lokal vend dans le Grand’Anse, le Sud et l’Ouest.",
+        "L’entreprise vend aussi aux États-Unis et au Canada.",
+        "Les gangs contrôlent parfois les routes.",
+        "Cela ralentit les livraisons.",
+        "Mais Rébetha Charles continue et croit en l’avenir d’Haïti."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "concurrence"
+    },
+    {
+      "term": "infrastructures"
+    },
+    {
+      "term": "agronomie"
+    },
+    {
+      "term": "humanitaire"
+    },
+    {
+      "term": "fournisseurs"
+    },
+    {
+      "term": "chimiques"
+    },
+    {
+      "term": "abordables"
+    },
+    {
+      "term": "papita"
+    },
+    {
+      "term": "commandes"
+    },
+    {
+      "term": "ralentit"
+    },
+    {
+      "term": "récoltes"
+    },
+    {
+      "term": "transforme"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Que fait REB Lokal avec les récoltes des petits agriculteurs ?",
+      "options": [
+        "Elle les revend telles quelles à des organisations humanitaires.",
+        "Elle les change en aliments bons pour la santé, fabriqués dans le pays.",
+        "Elle les utilise pour produire des produits chimiques.",
+        "Elle les importe d’autres pays pour les vendre."
+      ],
+      "answerIndex": 1,
+      "evidence": "Elle transforme ces récoltes en aliments sains et locaux.",
+      "explanation": "La phrase de référence montre que les récoltes sont modifiées pour devenir des aliments bons pour la santé et produits localement ; les autres options parlent de revente sans transformation, de produits chimiques ou d’importation."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi les agriculteurs haïtiens ont-ils plus de concurrence ?",
+      "options": [
+        "Parce que les routes sont parfois contrôlées par des gangs.",
+        "Parce que REB Lokal achète leurs récoltes.",
+        "Parce que les produits étrangers sont arrivés plus facilement après des accords.",
+        "Parce que les infrastructures manquent dans le pays."
+      ],
+      "answerIndex": 2,
+      "evidence": "Ces accords ont ouvert le marché.",
+      "explanation": "La phrase de référence relie l’ouverture du marché à des accords ; cette ouverture explique l’arrivée plus facile de produits étrangers et donc la concurrence. Les autres options présentent d’autres problèmes ou une action qui soutient les agriculteurs."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel est le sujet principal de l’article ?",
+      "options": [
+        "Une entreprise haïtienne qui transforme des produits locaux.",
+        "Les accords entre Haïti et le FMI dans les années 1990.",
+        "La violence des gangs dans le Grand’Anse.",
+        "Les études d’agronomie de Rébetha Charles."
+      ],
+      "answerIndex": 0,
+      "evidence": "Elle transforme ces récoltes en aliments sains et locaux.",
+      "explanation": "L’article est centré sur Rébetha Charles et son entreprise, qui achète et transforme des produits locaux ; les autres éléments servent de contexte ou de détail."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quelle difficulté REB Lokal a-t-elle connue au début ?",
+      "options": [
+        "Mettre au point une recette de papita.",
+        "Trouver presque 2 000 fournisseurs.",
+        "Vendre ses produits au Canada.",
+        "Avoir plus de 20 employés."
+      ],
+      "answerIndex": 0,
+      "evidence": "Rébetha Charles a mis plus de cinq mois pour trouver une recette de papita.",
+      "explanation": "La phrase de référence indique que la recherche d’une recette a pris beaucoup de temps au démarrage ; les autres options concernent des chiffres ou des ventes, pas cette difficulté."
+    },
+    {
+      "id": "q5",
+      "prompt": "Où REB Lokal vend-elle ses produits aujourd’hui ?",
+      "options": [
+        "Seulement dans le Grand’Anse.",
+        "Dans le Grand’Anse, le Sud et l’Ouest, mais pas ailleurs.",
+        "Aux États-Unis et au Canada, mais pas en Haïti.",
+        "Dans plusieurs régions d’Haïti et aussi aux États-Unis et au Canada."
+      ],
+      "answerIndex": 3,
+      "evidence": "Aujourd’hui, REB Lokal vend dans le Grand’Anse, le Sud et l’Ouest.",
+      "explanation": "La phrase de référence donne trois régions en Haïti, et la phrase suivante ajoute les États-Unis et le Canada ; la bonne réponse rassemble tous ces lieux. Les autres options en oublient ou en excluent."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "一家海地企业加工本地产品",
+      "summary": "在海地，雷贝塔·夏尔创立了REB Lokal。她的企业收购小农户的收成，并制造本地产品。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "自20世纪90年代以来，海地购买大量外国产品。",
+            "1994年和1995年，该国与国际货币基金组织和世界银行达成了协议。",
+            "这些协议打开了市场。",
+            "海地农民因此面临更多竞争。"
+          ]
+        },
+        {
+          "sentences": [
+            "海地还面临帮派暴力和政治问题。",
+            "许多基础设施缺乏。",
+            "尽管如此，一些海地人仍发起项目。",
+            "38岁的雷贝塔·夏尔来自热雷米。",
+            "她学过农学，并在大湾省工作。"
+          ]
+        },
+        {
+          "sentences": [
+            "2020年，她辞去了一家人道主义组织的工作。",
+            "她于2020年9月1日创立了REB Lokal。",
+            "这家企业从小农户那里购买产品。",
+            "她把这些收成加工成健康、本地的食品。"
+          ]
+        },
+        {
+          "sentences": [
+            "REB Lokal与近2000家供应商合作。",
+            "该企业有20多名员工。",
+            "它希望避免化学产品。",
+            "它的产品天然且价格实惠。"
+          ]
+        },
+        {
+          "sentences": [
+            "起初，这家企业遇到了困难。",
+            "雷贝塔·夏尔花了五个多月才找到一种papita的配方。",
+            "她以8.50美元起步。",
+            "随后订单增加了。"
+          ]
+        },
+        {
+          "sentences": [
+            "如今，REB Lokal在大湾省、南部和西部销售。",
+            "该企业也销往美国和加拿大。",
+            "帮派有时控制道路。",
+            "这使送货变慢。",
+            "但雷贝塔·夏尔继续坚持，并相信海地的未来。"
+          ]
+        }
+      ],
+      "glossary": {
+        "concurrence": "市场中其他生产者或产品带来的竞争压力；文中指外国产品进入后，海地农民要面对更多竞争者。",
+        "infrastructures": "道路、交通、水电等公共设施；文中说海地缺少许多这类设施。",
+        "agronomie": "研究农业生产、土壤和作物管理的学科。",
+        "humanitaire": "以救助和援助人为目标的；文中指人道主义组织。",
+        "fournisseurs": "向企业提供原料或产品的人或机构。",
+        "chimiques": "由化学方法制成或与化学物质有关的；文中指企业想避免使用的产品。",
+        "abordables": "价格不高、人们负担得起的。",
+        "papita": "文中指一种需要研发配方的当地食品或零食。",
+        "commandes": "顾客向企业下的订单。",
+        "ralentit": "使速度变慢；文中指道路受控使送货变慢。",
+        "récoltes": "农民收获的农作物。",
+        "transforme": "把原料加工成另一种产品；文中指把收成加工成食品。"
+      },
+      "questions": {
+        "q1": "文中说企业收购小农户的产品，并把收成加工成健康且本地的食品；这说明收成经过改变成为食品，而不是原样转卖、生产化学品或进口。第二项符合这种加工关系。",
+        "q2": "文中说1994年和1995年的协议打开了市场；市场开放使外国产品更容易进入海地，农民因此要面对更多外来竞争。第一项和第四项是其他困难，第二项反而支持农民，不是竞争原因。",
+        "q3": "文章围绕雷贝塔·夏尔和她的企业展开：企业收购并加工本地产品；协议、帮派暴力和她的学习只是背景或细节，不能概括全文中心。",
+        "q4": "文中说雷贝塔·夏尔花了五个多月寻找papita的配方，说明起步阶段的困难是配方研发；其他选项是后来规模或销售情况，不是起初困难。",
+        "q5": "文中列出大湾省、南部和西部三个海地地区，随后又提到美国和加拿大；第四项把所有这些地点合在一起，其他选项遗漏或排除了部分地点。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "REB Lokal如何处理小农户的收成？",
+          "options": [
+            "她把这些收成原样转卖给一些人道主义组织。",
+            "她把它们变成有益健康、在国内制作的食品。",
+            "她利用它们生产化学产品。",
+            "她从其他国家进口这些产品再出售。"
+          ]
+        },
+        "q2": {
+          "prompt": "为什么海地农民面临更多竞争？",
+          "options": [
+            "因为道路有时被帮派控制。",
+            "因为REB Lokal收购他们的收成。",
+            "因为一些协议之后，外国产品更容易进入。",
+            "因为该国缺乏基础设施。"
+          ]
+        },
+        "q3": {
+          "prompt": "文章的主题是什么？",
+          "options": [
+            "一家加工本地产品的海地企业。",
+            "20世纪90年代海地与国际货币基金组织之间的协议。",
+            "大湾省的帮派暴力。",
+            "雷贝塔·夏尔的农学学习。"
+          ]
+        },
+        "q4": {
+          "prompt": "REB Lokal起初遇到什么困难？",
+          "options": [
+            "研发出一种papita的配方。",
+            "找到近2000家供应商。",
+            "把产品卖到加拿大。",
+            "拥有20多名员工。"
+          ]
+        },
+        "q5": {
+          "prompt": "今天REB Lokal在哪里销售产品？",
+          "options": [
+            "只在大湾省。",
+            "在大湾省、南部和西部，但不在其他地方。",
+            "在美国和加拿大，但不在海地。",
+            "在海地多个地区，也在美国和加拿大。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Haïti : une entrepreneuse connait le succès grâce à la promotion des produits locaux",
+    "authors": [
+      "Jude Pierre Louis"
+    ],
+    "translators": [
+      "Guillaume Cottin"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/25/304396/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-26",
+    "publishedAt": "2026-11-25",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-26",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

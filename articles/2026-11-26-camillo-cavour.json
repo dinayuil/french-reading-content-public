@@ -1,0 +1,298 @@
+{
+  "id": "2026-11-26-camillo-cavour",
+  "title": "Camillo Cavour et l’unité italienne",
+  "level": "B2",
+  "theme": "histoire",
+  "date": "2026-11-26",
+  "summary": "Camillo Cavour, homme d’État piémontais, fut un acteur majeur de l’unité italienne et le premier président du Conseil du royaume d’Italie.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Camillo Benso, comte de Cavour, naît le 10 août 1810 à Turin et meurt le 6 juin 1861 dans la même ville.",
+        "Cet homme d’État italien est considéré, avec Garibaldi, Victor-Emmanuel II et Mazzini, comme l’un des « pères de la patrie ».",
+        "Il joue un rôle central dans le Risorgimento, même s’il n’avait pas de plan complet pour l’unité italienne."
+      ]
+    },
+    {
+      "sentences": [
+        "Ministre du royaume de Sardaigne dès 1850, Cavour dirige le gouvernement de 1852 à 1859, puis de 1860 à 1861.",
+        "En 1861, après la proclamation du royaume d’Italie, il devient le premier président du Conseil du nouvel État.",
+        "Atteint de paludisme, il meurt deux mois et treize jours après avoir pris ses fonctions."
+      ]
+    },
+    {
+      "sentences": [
+        "Sur le plan intérieur, il défend le Statut albertin et les idées libérales, tout en s’alliant au centre gauche de Rattazzi par le « Connubio ».",
+        "Il soutient des réformes anticléricales, comme la suppression de nombreuses congrégations religieuses, ce qui lui attire l’hostilité de Pie IX.",
+        "En économie, il encourage le libre-échange, modernise les impôts et développe les chemins de fer ainsi que l’agriculture."
+      ]
+    },
+    {
+      "sentences": [
+        "En politique étrangère, Cavour recherche l’appui du Royaume-Uni et de la France de Napoléon III, afin de contrer l’Autriche.",
+        "Les accords secrets de Plombières, en 1858, préparent une alliance franco-sarde contre l’Empire autrichien.",
+        "Après la guerre de 1859, le Piémont obtient la Lombardie, puis des annexions sont approuvées par plébiscites en Italie centrale."
+      ]
+    },
+    {
+      "sentences": [
+        "En 1860, la cession de Nice et de la Savoie à la France permet au royaume de Sardaigne de s’agrandir en Émilie-Romagne et en Toscane.",
+        "Cavour encadre l’expédition de Garibaldi sans la soutenir ouvertement, car il craint une dérive révolutionnaire.",
+        "Le 17 mars 1861, le Parlement proclame le royaume d’Italie et Victor-Emmanuel II devient roi."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Risorgimento"
+    },
+    {
+      "term": "Statut albertin"
+    },
+    {
+      "term": "Connubio"
+    },
+    {
+      "term": "anticléricales"
+    },
+    {
+      "term": "congrégations"
+    },
+    {
+      "term": "libre-échange"
+    },
+    {
+      "term": "plébiscites"
+    },
+    {
+      "term": "cession"
+    },
+    {
+      "term": "dérive"
+    },
+    {
+      "term": "paludisme"
+    },
+    {
+      "term": "président du Conseil"
+    },
+    {
+      "term": "annexions"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Pourquoi Pie IX devient-il hostile à Cavour selon l'article ?",
+      "options": [
+        "Parce qu'il défend le Statut albertin et s'allie au centre gauche de Rattazzi.",
+        "Parce qu'il encourage le libre-échange et modernise les impôts.",
+        "Parce qu'il soutient des réformes anticléricales, notamment la suppression de congrégations.",
+        "Parce qu'il cherche l'appui du Royaume-Uni et de la France contre l'Autriche."
+      ],
+      "answerIndex": 2,
+      "evidence": "Il soutient des réformes anticléricales, comme la suppression de nombreuses congrégations religieuses, ce qui lui attire l’hostilité de Pie IX.",
+      "explanation": "Le texte attribue l'hostilité de Pie IX aux réformes anticléricales et à la suppression de congrégations ; les autres options concernent des mesures ou alliances sans lien avec cette hostilité."
+    },
+    {
+      "id": "q3",
+      "prompt": "Que dit l'article du rôle de Cavour dans le Risorgimento ?",
+      "options": [
+        "Il y joue un rôle secondaire, car il préfère la politique intérieure du Piémont.",
+        "Il y joue un rôle central, bien qu'il n'ait pas de plan complet pour l'unité italienne.",
+        "Il y joue un rôle central grâce à un plan complet préparé dès 1850.",
+        "Il y joue un rôle limité, car il refuse de s'allier à Garibaldi et à Mazzini."
+      ],
+      "answerIndex": 1,
+      "evidence": "Il joue un rôle central dans le Risorgimento, même s’il n’avait pas de plan complet pour l’unité italienne.",
+      "explanation": "Le passage reconnaît à la fois l'importance de Cavour et l'absence de plan d'ensemble. Les options qui parlent d'un rôle secondaire, d'un plan complet ou d'un refus d'alliance contredisent cette formulation."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quelle succession d'événements l'article établit-il pour Cavour en 1861 ?",
+      "options": [
+        "Il meurt avant la proclamation du royaume, après avoir dirigé le gouvernement de 1860 à 1861.",
+        "Il devient roi d'Italie après la proclamation du royaume, puis meurt deux mois plus tard.",
+        "Il quitte ses fonctions après la proclamation du royaume, puis meurt deux mois et treize jours plus tard.",
+        "Il devient président du Conseil après la proclamation du royaume, puis meurt peu après."
+      ],
+      "answerIndex": 3,
+      "evidence": "En 1861, après la proclamation du royaume d’Italie, il devient le premier président du Conseil du nouvel État.",
+      "explanation": "Le texte indique qu'il prend ses fonctions après la proclamation, puis précise qu'il meurt deux mois et treize jours plus tard. Il n'est pas roi et il n'est pas question d'une démission."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle idée principale le passage sur la politique étrangère développe-t-il ?",
+      "options": [
+        "Cavour veut éviter toute alliance avec la France pour ne pas céder Nice et la Savoie.",
+        "Cavour s'appuie uniquement sur les plébiscites pour agrandir le royaume de Sardaigne.",
+        "Cavour cherche des alliances étrangères pour contrer l'Autriche et obtenir des territoires.",
+        "Cavour prépare une alliance avec l'Autriche contre l'Empire français."
+      ],
+      "answerIndex": 2,
+      "evidence": "En politique étrangère, Cavour recherche l’appui du Royaume-Uni et de la France de Napoléon III, afin de contrer l’Autriche.",
+      "explanation": "Le paragraphe présente d'abord la recherche d'appuis contre l'Autriche, puis montre comment cette politique aboutit à des gains territoriaux. Les autres options inversent les alliances ou réduisent la politique étrangère aux seuls plébiscites."
+    },
+    {
+      "id": "q6",
+      "prompt": "Pourquoi Cavour encadre-t-il l'expédition de Garibaldi sans la soutenir ouvertement ?",
+      "options": [
+        "Parce qu'il redoute une évolution révolutionnaire.",
+        "Parce qu'il veut obtenir la cession de Nice et de la Savoie.",
+        "Parce qu'il craint une intervention du Royaume-Uni et de la France.",
+        "Parce qu'il espère empêcher la proclamation du royaume d'Italie."
+      ],
+      "answerIndex": 0,
+      "evidence": "Cavour encadre l’expédition de Garibaldi sans la soutenir ouvertement, car il craint une dérive révolutionnaire.",
+      "explanation": "La cause est explicitement la crainte d'une dérive révolutionnaire. Les autres options évoquent des motifs absents de ce passage ou contraires à la position de Cavour."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "卡米洛·加富尔与意大利统一",
+      "summary": "卡米洛·加富尔是皮埃蒙特政治家，是意大利统一的重要推动者，并任意大利王国首任首相。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "卡米洛·本索，加富尔伯爵，1810年8月10日出生于都灵，1861年6月6日在同一城市去世。",
+            "这位意大利政治家与加里波第、维托里奥·埃马努埃莱二世和马志尼一起被视为“祖国之父”之一。",
+            "他在复兴运动中发挥了核心作用，尽管他并没有关于意大利统一的完整计划。"
+          ]
+        },
+        {
+          "sentences": [
+            "自1850年起担任撒丁王国大臣，加富尔于1852年至1859年、随后于1860年至1861年领导政府。",
+            "1861年，在意大利王国宣告成立后，他成为新国家的首任首相。",
+            "他感染疟疾，在就职两个月零十三天后去世。"
+          ]
+        },
+        {
+          "sentences": [
+            "在内政方面，他捍卫阿尔贝蒂诺宪章和自由主义思想，同时通过“联姻”与拉塔齐的中左派结盟。",
+            "他支持反教权改革，例如取缔众多宗教修会，这招致庇护九世的敌视。",
+            "在经济方面，他鼓励自由贸易，使税收现代化，并发展铁路和农业。"
+          ]
+        },
+        {
+          "sentences": [
+            "在外交政策上，加富尔寻求英国和拿破仑三世法国的支持，以对抗奥地利。",
+            "1858年的普隆比耶秘密协议为针对奥地利帝国的法撒同盟作准备。",
+            "1859年战争后，皮埃蒙特获得伦巴第，随后意大利中部的兼并经公民投票获得批准。"
+          ]
+        },
+        {
+          "sentences": [
+            "1860年，将尼斯和萨伏依割让给法国，使撒丁王国得以在艾米利亚-罗马涅和托斯卡纳扩张。",
+            "加富尔对加里波第的远征加以约束，却不公开支持，因为他担心出现革命性失控。",
+            "1861年3月17日，议会宣告意大利王国成立，维托里奥·埃马努埃莱二世成为国王。"
+          ]
+        }
+      ],
+      "glossary": {
+        "Risorgimento": "意大利复兴运动，19世纪意大利民族觉醒与统一运动。",
+        "Statut albertin": "1848年撒丁王国阿尔贝托国王颁布的宪章，确立君主立宪和部分自由权利。",
+        "Connubio": "加富尔与拉塔齐中左派达成的政治联盟，用以扩大温和自由派多数。",
+        "anticléricales": "反教权的，指限制天主教会政治与社会影响的改革。",
+        "congrégations": "宗教修会或团体，此处指被取缔的众多天主教修道团体。",
+        "libre-échange": "自由贸易政策，减少关税和贸易壁垒。",
+        "plébiscites": "公民投票，此处指对地区并入撒丁王国或意大利的民众表决。",
+        "cession": "割让，指1860年尼斯和萨伏依由撒丁王国让予法国。",
+        "dérive": "偏离、失控，此处指革命方向的风险。",
+        "paludisme": "疟疾，由疟原虫引起的传染病。",
+        "président du Conseil": "首相或内阁会议主席，王国政府首脑。",
+        "annexions": "兼并或吞并，指领土并入。"
+      },
+      "questions": {
+        "q1": "文章把庇护九世的敌意直接归因于加富尔支持反教权改革以及取缔众多宗教修会；第三项“支持反教权改革，尤其是取缔修会”正是这一措施。第一项讲宪章和中左联盟，第二项讲经济政策，第四项讲外交结盟，均未在文中与庇护九世的敌意建立因果联系。",
+        "q3": "文中一方面说他在复兴运动中发挥核心作用，另一方面说他没有关于意大利统一的完整计划，第二项“起核心作用，尽管没有完整计划”同时保留这两点。第一项和第四项贬低其作用，第三项添加了原文没有的“从1850年起完整计划”，都与原句矛盾。",
+        "q4": "文章说1861年意大利王国宣告成立后，他成为新国家的首任首相，随后又说他在就职两个月零十三天后去世，因此第四项“成为首相，随后不久去世”的顺序正确。他不是国王，也没有提到辞职；第一项把死亡放在宣告之前，第二项称他为国王，第三项称他离任，均不符合原文。",
+        "q5": "该段先写加富尔寻求英国和拿破仑三世法国的支持以对抗奥地利，后写这一政策带来伦巴第和意大利中部等领土收益，第三项“寻求外国联盟以对抗奥地利并获得领土”概括了这一主线。第一项与割让史实及寻求法国支持相反，第二项把外交政策缩减为公民投票，第四项把奥地利写成盟友，均与段落不符。",
+        "q6": "原文明确说，加富尔约束远征而不公开支持，是因为他担心革命性失控，第一项“担心出现革命性演变”正是这一原因。第二项涉及对法割让，第三项涉及外国干预，第四项说要阻止王国宣告，这些都不是该句给出的动机，且有的与加富尔目标不符。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "根据文章，为什么庇护九世对加富尔产生敌意？",
+          "options": [
+            "因为他捍卫阿尔贝蒂诺宪章并与拉塔齐的中左派结盟。",
+            "因为他鼓励自由贸易并使税收现代化。",
+            "因为他支持反教权改革，尤其是取缔修会。",
+            "因为他寻求英国和法国支持以对抗奥地利。"
+          ]
+        },
+        "q3": {
+          "prompt": "文章如何说明加富尔在复兴运动中的作用？",
+          "options": [
+            "他起次要作用，因为他更偏爱皮埃蒙特的内政。",
+            "他起核心作用，尽管他没有关于意大利统一的完整计划。",
+            "由于他从1850年起就准备好了完整计划，他起核心作用。",
+            "他作用有限，因为他拒绝与加里波第和马志尼结盟。"
+          ]
+        },
+        "q4": {
+          "prompt": "文章为加富尔在1861年确立了怎样的事件顺序？",
+          "options": [
+            "他在王国宣告成立前去世，此前曾于1860年至1861年领导政府。",
+            "他在王国宣告成立后成为意大利国王，随后两个月去世。",
+            "他在王国宣告成立后离任，随后两个月零十三天去世。",
+            "他在王国宣告成立后成为首相，随后不久去世。"
+          ]
+        },
+        "q5": {
+          "prompt": "关于外交政策的段落主要阐述了什么观点？",
+          "options": [
+            "加富尔想避免与法国结盟，以免割让尼斯和萨伏依。",
+            "加富尔仅依靠公民投票来扩大撒丁王国。",
+            "加富尔寻求外国联盟以对抗奥地利并获得领土。",
+            "加富尔准备与奥地利结盟对抗法国帝国。"
+          ]
+        },
+        "q6": {
+          "prompt": "为什么加富尔约束加里波第的远征却不公开支持它？",
+          "options": [
+            "因为他担心出现革命性演变。",
+            "因为他想获得尼斯和萨伏依的割让。",
+            "因为他担心英国和法国干预。",
+            "因为他希望阻止意大利王国的宣告成立。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Camillo Cavour",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=241473530",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-26",
+    "revisionId": "241473530"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-26",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-26-camillo-cavour-35ea199c2690.jpg",
+    "alt": "Camillo Benso count of Cavour by Antonio Ciseri",
+    "author": "Antonio Ciseri",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Camillo_Benso_Cavour_di_Ciseri.jpg?oldid=1030293662",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Fichier original téléchargé depuis Wikimedia Commons ; aucune modification.",
+    "width": 1165,
+    "height": 1600,
+    "byteLength": 351694,
+    "sha256": "35ea199c2690bac0e0883f17c5993f39db898b172ab1f8d18b90c26b3252f5bc",
+    "fileRevisionId": "1030293662",
+    "retrievedAt": "2026-11-26"
+  }
+}

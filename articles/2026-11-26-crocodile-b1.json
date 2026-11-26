@@ -1,0 +1,354 @@
+{
+  "id": "2026-11-26-crocodile-b1",
+  "title": "Les crocodiles : des reptiles surprenants",
+  "level": "B1",
+  "theme": "science",
+  "date": "2026-11-26",
+  "summary": "Les crocodiles sont des reptiles carnivores qui vivent dans les eaux tropicales. Ils ont une vie adaptée à la chasse et des liens importants avec les humains.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Les crocodiles sont des reptiles du même ordre que les alligators, les caïmans et les gavials.",
+        "Ils vivent dans les rivières et les fleuves des régions tropicales d’Afrique, d’Amérique, d’Asie et d’Australie.",
+        "Il existe une vingtaine d’espèces.",
+        "Certains vivent aussi dans l’eau salée des estuaires et des mers."
+      ]
+    },
+    {
+      "sentences": [
+        "Ce sont des carnivores chasseurs.",
+        "Les plus grands mesurent jusqu’à 6 mètres de long.",
+        "Sur terre, ils se déplacent difficilement, mais dans l’eau, ils sont très agiles.",
+        "Leur queue puissante les aide à nager vite et à surprendre leurs proies."
+      ]
+    },
+    {
+      "sentences": [
+        "Les crocodiles sont de redoutables prédateurs.",
+        "Certains ont de larges mâchoires, tandis que d’autres, comme le gavial du Gange, ont un museau étroit pour pêcher.",
+        "Ils mangent aussi des cadavres trouvés sur les berges.",
+        "Ils peuvent rester plusieurs mois sans nourriture et attendre les animaux en migration."
+      ]
+    },
+    {
+      "sentences": [
+        "La femelle pond entre 40 et 60 œufs dans un nid.",
+        "Elle ne couve pas, mais elle surveille le nid pendant environ 80 jours, souvent sans manger.",
+        "La température du nid décide du sexe du petit : à 31,5 °C, c’est un mâle ; sinon, c’est une femelle.",
+        "Les petits restent avec leur mère quelques mois, puis ils doivent se débrouiller seuls."
+      ]
+    },
+    {
+      "sentences": [
+        "Le seul vrai prédateur du crocodile est l’Homme, qui le chasse pour son cuir ou pour le manger.",
+        "En Floride, il y a environ 1 million d’alligators, soit un pour quatorze habitants.",
+        "En Inde, les hommes ont presque exterminé les crocodiles, mais cela a favorisé les loutres et réduit les poissons.",
+        "Les Égyptiens antiques vénéraient Sobek, un dieu à tête de crocodile."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "alligators"
+    },
+    {
+      "term": "caïmans"
+    },
+    {
+      "term": "gavials"
+    },
+    {
+      "term": "tropicales"
+    },
+    {
+      "term": "estuaires"
+    },
+    {
+      "term": "carnivores"
+    },
+    {
+      "term": "agiles"
+    },
+    {
+      "term": "prédateurs"
+    },
+    {
+      "term": "mâchoires"
+    },
+    {
+      "term": "museau"
+    },
+    {
+      "term": "couve"
+    },
+    {
+      "term": "exterminé"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "D’après le texte, où vivent certaines espèces de crocodiles en plus des rivières et des fleuves ?",
+      "options": [
+        "Dans les régions tropicales d’Europe et d’Amérique du Nord.",
+        "Dans des eaux salées, comme les estuaires et les mers.",
+        "Seulement dans les lacs et les marais d’Asie.",
+        "Uniquement dans les fleuves d’Afrique et d’Australie."
+      ],
+      "answerIndex": 1,
+      "evidence": "Certains vivent aussi dans l’eau salée des estuaires et des mers.",
+      "explanation": "Le passage indique que, à côté des rivières et des fleuves, certaines espèces fréquentent des milieux salés. Les options qui limitent l’habitat à une seule région ou à un seul type d’eau sont donc trop restrictives."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi la queue est-elle utile au crocodile pour chasser ?",
+      "options": [
+        "Elle lui permet de marcher plus facilement sur la terre ferme.",
+        "Elle sert à construire un nid pour protéger les œufs.",
+        "Elle l’aide à se déplacer rapidement dans l’eau et à attaquer ses proies par surprise.",
+        "Elle indique si les petits seront mâles ou femelles."
+      ],
+      "answerIndex": 2,
+      "evidence": "Leur queue puissante les aide à nager vite et à surprendre leurs proies.",
+      "explanation": "Le texte attribue à la queue deux effets liés à la chasse : la rapidité dans l’eau et l’effet de surprise. Les autres options concernent la marche, le nid ou le sexe des petits, qui ne sont pas liés à la queue."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quelle différence le texte établit-il entre certains crocodiles et le gavial du Gange ?",
+      "options": [
+        "Le gavial vit seulement en eau salée, alors que les autres préfèrent les rivières.",
+        "Le gavial se nourrit uniquement de cadavres, alors que les autres chassent.",
+        "Le gavial est toujours plus long que les autres crocodiles.",
+        "Le gavial a un museau étroit pour pêcher, tandis que d’autres crocodiles ont de larges mâchoires."
+      ],
+      "answerIndex": 3,
+      "evidence": "Certains ont de larges mâchoires, tandis que d’autres, comme le gavial du Gange, ont un museau étroit pour pêcher.",
+      "explanation": "Le contraste porte sur la forme du museau : étroit chez le gavial pour pêcher, large chez d’autres. Les autres options ajoutent des informations absentes ou contredisent le texte."
+    },
+    {
+      "id": "q4",
+      "prompt": "Que fait la femelle pendant la période qui suit la ponte ?",
+      "options": [
+        "Elle couve les œufs avec son corps pendant environ 80 jours.",
+        "Elle garde le nid sans couver et passe souvent ce temps sans se nourrir.",
+        "Elle abandonne le nid dès la ponte pour chercher de la nourriture.",
+        "Elle déplace les œufs pour décider si les petits seront mâles ou femelles."
+      ],
+      "answerIndex": 1,
+      "evidence": "Elle ne couve pas, mais elle surveille le nid pendant environ 80 jours, souvent sans manger.",
+      "explanation": "Le texte précise que la femelle ne couve pas mais garde le nid, en restant souvent sans manger. Les options sur la couvaison, l’abandon immédiat ou le déplacement des œufs ne correspondent pas."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que détermine la température du nid ?",
+      "options": [
+        "Le nombre d’œufs que la femelle peut pondre.",
+        "La durée pendant laquelle la femelle surveille le nid.",
+        "Si le petit qui naîtra sera mâle ou femelle.",
+        "Le lieu où les petits iront vivre après quelques mois."
+      ],
+      "answerIndex": 2,
+      "evidence": "La température du nid décide du sexe du petit : à 31,5 °C, c’est un mâle ; sinon, c’est une femelle.",
+      "explanation": "Le passage relie directement la température du nid au sexe du futur petit. Le nombre d’œufs, la durée de surveillance et le lieu de vie futur ne dépendent pas de cette température dans le texte."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelle phrase résume le mieux l’article ?",
+      "options": [
+        "Les crocodiles sont des reptiles variés, adaptés à la chasse, dont la reproduction et les rapports avec l’homme ont des effets particuliers.",
+        "Les crocodiles sont des animaux domestiques élevés pour leur cuir en Floride.",
+        "Les crocodiles ne vivent que dans les rivières d’Asie et ne chassent que des poissons.",
+        "Les crocodiles ont disparu partout à cause des loutres et des poissons."
+      ],
+      "answerIndex": 0,
+      "evidence": "Les crocodiles sont des reptiles du même ordre que les alligators, les caïmans et les gavials.",
+      "explanation": "L’article présente plusieurs espèces, leur habitat, leur façon de chasser, leur reproduction et leur relation avec l’Homme. Les autres options réduisent ou déforment ces informations."
+    },
+    {
+      "id": "q7",
+      "prompt": "D’après le texte, qu’a entraîné la disparition presque totale des crocodiles en Inde ?",
+      "options": [
+        "Une augmentation du nombre d’alligators en Floride.",
+        "Un avantage pour les loutres et une diminution des poissons.",
+        "Un retour des crocodiles dans les estuaires et les mers.",
+        "Un arrêt de la chasse au cuir et de la consommation de crocodiles."
+      ],
+      "answerIndex": 1,
+      "evidence": "En Inde, les hommes ont presque exterminé les crocodiles, mais cela a favorisé les loutres et réduit les poissons.",
+      "explanation": "Le texte dit que l’extermination des crocodiles en Inde a favorisé les loutres et réduit les poissons. Les autres options concernent la Floride, les estuaires ou la chasse, sans être la conséquence indiquée pour l’Inde."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "鳄鱼：令人惊奇的爬行动物",
+      "summary": "鳄鱼是生活在热带水域的肉食性爬行动物。它们的生活适应捕猎，并与人类有重要联系。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "鳄鱼是与短吻鳄、凯门鳄和长吻鳄同属鳄目的爬行动物。",
+            "它们生活在非洲、美洲、亚洲和澳大利亚热带地区的河流与大河中。",
+            "大约有二十种。",
+            "有些也生活在河口和海洋的咸水中。"
+          ]
+        },
+        {
+          "sentences": [
+            "它们是肉食性猎手。",
+            "最大的体长可达6米。",
+            "在陆地上，它们行动困难，但在水中，它们非常敏捷。",
+            "它们强有力的尾巴帮助它们快速游泳并突袭猎物。"
+          ]
+        },
+        {
+          "sentences": [
+            "鳄鱼是可怕的捕食者。",
+            "有些有宽大的颌部，而另一些，如恒河鳄，有用于捕鱼的细长口鼻部。",
+            "它们也吃在河岸上发现的尸体。",
+            "它们可以数月不进食，并等待迁徙的动物。"
+          ]
+        },
+        {
+          "sentences": [
+            "雌鳄在巢中产下40到60枚卵。",
+            "它不孵卵，但会在约80天里看守巢穴，常常不进食。",
+            "巢的温度决定幼鳄的性别：31.5°C时是雄性；否则是雌性。",
+            "幼鳄与母亲待几个月，然后必须独自谋生。"
+          ]
+        },
+        {
+          "sentences": [
+            "鳄鱼唯一真正的捕食者是人类，人类为了皮革或食用而捕猎它。",
+            "在佛罗里达，约有100万只短吻鳄，相当于每十四名居民一只。",
+            "在印度，人类几乎灭绝了鳄鱼，但这有利于水獭并减少了鱼类。",
+            "古埃及人崇拜索贝克，一位鳄鱼头的神。"
+          ]
+        }
+      ],
+      "glossary": {
+        "alligators": "短吻鳄，鳄目的一类爬行动物，常见于美洲。",
+        "caïmans": "凯门鳄，鳄目的一类，主要分布在中南美洲。",
+        "gavials": "长吻鳄类，特征是嘴部细长，如恒河鳄。",
+        "tropicales": "热带的，指赤道附近炎热地区的。",
+        "estuaires": "河口湾，河流入海处淡水与海水交汇的水域。",
+        "carnivores": "肉食性的，以动物肉为食的。",
+        "agiles": "敏捷的，动作灵活迅速的。",
+        "prédateurs": "捕食者，捕食其他动物的动物。",
+        "mâchoires": "颌部，口腔中用于咬合的上下颚结构。",
+        "museau": "口鼻部，动物面部突出的嘴和鼻部分。",
+        "couve": "孵卵，用体温使卵孵化；文中指母鳄不孵卵。",
+        "exterminé": "被灭绝、被消灭殆尽，几乎全部杀光。"
+      },
+      "questions": {
+        "q1": "文中说某些鳄鱼也栖息在河口和海洋的咸水里，因此除了淡水河流外，还有咸水环境；第二项“在咸水中，例如河口和海洋”正符合这一点。第一项把分布缩到欧洲和北美洲热带地区，第三项说只在亚洲的湖泊和沼泽中，第四项说只在非洲和澳大利亚的河流中，都与文中多地区及咸水信息不符。",
+        "q2": "文中把强有力尾巴的作用说成在水中游得快并让猎物措手不及，所以第三项“它帮助鳄鱼在水中迅速移动，并出其不意地袭击猎物”正确。第一项说尾巴让它在陆地上更容易行走，与文中陆地上行动困难相反；第二项把尾巴和筑巢保护卵联系起来，文中无据；第四项把性别决定归给尾巴，实际由巢温决定。",
+        "q3": "文中用恒河鳄的细长口鼻捕鱼对照其他鳄鱼的宽大颌部，因此第四项“恒河鳄有用于捕鱼的细长口鼻部，而其他鳄鱼有宽大的颌部”正确。第一项关于咸水偏好、第二项说只吃尸体、第三项比较体长，都不是文中建立的区别，且与原文不符或无据。",
+        "q4": "文中明确母鳄不孵卵而看守巢约80天且常不进食，所以第二项“它守护巢穴却不孵卵，而且常常在这段时间不进食”正确。第一项说用身体孵卵与“不孵卵”矛盾；第三项说产卵后立即离开与看守矛盾；第四项说移动卵决定性别，实际是巢温决定性别。",
+        "q5": "文中直接说巢温决定幼鳄性别：31.5°C为雄性，否则为雌性，所以第三项“将出生的幼鳄是雄性还是雌性”正确。第一项卵数、第二项看守时长、第四项日后生活地点在文中都不由巢温决定。",
+        "q6": "全文介绍鳄鱼类群多样、栖息地、捕猎适应、繁殖和与人类关系，第一项“鳄鱼是种类多样的爬行动物，适应捕猎，其繁殖以及与人类的关系有特殊影响”最全面。第二项把鳄鱼说成家养且只为皮革，第三项把分布和食物说得过窄，第四项说各地因水獭和鱼类消失，均与文章不符。",
+        "q7": "文中说印度人类几乎灭绝鳄鱼，但这有利于水獭并减少鱼类，所以第二项“对水獭有利，并使鱼类减少”正确。第一项是佛罗里达短吻鳄数量，第三项回到河口和海洋、第四项停止捕猎和食用都不是文中给出的印度后果。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "根据文章，除了河流与大河之外，某些鳄鱼物种还生活在哪里？",
+          "options": [
+            "在欧洲和北美洲的热带地区。",
+            "在咸水中，例如河口和海洋。",
+            "只在亚洲的湖泊和沼泽中。",
+            "只在非洲和澳大利亚的河流中。"
+          ]
+        },
+        "q2": {
+          "prompt": "为什么尾巴对鳄鱼捕猎有用？",
+          "options": [
+            "它让鳄鱼在陆地上更容易行走。",
+            "它用来筑巢保护卵。",
+            "它帮助鳄鱼在水中迅速移动，并出其不意地袭击猎物。",
+            "它表明幼鳄将是雄性还是雌性。"
+          ]
+        },
+        "q3": {
+          "prompt": "文章在有些鳄鱼与恒河鳄之间指出了什么区别？",
+          "options": [
+            "恒河鳄只生活在咸水中，而其他鳄鱼更喜欢河流。",
+            "恒河鳄只吃尸体，而其他鳄鱼捕猎。",
+            "恒河鳄总是比其他鳄鱼更长。",
+            "恒河鳄有用于捕鱼的细长口鼻部，而其他鳄鱼有宽大的颌部。"
+          ]
+        },
+        "q4": {
+          "prompt": "雌鳄在产卵后的时期做什么？",
+          "options": [
+            "它用身体孵卵约80天。",
+            "它守护巢穴却不孵卵，而且常常在这段时间不进食。",
+            "它产卵后立刻离开巢穴去寻找食物。",
+            "它移动卵来决定幼鳄是雄性还是雌性。"
+          ]
+        },
+        "q5": {
+          "prompt": "巢的温度决定什么？",
+          "options": [
+            "雌鳄能产多少枚卵。",
+            "雌鳄看守巢穴的时长。",
+            "将出生的幼鳄是雄性还是雌性。",
+            "幼鳄几个月后去哪里生活。"
+          ]
+        },
+        "q6": {
+          "prompt": "哪句话最好地概括了文章？",
+          "options": [
+            "鳄鱼是种类多样的爬行动物，适应捕猎，其繁殖以及与人类的关系有特殊影响。",
+            "鳄鱼是在佛罗里达为获取皮革而饲养的家养动物。",
+            "鳄鱼只生活在亚洲的河流中，并且只捕食鱼类。",
+            "由于水獭和鱼类，鳄鱼已在各地消失。"
+          ]
+        },
+        "q7": {
+          "prompt": "根据文章，印度鳄鱼几乎完全消失带来了什么结果？",
+          "options": [
+            "佛罗里达短吻鳄数量增加。",
+            "对水獭有利，并使鱼类减少。",
+            "鳄鱼回到河口和海洋。",
+            "为了皮革的捕猎和食用鳄鱼停止。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Crocodile",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2346827&title=Crocodile",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-26",
+    "revisionId": "2346827"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-26",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-26-crocodile-b1-3179f44de9f3.jpg",
+    "alt": "Crocodile du Nil à Yamoussoukro, Côte d'Ivoire.",
+    "author": "Clément Bucco-Lechat",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crocodile_du_Nil.jpg?oldid=1141529265",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Réduite à 1280×960 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 1280,
+    "height": 960,
+    "byteLength": 174219,
+    "sha256": "3179f44de9f32875931fc52e3501ccffdd5e7d54236d9274241c6900436e8334",
+    "fileRevisionId": "1141529265",
+    "retrievedAt": "2026-11-26"
+  }
+}

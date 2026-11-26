@@ -1,0 +1,264 @@
+{
+  "id": "2026-11-26-camillo-cavour-a2",
+  "title": "Camillo Cavour et l’unité italienne",
+  "level": "A2",
+  "theme": "histoire",
+  "date": "2026-11-26",
+  "summary": "Camillo Cavour est un homme politique italien du XIXe siècle. Il joue un rôle important dans l’unité de l’Italie et devient le premier Premier ministre du royaume d’Italie.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Camillo Cavour est né à Turin en 1810.",
+        "Il est un homme politique important de l’Italie du XIXe siècle.",
+        "Il est l’un des « pères de la patrie » italienne."
+      ]
+    },
+    {
+      "sentences": [
+        "Il participe au Risorgimento, le mouvement pour l’unité italienne.",
+        "Il n’a pas de plan complet, mais il soutient le royaume de Sardaigne.",
+        "Il veut rassembler les patriotes italiens autour de ce royaume."
+      ]
+    },
+    {
+      "sentences": [
+        "Il est ministre du royaume de Sardaigne à partir de 1850.",
+        "Il dirige le gouvernement plusieurs fois.",
+        "En 1861, il devient le premier président du Conseil du royaume d’Italie."
+      ]
+    },
+    {
+      "sentences": [
+        "En politique intérieure, Cavour défend des idées libérales et des réformes.",
+        "Il soutient le libre-échange avec les pays voisins.",
+        "Il développe les chemins de fer et modernise l’agriculture."
+      ]
+    },
+    {
+      "sentences": [
+        "À l’étranger, il cherche l’amitié du Royaume-Uni et de la France.",
+        "Avec l’aide de Napoléon III, il agrandit le Piémont au nord de l’Italie.",
+        "Des plébiscites et des conquêtes permettent ensuite d’unir plusieurs territoires."
+      ]
+    },
+    {
+      "sentences": [
+        "Le royaume d’Italie est proclamé en 1861.",
+        "Cavour meurt à Turin la même année, après deux mois et demi au pouvoir."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Risorgimento"
+    },
+    {
+      "term": "patriotes"
+    },
+    {
+      "term": "ministre"
+    },
+    {
+      "term": "gouvernement"
+    },
+    {
+      "term": "libérales"
+    },
+    {
+      "term": "réformes"
+    },
+    {
+      "term": "libre-échange"
+    },
+    {
+      "term": "chemins de fer"
+    },
+    {
+      "term": "plébiscites"
+    },
+    {
+      "term": "proclamé"
+    },
+    {
+      "term": "agriculture"
+    },
+    {
+      "term": "président du Conseil"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Que veut faire Cavour avec les patriotes italiens ?",
+      "options": [
+        "Il veut les réunir autour du royaume de Sardaigne.",
+        "Il veut les réunir autour du Royaume-Uni.",
+        "Il veut les réunir autour du royaume de France.",
+        "Il veut les réunir autour du royaume d’Italie."
+      ],
+      "answerIndex": 0,
+      "evidence": "Il veut rassembler les patriotes italiens autour de ce royaume.",
+      "explanation": "Le texte indique que le point de rassemblement est le royaume de Sardaigne, et non le Royaume-Uni, la France ou le royaume d’Italie."
+    },
+    {
+      "id": "q3",
+      "prompt": "Que montre l’article sur Camillo Cavour ?",
+      "options": [
+        "C’est un écrivain qui raconte l’histoire de Turin.",
+        "C’est un militaire français proche de Napoléon III.",
+        "C’est un roi de Sardaigne qui dirige le gouvernement.",
+        "C’est un homme politique important pour l’Italie du XIXe siècle."
+      ],
+      "answerIndex": 3,
+      "evidence": "Il est un homme politique important de l’Italie du XIXe siècle.",
+      "explanation": "L’article présente Cavour comme un acteur politique majeur de l’Italie du XIXe siècle, notamment pour l’unité ; il n’est ni écrivain, ni militaire français, ni roi."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quand Cavour devient-il premier président du Conseil du royaume d’Italie ?",
+      "options": [
+        "En 1810",
+        "En 1850",
+        "En 1861",
+        "En 1862"
+      ],
+      "answerIndex": 2,
+      "evidence": "En 1861, il devient le premier président du Conseil du royaume d’Italie.",
+      "explanation": "La date de 1861 est celle où il devient premier président du Conseil ; 1810 est sa naissance, 1850 le début comme ministre, et 1862 n’est pas donné."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "卡米洛·卡武尔与意大利统一",
+      "summary": "卡米洛·卡武尔是19世纪的意大利政治家。他在意大利统一中发挥重要作用，并成为意大利王国的首任首相。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "卡米洛·卡武尔于1810年出生在都灵。",
+            "他是19世纪意大利的一位重要政治家。",
+            "他是意大利“祖国之父”之一。"
+          ]
+        },
+        {
+          "sentences": [
+            "他参与了意大利复兴运动，即争取意大利统一的运动。",
+            "他没有完整的计划，但他支持撒丁王国。",
+            "他想把意大利爱国者聚集在这个王国周围。"
+          ]
+        },
+        {
+          "sentences": [
+            "他从1850年起担任撒丁王国的部长。",
+            "他多次领导政府。",
+            "1861年，他成为意大利王国的首任内阁总理。"
+          ]
+        },
+        {
+          "sentences": [
+            "在内政方面，卡武尔捍卫自由主义思想和改革。",
+            "他支持与邻国进行自由贸易。",
+            "他发展铁路并推动农业现代化。"
+          ]
+        },
+        {
+          "sentences": [
+            "在对外方面，他寻求与英国和法国保持友好关系。",
+            "在拿破仑三世的帮助下，他扩大了意大利北部的皮埃蒙特。",
+            "随后，公民投票和征服使多个地区得以统一。"
+          ]
+        },
+        {
+          "sentences": [
+            "意大利王国于1861年宣告成立。",
+            "卡武尔同年于都灵去世，在掌权两个半月之后。"
+          ]
+        }
+      ],
+      "glossary": {
+        "Risorgimento": "意大利复兴运动；19世纪争取意大利统一的政治和文化运动。",
+        "patriotes": "爱国者；热爱并支持自己国家的人，文中指支持意大利统一的人。",
+        "ministre": "部长；政府中负责某个部门或领域的高级成员。",
+        "gouvernement": "政府；负责管理国家或王国事务的机构。",
+        "libérales": "自由主义的（阴性复数形式）；文中指主张个人自由、经济自由和改革的政治理念。",
+        "réformes": "改革；为改善制度、经济或社会而进行的改变。",
+        "libre-échange": "自由贸易；国家之间减少关税和限制的商品交换政策。",
+        "chemins de fer": "铁路；供火车运行的线路及其系统。",
+        "plébiscites": "公民投票；由民众直接投票决定重大政治问题的表决。",
+        "proclamé": "被宣告；正式公开宣布成立或生效。",
+        "agriculture": "农业；种植作物和饲养牲畜的生产活动。",
+        "président du Conseil": "内阁总理；王国政府的首脑，领导部长会议。"
+      },
+      "questions": {
+        "q1": "文中说卡武尔支持撒丁王国，紧接着的“这个王国”指撒丁王国，因此他想把意大利爱国者聚集在撒丁王国周围；英国、法国王国和意大利王国都不是这里所指的王国。",
+        "q3": "文章明确把卡武尔定位为19世纪意大利的重要政治家，并强调他在意大利统一中的作用；文章没有说他是作家、接近拿破仑三世的法国军人或领导政府的撒丁国王，这些身份与文中定位不符。",
+        "q4": "证据句把1861年与成为意大利王国首任内阁总理直接相连；1810年是他的出生年份，1850年是他开始担任撒丁王国部长的年份，1862年在文中没有出现。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "卡武尔想和意大利爱国者做什么？",
+          "options": [
+            "他想让他们聚集在撒丁王国周围。",
+            "他想让他们聚集在英国周围。",
+            "他想让他们聚集在法国王国周围。",
+            "他想让他们聚集在意大利王国周围。"
+          ]
+        },
+        "q3": {
+          "prompt": "文章关于卡米洛·卡武尔说明了什么？",
+          "options": [
+            "他是一位讲述都灵历史的作家。",
+            "他是一位接近拿破仑三世的法国军人。",
+            "他是一位领导政府的撒丁国王。",
+            "他是19世纪意大利的一位重要政治家。"
+          ]
+        },
+        "q4": {
+          "prompt": "卡武尔何时成为意大利王国首任内阁总理？",
+          "options": [
+            "1810年",
+            "1850年",
+            "1861年",
+            "1862年"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Camillo Cavour",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=241473530",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-26",
+    "revisionId": "241473530"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-26",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-26-camillo-cavour-a2-35ea199c2690.jpg",
+    "alt": "Camillo Benso count of Cavour by Antonio Ciseri",
+    "author": "Antonio Ciseri",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Camillo_Benso_Cavour_di_Ciseri.jpg?oldid=1030293662",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "changes": "Fichier original téléchargé depuis Wikimedia Commons ; aucune modification.",
+    "width": 1165,
+    "height": 1600,
+    "byteLength": 351694,
+    "sha256": "35ea199c2690bac0e0883f17c5993f39db898b172ab1f8d18b90c26b3252f5bc",
+    "fileRevisionId": "1030293662",
+    "retrievedAt": "2026-11-26"
+  }
+}

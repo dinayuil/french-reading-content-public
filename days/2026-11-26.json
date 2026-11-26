@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-26",
+  "articles": [
+    {
+      "id": "2026-11-26-haiti-une-entrepreneuse-connait-le-succes-grace-a-la-promoti",
+      "title": "REB Lokal : transformer les produits haïtiens malgré les obstacles",
+      "level": "B2",
+      "theme": "économie",
+      "date": "2026-11-26",
+      "summary": "En Haïti, malgré une forte dépendance aux importations et des obstacles sécuritaires, l’entrepreneuse Rébetha Charles transforme des produits agricoles locaux avec REB Lokal pour soutenir les petits producteurs.",
+      "path": "articles/2026-11-26-haiti-une-entrepreneuse-connait-le-succes-grace-a-la-promoti.json",
+      "variants": [
+        {
+          "id": "2026-11-26-haiti-une-entrepreneuse-connait-le-succes-grace-a-la-promoti-b1",
+          "title": "REB Lokal transforme les produits agricoles haïtiens",
+          "level": "B1",
+          "theme": "économie",
+          "date": "2026-11-26",
+          "summary": "En Haïti, malgré les importations et l’insécurité, Rébetha Charles a créé REB Lokal. Son entreprise transforme des produits locaux et aide les petits agriculteurs à vendre leurs récoltes.",
+          "path": "articles/2026-11-26-haiti-une-entrepreneuse-connait-le-succes-grace-a-la-promoti-b1.json"
+        },
+        {
+          "id": "2026-11-26-haiti-une-entrepreneuse-connait-le-succes-grace-a-la-promoti-a2",
+          "title": "Une entreprise haïtienne transforme les produits locaux",
+          "level": "A2",
+          "theme": "économie",
+          "date": "2026-11-26",
+          "summary": "En Haïti, Rébetha Charles a créé REB Lokal. Son entreprise achète les récoltes des petits agriculteurs et fabrique des produits locaux.",
+          "path": "articles/2026-11-26-haiti-une-entrepreneuse-connait-le-succes-grace-a-la-promoti-a2.json"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-crocodile",
+      "title": "Les crocodiles : mode de vie, reproduction et rapports avec l’homme",
+      "level": "B2",
+      "theme": "science",
+      "date": "2026-11-26",
+      "summary": "Ce texte présente les crocodiles, leur mode de vie et de chasse, leur reproduction, leurs prédateurs et leur place dans l’imaginaire et les équilibres écologiques.",
+      "path": "articles/2026-11-26-crocodile.json",
+      "variants": [
+        {
+          "id": "2026-11-26-crocodile-b1",
+          "title": "Les crocodiles : des reptiles surprenants",
+          "level": "B1",
+          "theme": "science",
+          "date": "2026-11-26",
+          "summary": "Les crocodiles sont des reptiles carnivores qui vivent dans les eaux tropicales. Ils ont une vie adaptée à la chasse et des liens importants avec les humains.",
+          "path": "articles/2026-11-26-crocodile-b1.json"
+        },
+        {
+          "id": "2026-11-26-crocodile-a2",
+          "title": "Les crocodiles : des reptiles fascinants",
+          "level": "A2",
+          "theme": "science",
+          "date": "2026-11-26",
+          "summary": "Les crocodiles sont des reptiles carnivores qui vivent dans les eaux tropicales. Ils chassent, se cachent et élèvent leurs petits avec des méthodes étonnantes.",
+          "path": "articles/2026-11-26-crocodile-a2.json"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-camillo-cavour",
+      "title": "Camillo Cavour et l’unité italienne",
+      "level": "B2",
+      "theme": "histoire",
+      "date": "2026-11-26",
+      "summary": "Camillo Cavour, homme d’État piémontais, fut un acteur majeur de l’unité italienne et le premier président du Conseil du royaume d’Italie.",
+      "path": "articles/2026-11-26-camillo-cavour.json",
+      "variants": [
+        {
+          "id": "2026-11-26-camillo-cavour-b1",
+          "title": "Camillo Cavour et l’unité de l’Italie",
+          "level": "B1",
+          "theme": "histoire",
+          "date": "2026-11-26",
+          "summary": "Camillo Cavour, homme d’État piémontais, a joué un rôle central dans l’unité italienne et est devenu le premier président du Conseil du royaume d’Italie en 1861.",
+          "path": "articles/2026-11-26-camillo-cavour-b1.json"
+        },
+        {
+          "id": "2026-11-26-camillo-cavour-a2",
+          "title": "Camillo Cavour et l’unité italienne",
+          "level": "A2",
+          "theme": "histoire",
+          "date": "2026-11-26",
+          "summary": "Camillo Cavour est un homme politique italien du XIXe siècle. Il joue un rôle important dans l’unité de l’Italie et devient le premier Premier ministre du royaume d’Italie.",
+          "path": "articles/2026-11-26-camillo-cavour-a2.json"
+        }
+      ]
+    }
+  ]
+}
