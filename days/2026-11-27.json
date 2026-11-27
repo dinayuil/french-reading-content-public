@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-27",
+  "articles": [
+    {
+      "id": "2026-11-27-effet-de-serre",
+      "title": "L’effet de serre : un phénomène naturel accentué par les activités humaines",
+      "level": "B2",
+      "theme": "environnement",
+      "date": "2026-11-27",
+      "summary": "L’effet de serre naturel maintient une température vivable sur Terre, mais l’augmentation des gaz à effet de serre liée aux activités humaines renforce le réchauffement climatique.",
+      "path": "articles/2026-11-27-effet-de-serre.json",
+      "variants": [
+        {
+          "id": "2026-11-27-effet-de-serre-b1",
+          "title": "L’effet de serre et le réchauffement climatique",
+          "level": "B1",
+          "theme": "environnement",
+          "date": "2026-11-27",
+          "summary": "L’effet de serre naturel garde la Terre habitable, mais les activités humaines augmentent les gaz à effet de serre. Cela provoque un réchauffement climatique et des risques importants pour les océans et la vie.",
+          "path": "articles/2026-11-27-effet-de-serre-b1.json"
+        },
+        {
+          "id": "2026-11-27-effet-de-serre-a2",
+          "title": "L'effet de serre et le réchauffement",
+          "level": "A2",
+          "theme": "environnement",
+          "date": "2026-11-27",
+          "summary": "L'effet de serre est un phénomène naturel qui garde la chaleur sur Terre. Mais les activités humaines produisent trop de gaz et augmentent le réchauffement climatique.",
+          "path": "articles/2026-11-27-effet-de-serre-a2.json"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-concours-eurovision-de-la-chanson",
+      "title": "L’Eurovision : une compétition musicale devenue un phénomène culturel",
+      "level": "B2",
+      "theme": "culture",
+      "date": "2026-11-27",
+      "summary": "Créé en 1956, le Concours Eurovision de la chanson réunit chaque année des pays membres de l’UER autour de chansons, d’un vote rituel et d’enjeux culturels et politiques.",
+      "path": "articles/2026-11-27-concours-eurovision-de-la-chanson.json",
+      "variants": [
+        {
+          "id": "2026-11-27-concours-eurovision-de-la-chanson-b1",
+          "title": "Le Concours Eurovision de la chanson",
+          "level": "B1",
+          "theme": "culture",
+          "date": "2026-11-27",
+          "summary": "Le Concours Eurovision est une compétition musicale annuelle créée en 1956. Il réunit des pays membres de l’UER et a évolué avec de nouvelles règles, des votes et des débats politiques.",
+          "path": "articles/2026-11-27-concours-eurovision-de-la-chanson-b1.json"
+        },
+        {
+          "id": "2026-11-27-concours-eurovision-de-la-chanson-a2",
+          "title": "Le Concours Eurovision de la chanson",
+          "level": "A2",
+          "theme": "culture",
+          "date": "2026-11-27",
+          "summary": "Le Concours Eurovision est une grande compétition musicale annuelle. Il réunit des pays et il est diffusé à la télévision, à la radio et sur Internet.",
+          "path": "articles/2026-11-27-concours-eurovision-de-la-chanson-a2.json"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-au-senegal-la-justice-avance-dans-les-tribunaux-pas-au-somme",
+      "title": "Au Sénégal, la réforme de la justice avance malgré le blocage politique",
+      "level": "B2",
+      "theme": "politique",
+      "date": "2026-11-27",
+      "summary": "Au Sénégal, la réforme de la justice reste bloquée au sommet de l’État, malgré des avancées concrètes dans les Maisons de justice et le rejet du budget 2027 par les députés.",
+      "path": "articles/2026-11-27-au-senegal-la-justice-avance-dans-les-tribunaux-pas-au-somme.json",
+      "variants": [
+        {
+          "id": "2026-11-27-au-senegal-la-justice-avance-dans-les-tribunaux-pas-au-somme-b1",
+          "title": "Sénégal : une réforme de la justice entre avancées locales et blocages politiques",
+          "level": "B1",
+          "theme": "société",
+          "date": "2026-11-27",
+          "summary": "Au Sénégal, la réforme de la justice avance lentement dans les tribunaux et les Maisons de justice. Mais les grandes réformes restent bloquées par des désaccords politiques et un budget rejeté.",
+          "path": "articles/2026-11-27-au-senegal-la-justice-avance-dans-les-tribunaux-pas-au-somme-b1.json"
+        },
+        {
+          "id": "2026-11-27-au-senegal-la-justice-avance-dans-les-tribunaux-pas-au-somme-a2",
+          "title": "La réforme de la justice au Sénégal",
+          "level": "A2",
+          "theme": "politique",
+          "date": "2026-11-27",
+          "summary": "Au Sénégal, la grande réforme de la justice est bloquée au niveau politique. Pourtant, les Maisons de justice continuent d’aider des citoyens.",
+          "path": "articles/2026-11-27-au-senegal-la-justice-avance-dans-les-tribunaux-pas-au-somme-a2.json"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "id": "2026-11-27-au-senegal-la-justice-avance-dans-les-tribunaux-pas-au-somme-a2",
+  "title": "La réforme de la justice au Sénégal",
+  "level": "A2",
+  "theme": "politique",
+  "date": "2026-11-27",
+  "summary": "Au Sénégal, la grande réforme de la justice est bloquée au niveau politique. Pourtant, les Maisons de justice continuent d’aider des citoyens.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "En 2024, le Sénégal a organisé des Assises sur la justice à Diamniadio.",
+        "Les participants ont fait 30 groupes de recommandations.",
+        "Ils ont parlé d’une Cour constitutionnelle et d’un juge des libertés.",
+        "Mais les grands changements sont restés bloqués."
+      ]
+    },
+    {
+      "sentences": [
+        "Le 9 juillet 2026, le Conseil constitutionnel a annulé une loi sur la réforme.",
+        "La loi ne prévoyait pas d’argent pour la nouvelle Cour constitutionnelle.",
+        "Aujourd’hui, cette Cour n’existe toujours pas."
+      ]
+    },
+    {
+      "sentences": [
+        "Le 13 novembre 2026, des députés ont rejeté le budget 2027 de la Justice.",
+        "Le budget prévoyait 85,76 milliards de FCFA.",
+        "Il augmentait de 6,2 %, mais les députés ont critiqué la baisse des crédits des prisons."
+      ]
+    },
+    {
+      "sentences": [
+        "Dans les Maisons de justice, le travail continue.",
+        "Elles ont traité 15 533 dossiers de médiation et aidé 30 110 usagers.",
+        "Elles ont aussi recouvré 728,8 millions de FCFA."
+      ]
+    },
+    {
+      "sentences": [
+        "La détention provisoire reste un grand problème.",
+        "Les prisons avaient 15 912 détenus pour 10 912 places.",
+        "Environ 44,5 % des détenus attendaient leur jugement.",
+        "Le gouvernement promet de nouvelles prisons en 2027."
+      ]
+    },
+    {
+      "sentences": [
+        "Le président Faye et Ousmane Sonko sont maintenant en désaccord.",
+        "Ce conflit politique rend la réforme plus difficile.",
+        "La justice du quotidien avance, mais elle reste fragile."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Assises"
+    },
+    {
+      "term": "Diamniadio"
+    },
+    {
+      "term": "recommandations"
+    },
+    {
+      "term": "constitutionnelle"
+    },
+    {
+      "term": "annulé"
+    },
+    {
+      "term": "prévoyait"
+    },
+    {
+      "term": "crédits"
+    },
+    {
+      "term": "médiation"
+    },
+    {
+      "term": "recouvré"
+    },
+    {
+      "term": "détention provisoire"
+    },
+    {
+      "term": "détenus"
+    },
+    {
+      "term": "fragile"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quand le Conseil constitutionnel a-t-il annulé une loi sur la réforme ?",
+      "options": [
+        "Le 13 novembre 2026",
+        "Le 9 juillet 2026",
+        "En 2024",
+        "En 2027"
+      ],
+      "answerIndex": 1,
+      "evidence": "Le 9 juillet 2026, le Conseil constitutionnel a annulé une loi sur la réforme.",
+      "explanation": "Le texte donne la date du 9 juillet 2026 pour l’annulation de la loi par le Conseil constitutionnel. Les autres dates correspondent à d’autres événements ou ne sont pas liées à cette annulation."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi la nouvelle Cour constitutionnelle n’existe-t-elle toujours pas ?",
+      "options": [
+        "Parce que la loi ne prévoyait pas d’argent pour cette Cour.",
+        "Parce que les députés ont rejeté le budget 2027 de la Justice.",
+        "Parce que les Maisons de justice ont traité beaucoup de dossiers.",
+        "Parce que le gouvernement veut construire de nouvelles prisons en 2027."
+      ],
+      "answerIndex": 0,
+      "evidence": "La loi ne prévoyait pas d’argent pour la nouvelle Cour constitutionnelle.",
+      "explanation": "Le texte relie l’absence de la Cour au manque d’argent prévu dans la loi. Le rejet du budget 2027 concerne la Justice, pas directement la création de cette Cour."
+    },
+    {
+      "id": "q3",
+      "prompt": "Que montrent les chiffres des Maisons de justice ?",
+      "options": [
+        "Que la Cour constitutionnelle fonctionne bien.",
+        "Que les prisons ont plus de places que de détenus.",
+        "Que le travail de médiation et d’aide aux usagers continue.",
+        "Que le budget de la Justice augmente de 6,2 %."
+      ],
+      "answerIndex": 2,
+      "evidence": "Elles ont traité 15 533 dossiers de médiation et aidé 30 110 usagers.",
+      "explanation": "Les nombres indiquent que les Maisons de justice continuent à traiter des dossiers et à aider des personnes. Les autres options parlent de la Cour, des prisons ou du budget, pas de ces chiffres."
+    },
+    {
+      "id": "q4",
+      "prompt": "Combien de détenus et de places les prisons avaient-elles ?",
+      "options": [
+        "10 912 détenus pour 15 912 places.",
+        "15 533 détenus pour 10 912 places.",
+        "30 110 détenus pour 10 912 places.",
+        "15 912 détenus pour 10 912 places."
+      ],
+      "answerIndex": 3,
+      "evidence": "Les prisons avaient 15 912 détenus pour 10 912 places.",
+      "explanation": "Le texte indique que le nombre de détenus est plus grand que le nombre de places. Les autres options mélangent les chiffres du texte et ne donnent pas la bonne comparaison."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "塞内加尔的司法改革",
+      "summary": "在塞内加尔，司法大改革在政治层面受阻。然而，司法之家继续帮助公民。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "2024年，塞内加尔在迪亚姆尼亚迪奥举办了司法大会。",
+            "与会者提出了30组建议。",
+            "他们谈到了宪法法院和自由法官。",
+            "但重大变革仍被搁置。"
+          ]
+        },
+        {
+          "sentences": [
+            "2026年7月9日，宪法委员会废除了一项关于改革的法律。",
+            "该法律没有为新宪法法院规定资金。",
+            "如今，该法院仍然不存在。"
+          ]
+        },
+        {
+          "sentences": [
+            "2026年11月13日，一些议员否决了司法部2027年预算。",
+            "该预算规定为857.6亿非洲法郎。",
+            "它增加了6.2%，但议员们批评监狱拨款减少。"
+          ]
+        },
+        {
+          "sentences": [
+            "在司法之家，工作仍在继续。",
+            "它们处理了15 533件调解案，并帮助了30 110名使用者。",
+            "它们还追回了7.288亿非洲法郎。"
+          ]
+        },
+        {
+          "sentences": [
+            "审前羁押仍是一个大问题。",
+            "监狱有15 912名囚犯，而床位只有10 912个。",
+            "约44.5%的囚犯在等待审判。",
+            "政府承诺2027年建设新监狱。"
+          ]
+        },
+        {
+          "sentences": [
+            "总统法耶和奥斯曼·松科现在意见不合。",
+            "这场政治冲突使改革更加困难。",
+            "日常司法在前进，但仍然脆弱。"
+          ]
+        }
+      ],
+      "glossary": {
+        "Assises": "指就某一主题召集的大型会议或论坛；文中指2024年在迪亚姆尼亚迪奥举行的司法大会。",
+        "Diamniadio": "迪亚姆尼亚迪奥，塞内加尔城市，文中为2024年司法大会举办地。",
+        "recommandations": "建议、建议事项；文中指与会者提出的30组建议。",
+        "constitutionnelle": "宪法的；文中“Cour constitutionnelle”指宪法法院。",
+        "annulé": "废除、取消、判决无效；文中指宪法委员会使一项改革法律失效。",
+        "prévoyait": "预先规定、计划；文中指法律没有规定为新宪法法院提供资金。",
+        "crédits": "拨款、预算款项；文中指监狱相关预算减少。",
+        "médiation": "调解；文中指司法之家处理的调解案件。",
+        "recouvré": "追回、收回；文中指追回款项。",
+        "détention provisoire": "审前羁押、临时拘留；文中指审判前被关押。",
+        "détenus": "被拘留者、囚犯；文中指监狱中关押的人。",
+        "fragile": "脆弱的、不稳固的；文中指日常司法虽有进展但仍不稳固。"
+      },
+      "questions": {
+        "q1": "文中明确写“2026年7月9日，宪法委员会废除了一项关于改革的法律”，因此正确时间是第二项“2026年7月9日”。第一项“2026年11月13日”是议员否决司法预算的日期；第三项“2024年”是举行司法大会的年份；第四项“2027年”涉及预算年度或新监狱承诺，都不是废除法律的日期。",
+        "q2": "文本把新宪法法院仍不存在与法律没有为该法院规定资金联系起来；所以正确选项是第一项“因为该法律没有为这个法院规定资金”。第二项“议员否决2027年司法预算”是另一事件，并不直接说明该法院未设立；第三项“司法之家处理许多案件”与法院设立无关；第四项“政府要在2027年建新监狱”也针对监狱，不是宪法法院。",
+        "q3": "证据句说司法之家处理了15 533件调解案并帮助了30 110名使用者，说明调解和帮助使用者的工作仍在继续，因此正确选项是第三项“调解和帮助使用者的工作仍在继续”。第一项“宪法法院运转良好”与这些数字无关且文中说该法院不存在；第二项“监狱床位比囚犯多”与文中数字相反；第四项“司法预算增加6.2%”是预算信息，不是司法之家这些数字所显示的内容。",
+        "q4": "文中说监狱有15 912名囚犯，而床位只有10 912个，即囚犯数多于床位数，因此正确选项是第四项“15 912名囚犯对10 912个床位”。第一项把两个数字颠倒；第二项把司法之家处理的15 533件案件数当作囚犯数；第三项把帮助的30 110名使用者当作囚犯数，均与原文不符。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "宪法委员会何时废除了一项关于改革的法律？",
+          "options": [
+            "2026年11月13日",
+            "2026年7月9日",
+            "2024年",
+            "2027年"
+          ]
+        },
+        "q2": {
+          "prompt": "为什么新的宪法法院仍然不存在？",
+          "options": [
+            "因为该法律没有为这个法院规定资金。",
+            "因为议员们否决了司法部2027年预算。",
+            "因为司法之家处理了许多案件。",
+            "因为政府希望在2027年建造新监狱。"
+          ]
+        },
+        "q3": {
+          "prompt": "司法之家的数字说明了什么？",
+          "options": [
+            "宪法法院运转良好。",
+            "监狱的床位比囚犯多。",
+            "调解和帮助使用者的工作仍在继续。",
+            "司法预算增加了6.2%。"
+          ]
+        },
+        "q4": {
+          "prompt": "监狱里有多少囚犯和多少床位？",
+          "options": [
+            "10 912名囚犯对15 912个床位。",
+            "15 533名囚犯对10 912个床位。",
+            "30 110名囚犯对10 912个床位。",
+            "15 912名囚犯对10 912个床位。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Au Sénégal, la justice avance dans les tribunaux, pas au sommet de l'État",
+    "authors": [
+      "Jean Sovon"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/25/304386/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-27",
+    "publishedAt": "2026-11-25",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-27",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

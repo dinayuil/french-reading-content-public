@@ -1,0 +1,304 @@
+{
+  "id": "2026-11-27-concours-eurovision-de-la-chanson-b1",
+  "title": "Le Concours Eurovision de la chanson",
+  "level": "B1",
+  "theme": "culture",
+  "date": "2026-11-27",
+  "summary": "Le Concours Eurovision est une compétition musicale annuelle créée en 1956. Il réunit des pays membres de l’UER et a évolué avec de nouvelles règles, des votes et des débats politiques.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Le Concours Eurovision de la chanson est une compétition musicale annuelle organisée par l’UER.",
+        "Il est diffusé en direct à la télévision, à la radio et sur Internet.",
+        "Marcel Bezençon a proposé ce projet sur le modèle du Festival de Sanremo.",
+        "La première édition a eu lieu le 24 mai 1956 à Lugano, en Suisse."
+      ]
+    },
+    {
+      "sentences": [
+        "Sept pays ont participé à la première édition.",
+        "La Suisse a gagné avec la chanson Refrain, chantée par Lys Assia.",
+        "En 1957, chaque pays a présenté une seule chanson.",
+        "Les jurys nationaux n’ont plus eu le droit de voter pour leur propre pays.",
+        "En 1958, le pays vainqueur a dû organiser le concours suivant."
+      ]
+    },
+    {
+      "sentences": [
+        "Le nombre de participants a beaucoup augmenté au fil des années.",
+        "Le système de vote a changé plusieurs fois.",
+        "En 1975, les jurys ont attribué de 1 à 12 points à leurs chansons préférées.",
+        "En 1997, le télévote a été testé dans cinq pays.",
+        "En 2009, les jurys professionnels sont revenus en finale."
+      ]
+    },
+    {
+      "sentences": [
+        "Le concours a aussi connu des événements importants.",
+        "En 2020, l’édition a été annulée à cause de la pandémie de Covid-19.",
+        "En 2022, la Russie a été exclue après l’invasion de l’Ukraine.",
+        "L’Ukraine a gagné cette année-là, mais le Royaume-Uni a organisé l’édition 2023 à Liverpool."
+      ]
+    },
+    {
+      "sentences": [
+        "L’Eurovision est devenu un grand rendez-vous culturel européen.",
+        "Il a inspiré d’autres concours musicaux dans le monde.",
+        "Les langues, les votes et les questions politiques créent souvent des débats.",
+        "Le concours reste l’un des plus anciens programmes télévisés au monde."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "compétition musicale annuelle"
+    },
+    {
+      "term": "diffusé en direct"
+    },
+    {
+      "term": "Festival de Sanremo"
+    },
+    {
+      "term": "jurys nationaux"
+    },
+    {
+      "term": "télévote"
+    },
+    {
+      "term": "pandémie de Covid-19"
+    },
+    {
+      "term": "exclue"
+    },
+    {
+      "term": "invasion de l’Ukraine"
+    },
+    {
+      "term": "rendez-vous culturel européen"
+    },
+    {
+      "term": "débats"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Sur quel modèle Marcel Bezençon a-t-il proposé de créer le Concours Eurovision ?",
+      "options": [
+        "Le télévote utilisé dans cinq pays",
+        "Le concours organisé à Lugano en 1956",
+        "Le Festival de Sanremo",
+        "Le vote des jurys professionnels en finale"
+      ],
+      "answerIndex": 2,
+      "evidence": "Marcel Bezençon a proposé ce projet sur le modèle du Festival de Sanremo.",
+      "explanation": "Le texte indique clairement que le projet de Marcel Bezençon s’inspire du Festival de Sanremo. Les autres options renvoient à des éléments du concours qui ne sont pas présentés comme son modèle."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi l’édition 2020 du concours a-t-elle été annulée ?",
+      "options": [
+        "Parce que la Russie a été exclue après l’invasion de l’Ukraine.",
+        "À cause de la pandémie de Covid-19.",
+        "Parce que le Royaume-Uni a organisé l’édition à Liverpool.",
+        "Parce que les jurys nationaux ne pouvaient plus voter pour leur pays."
+      ],
+      "answerIndex": 1,
+      "evidence": "En 2020, l’édition a été annulée à cause de la pandémie de Covid-19.",
+      "explanation": "Le texte relie directement l’annulation de 2020 à la pandémie de Covid-19. Les autres options concernent des événements de 2022 ou 2023, ou une règle de vote qui n’explique pas cette annulation."
+    },
+    {
+      "id": "q3",
+      "prompt": "À partir de 1958, quelle obligation avait le pays vainqueur ?",
+      "options": [
+        "Il devait présenter une seule chanson.",
+        "Il devait tester le télévote dans cinq pays.",
+        "Il devait organiser le concours suivant.",
+        "Il devait revenir en finale avec des jurys professionnels."
+      ],
+      "answerIndex": 2,
+      "evidence": "En 1958, le pays vainqueur a dû organiser le concours suivant.",
+      "explanation": "La phrase précise que le vainqueur devait organiser l’édition suivante. Les autres propositions correspondent à d’autres changements ou à d’autres dates mentionnés dans l’article."
+    },
+    {
+      "id": "q4",
+      "prompt": "Qu’est-ce qui a changé en 1957 ?",
+      "options": [
+        "Les jurys ont attribué de 1 à 12 points.",
+        "Chaque pays a présenté une seule chanson.",
+        "Le télévote a été testé dans cinq pays.",
+        "Les jurys professionnels sont revenus en finale."
+      ],
+      "answerIndex": 1,
+      "evidence": "En 1957, chaque pays a présenté une seule chanson.",
+      "explanation": "Le texte associe l’année 1957 à la règle d’une seule chanson par pays. Les autres options renvoient à des évolutions de 1975, 1997 et 2009."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle idée du dernier paragraphe est la plus générale ?",
+      "options": [
+        "L’Eurovision est un rendez-vous culturel européen qui a inspiré d’autres concours.",
+        "L’Eurovision est surtout un concours réservé aux jurys professionnels.",
+        "L’Eurovision est une organisation politique qui exclut toujours un pays.",
+        "L’Eurovision est un programme télévisé qui ne suscite plus de débats."
+      ],
+      "answerIndex": 0,
+      "evidence": "L’Eurovision est devenu un grand rendez-vous culturel européen.",
+      "explanation": "Le dernier paragraphe présente l’Eurovision comme un grand rendez-vous culturel et indique qu’il a inspiré d’autres concours. Les autres options réduisent ou contredisent les informations données dans ce passage."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "欧洲歌唱大赛",
+      "summary": "欧洲歌唱大赛是创办于1956年的年度音乐比赛。它汇集欧洲广播联盟（UER）成员国，并随着新规则、投票和政治辩论而演变。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "欧洲歌唱大赛是由欧洲广播联盟（UER）组织的年度音乐比赛。",
+            "它通过电视、广播和互联网现场直播。",
+            "马塞尔·贝赞松以圣雷莫音乐节为模式提出了这一项目。",
+            "首届比赛于1956年5月24日在瑞士卢加诺举行。"
+          ]
+        },
+        {
+          "sentences": [
+            "有七个国家参加了首届比赛。",
+            "瑞士凭借莉斯·阿西娅演唱的歌曲《Refrain》获胜。",
+            "1957年，每个国家只提交一首歌曲。",
+            "各国评审团不再有权为本国投票。",
+            "1958年，获胜国必须组织下一届比赛。"
+          ]
+        },
+        {
+          "sentences": [
+            "参赛国数量多年来大幅增加。",
+            "投票制度曾多次改变。",
+            "1975年，评审团给最喜欢的歌曲打1至12分。",
+            "1997年，电视投票在五个国家进行了测试。",
+            "2009年，专业评审团重返决赛。"
+          ]
+        },
+        {
+          "sentences": [
+            "比赛也经历了一些重要事件。",
+            "2020年，比赛因Covid-19疫情被取消。",
+            "2022年，俄罗斯在入侵乌克兰后被排除。",
+            "乌克兰那年获胜，但英国在利物浦举办了2023年比赛。"
+          ]
+        },
+        {
+          "sentences": [
+            "欧洲歌唱大赛已成为欧洲重要的文化盛会。",
+            "它启发了世界上的其他音乐比赛。",
+            "语言、投票和政治问题常常引发辩论。",
+            "该比赛仍是世界上最古老的电视节目之一。"
+          ]
+        }
+      ],
+      "glossary": {
+        "compétition musicale annuelle": "每年举办的音乐比赛。",
+        "diffusé en direct": "通过电视、广播或网络实时播出。",
+        "Festival de Sanremo": "意大利圣雷莫音乐节，欧洲歌唱大赛的灵感来源之一。",
+        "jurys nationaux": "各国组成的评审团，负责为本国以外的参赛歌曲评分。",
+        "télévote": "观众通过电话或短信等方式投票的机制。",
+        "pandémie de Covid-19": "由Covid-19引发的大规模疫情。",
+        "exclue": "被排除在比赛之外，不得参加。",
+        "invasion de l’Ukraine": "俄罗斯对乌克兰发动的军事入侵。",
+        "rendez-vous culturel européen": "欧洲范围内重要的文化活动或盛会。",
+        "débats": "围绕某一话题展开的讨论或争论。"
+      },
+      "questions": {
+        "q1": "文中明确说马塞尔·贝赞松的项目以圣雷莫音乐节为模式，因此第三项“圣雷莫音乐节”正确。第一项“在五个国家使用的电视投票”是1997年的测试，第二项“1956年在卢加诺举办的比赛”是首届比赛而非模式，第四项“决赛中专业评审团的投票”是2009年的安排；三者都不是其灵感模式。",
+        "q2": "文中将2020年取消直接归因于Covid-19疫情，所以第二项“因为Covid-19疫情”正确。第一项“因为俄罗斯在入侵乌克兰后被排除”对应2022年，第三项“因为英国在利物浦举办了比赛”对应2023年，第四项“因为各国评审团不能再为本国投票”是1957年的投票规则变化；这些都不能解释2020年的取消。",
+        "q3": "文中说1958年获胜国必须组织下一届比赛，因此第三项“它必须组织下一届比赛”正确。第一项“它必须只提交一首歌曲”对应1957年的规则，第二项“它必须在五个国家测试电视投票”对应1997年，第四项“它必须带着专业评审团重返决赛”对应2009年；这些都不是1958年获胜国的义务。",
+        "q4": "文中把1957年与“每个国家只提交一首歌曲”的规则联系起来，所以第二项“每个国家只提交一首歌曲”正确。第一项“评审团打1至12分”是1975年的变化，第三项“电视投票在五个国家进行了测试”是1997年的变化，第四项“专业评审团重返决赛”是2009年的变化。",
+        "q5": "最后一段把欧洲歌唱大赛概括为重要的欧洲文化盛会，并说它启发了其他音乐比赛，因此第一项“欧洲歌唱大赛是一项启发了其他比赛的欧洲文化盛会”最概括。第二项“欧洲歌唱大赛主要是只面向专业评审团的比赛”把比赛缩小为评审团活动，第三项“欧洲歌唱大赛是一个总是排除某个国家的政治组织”把个别事件扩大为总体性质，第四项“欧洲歌唱大赛是一个不再引发辩论的电视节目”与文中“常常引发辩论”相矛盾。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "马塞尔·贝赞松提议以什么为模式创办欧洲歌唱大赛？",
+          "options": [
+            "在五个国家使用的电视投票",
+            "1956年在卢加诺举办的比赛",
+            "圣雷莫音乐节",
+            "决赛中专业评审团的投票"
+          ]
+        },
+        "q2": {
+          "prompt": "2020年比赛为什么被取消？",
+          "options": [
+            "因为俄罗斯在入侵乌克兰后被排除。",
+            "因为Covid-19疫情。",
+            "因为英国在利物浦举办了比赛。",
+            "因为各国评审团不能再为本国投票。"
+          ]
+        },
+        "q3": {
+          "prompt": "从1958年起，获胜国有什么义务？",
+          "options": [
+            "它必须只提交一首歌曲。",
+            "它必须在五个国家测试电视投票。",
+            "它必须组织下一届比赛。",
+            "它必须带着专业评审团重返决赛。"
+          ]
+        },
+        "q4": {
+          "prompt": "1957年发生了什么变化？",
+          "options": [
+            "评审团打1至12分。",
+            "每个国家只提交一首歌曲。",
+            "电视投票在五个国家进行了测试。",
+            "专业评审团重返决赛。"
+          ]
+        },
+        "q5": {
+          "prompt": "最后一段中哪个观点最概括？",
+          "options": [
+            "欧洲歌唱大赛是一项启发了其他比赛的欧洲文化盛会。",
+            "欧洲歌唱大赛主要是只面向专业评审团的比赛。",
+            "欧洲歌唱大赛是一个总是排除某个国家的政治组织。",
+            "欧洲歌唱大赛是一个不再引发辩论的电视节目。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Concours Eurovision de la chanson",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=241402513",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-27",
+    "revisionId": "241402513"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-27",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-27-concours-eurovision-de-la-chanson-b1-30ca8dd6a64b.jpg",
+    "alt": "Alexander Rybak during Eurovision 2009.",
+    "author": "Daniel Kruczynski",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexander_Rybak_during_Eurovision_2009.jpg?oldid=1074830975",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "changes": "Réduite à 960×1441 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 960,
+    "height": 1441,
+    "byteLength": 210022,
+    "sha256": "30ca8dd6a64bc32233a920d3b9133d36c76e3c831f49a930e10eb4006e65db5b",
+    "fileRevisionId": "1074830975",
+    "retrievedAt": "2026-11-27"
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "id": "2026-11-27-concours-eurovision-de-la-chanson",
+  "title": "L’Eurovision : une compétition musicale devenue un phénomène culturel",
+  "level": "B2",
+  "theme": "culture",
+  "date": "2026-11-27",
+  "summary": "Créé en 1956, le Concours Eurovision de la chanson réunit chaque année des pays membres de l’UER autour de chansons, d’un vote rituel et d’enjeux culturels et politiques.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Le Concours Eurovision de la chanson est une compétition musicale annuelle organisée par l’Union européenne de radio-télévision (UER).",
+        "Il a été imaginé par Marcel Bezençon, directeur général de la télévision publique suisse, sur le modèle du Festival de Sanremo.",
+        "La première édition s’est tenue le 24 mai 1956 à Lugano, en Suisse, avec sept pays fondateurs."
+      ]
+    },
+    {
+      "sentences": [
+        "Au fil des décennies, le nombre de participants a augmenté, passant de sept à une quarantaine au XXIe siècle.",
+        "Le concours a eu lieu chaque année, sauf en 2020, lorsque la pandémie de Covid-19 a entraîné son annulation.",
+        "Il est diffusé en direct à la télévision, à la radio et sur Internet, y compris sur d’autres continents.",
+        "Seuls les membres actifs de l’UER peuvent y participer, ce qui inclut des pays situés en Europe, en Asie et en Afrique."
+      ]
+    },
+    {
+      "sentences": [
+        "La procédure de vote, souvent considérée comme le moment le plus attendu, est devenue un rituel annuel.",
+        "Les règles ont évolué : les pays ont dû chanter dans une langue nationale, avant de retrouver la liberté de choisir leur langue en 1999.",
+        "En 1975, un système attribuant de 1 à 8, puis 10 et 12 points a été adopté et reste largement utilisé.",
+        "Le thème d’ouverture reprend le prélude orchestral du Te Deum de Marc-Antoine Charpentier."
+      ]
+    },
+    {
+      "sentences": [
+        "De nombreux artistes ont marqué l’histoire du concours, comme ABBA en 1974 avec Waterloo ou Céline Dion en 1988 pour la Suisse.",
+        "En 2015, l’Australie a participé exceptionnellement, puis est devenue un participant régulier à partir de 2016.",
+        "L’Ukraine a gagné en 2022, mais le concours 2023 a été organisé au Royaume-Uni à Liverpool en raison de l’invasion russe.",
+        "La Russie a été exclue en 2022, car l’UER a jugé que sa participation aurait nui à la réputation de la compétition."
+      ]
+    },
+    {
+      "sentences": [
+        "Le concours est aussi un espace où se manifestent des tensions politiques et des débats sur les votes géographiques.",
+        "Certains pays voisins ou alliés s’attribuent régulièrement des points, ce que plusieurs études ont analysé.",
+        "L’image de l’événement varie fortement : il est parfois jugé kitsch en Europe de l’Ouest, mais très populaire dans les pays nordiques et en Europe de l’Est.",
+        "Malgré les controverses, il reste l’un des plus anciens programmes télévisés et le plus important concours musical jamais organisé."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "radio-télévision"
+    },
+    {
+      "term": "Festival de Sanremo"
+    },
+    {
+      "term": "pandémie"
+    },
+    {
+      "term": "annulation"
+    },
+    {
+      "term": "membres actifs"
+    },
+    {
+      "term": "prélude orchestral"
+    },
+    {
+      "term": "Te Deum"
+    },
+    {
+      "term": "votes géographiques"
+    },
+    {
+      "term": "kitsch"
+    },
+    {
+      "term": "controverses"
+    },
+    {
+      "term": "réputation"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "D’après le texte, quelle est l’origine du Concours Eurovision de la chanson ?",
+      "options": [
+        "Il a été conçu par un responsable de la télévision suisse, en s’inspirant du Festival de Sanremo.",
+        "Il a été créé par l’UER pour remplacer le Festival de Sanremo en Italie.",
+        "Il a été proposé par un directeur de télévision italien sur le modèle d’un festival suisse.",
+        "Il a été lancé par les sept pays fondateurs réunis à Lugano sans modèle étranger."
+      ],
+      "answerIndex": 0,
+      "evidence": "Il a été imaginé par Marcel Bezençon, directeur général de la télévision publique suisse, sur le modèle du Festival de Sanremo.",
+      "explanation": "Le texte attribue l’idée à un dirigeant de la télévision publique suisse et précise qu’il s’est appuyé sur le Festival de Sanremo. Les autres options inversent le pays d’origine, attribuent l’initiative à l’UER ou aux seuls pays fondateurs."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pour quelle raison le concours n’a-t-il pas été organisé en 2020 ?",
+      "options": [
+        "L’UER a décidé de réduire exceptionnellement le nombre de participants.",
+        "La pandémie de Covid-19 a provoqué son annulation.",
+        "La Russie a été exclue de la compétition cette année-là.",
+        "Le Royaume-Uni a dû organiser l’édition à Liverpool."
+      ],
+      "answerIndex": 1,
+      "evidence": "Le concours a eu lieu chaque année, sauf en 2020, lorsque la pandémie de Covid-19 a entraîné son annulation.",
+      "explanation": "Le texte relie directement l’absence d’édition en 2020 à la pandémie de Covid-19. Les autres options renvoient à d’autres faits ou à d’autres années et ne constituent pas la cause indiquée."
+    },
+    {
+      "id": "q3",
+      "prompt": "Comment les règles sur la langue des chansons ont-elles évolué ?",
+      "options": [
+        "Les pays ont toujours eu le choix de leur langue, mais l’anglais a été imposé après 1999.",
+        "L’obligation d’une langue nationale a été introduite en 1999, avec le système de points.",
+        "Les pays ont dû chanter en anglais jusqu’en 1999, avant de retrouver leur langue nationale.",
+        "Les pays ont d’abord été obligés d’utiliser une langue nationale, puis ont pu choisir librement en 1999."
+      ],
+      "answerIndex": 3,
+      "evidence": "Les règles ont évolué : les pays ont dû chanter dans une langue nationale, avant de retrouver la liberté de choisir leur langue en 1999.",
+      "explanation": "Le texte décrit une obligation initiale d’employer une langue nationale, suivie d’une liberté retrouvée en 1999. Les autres options déplacent la contrainte, la date ou la langue concernée."
+    },
+    {
+      "id": "q4",
+      "prompt": "Pourquoi l’édition 2023 a-t-elle eu lieu à Liverpool plutôt qu’en Ukraine ?",
+      "options": [
+        "Parce que le Royaume-Uni avait remporté le concours en 2022.",
+        "Parce que l’Ukraine avait été exclue après sa victoire de 2022.",
+        "Parce que l’invasion russe a empêché l’Ukraine, victorieuse en 2022, d’accueillir le concours.",
+        "Parce que la Russie devait organiser l’édition 2023 malgré son exclusion."
+      ],
+      "answerIndex": 2,
+      "evidence": "L’Ukraine a gagné en 2022, mais le concours 2023 a été organisé au Royaume-Uni à Liverpool en raison de l’invasion russe.",
+      "explanation": "Le texte indique que l’Ukraine a gagné en 2022, mais que l’édition suivante a été déplacée au Royaume-Uni à cause de l’invasion russe. Les autres options attribuent à tort la victoire, l’exclusion ou l’organisation à un autre pays."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle fonction le dernier paragraphe remplit-il dans l’article ?",
+      "options": [
+        "Il détaille surtout le système de vote adopté en 1975.",
+        "Il met en balance les tensions politiques et l’importance durable du concours.",
+        "Il présente les principaux artistes qui ont marqué l’histoire du concours.",
+        "Il explique pourquoi l’Australie est devenue participante régulière."
+      ],
+      "answerIndex": 1,
+      "evidence": "Le concours est aussi un espace où se manifestent des tensions politiques et des débats sur les votes géographiques.",
+      "explanation": "Ce paragraphe évoque les controverses politiques et les critiques sur les votes, avant de rappeler que le concours reste un événement majeur et ancien. Les autres options portent sur des éléments traités dans d’autres paragraphes."
+    },
+    {
+      "id": "q6",
+      "prompt": "Qui peut participer au concours selon le texte ?",
+      "options": [
+        "Tous les pays européens, même s’ils ne sont pas membres de l’UER.",
+        "Uniquement les pays situés sur le continent européen.",
+        "Les pays invités chaque année par le diffuseur organisateur.",
+        "Les membres actifs de l’UER, dont certains pays d’Asie et d’Afrique."
+      ],
+      "answerIndex": 3,
+      "evidence": "Seuls les membres actifs de l’UER peuvent y participer, ce qui inclut des pays situés en Europe, en Asie et en Afrique.",
+      "explanation": "Le texte réserve la participation aux membres actifs de l’UER et précise que cela comprend des pays situés hors d’Europe. Les autres options élargissent ou restreignent à tort le critère de participation."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "欧洲歌唱大赛：一场已成为文化现象的音乐比赛",
+      "summary": "欧洲歌唱大赛创办于1956年，每年汇集欧洲广播联盟（UER）成员国，围绕歌曲、仪式性投票以及文化和政治议题展开。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "欧洲歌唱大赛是由欧洲广播联盟（UER）组织的年度音乐比赛。",
+            "它由瑞士公共电视台台长马塞尔·贝藏松（Marcel Bezençon）仿照圣雷莫音乐节构思而成。",
+            "首届比赛于1956年5月24日在瑞士卢加诺举行，共有七个创始国参加。"
+          ]
+        },
+        {
+          "sentences": [
+            "几十年来，参赛国数量不断增加，从七个增加到21世纪的大约四十个。",
+            "比赛每年举办，只有2020年例外，当时新冠疫情导致其取消。",
+            "比赛通过电视、广播和互联网直播，也包括在其他大洲播出。",
+            "只有欧洲广播联盟的正式成员才能参赛，这包括位于欧洲、亚洲和非洲的国家。"
+          ]
+        },
+        {
+          "sentences": [
+            "投票程序常被视为最令人期待的时刻，已成为一年一度的仪式。",
+            "规则不断演变：各国曾必须用本国语言演唱，后来在1999年重新获得选择语言的自由。",
+            "1975年，采用了一套先给1至8分、再给10分和12分的制度，该制度至今仍被广泛使用。",
+            "开场主题曲采用马克-安托万·夏庞蒂埃《感恩赞》的管弦乐前奏。"
+          ]
+        },
+        {
+          "sentences": [
+            "许多艺术家在比赛历史上留下印记，例如1974年凭借《Waterloo》的ABBA，或1988年代表瑞士的席琳·迪翁。",
+            "2015年，澳大利亚特别参赛，随后从2016年起成为常规参赛者。",
+            "乌克兰在2022年获胜，但由于俄罗斯入侵，2023年比赛在英国利物浦举办。",
+            "俄罗斯于2022年被排除在外，因为欧洲广播联盟认为其参赛会损害比赛的声誉。"
+          ]
+        },
+        {
+          "sentences": [
+            "比赛也是政治紧张和关于地域投票的争论显现的空间。",
+            "一些邻国或盟国经常互相给分，多项研究对此进行了分析。",
+            "该活动的形象差异很大：它在西欧有时被视为媚俗，但在北欧和东欧非常受欢迎。",
+            "尽管存在争议，它仍是最古老的电视节目之一，也是有史以来最重要的音乐比赛。"
+          ]
+        }
+      ],
+      "glossary": {
+        "radio-télévision": "广播与电视；文中指负责公共广播和电视的机构。",
+        "Festival de Sanremo": "圣雷莫音乐节，意大利著名歌曲比赛，欧洲歌唱大赛的灵感来源。",
+        "pandémie": "大流行病，指在全球范围广泛传播的传染病；文中指新冠疫情。",
+        "annulation": "取消，指活动不再举行；文中指2020年比赛因疫情停办。",
+        "membres actifs": "正式成员，指欧洲广播联盟中享有完整参与权的成员。",
+        "prélude orchestral": "管弦乐前奏，指歌剧或大型作品开场前的器乐段落。",
+        "Te Deum": "《感恩赞》，一种基督教赞歌；文中指夏庞蒂埃作品的开场前奏。",
+        "votes géographiques": "地域性投票，指国家因地理邻近或政治联盟而互相给分的现象。",
+        "kitsch": "媚俗，指被认为过度装饰、俗气或缺乏艺术深度的风格。",
+        "controverses": "争议，指公众对某些做法或事件存在分歧和批评。",
+        "réputation": "声誉，指公众对比赛形象和名声的评价。"
+      },
+      "questions": {
+        "q1": "文本说它由瑞士公共电视台台长马塞尔·贝藏松仿照圣雷莫音乐节构思。第一个选项与此相符；第二个选项把创立者说成欧洲广播联盟并称取代圣雷莫，第三个选项颠倒国家和模式来源，第四个选项说没有外国模式，均与文本不符。",
+        "q2": "文本明确说比赛每年举办，只有2020年例外，因为新冠疫情导致取消。第二个选项与此直接对应；第一个选项说减少参赛国、第三个选项说俄罗斯被排除、第四个选项说英国主办，都不是文本给出的2020年停办理由。",
+        "q3": "文本说各国曾必须用本国语言演唱，后来在1999年重新获得选择语言的自由。第四个选项准确概括这一先后变化；第一个选项说一直自由并强制英语，第二个选项把义务和1999年及积分制度混在一起，第三个选项把强制语言说成英语，均不符。",
+        "q4": "文本说乌克兰在2022年获胜，但由于俄罗斯入侵，2023年比赛在英国利物浦举办。第三个选项正确连接胜利、入侵与移址；第一个选项错误说英国获胜，第二个选项错误说乌克兰被排除，第四个选项错误说俄罗斯主办，均与文本矛盾。",
+        "q5": "最后一段先谈政治紧张和地域投票争议，再指出比赛仍是历史悠久且重要的音乐赛事，因此第二个选项概括其作用；第一个选项投票制度在第三段，第三个选项艺术家在第四段，第四个选项澳大利亚也在第四段，均非最后一段重点。",
+        "q6": "文本说只有欧洲广播联盟的正式成员才能参赛，并说明其中包括位于欧洲、亚洲和非洲的国家。第四个选项符合；第一个选项扩大到非成员，第二个选项限制为仅欧洲大陆，第三个选项说主办方邀请，均与文本的成员资格标准不符。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "根据文本，欧洲歌唱大赛的起源是什么？",
+          "options": [
+            "它由一位瑞士电视负责人构思，并受到圣雷莫音乐节的启发。",
+            "它由欧洲广播联盟创立，用来在意大利取代圣雷莫音乐节。",
+            "它由一位意大利电视台台长提议，仿照一个瑞士音乐节。",
+            "它由齐聚卢加诺的七个创始国发起，没有借鉴外国模式。"
+          ]
+        },
+        "q2": {
+          "prompt": "为什么2020年没有举办比赛？",
+          "options": [
+            "欧洲广播联盟决定例外减少参赛国数量。",
+            "新冠疫情导致其取消。",
+            "俄罗斯那一年被排除在比赛之外。",
+            "英国不得不在利物浦举办该届比赛。"
+          ]
+        },
+        "q3": {
+          "prompt": "关于歌曲语言的规则如何演变？",
+          "options": [
+            "各国一直可以选择语言，但1999年后英语被强制使用。",
+            "必须使用本国语言的规定于1999年引入，同时采用积分制度。",
+            "各国必须用英语演唱直到1999年，之后才恢复使用本国语言。",
+            "各国最初必须使用本国语言，后来在1999年可以自由选择。"
+          ]
+        },
+        "q4": {
+          "prompt": "为什么2023年比赛在利物浦而不是乌克兰举办？",
+          "options": [
+            "因为英国赢得了2022年比赛。",
+            "因为乌克兰在2022年获胜后被排除。",
+            "因为俄罗斯入侵使2022年获胜的乌克兰无法承办比赛。",
+            "因为俄罗斯尽管被排除仍要主办2023年比赛。"
+          ]
+        },
+        "q5": {
+          "prompt": "最后一段在文章中起什么作用？",
+          "options": [
+            "它主要详述1975年采用的投票制度。",
+            "它权衡政治紧张与比赛的持久重要性。",
+            "它介绍在比赛历史上留下印记的主要艺术家。",
+            "它解释澳大利亚为何成为常规参赛者。"
+          ]
+        },
+        "q6": {
+          "prompt": "根据文本，谁可以参加比赛？",
+          "options": [
+            "所有欧洲国家，即使不是欧洲广播联盟成员。",
+            "仅限位于欧洲大陆的国家。",
+            "每年由主办广播机构邀请的国家。",
+            "欧洲广播联盟的正式成员，其中包括一些亚洲和非洲国家。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Concours Eurovision de la chanson",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=241402513",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-27",
+    "revisionId": "241402513"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-27",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-27-concours-eurovision-de-la-chanson-30ca8dd6a64b.jpg",
+    "alt": "Alexander Rybak during Eurovision 2009.",
+    "author": "Daniel Kruczynski",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexander_Rybak_during_Eurovision_2009.jpg?oldid=1074830975",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "changes": "Réduite à 960×1441 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 960,
+    "height": 1441,
+    "byteLength": 210022,
+    "sha256": "30ca8dd6a64bc32233a920d3b9133d36c76e3c831f49a930e10eb4006e65db5b",
+    "fileRevisionId": "1074830975",
+    "retrievedAt": "2026-11-27"
+  }
+}

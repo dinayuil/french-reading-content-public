@@ -1,0 +1,263 @@
+{
+  "id": "2026-11-27-effet-de-serre-a2",
+  "title": "L'effet de serre et le réchauffement",
+  "level": "A2",
+  "theme": "environnement",
+  "date": "2026-11-27",
+  "summary": "L'effet de serre est un phénomène naturel qui garde la chaleur sur Terre. Mais les activités humaines produisent trop de gaz et augmentent le réchauffement climatique.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "L'effet de serre est un phénomène naturel.",
+        "Il garde la chaleur du Soleil dans l'atmosphère.",
+        "Sans lui, la Terre serait très froide, environ -18 °C.",
+        "Aujourd'hui, la température moyenne est d'environ 15 °C."
+      ]
+    },
+    {
+      "sentences": [
+        "Ce phénomène ressemble à une serre pour les plantes.",
+        "Le verre laisse entrer la lumière du Soleil.",
+        "Mais il garde la chaleur à l'intérieur.",
+        "Dans l'atmosphère, des gaz jouent ce rôle."
+      ]
+    },
+    {
+      "sentences": [
+        "Les principaux gaz sont la vapeur d'eau, le CO2 et le méthane.",
+        "Ils absorbent une partie des rayons infrarouges.",
+        "Ces rayons transportent de la chaleur.",
+        "Ainsi, la Terre se refroidit moins."
+      ]
+    },
+    {
+      "sentences": [
+        "Les activités humaines produisent beaucoup de CO2.",
+        "Cela augmente l'effet de serre et réchauffe la planète.",
+        "En 2023, le CO2 a atteint 420 ppm.",
+        "Les scientifiques disent que ce niveau est très élevé."
+      ]
+    },
+    {
+      "sentences": [
+        "Le méthane est aussi un gaz important.",
+        "L'agriculture et les bovins en produisent.",
+        "Le méthane réchauffe plus que le CO2.",
+        "Mais il reste moins longtemps dans l'air."
+      ]
+    },
+    {
+      "sentences": [
+        "Le phénomène naturel est utile à la vie.",
+        "Mais trop de gaz peut causer le réchauffement climatique.",
+        "Des pays veulent réduire leurs émissions.",
+        "Il faut protéger les océans et la vie sur Terre."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "effet de serre"
+    },
+    {
+      "term": "atmosphère"
+    },
+    {
+      "term": "température moyenne"
+    },
+    {
+      "term": "vapeur d'eau"
+    },
+    {
+      "term": "CO2"
+    },
+    {
+      "term": "méthane"
+    },
+    {
+      "term": "rayons infrarouges"
+    },
+    {
+      "term": "réchauffement climatique"
+    },
+    {
+      "term": "émissions"
+    },
+    {
+      "term": "bovins"
+    },
+    {
+      "term": "ppm"
+    },
+    {
+      "term": "phénomène naturel"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Que se passerait-il sur Terre si l'effet de serre n'existait pas ?",
+      "options": [
+        "Sans ce mécanisme, la température de la Terre serait beaucoup plus basse.",
+        "Sans ce mécanisme, la Terre recevrait moins de lumière du Soleil.",
+        "Sans ce mécanisme, l'atmosphère contiendrait plus de CO2.",
+        "Sans ce mécanisme, la température moyenne serait d'environ 15 °C."
+      ],
+      "answerIndex": 0,
+      "evidence": "Sans lui, la Terre serait très froide, environ -18 °C.",
+      "explanation": "Le passage indique qu'une Terre privée de ce mécanisme aurait une température très basse, alors que la température actuelle est plus élevée. Les autres options parlent de lumière, de CO2 ou de la température actuelle."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi la Terre se refroidit-elle moins, d'après le texte ?",
+      "options": [
+        "Parce que des gaz laissent entrer davantage de lumière du Soleil.",
+        "Parce que des gaz retiennent une partie du rayonnement qui transporte la chaleur.",
+        "Parce que les activités humaines produisent de la vapeur d'eau.",
+        "Parce que les océans retirent du CO2 de l'air."
+      ],
+      "answerIndex": 1,
+      "evidence": "Ils absorbent une partie des rayons infrarouges.",
+      "explanation": "Le passage explique que les gaz retiennent une partie du rayonnement qui transporte la chaleur, ce qui limite la perte de chaleur. Les autres causes proposées ne sont pas données dans le texte."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quelle est l'idée principale de l'article ?",
+      "options": [
+        "Le méthane est le seul gaz responsable du réchauffement.",
+        "Les océans produisent la plus grande partie du CO2.",
+        "L'effet de serre est naturel, mais trop de gaz peut réchauffer la planète.",
+        "Le CO2 reste moins longtemps dans l'air que le méthane."
+      ],
+      "answerIndex": 2,
+      "evidence": "Mais trop de gaz peut causer le réchauffement climatique.",
+      "explanation": "Le texte présente d'abord un mécanisme naturel utile, puis montre que l'augmentation des gaz liée aux activités humaines peut provoquer un changement du climat. Les autres choix isolent des détails faux ou trop limités."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "温室效应与变暖",
+      "summary": "温室效应是一种将热量留在地球上的自然现象。但人类活动产生过多气体，并加剧气候变暖。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "温室效应是一种自然现象。",
+            "它把太阳的热量留在大气中。",
+            "如果没有它，地球会非常寒冷，约为-18°C。",
+            "如今，平均温度约为15°C。"
+          ]
+        },
+        {
+          "sentences": [
+            "这一现象类似于植物的温室。",
+            "玻璃让太阳光进入。",
+            "但它把热量留在内部。",
+            "在大气中，一些气体起着这种作用。"
+          ]
+        },
+        {
+          "sentences": [
+            "主要气体是水蒸气、二氧化碳和甲烷。",
+            "它们吸收一部分红外线。",
+            "这些射线携带热量。",
+            "因此，地球降温更少。"
+          ]
+        },
+        {
+          "sentences": [
+            "人类活动产生大量二氧化碳。",
+            "这增强了温室效应并使地球变暖。",
+            "2023年，二氧化碳达到420 ppm。",
+            "科学家说这一水平非常高。"
+          ]
+        },
+        {
+          "sentences": [
+            "甲烷也是一种重要的气体。",
+            "农业和牛类会产生甲烷。",
+            "甲烷的升温作用比二氧化碳更强。",
+            "但它在空气中停留的时间更短。"
+          ]
+        },
+        {
+          "sentences": [
+            "这一自然现象对生命有益。",
+            "但气体过多可能导致气候变暖。",
+            "一些国家希望减少排放。",
+            "必须保护海洋和地球上的生命。"
+          ]
+        }
+      ],
+      "glossary": {
+        "effet de serre": "温室效应：大气中的某些气体阻止部分热量散失，使地球保持较暖温度的自然现象。",
+        "atmosphère": "大气层：包围地球的气体层。",
+        "température moyenne": "平均温度：在一定时期内对温度取平均得到的数值。",
+        "vapeur d'eau": "水蒸气：水的气态形式，也是温室气体之一。",
+        "CO2": "二氧化碳：一种温室气体，人类活动会大量排放。",
+        "méthane": "甲烷：一种温室气体，农业和牛等反刍动物会产生。",
+        "rayons infrarouges": "红外线：携带热量的一种辐射。",
+        "réchauffement climatique": "气候变暖：气候系统长期升温的现象。",
+        "émissions": "排放：向大气中释放气体等物质。",
+        "bovins": "牛类：牛等家畜。",
+        "ppm": "百万分率：表示浓度的单位，即每百万份中的份数。",
+        "phénomène naturel": "自然现象：非由人类直接制造、在自然界中发生的过程。"
+      },
+      "questions": {
+        "q1": "文章说，没有这一机制，地球会非常寒冷，约为-18°C，而当前平均温度约为15°C。第一项与此相符；第二项谈阳光减少，第三项谈二氧化碳增多，第四项把当前温度当作无温室效应时的温度，均不符合文意。",
+        "q2": "文章说这些气体吸收一部分红外线，而红外线携带热量，所以热量散失减少，地球降温更少。第二项概括了这一因果关系；第一项说让更多阳光进入，第三项说人类活动产生水蒸气，第四项说海洋移除二氧化碳，文中都没有作为原因提出。",
+        "q3": "文章先说明温室效应是维持地球温暖的自然现象，后指出人类活动产生过多气体会增强温室效应并导致气候变暖。第三项概括了这一主旨；第一项说甲烷是唯一气体，第二项说海洋产生大部分二氧化碳，第四项比较停留时间，都是错误或片面的细节。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "如果温室效应不存在，地球上会发生什么？",
+          "options": [
+            "没有这一机制，地球温度会低得多。",
+            "没有这一机制，地球接收到的太阳光会更少。",
+            "没有这一机制，大气中的二氧化碳会更多。",
+            "没有这一机制，平均温度约为15°C。"
+          ]
+        },
+        "q2": {
+          "prompt": "根据文章，为什么地球降温更少？",
+          "options": [
+            "因为气体让更多太阳光进入。",
+            "因为气体留住了一部分携带热量的辐射。",
+            "因为人类活动产生水蒸气。",
+            "因为海洋从空气中移除了二氧化碳。"
+          ]
+        },
+        "q3": {
+          "prompt": "文章的主要观点是什么？",
+          "options": [
+            "甲烷是唯一导致变暖的气体。",
+            "海洋产生了大部分二氧化碳。",
+            "温室效应是自然的，但气体过多可能使地球变暖。",
+            "二氧化碳在空气中停留的时间比甲烷短。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Effet de serre",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2564644&title=Effet%20de%20serre",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-27",
+    "revisionId": "2564644"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-27",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

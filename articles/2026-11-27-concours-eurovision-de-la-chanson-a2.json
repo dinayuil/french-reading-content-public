@@ -1,0 +1,283 @@
+{
+  "id": "2026-11-27-concours-eurovision-de-la-chanson-a2",
+  "title": "Le Concours Eurovision de la chanson",
+  "level": "A2",
+  "theme": "culture",
+  "date": "2026-11-27",
+  "summary": "Le Concours Eurovision est une grande compétition musicale annuelle. Il réunit des pays et il est diffusé à la télévision, à la radio et sur Internet.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Le Concours Eurovision de la chanson est une compétition musicale annuelle.",
+        "L’Union européenne de radio-télévision organise cet événement.",
+        "Le public peut le regarder à la télévision, à la radio et sur Internet."
+      ]
+    },
+    {
+      "sentences": [
+        "Marcel Bezençon, directeur de la télévision suisse, a eu l’idée du concours.",
+        "Il s’est inspiré du Festival de Sanremo.",
+        "La première édition a eu lieu le 24 mai 1956 à Lugano, en Suisse.",
+        "Sept pays ont participé."
+      ]
+    },
+    {
+      "sentences": [
+        "La Suisse a gagné cette première édition.",
+        "Lys Assia a chanté la chanson « Refrain ».",
+        "Depuis, le concours a lieu presque chaque année.",
+        "L’édition 2020 a été annulée à cause de la Covid-19."
+      ]
+    },
+    {
+      "sentences": [
+        "Au fil des années, le nombre de pays participants a augmenté.",
+        "Au XXIe siècle, il y a environ quarante pays.",
+        "Le concours est devenu un rituel annuel.",
+        "Le vote est un moment très important."
+      ]
+    },
+    {
+      "sentences": [
+        "Le concours est ouvert aux membres actifs de l’UER.",
+        "Il est aussi diffusé sur d’autres continents.",
+        "En 2015, l’Australie a participé pour la première fois.",
+        "L’Eurovision reste le plus grand concours musical du monde."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "compétition"
+    },
+    {
+      "term": "annuelle"
+    },
+    {
+      "term": "radio-télévision"
+    },
+    {
+      "term": "événement"
+    },
+    {
+      "term": "directeur"
+    },
+    {
+      "term": "inspiré"
+    },
+    {
+      "term": "édition"
+    },
+    {
+      "term": "annulée"
+    },
+    {
+      "term": "participants"
+    },
+    {
+      "term": "augmenté"
+    },
+    {
+      "term": "rituel"
+    },
+    {
+      "term": "diffusé"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quand la première édition du concours a-t-elle eu lieu ?",
+      "options": [
+        "Le 24 mai 1955",
+        "Le 24 juin 1956",
+        "Le 24 mai 1956",
+        "Le 24 mai 1965"
+      ],
+      "answerIndex": 2,
+      "evidence": "La première édition a eu lieu le 24 mai 1956 à Lugano, en Suisse.",
+      "explanation": "Le texte donne cette date pour la première édition, à Lugano ; les autres dates sont des variantes erronées du mois ou de l’année."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi l’édition 2020 du concours a-t-elle été annulée ?",
+      "options": [
+        "Parce que le nombre de pays participants avait trop augmenté.",
+        "Parce que la Covid-19 a conduit à son annulation.",
+        "Parce que l’Australie a participé pour la première fois.",
+        "Parce que le public ne pouvait plus regarder le concours."
+      ],
+      "answerIndex": 1,
+      "evidence": "L’édition 2020 a été annulée à cause de la Covid-19.",
+      "explanation": "Le texte relie directement l’annulation de 2020 à la Covid-19 ; les autres options ne sont pas présentées comme la cause de cette annulation."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel est le sujet principal de l’article ?",
+      "options": [
+        "La vie de Lys Assia et sa chanson « Refrain ».",
+        "Le Festival de Sanremo et son organisation en Italie.",
+        "Les règles de vote du public à la télévision.",
+        "L’histoire et le fonctionnement du Concours Eurovision."
+      ],
+      "answerIndex": 3,
+      "evidence": "Le Concours Eurovision de la chanson est une compétition musicale annuelle.",
+      "explanation": "L’article présente l’origine, les éditions, les participants et la diffusion du concours ; les autres propositions ne concernent qu’un détail ou un autre sujet."
+    },
+    {
+      "id": "q4",
+      "prompt": "Qui a eu l’idée du Concours Eurovision de la chanson ?",
+      "options": [
+        "Marcel Bezençon",
+        "Lys Assia",
+        "Le directeur de l’UER",
+        "Un chanteur suisse"
+      ],
+      "answerIndex": 0,
+      "evidence": "Marcel Bezençon, directeur de la télévision suisse, a eu l’idée du concours.",
+      "explanation": "Le texte nomme Marcel Bezençon comme initiateur du concours ; Lys Assia est associée à la première chanson gagnante, pas à l’idée."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "欧洲歌唱大赛",
+      "summary": "欧洲歌唱大赛是一项大型年度音乐比赛。它汇集多个国家，并在电视、广播和互联网上播出。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "欧洲歌唱大赛是一项年度音乐比赛。",
+            "欧洲广播联盟组织这一活动。",
+            "公众可以在电视、广播和互联网上观看它。"
+          ]
+        },
+        {
+          "sentences": [
+            "瑞士电视台负责人马塞尔·贝曾松提出了比赛的想法。",
+            "他受到圣雷莫音乐节的启发。",
+            "首届比赛于1956年5月24日在瑞士卢加诺举行。",
+            "七个国家参加了比赛。"
+          ]
+        },
+        {
+          "sentences": [
+            "瑞士赢得了这首届比赛。",
+            "莉斯·阿西娅演唱了歌曲《Refrain》。",
+            "此后，比赛几乎每年举行。",
+            "2020年比赛因Covid-19被取消。"
+          ]
+        },
+        {
+          "sentences": [
+            "多年来，参赛国家的数量增加了。",
+            "在21世纪，大约有四十个国家。",
+            "比赛已成为一年一度的惯例。",
+            "投票是非常重要的时刻。"
+          ]
+        },
+        {
+          "sentences": [
+            "比赛对欧洲广播联盟的正式成员开放。",
+            "它也在其他大洲播出。",
+            "2015年，澳大利亚首次参赛。",
+            "欧洲歌唱大赛仍是世界上最大的音乐比赛。"
+          ]
+        }
+      ],
+      "glossary": {
+        "compétition": "比赛、竞赛，指有竞争性的活动。",
+        "annuelle": "每年的、一年一度的。",
+        "radio-télévision": "广播电视，指广播和电视媒体。",
+        "événement": "活动、事件，这里指比赛这一大型活动。",
+        "directeur": "负责人、主管，这里指电视台的负责人。",
+        "inspiré": "受到启发，指从某事物中获得灵感。",
+        "édition": "届、版本，这里指某一年举办的那一届比赛。",
+        "annulée": "被取消的，指活动不再举行。",
+        "participants": "参加者、参赛国，指参与比赛的国家。",
+        "augmenté": "增加了，指数量上升。",
+        "rituel": "惯例、固定仪式，指每年重复进行的活动。",
+        "diffusé": "播出、传播，指通过媒体播放。"
+      },
+      "questions": {
+        "q1": "原文明确指出首届比赛于1956年5月24日在卢加诺举行，因此正确选项是第三个选项“1956年5月24日”。第一个选项年份1955错误，第二个选项月份六月错误，第四个选项年份1965错误。",
+        "q2": "原文把2020年比赛的取消直接归因于Covid-19，因此第二个选项“因为Covid-19导致其取消”符合因果关系。第一个选项说参赛国增加过多，文中没有把它当作取消原因；第三个选项澳大利亚首次参赛是2015年的事实，不是2020年取消原因；第四个选项公众不能观看也不是文中给出的原因。",
+        "q3": "文章从比赛性质、组织者、首届举办、参赛国变化和播出范围等方面介绍欧洲歌唱大赛，因此第四个选项“欧洲歌唱大赛的历史和运作”最能概括主题。第一个选项只涉及Lys Assia和一首歌，第二个选项只提到启发来源圣雷莫音乐节，第三个选项只涉及投票这一细节，都不能概括全文。",
+        "q4": "原文直接说瑞士电视台负责人Marcel Bezençon提出了比赛的想法，因此第一个选项“Marcel Bezençon”正确。Lys Assia与首届获胜歌曲有关，不是提出想法的人；欧洲广播联盟主任并非文中指定的提出者；瑞士歌手说法也不准确，因为文中说的是电视台负责人。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "首届比赛是什么时候举行的？",
+          "options": [
+            "1955年5月24日",
+            "1956年6月24日",
+            "1956年5月24日",
+            "1965年5月24日"
+          ]
+        },
+        "q2": {
+          "prompt": "为什么2020年比赛被取消？",
+          "options": [
+            "因为参赛国数量增加过多。",
+            "因为Covid-19导致其取消。",
+            "因为澳大利亚首次参赛。",
+            "因为公众不能再观看比赛。"
+          ]
+        },
+        "q3": {
+          "prompt": "文章的主题是什么？",
+          "options": [
+            "Lys Assia的生平及其歌曲《Refrain》。",
+            "圣雷莫音乐节及其在意大利的组织。",
+            "电视上公众投票的规则。",
+            "欧洲歌唱大赛的历史和运作。"
+          ]
+        },
+        "q4": {
+          "prompt": "谁提出了欧洲歌唱大赛的想法？",
+          "options": [
+            "Marcel Bezençon",
+            "Lys Assia",
+            "欧洲广播联盟的主任",
+            "一位瑞士歌手"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Wikipédia en français",
+    "title": "Concours Eurovision de la chanson",
+    "authors": [
+      "Contributeurs de Wikipédia"
+    ],
+    "url": "https://fr.wikipedia.org/w/index.php?oldid=241402513",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrievedAt": "2026-11-27",
+    "revisionId": "241402513"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-27",
+    "changes": "Simplifié au niveau A2 ; phrases très courtes ; vocabulaire fréquent.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "image": {
+    "path": "images/2026-11-27-concours-eurovision-de-la-chanson-a2-30ca8dd6a64b.jpg",
+    "alt": "Alexander Rybak during Eurovision 2009.",
+    "author": "Daniel Kruczynski",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexander_Rybak_during_Eurovision_2009.jpg?oldid=1074830975",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "changes": "Réduite à 960×1441 px par Wikimedia Commons ; aucun autre changement.",
+    "width": 960,
+    "height": 1441,
+    "byteLength": 210022,
+    "sha256": "30ca8dd6a64bc32233a920d3b9133d36c76e3c831f49a930e10eb4006e65db5b",
+    "fileRevisionId": "1074830975",
+    "retrievedAt": "2026-11-27"
+  }
+}

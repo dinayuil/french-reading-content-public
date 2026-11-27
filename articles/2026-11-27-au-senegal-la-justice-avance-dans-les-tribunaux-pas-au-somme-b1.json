@@ -1,0 +1,279 @@
+{
+  "id": "2026-11-27-au-senegal-la-justice-avance-dans-les-tribunaux-pas-au-somme-b1",
+  "title": "Sénégal : une réforme de la justice entre avancées locales et blocages politiques",
+  "level": "B1",
+  "theme": "société",
+  "date": "2026-11-27",
+  "summary": "Au Sénégal, la réforme de la justice avance lentement dans les tribunaux et les Maisons de justice. Mais les grandes réformes restent bloquées par des désaccords politiques et un budget rejeté.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Les Assises sur la justice ont eu lieu du 28 mai au 4 juin 2024 à Diamniadio, près de Dakar.",
+        "Elles ont proposé 30 familles de recommandations.",
+        "Par exemple, une Cour constitutionnelle, un juge des libertés et la digitalisation.",
+        "Mais un désaccord existe sur la place du président et du ministre dans le Conseil supérieur de la magistrature."
+      ]
+    },
+    {
+      "sentences": [
+        "En 2026, l'Assemblée a adopté une loi sur la révision de la Constitution.",
+        "Le Conseil constitutionnel l'a censurée le 9 juillet.",
+        "Il a jugé que la loi créait des dépenses sans recettes.",
+        "Donc, il n'y a toujours pas de Cour constitutionnelle."
+      ]
+    },
+    {
+      "sentences": [
+        "Dans les Maisons de justice, le travail avance.",
+        "Elles ont traité 15 533 dossiers de médiation et accompagné 30 110 usagers.",
+        "Elles ont aussi recouvré 728,8 millions de FCFA sur 989,9 millions réclamés.",
+        "La plateforme e-Justice coûte 10,7 milliards de FCFA entre 2025 et 2029, mais le pays compte seulement 436 magistrats en fonction pour 1 324 postes."
+      ]
+    },
+    {
+      "sentences": [
+        "La détention provisoire reste un grand problème.",
+        "Le ministre de la Justice a demandé aux procureurs de moins utiliser les mandats de dépôt.",
+        "Selon la RTS, les prisons avaient 15 912 détenus pour 10 912 places en avril 2026.",
+        "Parmi eux, 7 064 personnes étaient en détention provisoire."
+      ]
+    },
+    {
+      "sentences": [
+        "Le budget 2027 de la Justice devait passer de 80,73 à 85,76 milliards de FCFA.",
+        "Mais la commission des finances de l'Assemblée l'a rejeté le 13 novembre 2026.",
+        "Les députés ont critiqué la baisse des crédits des prisons et le manque de documents.",
+        "Au total, dix-neuf ministères ont été rejetés en commission."
+      ]
+    },
+    {
+      "sentences": [
+        "Le Sénégal a donc un diagnostic et des textes, mais il manque un terrain stable.",
+        "Les grandes réformes restent bloquées au sommet de l'État.",
+        "Pourtant, la justice du quotidien avance par circulaires, plateformes et médiation.",
+        "Ces progrès sont réels, mais ils restent fragiles."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Diamniadio"
+    },
+    {
+      "term": "magistrature"
+    },
+    {
+      "term": "censurée"
+    },
+    {
+      "term": "recouvré"
+    },
+    {
+      "term": "médiation"
+    },
+    {
+      "term": "détention provisoire"
+    },
+    {
+      "term": "procureurs"
+    },
+    {
+      "term": "mandats de dépôt"
+    },
+    {
+      "term": "crédits"
+    },
+    {
+      "term": "circulaires"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quelle mesure fait partie des recommandations proposées par les Assises sur la justice ?",
+      "options": [
+        "Réduire le nombre de ministères et supprimer le Conseil supérieur de la magistrature.",
+        "Créer une Cour constitutionnelle, un juge des libertés et digitaliser la justice.",
+        "Augmenter le budget des prisons et nommer les procureurs par l'Assemblée.",
+        "Supprimer la médiation et confier la justice aux Maisons de justice."
+      ],
+      "answerIndex": 1,
+      "evidence": "Par exemple, une Cour constitutionnelle, un juge des libertés et la digitalisation.",
+      "explanation": "Le texte présente ces trois éléments comme des exemples de recommandations issues des Assises, ce qui correspond à l'option B. Les autres options ajoutent des mesures absentes ou contredisent le passage."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi le Conseil constitutionnel a-t-il censuré la loi sur la révision de la Constitution en 2026 ?",
+      "options": [
+        "Parce que la loi créait des dépenses sans recettes.",
+        "Parce que la loi réduisait le budget de la justice.",
+        "Parce que la loi supprimait les Maisons de justice.",
+        "Parce que la loi augmentait le nombre de magistrats."
+      ],
+      "answerIndex": 0,
+      "evidence": "Il a jugé que la loi créait des dépenses sans recettes.",
+      "explanation": "La décision du Conseil constitutionnel s'explique par le déséquilibre financier de la loi, indiqué dans le texte. Les autres options portent sur des sujets traités ailleurs ou non mentionnés."
+    },
+    {
+      "id": "q4",
+      "prompt": "Qu'a demandé le ministre de la Justice aux procureurs ?",
+      "options": [
+        "De recourir davantage aux mandats de dépôt.",
+        "De limiter l'usage des mandats de dépôt.",
+        "De supprimer immédiatement la détention provisoire.",
+        "De transférer les détenus vers les Maisons de justice."
+      ],
+      "answerIndex": 1,
+      "evidence": "Le ministre de la Justice a demandé aux procureurs de moins utiliser les mandats de dépôt.",
+      "explanation": "Le ministre veut une utilisation plus limitée des mandats de dépôt, pas leur suppression ni leur augmentation. Les autres choix déforment la demande."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle phrase résume le mieux le bilan présenté dans l'article ?",
+      "options": [
+        "Le Sénégal a supprimé la détention provisoire et réformé toute la justice.",
+        "Les Maisons de justice remplacent désormais les tribunaux et le Conseil constitutionnel.",
+        "La justice quotidienne progresse, mais les grandes réformes restent bloquées.",
+        "Le budget de la Justice a augmenté partout et les prisons ont plus de places que de détenus."
+      ],
+      "answerIndex": 2,
+      "evidence": "Le Sénégal a donc un diagnostic et des textes, mais il manque un terrain stable.",
+      "explanation": "Le dernier paragraphe oppose les avancées concrètes de la justice du quotidien aux blocages des grandes réformes. Les autres options exagèrent ou contredisent les faits présentés."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "塞内加尔：司法改革在地方进展与政治阻塞之间",
+      "summary": "在塞内加尔，司法改革在法院和司法之家进展缓慢。但重大改革仍因政治分歧和被否决的预算而受阻。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "关于司法的全国会议于2024年5月28日至6月4日在达喀尔附近的迪亚姆尼亚久举行。",
+            "会议提出了30类建议。",
+            "例如，设立宪法法院、自由法官和数字化。",
+            "但在最高司法委员会中总统和部长的地位问题上存在分歧。"
+          ]
+        },
+        {
+          "sentences": [
+            "2026年，议会通过了一项宪法修订法。",
+            "宪法委员会于7月9日判定该法违宪。",
+            "它认为该法造成了没有收入的支出。",
+            "因此，目前仍没有宪法法院。"
+          ]
+        },
+        {
+          "sentences": [
+            "在司法之家，工作正在推进。",
+            "它们处理了15533件调解案，并协助了30110名使用者。",
+            "它们还在9.899亿西非法郎的索赔中追回了7.288亿西非法郎。",
+            "e-Justice平台在2025年至2029年间将耗资107亿西非法郎，但该国仅有436名在职司法官，对应1324个岗位。"
+          ]
+        },
+        {
+          "sentences": [
+            "审前羁押仍是一个重大问题。",
+            "司法部长要求检察官减少使用羁押令。",
+            "据RTS报道，2026年4月监狱有15912名在押人员，而床位为10912个。",
+            "其中，7064人被审前羁押。"
+          ]
+        },
+        {
+          "sentences": [
+            "司法部2027年预算原应从807.3亿西非法郎增至857.6亿西非法郎。",
+            "但议会财政委员会于2026年11月13日否决了该预算。",
+            "议员们批评监狱经费下降以及文件缺失。",
+            "总共有十九个部委在委员会阶段被否决。"
+          ]
+        },
+        {
+          "sentences": [
+            "因此，塞内加尔有诊断和文本，但缺乏稳定的基础。",
+            "重大改革仍被阻塞在国家最高层。",
+            "然而，日常司法通过通函、平台和调解向前推进。",
+            "这些进展是真实的，但仍然脆弱。"
+          ]
+        }
+      ],
+      "glossary": {
+        "Diamniadio": "达喀尔附近的塞内加尔城市，本文指司法全国会议召开地。",
+        "magistrature": "司法官体系，包括法官和检察官；最高司法委员会是其管理机构。",
+        "censurée": "被判定违宪或无效，此处指宪法委员会否决法律。",
+        "recouvré": "追回、收回欠款或应收款项。",
+        "médiation": "由第三方协助当事人协商解决争议的调解程序。",
+        "détention provisoire": "审判前对嫌疑人或被告的羁押。",
+        "procureurs": "检察官，负责提起公诉并指导部分刑事调查。",
+        "mandats de dépôt": "羁押令，用于将人送入监狱羁押的司法文书。",
+        "crédits": "预算拨款、经费。",
+        "circulaires": "部委或上级机关下发的行政通函、通知。"
+      },
+      "questions": {
+        "q1": "原文把“宪法法院、自由法官和数字化”作为司法全国会议建议的示例，因此与第二项“设立宪法法院、自由法官并实现司法数字化”直接对应。第一项说减少部委并取消最高司法委员会，原文未提出且与关于最高司法委员会内职位分歧的句子不符；第三项说增加监狱预算并由议会任命检察官，原文没有这些建议；第四项说取消调解并把司法交给司法之家，与后文司法之家开展调解工作的事实相反。",
+        "q2": "原文说宪法委员会“认为该法造成了没有收入的支出”，即法律带来支出却没有对应财政收入，因此它判定该法违宪；这正对应第一项“该法造成没有收入的支出”。第二项说该法削减司法预算，第三项说该法取消司法之家，第四项说该法增加司法官人数，原文均未把这些作为否决理由。",
+        "q4": "原文明确说司法部长要求检察官“减少使用羁押令”，所以正确意思是限制羁押令的使用，对应第二项。第一项说更多使用羁押令，方向相反；第三项说立即取消审前羁押，原文没有要求取消；第四项说把在押人员转往司法之家，原文没有此内容。",
+        "q5": "最后一段说塞内加尔有诊断和文本但缺少稳定基础，重大改革仍被阻塞在国家最高层，而日常司法通过通函、平台和调解推进，因此第三项最准确。第一项说已取消审前羁押并改革全部司法，夸大且与原文不符；第二项说司法之家取代法院和宪法委员会，原文没有这样说；第四项说司法预算到处增加且监狱床位多于在押人员，原文显示预算被委员会否决且15912名在押人员对应10912个床位，正好相反。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "司法全国会议提出的建议中包括哪项措施？",
+          "options": [
+            "减少部委数量并取消最高司法委员会。",
+            "设立宪法法院、自由法官并实现司法数字化。",
+            "增加监狱预算并由议会任命检察官。",
+            "取消调解并把司法交给司法之家。"
+          ]
+        },
+        "q2": {
+          "prompt": "为什么宪法委员会在2026年判定宪法修订法违宪？",
+          "options": [
+            "因为该法造成了没有收入的支出。",
+            "因为该法削减了司法预算。",
+            "因为该法取消了司法之家。",
+            "因为该法增加了司法官人数。"
+          ]
+        },
+        "q4": {
+          "prompt": "司法部长要求检察官做什么？",
+          "options": [
+            "更多使用羁押令。",
+            "限制羁押令的使用。",
+            "立即取消审前羁押。",
+            "把在押人员转往司法之家。"
+          ]
+        },
+        "q5": {
+          "prompt": "哪句话最能概括文章呈现的总结？",
+          "options": [
+            "塞内加尔已取消审前羁押并改革了全部司法。",
+            "司法之家如今取代了法院和宪法委员会。",
+            "日常司法在进步，但重大改革仍被阻塞。",
+            "司法预算到处增加，且监狱床位多于在押人员。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Au Sénégal, la justice avance dans les tribunaux, pas au sommet de l'État",
+    "authors": [
+      "Jean Sovon"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/25/304386/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-27",
+    "publishedAt": "2026-11-25",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-27",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

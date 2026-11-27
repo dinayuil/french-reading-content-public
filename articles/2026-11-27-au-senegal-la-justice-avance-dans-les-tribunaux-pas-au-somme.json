@@ -1,0 +1,288 @@
+{
+  "id": "2026-11-27-au-senegal-la-justice-avance-dans-les-tribunaux-pas-au-somme",
+  "title": "Au Sénégal, la réforme de la justice avance malgré le blocage politique",
+  "level": "B2",
+  "theme": "politique",
+  "date": "2026-11-27",
+  "summary": "Au Sénégal, la réforme de la justice reste bloquée au sommet de l’État, malgré des avancées concrètes dans les Maisons de justice et le rejet du budget 2027 par les députés.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "Les Assises sur la modernisation de la justice se sont tenues du 28 mai au 4 juin 2024 à Diamniadio, près de Dakar.",
+        "Plus de deux ans après, la réforme avance dans les Maisons de justice, alors que les institutions restent bloquées au sommet de l’État.",
+        "Le 13 novembre 2026, la commission des finances a rejeté le budget 2027 de la Justice, qui prévoyait 85,76 milliards de FCFA ; la plénière a suivi le 18 novembre."
+      ]
+    },
+    {
+      "sentences": [
+        "Les Assises ont produit 30 familles de recommandations, dont une Cour constitutionnelle, un juge des libertés et la digitalisation.",
+        "Un désaccord existait sur la présence du chef de l’État et du ministre de la Justice au Conseil supérieur de la magistrature.",
+        "La proposition du Pastef a été adoptée le 29 juin 2026 par 129 voix, mais le Conseil constitutionnel a censuré la loi n°18/2026 le 9 juillet.",
+        "Il a relevé des charges publiques sans recettes et le remplacement du Conseil supérieur de la magistrature, donc aucune Cour constitutionnelle n’existe encore."
+      ]
+    },
+    {
+      "sentences": [
+        "Dans les Maisons de justice, 15 533 dossiers de médiation et de conciliation ont été traités et 30 110 usagers accompagnés.",
+        "Ces structures ont recouvré 728,8 millions de FCFA sur 989,9 millions réclamés et régularisé 28 coordonnateurs.",
+        "La plateforme e-Justice, testée à Pikine-Guédiawaye avec le PNUD, coûte 10,7 milliards de FCFA sur 2025-2029, alors que le pays compte 436 magistrats pour 1 324 postes."
+      ]
+    },
+    {
+      "sentences": [
+        "Dans une circulaire du 10 juillet 2026, le ministre Moussa Sarr a dénoncé le recours excessif aux mandats de dépôt, même dans des litiges civils ou commerciaux.",
+        "Il demande de privilégier les alternatives et la liberté lorsque les garanties sont suffisantes, tout en encourageant la surveillance électronique.",
+        "Les prisons comptaient 15 912 détenus pour 10 912 places, dont 7 064 en détention provisoire, soit 44,5 %, et environ 458 depuis plus de trois ans.",
+        "Le gouvernement annonce 25 milliards de FCFA pour deux prisons à Louga et Malicounda dès 2027."
+      ]
+    },
+    {
+      "sentences": [
+        "Le budget passait de 80,73 à 85,76 milliards de FCFA, soit une hausse de 6,2 %, avec la justice judiciaire portée à 32,54 milliards et le pénitentiaire réduit de 5,4 %.",
+        "Les députés ont critiqué ces choix ; dix-neuf ministères ont été rejetés en commission les 12 et 13 novembre, et une dissolution est évoquée dès le 2 décembre.",
+        "La scission entre le président Bassirou Diomaye Faye et Ousmane Sonko complique la situation, même si la justice quotidienne avance de façon fragile."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Assises"
+    },
+    {
+      "term": "modernisation"
+    },
+    {
+      "term": "plénière"
+    },
+    {
+      "term": "censuré"
+    },
+    {
+      "term": "magistrature"
+    },
+    {
+      "term": "médiation"
+    },
+    {
+      "term": "conciliation"
+    },
+    {
+      "term": "coordonnateurs"
+    },
+    {
+      "term": "circulaire"
+    },
+    {
+      "term": "mandats de dépôt"
+    },
+    {
+      "term": "pénitentiaire"
+    },
+    {
+      "term": "scission"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quelle idée principale l’article défend-il ?",
+      "options": [
+        "La réforme judiciaire progresse sur le terrain, mais reste entravée par les blocages politiques au sommet de l’État.",
+        "La réforme judiciaire a été abandonnée après la censure de la loi sur la Cour constitutionnelle.",
+        "Les Maisons de justice ont remplacé les institutions judiciaires bloquées au sommet de l’État.",
+        "Le budget 2027 de la Justice a été adopté malgré l’opposition des députés."
+      ],
+      "answerIndex": 0,
+      "evidence": "Plus de deux ans après, la réforme avance dans les Maisons de justice, alors que les institutions restent bloquées au sommet de l’État.",
+      "explanation": "L’article montre des avancées concrètes dans les Maisons de justice tout en décrivant plusieurs blocages institutionnels et politiques. Les autres options durcissent ou déplacent le propos : la censure n’entraîne pas un abandon général, les Maisons de justice ne remplacent pas les institutions, et le budget 2027 a été rejeté."
+    },
+    {
+      "id": "q3",
+      "prompt": "Pourquoi le texte indique-t-il qu’aucune Cour constitutionnelle n’existe encore ?",
+      "options": [
+        "Parce que le Pastef a refusé que la proposition soit adoptée par 129 voix.",
+        "Parce que le Conseil constitutionnel a censuré la loi n°18/2026 en relevant des charges publiques sans recettes et le remplacement du Conseil supérieur de la magistrature.",
+        "Parce que la commission des finances a rejeté le budget 2027 de la Justice.",
+        "Parce que le ministre de la Justice a dénoncé le recours excessif aux mandats de dépôt."
+      ],
+      "answerIndex": 1,
+      "evidence": "Il a relevé des charges publiques sans recettes et le remplacement du Conseil supérieur de la magistrature, donc aucune Cour constitutionnelle n’existe encore.",
+      "explanation": "La censure de la loi par le Conseil constitutionnel est présentée comme la cause directe de l’absence de Cour constitutionnelle. Les autres options renvoient à des faits distincts ou contredisent le texte, puisque la proposition du Pastef a bien été adoptée par 129 voix."
+    },
+    {
+      "id": "q4",
+      "prompt": "Que révèlent les chiffres donnés sur les Maisons de justice ?",
+      "options": [
+        "Elles ont traité plus de 15 000 dossiers de médiation et accompagné plus de 30 000 usagers.",
+        "Elles ont réglé tous les dossiers réclamés, soit 989,9 millions de FCFA.",
+        "Elles ont régularisé 28 magistrats et recouvré 728,8 millions de FCFA.",
+        "Elles ont permis de créer 436 postes de magistrats pour 1 324 candidats."
+      ],
+      "answerIndex": 0,
+      "evidence": "Dans les Maisons de justice, 15 533 dossiers de médiation et de conciliation ont été traités et 30 110 usagers accompagnés.",
+      "explanation": "Le texte parle de 15 533 dossiers traités et de 30 110 usagers accompagnés, ce qui correspond à l’option correcte. Les autres options confondent les sommes recouvrées avec la totalité réclamée, remplacent les coordonnateurs par des magistrats ou reprennent des chiffres liés à la plateforme e-Justice."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que demande le ministre Moussa Sarr dans sa circulaire du 10 juillet 2026 ?",
+      "options": [
+        "D’interdire tout mandat de dépôt, y compris dans les affaires pénales.",
+        "De réduire le nombre de places de prison pour favoriser la surveillance électronique.",
+        "De privilégier les alternatives à la détention et la liberté quand les garanties suffisent, en encourageant la surveillance électronique.",
+        "De transférer les litiges civils et commerciaux aux Maisons de justice."
+      ],
+      "answerIndex": 2,
+      "evidence": "Il demande de privilégier les alternatives et la liberté lorsque les garanties sont suffisantes, tout en encourageant la surveillance électronique.",
+      "explanation": "La circulaire critique le recours excessif aux mandats de dépôt et invite à choisir des solutions moins restrictives lorsque c’est possible. L’option qui parle d’une interdiction totale est trop absolue, et les deux autres ajoutent des mesures que le texte n’attribue pas au ministre."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelle proportion des détenus se trouvait en détention provisoire, selon le texte ?",
+      "options": [
+        "Environ 6,2 %, soit 7 064 détenus.",
+        "Environ 44,5 %, soit 15 912 détenus.",
+        "Environ 5,4 %, soit 458 détenus.",
+        "Environ 44,5 %, soit 7 064 détenus."
+      ],
+      "answerIndex": 3,
+      "evidence": "Les prisons comptaient 15 912 détenus pour 10 912 places, dont 7 064 en détention provisoire, soit 44,5 %, et environ 458 depuis plus de trois ans.",
+      "explanation": "Le pourcentage de 44,5 % est associé aux 7 064 détenus en détention provisoire, et non au total de 15 912 détenus. Les autres options mélangent ce pourcentage avec d’autres chiffres du texte, comme 6,2 %, 5,4 % ou 458."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "在塞内加尔，司法改革在政治僵局中推进",
+      "summary": "在塞内加尔，司法改革在最高国家层面仍受阻，尽管司法之家取得具体进展，且议员否决了2027年预算。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "关于司法现代化的论坛于2024年5月28日至6月4日在达喀尔附近的迪亚姆尼亚久举行。",
+            "两年多后，改革在司法之家取得进展，而国家最高层面的机构仍陷于停滞。",
+            "2026年11月13日，财政委员会否决了司法部2027年预算，该预算原计划为857.6亿非洲法郎；全体会议于11月18日跟进。"
+          ]
+        },
+        {
+          "sentences": [
+            "论坛产生了30类建议，其中包括宪法法院、自由法官和数字化。",
+            "在共和国总统和司法部长是否出席最高司法委员会的问题上存在分歧。",
+            "Pastef的提案于2026年6月29日以129票获得通过，但宪法委员会于7月9日否定了第18/2026号法律。",
+            "它指出存在没有收入的公共支出以及最高司法委员会被替换的问题，因此目前尚不存在任何宪法法院。"
+          ]
+        },
+        {
+          "sentences": [
+            "在司法之家，共处理了15,533份调解与和解案卷，并陪伴了30,110名使用者。",
+            "这些机构在索赔的9.899亿非洲法郎中收回了7.288亿非洲法郎，并规范了28名协调员。",
+            "与联合国开发计划署在Pikine-Guédiawaye测试的e-Justice平台在2025-2029年耗资107亿非洲法郎，而全国有436名司法官对应1,324个职位。"
+          ]
+        },
+        {
+          "sentences": [
+            "在2026年7月10日的一份通函中，部长Moussa Sarr谴责过度使用羁押令，即使在民事或商事纠纷中也是如此。",
+            "他要求在有足够保障时优先采用替代措施和自由，同时鼓励电子监控。",
+            "监狱有15,912名被拘留者，而只有10,912个床位，其中7,064人处于审前羁押，占44.5%，约458人已被羁押超过三年。",
+            "政府宣布从2027年起为Louga和Malicounda的两所监狱拨款250亿非洲法郎。"
+          ]
+        },
+        {
+          "sentences": [
+            "预算从807.3亿非洲法郎增至857.6亿非洲法郎，即增长6.2%，其中司法审判部分提高到325.4亿非洲法郎，监狱部分减少5.4%。",
+            "议员们批评了这些选择；19个部委在11月12日和13日于委员会被否决，并且从12月2日起有人提及解散。",
+            "总统Bassirou Diomaye Faye与Ousmane Sonko之间的分裂使局势复杂化，尽管日常司法以脆弱方式推进。"
+          ]
+        }
+      ],
+      "glossary": {
+        "Assises": "大型正式会议或论坛，此处指关于司法现代化的全国性磋商会议。",
+        "modernisation": "现代化，指通过制度改革、数字化和机构调整使司法体系更新。",
+        "plénière": "全体会议，指议会中所有成员参加的会议。",
+        "censuré": "被审查否决，指宪法委员会判定法律不符合宪法而使其失效。",
+        "magistrature": "司法官体系或司法机构，包括法官和检察官等；此处指最高司法委员会相关制度。",
+        "médiation": "调解，由第三方协助争议双方达成协议的程序。",
+        "conciliation": "和解，促使争议双方协商解决分歧的程序。",
+        "coordonnateurs": "协调员，负责协调司法之家相关事务的人员。",
+        "circulaire": "通函，部长向所属部门下达指示的行政文件。",
+        "mandats de dépôt": "羁押令，司法官员签发的将人送入拘留或监狱的措施。",
+        "pénitentiaire": "监狱系统或监狱事务，涉及拘留场所管理。",
+        "scission": "分裂，指政治阵营或领导人之间的决裂。"
+      },
+      "questions": {
+        "q1": "证据句同时说明司法之家有实际推进、国家最高层机构仍停滞，因此主旨对应第一项“司法改革在实地取得进展，但仍受到国家最高层政治阻碍的牵制”。第二项过度推论：宪法法院法被否决不等于整个改革被放弃；第三项错误，司法之家并未取代最高层机构；第四项与事实相反，2027年预算被否决而非通过。",
+        "q3": "证据句说明宪法委员会否定第18/2026号法律，理由是出现没有收入的公共支出以及最高司法委员会被替换，因此才说尚不存在宪法法院，第二项正确。第一项与文本相反，Pastef提案确实以129票通过；第三项谈预算否决，与宪法法院不存在无直接因果；第四项谈羁押令通函，也与此无关。",
+        "q4": "证据句给出15,533份调解与和解案卷、30,110名使用者，直接支持第一项。第二项错误，因为9.899亿是索赔总额，实际收回7.288亿，并非全部解决；第三项把28名协调员错写成司法官；第四项把436名司法官对1,324个职位误读为创设职位。",
+        "q5": "证据句要求在有足够保障时优先选择替代措施和自由，并鼓励电子监控，因此第三项正确。第一项“禁止一切羁押令”过于绝对，文本只谴责过度使用；第二项减少监狱床位并非通函要求；第四项把民事商事纠纷移交司法之家也不是文本归给部长的措施。",
+        "q6": "证据句把44.5%与7,064名审前羁押者对应起来，而不是与15,912名总人数对应，所以第四项正确。第一项把6.2%这一预算增幅误作比例；第二项把44.5%配到总人数15,912；第三项把5.4%这一监狱预算降幅和458名长期羁押者混在一起。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "文章主张的主要观点是什么？",
+          "options": [
+            "司法改革在实地取得进展，但仍受到国家最高层政治阻碍的牵制。",
+            "在宪法法院法被否决后，司法改革已被放弃。",
+            "司法之家取代了在国家最高层陷入停滞的司法机构。",
+            "尽管议员反对，司法部2027年预算仍获得通过。"
+          ]
+        },
+        "q3": {
+          "prompt": "为什么文本指出目前尚不存在任何宪法法院？",
+          "options": [
+            "因为Pastef拒绝让该提案以129票获得通过。",
+            "因为宪法委员会否定了第18/2026号法律，指出存在没有收入的公共支出以及最高司法委员会被替换的问题。",
+            "因为财政委员会否决了司法部2027年预算。",
+            "因为司法部长谴责过度使用羁押令。"
+          ]
+        },
+        "q4": {
+          "prompt": "关于司法之家的数字揭示了什么？",
+          "options": [
+            "它们处理了超过15,000份调解案卷，并陪伴了超过30,000名使用者。",
+            "它们解决了所有索赔案卷，即9.899亿非洲法郎。",
+            "它们规范了28名司法官，并收回了7.288亿非洲法郎。",
+            "它们促成创设436个司法官职位，供1,324名候选人申请。"
+          ]
+        },
+        "q5": {
+          "prompt": "部长Moussa Sarr在2026年7月10日的通函中要求什么？",
+          "options": [
+            "禁止一切羁押令，包括在刑事案件中。",
+            "减少监狱床位数量以促进电子监控。",
+            "在有足够保障时优先采用羁押替代措施和自由，同时鼓励电子监控。",
+            "将民事和商事纠纷移交司法之家。"
+          ]
+        },
+        "q6": {
+          "prompt": "根据文本，有多少比例的被拘留者处于审前羁押？",
+          "options": [
+            "约6.2%，即7,064名被拘留者。",
+            "约44.5%，即15,912名被拘留者。",
+            "约5.4%，即458名被拘留者。",
+            "约44.5%，即7,064名被拘留者。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Global Voices en Français",
+    "title": "Au Sénégal, la justice avance dans les tribunaux, pas au sommet de l'État",
+    "authors": [
+      "Jean Sovon"
+    ],
+    "url": "https://fr.globalvoices.org/2026/11/25/304386/",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "retrievedAt": "2026-11-27",
+    "publishedAt": "2026-11-25",
+    "attributionPosition": "top"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-27",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

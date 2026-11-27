@@ -1,0 +1,280 @@
+{
+  "id": "2026-11-27-effet-de-serre-b1",
+  "title": "L’effet de serre et le réchauffement climatique",
+  "level": "B1",
+  "theme": "environnement",
+  "date": "2026-11-27",
+  "summary": "L’effet de serre naturel garde la Terre habitable, mais les activités humaines augmentent les gaz à effet de serre. Cela provoque un réchauffement climatique et des risques importants pour les océans et la vie.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "L’effet de serre est un phénomène naturel.",
+        "Il garde une partie de la chaleur du Soleil dans l’atmosphère.",
+        "Sans lui, la température moyenne de la Terre serait d’environ −18 °C.",
+        "Grâce à lui, elle est aujourd’hui d’environ 15 °C."
+      ]
+    },
+    {
+      "sentences": [
+        "Ce phénomène ressemble à une serre de jardin.",
+        "Le verre laisse entrer la lumière et ralentit la sortie de la chaleur.",
+        "Dans l’atmosphère, certains gaz jouent ce rôle.",
+        "On les appelle les gaz à effet de serre."
+      ]
+    },
+    {
+      "sentences": [
+        "Les principaux gaz à effet de serre sont la vapeur d’eau, le dioxyde de carbone et le méthane.",
+        "La vapeur d’eau est très abondante et participe beaucoup à l’effet de serre naturel.",
+        "Le CO2 est moins présent, mais il est plus efficace.",
+        "Les activités humaines produisent beaucoup de CO2 et augmentent donc l’effet de serre."
+      ]
+    },
+    {
+      "sentences": [
+        "En 2023, la concentration de CO2 a atteint 420 ppm.",
+        "Les scientifiques disent que ce niveau n’avait pas été aussi élevé depuis 14 millions d’années.",
+        "À cette époque, le niveau des mers était environ 50 mètres plus haut.",
+        "Si nous ne réduisons pas vite le CO2, les glaces continueront à fondre pendant des siècles."
+      ]
+    },
+    {
+      "sentences": [
+        "Le méthane est aussi un gaz à effet de serre important.",
+        "Il vient de l’agriculture, du riz, des bovins et des marais.",
+        "Il réchauffe plus que le CO2, mais il reste moins longtemps dans l’atmosphère.",
+        "Quand le sol gelé dégèle, il peut libérer encore plus de méthane."
+      ]
+    },
+    {
+      "sentences": [
+        "Le phénomène naturel est utile à la vie.",
+        "Cependant, l’homme modifie l’atmosphère et aggrave le réchauffement.",
+        "Il faut donc réduire les gaz à effet de serre et protéger les océans et la vie."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "effet de serre"
+    },
+    {
+      "term": "atmosphère"
+    },
+    {
+      "term": "vapeur d’eau"
+    },
+    {
+      "term": "dioxyde de carbone"
+    },
+    {
+      "term": "méthane"
+    },
+    {
+      "term": "concentration"
+    },
+    {
+      "term": "réduisons"
+    },
+    {
+      "term": "dégèle"
+    },
+    {
+      "term": "aggrave"
+    },
+    {
+      "term": "océans"
+    },
+    {
+      "term": "bovins"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q2",
+      "prompt": "Pourquoi l’effet de serre augmente-t-il, d’après le texte ?",
+      "options": [
+        "Parce que la vapeur d’eau est très abondante dans l’atmosphère.",
+        "Parce que le méthane reste longtemps dans l’atmosphère.",
+        "Parce que les océans et la vie sont déjà protégés.",
+        "Parce que les activités humaines produisent beaucoup de CO2."
+      ],
+      "answerIndex": 3,
+      "evidence": "Les activités humaines produisent beaucoup de CO2 et augmentent donc l’effet de serre.",
+      "explanation": "Le passage relie directement la production de CO2 par les activités humaines à l’augmentation de l’effet de serre. La vapeur d’eau est abondante mais liée à l’effet naturel, et le méthane reste moins longtemps dans l’atmosphère."
+    },
+    {
+      "id": "q3",
+      "prompt": "En 2023, que disent les scientifiques du niveau de CO2 ?",
+      "options": [
+        "Il n’avait pas été aussi élevé depuis 14 millions d’années.",
+        "Il était environ 50 mètres plus haut qu’aujourd’hui.",
+        "Il a atteint 420 ppm pour la première fois en 14 ans.",
+        "Il n’avait pas été aussi bas depuis 420 ans."
+      ],
+      "answerIndex": 0,
+      "evidence": "Les scientifiques disent que ce niveau n’avait pas été aussi élevé depuis 14 millions d’années.",
+      "explanation": "Le texte associe 420 ppm à un niveau inédit depuis 14 millions d’années. Les 50 mètres concernent le niveau des mers à cette époque, pas la concentration de CO2."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quelle comparaison entre le méthane et le CO2 correspond au texte ?",
+      "options": [
+        "Le méthane réchauffe moins que le CO2, mais il reste plus longtemps dans l’atmosphère.",
+        "Le méthane réchauffe autant que le CO2 et reste aussi longtemps dans l’atmosphère.",
+        "Le méthane réchauffe plus que le CO2, mais il reste moins longtemps dans l’atmosphère.",
+        "Le méthane réchauffe plus que le CO2 et reste plus longtemps dans l’atmosphère."
+      ],
+      "answerIndex": 2,
+      "evidence": "Il réchauffe plus que le CO2, mais il reste moins longtemps dans l’atmosphère.",
+      "explanation": "Le texte présente un contraste : le méthane a un effet réchauffant plus fort que le CO2, mais sa présence dans l’atmosphère est plus courte. Les options qui inversent l’un de ces deux éléments ne sont pas soutenues par le passage."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle action le texte présente-t-il comme nécessaire à la fin ?",
+      "options": [
+        "Augmenter le CO2 pour protéger les glaces et les océans.",
+        "Réduire les gaz à effet de serre et protéger les océans et la vie.",
+        "Laisser le phénomène naturel agir seul sans réduire les gaz.",
+        "Produire plus de méthane dans les marais et l’agriculture."
+      ],
+      "answerIndex": 1,
+      "evidence": "Il faut donc réduire les gaz à effet de serre et protéger les océans et la vie.",
+      "explanation": "La conclusion recommande de limiter les gaz à effet de serre et de protéger les océans et la vie. Les autres options vont contre cette recommandation ou ajoutent des actions absentes du texte."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "温室效应与气候变暖",
+      "summary": "自然温室效应使地球可居住，但人类活动增加温室气体。这导致气候变暖以及对海洋和生命的重要风险。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "温室效应是一种自然现象。",
+            "它使太阳的一部分热量留在大气中。",
+            "如果没有它，地球的平均气温将约为−18 °C。",
+            "由于它，今天的平均气温约为15 °C。"
+          ]
+        },
+        {
+          "sentences": [
+            "这种现象类似花园温室。",
+            "玻璃让光进入，并减缓热量散出。",
+            "在大气中，某些气体起着这个作用。",
+            "它们被称为温室气体。"
+          ]
+        },
+        {
+          "sentences": [
+            "主要的温室气体是水蒸气、二氧化碳和甲烷。",
+            "水蒸气非常丰富，并大量参与自然温室效应。",
+            "二氧化碳较少存在，但更有效。",
+            "人类活动产生大量二氧化碳，因此增强了温室效应。"
+          ]
+        },
+        {
+          "sentences": [
+            "2023年，二氧化碳浓度达到420 ppm。",
+            "科学家说，这一水平自1400万年以来从未如此高。",
+            "在那个时期，海平面大约高出50米。",
+            "如果我们不迅速减少二氧化碳，冰层将继续融化数百年。"
+          ]
+        },
+        {
+          "sentences": [
+            "甲烷也是一种重要的温室气体。",
+            "它来自农业、水稻、牛类牲畜和沼泽。",
+            "它比二氧化碳更能使气候变暖，但它在大气中停留的时间更短。",
+            "冻土解冻时可能释放更多甲烷。"
+          ]
+        },
+        {
+          "sentences": [
+            "自然现象对生命有益。",
+            "然而，人类改变大气并加剧变暖。",
+            "因此必须减少温室气体并保护海洋和生命。"
+          ]
+        }
+      ],
+      "glossary": {
+        "effet de serre": "温室效应，即大气中某些气体保留部分太阳热量、使地球保持较温暖的自然现象。",
+        "atmosphère": "大气层，包围地球的气体层。",
+        "vapeur d’eau": "水蒸气，气态的水，是重要的自然温室气体。",
+        "dioxyde de carbone": "二氧化碳（CO2），一种温室气体。",
+        "méthane": "甲烷，一种温室气体，来自农业、水稻、牛类牲畜和沼泽等。",
+        "concentration": "浓度，这里指大气中某种气体所占的量。",
+        "réduisons": "减少，这里指降低二氧化碳等温室气体的排放或水平。",
+        "dégèle": "解冻，指冻土因温度升高而融化。",
+        "aggrave": "加剧，使情况变得更严重。",
+        "océans": "海洋，地球上的大片咸水水域。",
+        "bovins": "牛类牲畜，包括牛等动物。"
+      },
+      "questions": {
+        "q2": "文章直接说人类活动产生大量二氧化碳，因此增强温室效应，所以第四项正确。第一项水蒸气丰富是自然温室效应的一部分，不是文中解释增强的原因；第二项与原文相反，甲烷在大气中停留时间较短；第三项文中没有说海洋和生命已经受到保护，且与温室效应增强的原因无关。",
+        "q3": "文章把2023年的420 ppm与“自1400万年以来从未如此高”联系起来，所以第一项正确。第二项的50米说的是当时海平面，不是二氧化碳浓度；第三项把14年与1400万年混淆，且“首次达到420 ppm”不是原文；第四项把“高”改成“低”，并把1400万年改成420年，错误。",
+        "q4": "原文说甲烷“比二氧化碳更能使气候变暖，但在大气中停留时间更短”，形成“更强但更短”的对比，因此第三项正确。第一项把两个特点都颠倒；第二项说两者相同，不符合原文；第四项把停留时间说成更长，与原文相反。",
+        "q5": "结尾明确说“因此必须减少温室气体并保护海洋和生命”，所以第二项正确。第一项增加二氧化碳与保护冰和海洋相矛盾；第三项“不减少气体”违背结论；第四项增加甲烷与减少温室气体的要求相反，且不是文中建议。"
+      },
+      "questionTexts": {
+        "q2": {
+          "prompt": "根据文章，为什么温室效应会增强？",
+          "options": [
+            "因为大气中的水蒸气非常丰富。",
+            "因为甲烷在大气中停留时间长。",
+            "因为海洋和生命已经受到保护。",
+            "因为人类活动产生大量二氧化碳。"
+          ]
+        },
+        "q3": {
+          "prompt": "2023年，科学家如何说二氧化碳水平？",
+          "options": [
+            "自1400万年以来，它从未达到如此高的水平。",
+            "它比今天高约50米。",
+            "它在14年中首次达到420 ppm。",
+            "自420年以来，它从未这么低过。"
+          ]
+        },
+        "q4": {
+          "prompt": "根据文章，甲烷与二氧化碳的哪种比较符合原文？",
+          "options": [
+            "甲烷的变暖作用比二氧化碳弱，但它在大气中停留时间更长。",
+            "甲烷的变暖作用与二氧化碳相同，并在大气中停留同样久。",
+            "甲烷的变暖作用比二氧化碳强，但它在大气中停留时间更短。",
+            "甲烷的变暖作用比二氧化碳强，并在大气中停留时间更长。"
+          ]
+        },
+        "q5": {
+          "prompt": "文章在结尾把什么行动视为必要？",
+          "options": [
+            "增加二氧化碳以保护冰和海洋。",
+            "减少温室气体并保护海洋和生命。",
+            "让自然现象独自起作用而不减少气体。",
+            "在沼泽和农业中产生更多甲烷。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Effet de serre",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2564644&title=Effet%20de%20serre",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-27",
+    "revisionId": "2564644"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-27",
+    "changes": "Simplifié au niveau B1 ; phrases courtes ; vocabulaire courant.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

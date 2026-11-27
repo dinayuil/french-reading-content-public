@@ -1,0 +1,292 @@
+{
+  "id": "2026-11-27-effet-de-serre",
+  "title": "L’effet de serre : un phénomène naturel accentué par les activités humaines",
+  "level": "B2",
+  "theme": "environnement",
+  "date": "2026-11-27",
+  "summary": "L’effet de serre naturel maintient une température vivable sur Terre, mais l’augmentation des gaz à effet de serre liée aux activités humaines renforce le réchauffement climatique.",
+  "paragraphs": [
+    {
+      "sentences": [
+        "L’effet de serre est un phénomène naturel qui permet à la Terre de retenir une partie de la chaleur solaire dans son atmosphère.",
+        "Sans lui, la température moyenne serait d’environ −18 °C, alors qu’elle atteint aujourd’hui près de 15 °C.",
+        "On désigne aussi par cette expression l’augmentation actuelle de cet effet, qui est responsable du réchauffement climatique."
+      ]
+    },
+    {
+      "sentences": [
+        "Le nom « effet de serre » vient de l’analogie avec une serre de jardin, dont le verre laisse entrer la lumière du Soleil mais ralentit la sortie de la chaleur.",
+        "Dans l’atmosphère, les gaz à effet de serre jouent un rôle comparable, même si le mécanisme physique est différent : ils absorbent une partie des rayons infrarouges émis par la surface terrestre."
+      ]
+    },
+    {
+      "sentences": [
+        "La vapeur d’eau est le principal gaz responsable de l’effet de serre naturel, car elle est très abondante dans l’atmosphère et retient une grande partie de la chaleur.",
+        "Le dioxyde de carbone, moins présent, occupe cependant la deuxième place, et sa concentration a atteint 420 ppm en 2023, un niveau inédit depuis environ 14 millions d’années selon les recherches internationales."
+      ]
+    },
+    {
+      "sentences": [
+        "Le méthane, produit notamment par l’agriculture et l’élevage, possède un pouvoir réchauffant environ vingt fois plus fort que celui du dioxyde de carbone.",
+        "Le dégel du permafrost et des fonds océaniques pourrait libérer d’importantes quantités de ce gaz, ce qui renforcerait encore le réchauffement et créerait un cercle vicieux difficile à interrompre.",
+        "Il faudrait donc éviter de perturber les équilibres naturels qui ont mis des millions d’années à se stabiliser."
+      ]
+    },
+    {
+      "sentences": [
+        "Les activités humaines augmentent donc la quantité de gaz à effet de serre et accentuent un phénomène naturel devenu préoccupant, ce qui explique notamment la fonte des glaces aux pôles.",
+        "Pour limiter le réchauffement, il faudrait réduire rapidement les émissions, préserver les océans et protéger la vie terrestre, même si certains pays se sont déjà engagés dans cette direction."
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "phénomène"
+    },
+    {
+      "term": "atmosphère"
+    },
+    {
+      "term": "analogie"
+    },
+    {
+      "term": "infrarouges"
+    },
+    {
+      "term": "concentration"
+    },
+    {
+      "term": "permafrost"
+    },
+    {
+      "term": "cercle vicieux"
+    },
+    {
+      "term": "se stabiliser"
+    },
+    {
+      "term": "préoccupant"
+    },
+    {
+      "term": "émissions"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon le texte, quelle serait la température moyenne de la Terre sans l’effet de serre naturel ?",
+      "options": [
+        "Elle serait d’environ 15 °C.",
+        "Elle serait proche de 0 °C.",
+        "Elle serait d’environ −18 °C.",
+        "Elle serait supérieure à 20 °C."
+      ],
+      "answerIndex": 2,
+      "evidence": "Sans lui, la température moyenne serait d’environ −18 °C, alors qu’elle atteint aujourd’hui près de 15 °C.",
+      "explanation": "Le texte oppose la température sans effet de serre, environ −18 °C, à la température actuelle, près de 15 °C. Les autres valeurs correspondent à la situation actuelle ou ne sont pas mentionnées."
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi le texte évoque-t-il le verre d’une serre de jardin ?",
+      "options": [
+        "Pour décrire précisément le mécanisme physique de l’atmosphère.",
+        "Pour expliquer l’origine du nom « effet de serre » par analogie.",
+        "Pour prouver que les gaz à effet de serre sont exactement comme du verre.",
+        "Pour montrer que les serres de jardin produisent de l’effet de serre."
+      ],
+      "answerIndex": 1,
+      "evidence": "Le nom « effet de serre » vient de l’analogie avec une serre de jardin, dont le verre laisse entrer la lumière du Soleil mais ralentit la sortie de la chaleur.",
+      "explanation": "L’analogie avec le verre sert à expliquer le nom, même si le texte précise ensuite que le mécanisme physique dans l’atmosphère est différent. Les options qui assimilent totalement gaz et verre ou qui attribuent l’effet aux serres de jardin sont donc fausses."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel gaz le texte présente-t-il comme le principal responsable de l’effet de serre naturel ?",
+      "options": [
+        "Le dioxyde de carbone.",
+        "Le méthane.",
+        "La vapeur d’eau.",
+        "Les rayons infrarouges."
+      ],
+      "answerIndex": 2,
+      "evidence": "La vapeur d’eau est le principal gaz responsable de l’effet de serre naturel, car elle est très abondante dans l’atmosphère et retient une grande partie de la chaleur.",
+      "explanation": "Le passage distingue la vapeur d’eau, abondante et principale, du dioxyde de carbone et du méthane. Les infrarouges sont des rayons, pas un gaz responsable."
+    },
+    {
+      "id": "q4",
+      "prompt": "Que dit le texte du dioxyde de carbone par rapport à la vapeur d’eau ?",
+      "options": [
+        "Il retient plus de chaleur que la vapeur d’eau.",
+        "Il occupe la deuxième place parmi les gaz à effet de serre.",
+        "Il est produit uniquement par l’élevage.",
+        "Sa concentration a baissé depuis 2023."
+      ],
+      "answerIndex": 1,
+      "evidence": "Le dioxyde de carbone, moins présent, occupe cependant la deuxième place, et sa concentration a atteint 420 ppm en 2023, un niveau inédit depuis environ 14 millions d’années selon les recherches internationales.",
+      "explanation": "Le texte reconnaît que le dioxyde de carbone est moins présent que la vapeur d’eau, mais il précise qu’il vient en deuxième position. Il ne dit pas qu’il retient plus de chaleur que la vapeur d’eau, ni que sa concentration a baissé."
+    },
+    {
+      "id": "q5",
+      "prompt": "Pourquoi le dégel du permafrost est-il préoccupant selon le texte ?",
+      "options": [
+        "Il pourrait libérer du méthane et renforcer le réchauffement.",
+        "Il pourrait faire diminuer la quantité de vapeur d’eau.",
+        "Il pourrait stabiliser les équilibres naturels.",
+        "Il pourrait réduire les émissions de dioxyde de carbone."
+      ],
+      "answerIndex": 0,
+      "evidence": "Le dégel du permafrost et des fonds océaniques pourrait libérer d’importantes quantités de ce gaz, ce qui renforcerait encore le réchauffement et créerait un cercle vicieux difficile à interrompre.",
+      "explanation": "Le dégel est présenté comme une source possible de méthane qui augmenterait le réchauffement, créant un cercle vicieux. Les autres options contredisent cette conséquence ou attribuent au dégel des effets non mentionnés."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelle idée principale l’article défend-il ?",
+      "options": [
+        "L’effet de serre est uniquement causé par les activités humaines.",
+        "L’effet de serre naturel est dangereux et devrait être supprimé.",
+        "Les gaz à effet de serre ont tous le même pouvoir réchauffant.",
+        "L’effet de serre est naturel, mais les activités humaines l’accentuent et le rendent préoccupant."
+      ],
+      "answerIndex": 3,
+      "evidence": "Les activités humaines augmentent donc la quantité de gaz à effet de serre et accentuent un phénomène naturel devenu préoccupant, ce qui explique notamment la fonte des glaces aux pôles.",
+      "explanation": "L’article commence par le caractère naturel de l’effet de serre, puis montre que les activités humaines l’accentuent. Les options qui nient le rôle naturel ou humain, ou qui généralisent à tous les gaz, ne sont pas soutenues."
+    }
+  ],
+  "translations": {
+    "zh": {
+      "title": "温室效应：一种被人类活动加剧的自然现象",
+      "summary": "自然温室效应使地球维持宜居温度，但人类活动相关的温室气体增加加剧了气候变暖。",
+      "paragraphs": [
+        {
+          "sentences": [
+            "温室效应是一种自然现象，它使地球能够在大气中留住一部分太阳热量。",
+            "如果没有它，平均温度将约为−18 °C，而如今已达到近15 °C。",
+            "人们也用这一说法指当前这种效应的增强，而它正是气候变暖的原因。"
+          ]
+        },
+        {
+          "sentences": [
+            "“温室效应”这一名称来自与花园温室的类比：温室的玻璃让阳光进入，却减缓热量散出。",
+            "在大气中，温室气体起着类似的作用，尽管物理机制不同：它们吸收地表发出的部分红外线。"
+          ]
+        },
+        {
+          "sentences": [
+            "水蒸气是造成自然温室效应的主要气体，因为它在大气中非常丰富，并能留住大量热量。",
+            "二氧化碳含量较少，却仍占第二位，其浓度在2023年达到420 ppm，根据国际研究，这是约1400万年来前所未有的水平。"
+          ]
+        },
+        {
+          "sentences": [
+            "甲烷尤其由农业和畜牧业产生，其变暖能力约为二氧化碳的二十倍。",
+            "永久冻土和海底的融化可能释放大量这种气体，这将进一步加剧变暖，并形成难以中断的恶性循环。",
+            "因此，应避免扰乱那些经过数百万年才稳定下来的自然平衡。"
+          ]
+        },
+        {
+          "sentences": [
+            "因此，人类活动增加了温室气体的数量，并加剧了一个已变得令人担忧的自然现象，这尤其解释了极地冰川融化。",
+            "为限制变暖，应迅速减少排放、保护海洋并保护陆地生命，尽管一些国家已经朝这个方向作出承诺。"
+          ]
+        }
+      ],
+      "glossary": {
+        "phénomène": "现象，指可观察到的自然或社会事实、事件。",
+        "atmosphère": "大气层，指包围地球的气体层。",
+        "analogie": "类比，指借助两个事物的相似之处来说明其中一个。",
+        "infrarouges": "红外线，一种位于可见光之外、能传递热量的辐射。",
+        "concentration": "浓度，指某种物质在空气、水等混合物中的含量比例。",
+        "permafrost": "永久冻土，指长期冻结的土壤或岩层。",
+        "cercle vicieux": "恶性循环，指某个后果反过来加强原因、使问题难以摆脱的循环。",
+        "se stabiliser": "趋于稳定，指达到变化较少、较平衡的状态。",
+        "préoccupant": "令人担忧的，指引起忧虑或不安的。",
+        "émissions": "排放，指气体或物质被释放到环境中的过程或数量。"
+      },
+      "questions": {
+        "q1": "文本用“没有它”引出假设，明确说平均温度约为−18 °C，而今天接近15 °C；因此第三项“大约−18 °C”正确。第一项“大约15 °C”是当前温度，不是没有温室效应时的温度；第二项“接近0 °C”和第四项“会高于20 °C”文中未提。",
+        "q2": "证据说名称来自与花园温室的类比，玻璃让阳光进入但减缓热量散出；所以提到玻璃是为了解释名称来源，即第二项“为了通过类比解释‘温室效应’这一名称的来源”。文本随后还指出大气中的物理机制不同，因此第一项“精确描述大气的物理机制”不对；第三项“完全像玻璃一样”与机制不同矛盾；第四项把花园温室说成产生该效应，文中没有这样说。",
+        "q3": "证据直接说水蒸气是自然温室效应的主要气体，因为大气中很丰富并留住大量热量；所以第三项“水蒸气”正确。二氧化碳和甲烷虽被提到，但不是“主要”责任者；红外线是辐射，不是气体。",
+        "q4": "证据说二氧化碳虽然较少，却占第二位，并且2023年浓度达420 ppm；因此第二项“它在温室气体中占第二位”正确。文本没有说它比水蒸气留热更多；“尤其由农业和畜牧业产生”说的是甲烷，不是“只由畜牧业产生”；浓度是达到420 ppm，并非下降。",
+        "q5": "证据中的“这种气体”指前文甲烷，说永久冻土和海底融化可能释放大量甲烷，进一步加剧变暖并形成恶性循环；所以第一项“它可能释放甲烷并加强变暖”正确。第二项减少水蒸气、第三项使自然平衡稳定、第四项减少二氧化碳排放，都与证据中的后果不符或文中未提。",
+        "q6": "证据总结人类活动增加温室气体并加剧一个已变得令人担忧的自然现象；前文也说明温室效应原本是自然现象，因此第四项“温室效应是自然的，但人类活动加剧了它并使其令人担忧”正确。第一项“完全由人类活动造成”否认自然部分；第二项“应该被消除”与自然效应维持宜居温度相悖；第三项“所有温室气体都有相同的变暖能力”与甲烷约为二氧化碳二十倍的说明矛盾。"
+      },
+      "questionTexts": {
+        "q1": {
+          "prompt": "根据文本，如果没有自然温室效应，地球平均温度会是多少？",
+          "options": [
+            "大约会是15 °C。",
+            "接近0 °C。",
+            "大约会是−18 °C。",
+            "会高于20 °C。"
+          ]
+        },
+        "q2": {
+          "prompt": "文本为什么提到花园温室的玻璃？",
+          "options": [
+            "为了精确描述大气的物理机制。",
+            "为了通过类比解释“温室效应”这一名称的来源。",
+            "为了证明温室气体完全像玻璃一样。",
+            "为了表明花园温室会产生温室效应。"
+          ]
+        },
+        "q3": {
+          "prompt": "文本把哪种气体说成自然温室效应的主要责任者？",
+          "options": [
+            "二氧化碳。",
+            "甲烷。",
+            "水蒸气。",
+            "红外线。"
+          ]
+        },
+        "q4": {
+          "prompt": "关于二氧化碳与水蒸气相比，文本说了什么？",
+          "options": [
+            "它比水蒸气留住更多热量。",
+            "它在温室气体中占第二位。",
+            "它只由畜牧业产生。",
+            "它的浓度自2023年以来下降了。"
+          ]
+        },
+        "q5": {
+          "prompt": "根据文本，为什么永久冻土融化令人担忧？",
+          "options": [
+            "它可能释放甲烷并加强变暖。",
+            "它可能使水蒸气数量减少。",
+            "它可能使自然平衡稳定。",
+            "它可能减少二氧化碳排放。"
+          ]
+        },
+        "q6": {
+          "prompt": "文章主张的主要观点是什么？",
+          "options": [
+            "温室效应完全由人类活动造成。",
+            "自然温室效应危险，应该被消除。",
+            "所有温室气体都有相同的变暖能力。",
+            "温室效应是自然的，但人类活动加剧了它并使其令人担忧。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "site": "Vikidia",
+    "title": "Effet de serre",
+    "authors": [
+      "Contributeurs de Vikidia"
+    ],
+    "url": "https://fr.vikidia.org/w/index.php?oldid=2564644&title=Effet%20de%20serre",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "retrievedAt": "2026-11-27",
+    "revisionId": "2564644"
+  },
+  "adaptation": {
+    "model": "deepseek-v4.1-flash",
+    "date": "2026-11-27",
+    "changes": "Simplifié au niveau B2 ; phrases structurées ; vocabulaire varié.",
+    "reviewer": "glm-5.3-flash"
+  },
+  "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}
